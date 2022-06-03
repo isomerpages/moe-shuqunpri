@@ -13,5 +13,8 @@ links:
         url: /school-history/
       - title: School Achievements
         url: /school-achievements/
+  - title: Our Staff
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
