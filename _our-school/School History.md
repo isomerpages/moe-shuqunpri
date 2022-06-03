@@ -16,6 +16,8 @@ description: ""
 <img src="/images/SQ-sch-logo-300x278.jpg" />
 </div>
 <div>
-Text content goes here
+<p>The&nbsp;Crest&nbsp;highlights the letters SQ which are the initials for Shuqun Primary School.</p>
+<p>They also stand for our school motto.</p>
+<p>The Circle surrounding the letters depicts Unity and Harmony among our Multi-Racial pupils.</p>
 </div>
 </div>
