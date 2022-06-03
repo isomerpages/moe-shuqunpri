@@ -21,4 +21,4 @@ third_nav_title: Distinctive Programmes
      style="width:50%">
 <p style="text-align: center;"><strong>OE Key Programmes</strong></p>
 <img src="/images/LLP1-300x211.jpg" 
-     style="width:50%">
+     style="width:70%">
