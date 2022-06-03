@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Alumni.md
       - Overseas Partner Schools and Programmes.md
       - Community.md
