@@ -3,8 +3,6 @@ title: Students
 permalink: /useful-links/students
 description: ""
 ---
-
-
 <p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/10/WE-STories-Publication-2021-FINAL_spread-1.pdf" target="_blank" rel="noopener noreferrer">We STories</a></p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener noreferrer">My Skills Future</a></p>
 <p><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener noreferrer">School e-Resource Repository</a></p>
