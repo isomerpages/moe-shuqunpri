@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /parents-gateway
 description: ""
 ---
-<h2>Parents Gateway</h2>
+<h2><strong>Parents Gateway</strong></h2>
 <div>
 <p>Dear Parents,</p>
 <p>Parents Gateway is a new digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools&rsquo; programmes and activities. This enables parents to better support their child in their education journey through closer interactions and communications with schools.&nbsp;Parents will also be able to use this mobile application to stay updated on school&rsquo;s programme and activities.</p>
