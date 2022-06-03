@@ -2,12 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - CCA/Clubs & Societies.md
-      - CCA/Performing Arts.md
-      - CCA/Uniformed Groups.md
-      - CCA/Sports.md
-      - CCA/CCAs.md
-      - CCA/.keep
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -25,3 +19,9 @@ collections:
       - Distinctive Programmes/Student Wellness Programme.md
       - Distinctive Programmes/Environmental Education Programme.md
       - Sexuality Education.md
+      - CCA/.keep
+      - CCA/Clubs & Societies.md
+      - CCA/Performing Arts.md
+      - CCA/Uniformed Groups.md
+      - CCA/Sports.md
+      - CCA/CCAs.md
