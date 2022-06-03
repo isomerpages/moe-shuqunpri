@@ -28,6 +28,17 @@ links:
         url: /upper-primary-2/
       - title: Executive & Admin Staff
         url: /executive-administrative-staff/
+  - title: Our Programmes
+    url: /our-school/departments/english/
+    sublinks:
+      - title: Departments
+        url: /our-school/departments/english/
+      - title: Distinctive Programmes
+        url: /reading-programme/
+      - title: Sexuality Education
+        url: /our-school/departments/cce/sexuality-education/
+      - title: CCA
+        url: our-students/cca/
   - title: MK@SQ
     url: /about-mk/
     sublinks:
