@@ -1,6 +1,17 @@
 logo: /images/logo.jpg
 links:
   - title: Our School
-    url: /example-page/
+    url: /principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /principals-message/
+      - title: Vision, Mission, Values
+        url: /vision-mission-values/
+      - title: School Information
+        url: /school-information/
+      - title: School History
+        url: /school-history/
+      - title: School Achievements
+        url: /school-achievements/
   - title: Contact Us
     url: /contact-us/
