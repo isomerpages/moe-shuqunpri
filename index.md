@@ -17,5 +17,5 @@ sections:
           url: https://gmail.com
         - title: Useful Links
           description: ""
-          url: /privacy/
+          url: /useful-links/students
 ---
