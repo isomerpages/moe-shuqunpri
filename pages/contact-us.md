@@ -16,5 +16,10 @@ contacts:
       - phone: +65 6536 7129
       - email: sqps@moe.edu.sg
       - other: ""
-    title: "Tel No:"
+    title: "Tel No.:"
+  - content:
+      - phone: +65 6563 7418
+      - email: ""
+      - other: ""
+    title: "Fax No.:"
 ---
