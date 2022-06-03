@@ -71,3 +71,12 @@ third_nav_title: Departments
 <p>M.A.D Day is a carnival-like day planned for Shuqunites to immerse themselves in a blend of various arts forms. Interesting theme is set every year to excite the students in this fun-filled day. Teachers, parents support group and alumni members work together to contribute ideas and efforts to bring arts expression and appreciation to a greater level for the students.</p>
 <p><strong>2. P6 Stardust Competition and St@R Time (Shuqun Talent @ Recess)</strong></p>
 <p>There are many opportunities for students to showcase their musical talents in Shuqun. Platforms such as S.T.A.R Time (Shuqun Talent @ Recess) and P6 Talent Competition aka Stardust are among the favourites.</p>
+
+![](/images/Music-Art-and-Dance-Day.jpg)
+<p><em><strong>Music, Art And Dance Day</strong></em></p>
+
+![](/images/P6-Post-PSLE-Guitar-Enrichment.jpg)
+<p><em><strong>P6 Post Psle Guitar Enrichment</strong></em></p>
+
+![](/images/2018-Arts-Festival-on-MAKE.jpg)
+<p><em><strong>2018 Arts Festival On &lsquo;make&rsquo;</strong></em></p>
