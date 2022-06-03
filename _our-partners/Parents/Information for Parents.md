@@ -46,3 +46,4 @@ third_nav_title: Parents
 [<img src="/images/HBL-1.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-1.pdf)
 [<img src="/images/HBL-2.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf)
 [<img src="/images/HBL-3.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf)
+[<img src="/images/HBL-4.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/05/Resource-Kit-School-Holiday-Edition-1.pdf)
