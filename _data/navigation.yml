@@ -39,13 +39,6 @@ links:
         url: /our-school/departments/cce/sexuality-education/
       - title: CCA
         url: our-students/cca/
-  - title: MK@SQ
-    url: /about-mk/
-    sublinks:
-      - title: About MK
-        url: /about-mk/
-  - title: Contact Us
-    url: /contact-us/
   - title: Resources
     url: /forms/
     sublinks:
@@ -55,3 +48,10 @@ links:
         url: /presentation-slides/
       - title: Useful Links
         url: /useful-links/students
+  - title: MK@SQ
+    url: /about-mk/
+    sublinks:
+      - title: About MK
+        url: /about-mk/
+  - title: Contact Us
+    url: /contact-us/
