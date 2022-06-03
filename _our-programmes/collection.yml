@@ -2,14 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Sexuality Education.md
-      - Distinctive Programmes/Reading Culture Programme.md
-      - Distinctive Programmes/Sports & Aesthetic Talent Development Programme.md
-      - Distinctive Programmes/Student Ambassador Programme (SAP).md
-      - Distinctive Programmes/LLP In Outdoor Education.md
-      - Distinctive Programmes/Student Wellness Programme.md
-      - Distinctive Programmes/Environmental Education Programme.md
-      - Distinctive Programmes/.keep
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -19,3 +11,11 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Student Management.md
       - Departments/Character and Citizenship Education.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Reading Culture Programme.md
+      - Distinctive Programmes/Sports & Aesthetic Talent Development Programme.md
+      - Distinctive Programmes/Student Ambassador Programme (SAP).md
+      - Distinctive Programmes/LLP In Outdoor Education.md
+      - Distinctive Programmes/Student Wellness Programme.md
+      - Distinctive Programmes/Environmental Education Programme.md
+      - Sexuality Education.md
