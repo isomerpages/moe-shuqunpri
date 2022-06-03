@@ -28,10 +28,10 @@ links:
         url: /upper-primary-2/
       - title: Executive & Admin Staff
         url: /executive-administrative-staff/
-  - title: Contact Us
-    url: /contact-us/
   - title: MK@SQ
     url: /about-mk/
     sublinks:
       - title: About MK
         url: /about-mk/
+  - title: Contact Us
+    url: /contact-us/
