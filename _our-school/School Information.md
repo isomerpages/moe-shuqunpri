@@ -122,3 +122,73 @@ description: ""
 <li>Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</li>
 </ul>
 
+![](/images/uniform.jpg)
+
+<li>Name tags must be sewn on all school shirts, blouses and PE T-shirt.</li>
+
+![](/images/name-tag.jpg)
+
+<ul>
+<li>School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</li>
+<li>PE T-shirt : one finger above the school crest.</li>
+<li>All&nbsp;upper primary students must wear the school tie every Wednesday.</li>
+</ul>
+<p><strong>Footwear</strong></p>
+<ul>
+<li>Only plain white school shoes and&nbsp;white socks are allowed.</li>
+<li>Socks must fully cover the ankles and retain their elasticity.</li>
+<li>School shoes and socks should be kept white and clean at all times.</li>
+<li>Shoes/Socks with stark / colourful logos are not allowed.</li>
+	
+<img src="/images/shoe.jpg" 
+     style="width:75%">
+<p><strong>Accessories</strong></p>
+<ul>
+<li>No bracelets, bangles, nose studs,&nbsp;necklaces or other accessories are permitted.</li>
+</ul>
+<p>Girls</p>
+<ul>
+<li>Only plain black hair clips and hair bands are allowed.</li>
+<li>Fanciful hair clips and hair bands are not to be used.</li>
+<li>Only plain gold or silver ear-studs are allowed.</li>
+</ul>
+<p><strong>Boys&rsquo; Hair</strong></p>
+<ul>
+<li>Hair length must be kept short above&nbsp;the shirt collar and ears at all times.</li>
+<li>Styling of hair with extensive gel or similar products is not allowed.</li>
+<li>Fringes must be kept above eyebrows.</li>
+<li>Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</li>
+</ul>
+
+![](/images/boy-hair.jpg)
+	
+<p><strong>Girls&rsquo; Hair</strong></p>
+<ul>
+<li>Fringes must&nbsp;be kept above eyebrows or&nbsp;pinned up neatly with black pins or clips..</li>
+<li>Hair length touching the end of the blouse collar must be tied up neatly pony in a ponytail(s).</li>
+<li>Ponytail(s) exceeding shoulders must be plaited.</li>
+<li>Only black hair accessories are allowed.</li>
+<li>Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</li>
+</ul>
+
+![](/images/girl-hair.jpg)
+<h3><span style="text-decoration: underline;">Expected Shuqunite Behaviour</span></h3>
+<p><strong>Attendance</strong></p>
+<ul>
+<li>Students must be punctual for all school activities</li>
+<li>Students are not allowed to leave the school during school hours, without permission from the teachers, vice-principals or principal.</li>
+<li>Students who are taken home during school hours must be signed out at the General Office by their parent/guardian.</li>
+<li>If a student is absent from school, a medical certificate must be presented to the Form Teacher. Students who are absent for any major examination must be produce a medical certificate to cover the period of absence.</li>
+<li>Students are not allowed to take any leave of absence during term time to travel abroad for holiday.</li>
+</ul>
+<p><strong>Safety and Security</strong></p>
+<ul>
+<li>Students are not allowed to remain in the classroom during assembly and recess&nbsp;unless they are supervised by the teacher.</li>
+<li>Mobile phones are not allowed to be brought in or used in school.</li>
+<li>Students&nbsp;may play in the designated areas (school field, ISH ground level,&nbsp;and playground) during their recess and after school breaks.</li>
+<li>Seek shelter immediately and remain indoors when lightning warning blinker&nbsp;lights are switched on.</li>
+<li>Students with asthmatic conditions should have their prescribed reliever&nbsp;medicine with them at all times.</li>
+<li>For PE and CCAs that involve strenuous or outdoor activities, students should&nbsp;take part only if they are well. Highlight any medical condition to the teacher-in-charge or instructor.&nbsp;</li>
+<li>During hazy conditions, when the air quality is in the unhealthy range (i.e.&nbsp;24-hour PSI at 101-200, or 1-hour PM2.5 at 56-150), students with pre-existing&nbsp;lung or heart conditions or who are unwell should inform the instructor or&nbsp;teacher-in-charge of the PE/CCA/outdoor activity, and will be exempted.</li>
+<li>When students hear the fire alarm, they are to listen for an announcement. They&nbsp;should follow the instructions of the teacher, and walk briskly to the assembly&nbsp;area at the school field.</li>
+</ul>
