@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - School History.md
       - School Achievements.md
       - Principal's Message.md
