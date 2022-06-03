@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Departments/Character and Citizenship Education.md
       - Departments/English.md
       - Departments/.keep
