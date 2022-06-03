@@ -14,7 +14,19 @@ links:
       - title: School Achievements
         url: /school-achievements/
   - title: Our Staff
-    url: /permalink
-    sublinks: []
+    url: /school-management-team/
+    sublinks:
+      - title: Principal's Message
+        url: /principals-message/
+      - title: School Management Team
+        url: /school-management-team/
+      - title: Lower Primary
+        url: /lower-primary-2/
+      - title: Middle Primary
+        url: /middle-primary-2/
+      - title: Upper Primary
+        url: /upper-primary-2/
+      - title: Executive & Admin Staff
+        url: /executive-administrative-staff/
   - title: Contact Us
     url: /contact-us/
