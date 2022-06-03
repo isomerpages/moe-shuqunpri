@@ -46,3 +46,12 @@ links:
         url: /about-mk/
   - title: Contact Us
     url: /contact-us/
+  - title: Resources
+    url: /forms/
+    sublinks:
+      - title: Forms
+        url: /forms/
+      - title: Presentations Slides & Guides
+        url: /presentation-slides/
+      - title: Useful Links
+        url: /useful-links/students
