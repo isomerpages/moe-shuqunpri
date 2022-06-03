@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Upper Primary.md
       - Executive & Administrative Staff.md
