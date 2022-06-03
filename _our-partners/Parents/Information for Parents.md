@@ -33,3 +33,16 @@ third_nav_title: Parents
 	
 ![](/images/THK-PSP-Digital-Poster.png)
 	
+<p><strong><span style="text-decoration: underline;"><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/03/THK-Family-Services-Division-Managing-Emotional-Health-Book-Digital.pdf" target="_blank" rel="noopener noreferrer">THK Family Services Division &ndash; Managing Emotional Health Book (Digital)</a></span></strong></p>
+<p>B. National Care Hotline &ndash; for those facing anxiety and stress (24 hours)</p>
+<p>&nbsp; &nbsp;Contact No: 1800 6202 6868</p>
+<p>C. Tinkle Friend Helpline (Singapore Children&rsquo;s Society)</p>
+<p>&nbsp; &nbsp; Contact No: 1800 274 4788</p>
+<div>
+<h4><span style="text-decoration: underline;"><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/01/Guidelines-for-School-Home-Partnership.pdf" target="_blank" rel="noopener noreferrer">4. Guidelines for School Home Partnership</a></strong></span></h4>
+</div>
+<h4><span style="text-decoration: underline;"><strong>5. Resource Kit &ndash; HBL</strong></span></h4>
+
+[<img src="/images/HBL-1.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-1.pdf)
+[<img src="/images/HBL-2.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf)
+[<img src="/images/HBL-3.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf)
