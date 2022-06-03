@@ -74,3 +74,16 @@ description: ""
 <td>Librarian</td>
 <td>Mdm Saraswathy Lachmanan</td>
 <td>saraswathy.lachmanan@staff.spydus.com.sg</td>
+</tr>
+<tr>
+<td>Teacher Aide</td>
+<td>Mdm Aida Binte Wan Muhammad</td>
+<td>Aida_Wan_Muhammad@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Teacher Aide</td>
+<td>Mdm Safiah Binte Hashim</td>
+<td>safiah_hashim@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
