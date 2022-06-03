@@ -113,7 +113,7 @@ description: ""
 <li>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
 <li>Students are not allowed to bring or use mobile phones in school.</li>
 </ul>
-<h2>Expected Shuqunite Appearance</h2>
+<h3><span style="text-decoration: underline;">Expected Shuqunite Appearance</span></h3>
 <p><strong>Uniform</strong></p>
 <ul>
 <li>The uniform must be well-ironed, clean and free from stains and unpleasant odour.</li>
