@@ -15,10 +15,10 @@ third_nav_title: Distinctive Programmes
 
 
 <img src="/images/LLP3-300x224.jpg" 
-     style="width:50%">
+     style="width:70%">
 <p style="text-align: center;"><strong>Shuqunite&rsquo;s OE Journey</strong></p>
 <img src="/images/LLP2-300x240.jpg" 
-     style="width:50%">
+     style="width:70%">
 <p style="text-align: center;"><strong>OE Key Programmes</strong></p>
 <img src="/images/LLP1-300x211.jpg" 
      style="width:70%">
