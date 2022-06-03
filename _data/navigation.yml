@@ -13,6 +13,19 @@ links:
         url: /school-history/
       - title: School Achievements
         url: /school-achievements/
+  - title: Our Partners
+    url: /parents/
+    sublinks:
+      - title: Parent Support Group
+        url: /parents/
+      - title: School Advisory Committee
+        url: /school-advisory-committee/
+      - title: Alumni
+        url: /alumni/
+      - title: Overseas Partner Schools
+        url: /overseas-partner-school/
+      - title: Community
+        url: /community/
   - title: Our Staff
     url: /school-management-team/
     sublinks:
