@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Presentation Slides & Guides.md
       - Useful Links.md
       - Forms.md
