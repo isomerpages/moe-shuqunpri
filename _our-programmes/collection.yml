@@ -2,6 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
+      - Departments/.keep
+      - Departments/English.md
       - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Mother Tongue.md
@@ -9,5 +11,3 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Student Management.md
       - Departments/Character and Citizenship Education.md
-      - Departments/English.md
-      - Departments/.keep
