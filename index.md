@@ -13,7 +13,7 @@ sections:
           description: 2022 WE-STories Publication
           url: https://online.fliphtml5.com/obrr/qkde/#p=4
         - title: Calendar of Events
-          description: ""
+          description: No events
           url: https://gmail.com
         - title: Useful Links
           description: ""
