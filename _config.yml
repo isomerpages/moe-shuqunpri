@@ -3,12 +3,12 @@ url: ""
 favicon: /images/logo.jpg
 colors:
   primary-color: "#a11104"
-  secondary-color: "#836357"
+  secondary-color: "#776260"
   media-colors:
     - title: media-color-one
-      color: "#2281d1"
+      color: "#1812d8"
     - title: media-color-two
-      color: "#2281d1"
+      color: "#1812d8"
     - title: media-color-three
       color: "#ffffff"
     - title: media-color-four
