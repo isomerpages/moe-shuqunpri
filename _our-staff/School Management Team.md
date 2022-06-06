@@ -3,8 +3,7 @@ title: School Management Team
 permalink: /school-management-team/
 description: ""
 ---
-
-<p class="has-text-align-left"><strong>School Leaders</strong></p>
+<h4 class="has-text-align-left"><strong>School Leaders</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table class="alignleft" border="1" width="96.8938%">
@@ -28,7 +27,7 @@ description: ""
 </table>
 </div>
 </figure>
-<p class="has-text-align-left"><strong>Management Team</strong></p>
+<h4 class="has-text-align-left"><strong>Management Team</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table class="alignleft" border="1" width="690">
