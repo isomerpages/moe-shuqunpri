@@ -4,9 +4,9 @@ permalink: /our-school/departments/cce/
 description: ""
 third_nav_title: Departments
 ---
-<h3><span style="text-decoration: underline;">Mission</span></h3>
+<h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
 <p>To nurture every Shuqunite into a confident leader, with sound character who contributes<br />actively to the community.</p>
-<h3><span style="text-decoration: underline;">Key Programmes</span></h3>
+<h3><strong><span style="text-decoration: underline;">Key Programmes</span></strong></h3>
 <p><strong>1) Values Education</strong></p>
 <p>Values Education is anchored on the school&rsquo;s ICARE values and it is the cornerstone of Citizenship and Character Education . It strives to strengthen&nbsp;each&nbsp;Shuqunite&rsquo;s ICARE identity of serving peers, school and community with quality, by engaging students in a myriad of platforms such as storytelling, newspaper articles, skit, video clips, books display and reflective journal writing.</p>
 <p><strong>2) Values-In-Action (VIA)</strong></p>
