@@ -4,7 +4,6 @@ permalink: /our-school/departments/english/
 description: ""
 third_nav_title: Departments
 ---
-
 <h3><span style="text-decoration: underline;"><strong>Mission</strong></span></h3>
 <p>Building a strong foundation and rich language for all</p>
 <p>The English Department aims to develop effective language use through a two-pronged approach of building a strong foundation and providing rich language for all.</p>
@@ -66,7 +65,7 @@ third_nav_title: Departments
 <p>RRP is a programme developed by MOE to help students weak in reading to improve their word recognition, oral reading fluency and reading comprehension. Students attend lessons conducted by Allied Educators (Learning and Behavioural Support) and/or teachers in school after school hours.</p>
 <p><strong>5. High Progress (HP) Enrichment (P3 to P5)</strong></p>
 <p>HP Enrichment is in the form of literature appreciation such as novel study where students engage in extensive reading and understanding of different types of rich texts for pleasure. Students learn to read critically by focusing on implied meaning, higher-order thinking, judgement and evaluation.</p>
-<h3><span style="text-decoration: underline;">Signature Programme</span></h3>
+<h3><strong><span style="text-decoration: underline;">Signature Programme</span></strong></h3>
 <p><strong>&lsquo;Developing a Reading Culture&rsquo; Programme</strong></p>
 <p>The school has embarked on a whole school approach to prepare students to be proficient readers by developing in them a passion to read and also teaching them how to read. Students will be taught to set goals for reading and to select books that cater to their age and interest levels. Programmes and activities have been planned to build a reading culture that develops students into avid readers:</p>
 <p><strong>1. Reading Period</strong></p>
