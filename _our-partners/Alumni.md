@@ -3,10 +3,9 @@ title: Alumni
 permalink: /alumni/
 description: ""
 ---
-
-<h4>1. Shuqun Alumni</h4>
+<h4><strong>1. Shuqun Alumni</strong></h4>
 <p>Refer to the link:&nbsp;<a href="https://sites.google.com/moe.edu.sg/shuqunalumni/home" target="_blank" rel="noopener noreferrer">https://sites.google.com/moe.edu.sg/shuqunalumni/home</a></p>
-<h4>2. Seh-Chuan Shuqun Alumni Association</h4>
+<h4><strong>2. Seh-Chuan Shuqun Alumni Association</strong></h4>
 <div>
 <p>In 2005, our Ex-Principal, Mr Gary Tsu initiated the idea of starting an alumni association. After a year of planning, we finally launched our&nbsp;Seh-Chuan Shuqun Alumni Association during our 83rd Anniversary. This was the first ever- grand occasion held in our school compound after we had shifted into our new premises.</p>
 <p>Following this, we collaborated with Shuqun Secondary School in 2010 to organize another big-scale event to celebrate the school&rsquo;s 85th&nbsp;Anniversary at Orchid Country Club. It turned up to be a joyous and memorable function which was well attended by many former students and staff of the school.</p>
