@@ -16,6 +16,6 @@ sections:
           description: No events
           url: https://gmail.com
         - title: Useful Links
-          description: ""
+          description: For students, teachers and parents
           url: /useful-links/students
 ---
