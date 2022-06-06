@@ -3,7 +3,6 @@ title: School Achievements
 permalink: /school-achievements/
 description: ""
 ---
-
 <img src="/images/IMG_5075-300x200.jpg" 
      style="width: 50%">
 <p style="text-align: center;"><strong><em>Congratulations to our Shuqunites who have done well!</em></strong>;</p>
