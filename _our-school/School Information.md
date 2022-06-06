@@ -3,12 +3,9 @@ title: School Information
 permalink: /school-information/
 description: ""
 ---
-
 <h3><strong><span style="text-decoration: underline;">Shuqun Primary School Song</span></strong></h3>
 <div>
-<div style="float: right">
-<img src="/images/img_school_song.jpg" />
-</div>
+<div style="float: right;"><img src="/images/img_school_song.jpg" /></div>
 <div>
 <p>Let us strive for perfection<br />Let us do our best<br />As we honour our nation and honour our crest<br />Let us march forward boldly into the years to come<br />and may we forever be seen as one</p>
 <p><em>Chorus</em>:<br />Shuqun Shuqun by you we have been taught<br />to strive for excellence in studies, arts and sports<br />Lifting our banner high<br />Stand straight and tall and be quick to respond<br />when duty calls</p>
@@ -16,32 +13,31 @@ description: ""
 <p><em>Chorus</em>:<br />Shuqun Shuqun by you we have been taught<br />To strive for excellence in studies, arts and sports<br />Lifting our banner high<br />Stand straight and tall and be quick to respond<br />when duty calls</p>
 </div>
 </div>
-
-<h3><span style="text-decoration: underline;">School Hours</span></h3>
+<h3><strong><span style="text-decoration: underline;">School Hours</span></strong></h3>
 <div>
-<table border="1">
+<table style="height: 144px;" border="1">
 <tbody>
-<tr>
-<td style="width: 75.9943px;"><strong>Levels</strong></td>
-<td style="width: 282.713px;"><strong>School Hours</strong></td>
-<td style="width: 123.281px;"><strong>Reporting Time</strong></td>
-<td style="width: 137.756px;"><strong>Reporting Venue</strong></td>
+<tr style="height: 18px;">
+<td style="width: 75.9801px; height: 18px;"><strong>Levels</strong></td>
+<td style="width: 282.699px; height: 18px;"><strong>School Hours</strong></td>
+<td style="width: 123.267px; height: 18px;"><strong>Reporting Time</strong></td>
+<td style="width: 137.756px; height: 18px;"><strong>Reporting Venue</strong></td>
 </tr>
-<tr>
-<td style="width: 75.9943px;">P1 &ndash; P2</td>
-<td style="width: 282.713px;">7.30 a.m. &ndash; 1 p.m. (Wed &amp; Thu)<br />7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Fri)</td>
-<td style="width: 123.281px;" rowspan="3">by 7.25 a.m.</td>
-<td style="width: 137.756px;">P1 : ConcourseP2 : Canteen</td>
+<tr style="height: 36px;">
+<td style="width: 75.9801px; height: 36px;">P1 &ndash; P2</td>
+<td style="width: 282.699px; height: 36px;">7.30 a.m. &ndash; 1 p.m. (Wed &amp; Thu)<br />7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Fri)</td>
+<td style="width: 123.267px; height: 126px;" rowspan="3">by 7.25 a.m.</td>
+<td style="width: 137.756px; height: 36px;">P1 : ConcourseP2 : Canteen</td>
 </tr>
-<tr>
-<td style="width: 75.9943px;">P3 &ndash; P4</td>
-<td style="width: 282.713px;">7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Wed/Thu)<br />7.30 a.m. &ndash; 1 p.m. (Fri)</td>
-<td style="width: 137.756px;">P3 : Parade SquareP4 : Hall</td>
+<tr style="height: 54px;">
+<td style="width: 75.9801px; height: 54px;">P3 &ndash; P4</td>
+<td style="width: 282.699px; height: 54px;">7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Wed/Thu)<br />7.30 a.m. &ndash; 1 p.m. (Fri)</td>
+<td style="width: 137.756px; height: 54px;">P3 : Parade SquareP4 : Hall</td>
 </tr>
-<tr>
-<td style="width: 75.9943px;">P5 &ndash; P6</td>
-<td style="width: 282.713px;">7.30 a.m. &ndash; 1.30 p.m. (Mon &amp; Tue)<br />7.30 a.m. &ndash; 2 p.m. (Wed/Thu/Fri)</td>
-<td style="width: 137.756px;">P5 : HallP6 : Hall</td>
+<tr style="height: 36px;">
+<td style="width: 75.9801px; height: 36px;">P5 &ndash; P6</td>
+<td style="width: 282.699px; height: 36px;">7.30 a.m. &ndash; 1.30 p.m. (Mon &amp; Tue)<br />7.30 a.m. &ndash; 2 p.m. (Wed/Thu/Fri)</td>
+<td style="width: 137.756px; height: 36px;">P5 : HallP6 : Hall</td>
 </tr>
 </tbody>
 </table>
@@ -51,7 +47,7 @@ description: ""
 <p>Primary 1 &amp; 3 &ndash; Gate 1</p>
 <p>Primary 2 &amp; 4 &ndash; Gate 2</p>
 <p>Primary 5 &amp; 6 &ndash; Gate 3</p>
-<h3><span style="text-decoration: underline;">Recess Timings</span></h3>
+<h3><strong><span style="text-decoration: underline;">Recess Timings</span></strong></h3>
 <div>
 <table border="1">
 <tbody>
@@ -76,7 +72,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<h3><span style="text-decoration: underline;">Lunch Timings</span></h3>
+<h3><strong><span style="text-decoration: underline;">Lunch Timings</span></strong></h3>
 <div>
 <table border="1">
 <tbody>
@@ -95,7 +91,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<h3><span style="text-decoration: underline;">School Rules</span></h3>
+<h3><strong><span style="text-decoration: underline;">School Rules</span></strong></h3>
 <ul>
 <li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</li>
 <li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
@@ -114,7 +110,7 @@ description: ""
 <li>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
 <li>Students are not allowed to bring or use mobile phones in school.</li>
 </ul>
-<h3><span style="text-decoration: underline;">Expected Shuqunite Appearance</span></h3>
+<h3><strong><span style="text-decoration: underline;">Expected Shuqunite Appearance</span></strong></h3>
 <p><strong>Uniform</strong></p>
 <ul>
 <li>The uniform must be well-ironed, clean and free from stains and unpleasant odour.</li>
@@ -122,13 +118,11 @@ description: ""
 <li>T-shirt should be tucked in at all times.</li>
 <li>Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</li>
 </ul>
-
-![](/images/uniform.jpg)
-
+<p>![](/images/uniform.jpg)</p>
+<ul>
 <li>Name tags must be sewn on all school shirts, blouses and PE T-shirt.</li>
-
-![](/images/name-tag.jpg)
-
+</ul>
+<p>![](/images/name-tag.jpg)</p>
 <ul>
 <li>School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</li>
 <li>PE T-shirt : one finger above the school crest.</li>
@@ -136,34 +130,46 @@ description: ""
 </ul>
 <p><strong>Footwear</strong></p>
 <ul>
+<ul>
 <li>Only plain white school shoes and&nbsp;white socks are allowed.</li>
 <li>Socks must fully cover the ankles and retain their elasticity.</li>
 <li>School shoes and socks should be kept white and clean at all times.</li>
 <li>Shoes/Socks with stark / colourful logos are not allowed.</li>
-	
-<img src="/images/shoe.jpg" 
-     style="width:75%">
+</ul>
+</ul>
+<p><img style="width: 75%;" src="/images/shoe.jpg" /></p>
 <p><strong>Accessories</strong></p>
+<ul>
+<ul>
 <ul>
 <li>No bracelets, bangles, nose studs,&nbsp;necklaces or other accessories are permitted.</li>
 </ul>
+</ul>
+</ul>
 <p>Girls</p>
+<ul>
+<ul>
 <ul>
 <li>Only plain black hair clips and hair bands are allowed.</li>
 <li>Fanciful hair clips and hair bands are not to be used.</li>
 <li>Only plain gold or silver ear-studs are allowed.</li>
 </ul>
+</ul>
+</ul>
 <p><strong>Boys&rsquo; Hair</strong></p>
+<ul>
+<ul>
 <ul>
 <li>Hair length must be kept short above&nbsp;the shirt collar and ears at all times.</li>
 <li>Styling of hair with extensive gel or similar products is not allowed.</li>
 <li>Fringes must be kept above eyebrows.</li>
 <li>Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</li>
 </ul>
-
-![](/images/boy-hair.jpg)
-	
+![](/images/boy-hair.jpg)</ul>
+</ul>
 <p><strong>Girls&rsquo; Hair</strong></p>
+<ul>
+<ul>
 <ul>
 <li>Fringes must&nbsp;be kept above eyebrows or&nbsp;pinned up neatly with black pins or clips..</li>
 <li>Hair length touching the end of the blouse collar must be tied up neatly pony in a ponytail(s).</li>
@@ -171,10 +177,12 @@ description: ""
 <li>Only black hair accessories are allowed.</li>
 <li>Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</li>
 </ul>
-
-![](/images/girl-hair.jpg)
-<h3><span style="text-decoration: underline;">Expected Shuqunite Behaviour</span></h3>
+![](/images/girl-hair.jpg)</ul>
+</ul>
+<h3><strong><span style="text-decoration: underline;">Expected Shuqunite Behaviour</span></strong></h3>
 <p><strong>Attendance</strong></p>
+<ul>
+<ul>
 <ul>
 <li>Students must be punctual for all school activities</li>
 <li>Students are not allowed to leave the school during school hours, without permission from the teachers, vice-principals or principal.</li>
@@ -182,7 +190,10 @@ description: ""
 <li>If a student is absent from school, a medical certificate must be presented to the Form Teacher. Students who are absent for any major examination must be produce a medical certificate to cover the period of absence.</li>
 <li>Students are not allowed to take any leave of absence during term time to travel abroad for holiday.</li>
 </ul>
+</ul>
+</ul>
 <p><strong>Safety and Security</strong></p>
+<ul>
 <ul>
 <li>Students are not allowed to remain in the classroom during assembly and recess&nbsp;unless they are supervised by the teacher.</li>
 <li>Mobile phones are not allowed to be brought in or used in school.</li>
@@ -192,4 +203,5 @@ description: ""
 <li>For PE and CCAs that involve strenuous or outdoor activities, students should&nbsp;take part only if they are well. Highlight any medical condition to the teacher-in-charge or instructor.&nbsp;</li>
 <li>During hazy conditions, when the air quality is in the unhealthy range (i.e.&nbsp;24-hour PSI at 101-200, or 1-hour PM2.5 at 56-150), students with pre-existing&nbsp;lung or heart conditions or who are unwell should inform the instructor or&nbsp;teacher-in-charge of the PE/CCA/outdoor activity, and will be exempted.</li>
 <li>When students hear the fire alarm, they are to listen for an announcement. They&nbsp;should follow the instructions of the teacher, and walk briskly to the assembly&nbsp;area at the school field.</li>
+</ul>
 </ul>
