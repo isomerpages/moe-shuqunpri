@@ -3,8 +3,7 @@ title: Middle Primary
 permalink: /middle-primary-2/
 description: ""
 ---
-
-<p><strong>Primary 3</strong></p>
+<h4><strong>Primary 3</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table border="1">
@@ -88,7 +87,7 @@ description: ""
 </table>
 </div>
 </figure>
-<p><strong>Primary 4</strong></p>
+<h4><strong>Primary 4</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table border="1">
