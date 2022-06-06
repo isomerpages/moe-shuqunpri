@@ -4,17 +4,7 @@ permalink: /our-school/departments/physical-and-health-education/
 description: ""
 third_nav_title: Departments
 ---
-<div class="main-wrapper">
-<div id="main-content" class="inner-wrap banner-normal">
-<article id="content" class="banner-normal">
-<div class="body-content">
 <h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
-<div>
-<div>
-<div align="left">
-<div>
-<div>
-<div>
 <p>We are committed to providing opportunities for our pupils to discover and develop their lifelong interest in physical activities or&nbsp;interest through Physical Education.&nbsp;PHE Department oversees the Physical, Health, Outdoor Education (Learning for Live Programme) and CCA in Shuqun Primary School. The PHE Department aims prepare students to be healthy, active, and able to meet 21st century challenges that they will face over the course of their lifetime.&nbsp;At the end of the 6 years, students will be able to understand and demonstrate all the skills and knowledge of being a physically educated person.&nbsp;</p>
 </div>
 <h3><strong><span style="text-decoration: underline;">Key Programmes</span></strong></h3>
@@ -93,20 +83,3 @@ third_nav_title: Departments
 </ul>
 <p><strong>5. All Children Exercise Simultaneously (ACES) Day</strong></p>
 <p>We have ACES every end of the term to encourage and motivate children and teachers to exercise regularly. ACES takes place all over Singapore to promote proper health and fitness habits as it is part of a national effort.</p>
-<p>&nbsp;</p>
-</div>
-<p>&nbsp;</p>
-</div>
-<p>&nbsp;</p>
-</div>
-<p>&nbsp;</p>
-</div>
-<p>&nbsp;</p>
-</div>
-</div>
-</article>
-</div>
-</div>
-<div class="back-to-top">
-<div class="inner-wrap">&nbsp;</div>
-</div>
