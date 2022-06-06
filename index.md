@@ -10,8 +10,8 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: News & Announcements
-          description: ""
-          url: ""
+          description: 2022 WE-STories Publication
+          url: https://online.fliphtml5.com/obrr/qkde/#p=4
         - title: Calendar of Events
           description: ""
           url: https://gmail.com
