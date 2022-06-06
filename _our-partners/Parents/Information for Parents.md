@@ -43,25 +43,36 @@ third_nav_title: Parents
 </div>
 <h4><span style="text-decoration: underline;"><strong>5. Resource Kit &ndash; HBL</strong></span></h4>
 
-[<img src="/images/HBL-1.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-1.pdf)
-
-[<img src="/images/HBL-2.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf)
-
-[<img src="/images/HBL-3.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf)
-
-[<img src="/images/HBL-4.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/05/Resource-Kit-School-Holiday-Edition-1.pdf)
-
-[<img src="/images/HBL-6-e1596671636482.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/Resource-Kit-HBL-Part-6.pdf)
-
-[<img src="/images/Resource-Kit-Parent-Kit-My-Independent-Learner-e1596671564562.jpg" />](https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/08/Resource-Kit-Parent-Kit-My-Independent-Learner.pdf)
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-1.pdf">
+<img src="/images/HBL-1.jpg">
+</a></p>
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf">
+<img src="/images/HBL-2.jpg">
+</a></p>
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf">
+<img src="/images/HBL-3.jpg">
+</a></p>
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/05/Resource-Kit-School-Holiday-Edition-1.pdf">
+<img src="/images/HBL-4.jpg">
+</a></p>
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/Resource-Kit-HBL-Part-6.pdf">
+<img src="/images/HBL-6-e1596671636482.jpg">
+</a></p>
+<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/08/Resource-Kit-Parent-Kit-My-Independent-Learner.pdf">
+<img src="/images/Resource-Kit-Parent-Kit-My-Independent-Learner-e1596671564562.jpg">
+</a></p>
 
 <h4><span style="text-decoration: underline;"><strong>6. Articles for Parents:
 </strong></span></h4>
 
-[<img src="/images/Learning-to-let-go.jpg" />](https://www.schoolbag.edu.sg/story/learning-to-let-go?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug)
-
-[<img src="/images/Are-you-an-anxious-parent.jpg" />](https://www.schoolbag.edu.sg/story/are-you-projecting-your-stress-on-your-child?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug)
-
-[<img src="/images/5-questions-to-ask-your-kids-over-dinner.jpg" />](https://www.schoolbag.edu.sg/story/5-questions-to-ask-your-kids-over-dinner?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug)
+<p><a href="https://www.schoolbag.edu.sg/story/learning-to-let-go?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug">
+<img src="/images/Learning-to-let-go.jpg">
+</a></p>
+<p><a href="https://www.schoolbag.edu.sg/story/are-you-projecting-your-stress-on-your-child?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug">
+<img src="/images/Are-you-an-anxious-parent.jpg">
+</a></p>
+<p><a href="https://www.schoolbag.edu.sg/story/5-questions-to-ask-your-kids-over-dinner?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug">
+<img src="/images/5-questions-to-ask-your-kids-over-dinner.jpg">
+</a></p>
 
 ![](/images/Snacks-for-Break-Time_HPB1.jpg)
