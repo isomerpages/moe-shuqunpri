@@ -3,8 +3,7 @@ title: Upper Primary
 permalink: /upper-primary-2/
 description: ""
 ---
-
-<p><strong>Primary 5</strong></p>
+<h4><strong>Primary 5</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table border="1">
@@ -98,7 +97,7 @@ description: ""
 </table>
 </div>
 </figure>
-<p><strong>Primary 6</strong></p>
+<h4><strong>Primary 6</strong></h4>
 <figure class="wp-block-table">
 <div class="table-responsive">
 <table border="1">
