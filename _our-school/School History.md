@@ -3,7 +3,6 @@ title: School History
 permalink: /school-history/
 description: ""
 ---
-
 <p><strong>Shuqun Primary School</strong>&nbsp;started in 1925 and was known as Tuan Cheng Public School. Later it became known as Seh Chuan High School. It was situated off Jalan Jurong Kechil.</p>
 <p>In April 1983, Seh Chuan High School changed from an aided to a government school bearing the hanyu pinyin name of Shuqun Secondary School. In April 1984, the primary section ceased to function as part of the secondary school and became known as&nbsp;<strong>Shuqun Primary School</strong>.</p>
 <p>In June 1986, headed by Mr Tear Ee Soon, Shuqun Primary School shifted to its present site with an enrolment of 533 pupils and 17 teachers.</p>
@@ -11,7 +10,7 @@ description: ""
 
 ![](/images/img_history.jpg)
 
-<h3><strong>Our Logo</strong></h3>
+<h3><span style="text-decoration: underline;"><strong>Our Logo</strong></span></h3>
 <div>
 <div style="float: left">
 <img src="/images/SQ-sch-logo-300x278.jpg" />
