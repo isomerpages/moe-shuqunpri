@@ -4,12 +4,12 @@ permalink: /our-school/departments/student-development/
 description: ""
 third_nav_title: Departments
 ---
-<h3><span style="text-decoration: underline;">Mission</span></h3>
+<h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
 <div>
 <div>
 <div align="left">
 <p>To provide a safe and nurturing environment where students grow to be engaged learners, rooted in values and ready to serve.</p>
-<h3><span style="text-decoration: underline;">Key Programmes</span></h3>
+<h3><strong><span style="text-decoration: underline;">Key Programmes</span></strong></h3>
 </div>
 </div>
 <p><strong>1. Pastoral Care Programme</strong></p>
