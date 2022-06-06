@@ -8,7 +8,7 @@ third_nav_title: Departments
 <div id="main-content" class="inner-wrap banner-normal">
 <article id="content" class="banner-normal">
 <div class="body-content">
-<h3><span style="text-decoration: underline;">Mission</span></h3>
+<h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
 <div>
 <div>
 <div align="left">
@@ -17,7 +17,7 @@ third_nav_title: Departments
 <div>
 <p>We are committed to providing opportunities for our pupils to discover and develop their lifelong interest in physical activities or&nbsp;interest through Physical Education.&nbsp;PHE Department oversees the Physical, Health, Outdoor Education (Learning for Live Programme) and CCA in Shuqun Primary School. The PHE Department aims prepare students to be healthy, active, and able to meet 21st century challenges that they will face over the course of their lifetime.&nbsp;At the end of the 6 years, students will be able to understand and demonstrate all the skills and knowledge of being a physically educated person.&nbsp;</p>
 </div>
-<h3><span style="text-decoration: underline;">Key Programmes</span></h3>
+<h3><strong><span style="text-decoration: underline;">Key Programmes</span></strong></h3>
 <p><strong>1. Sports Carnival</strong></p>
 <div>
 <p>Sports Carnival is a sporting event that will expose pupils to various Sports or Physical Activities.</p>
