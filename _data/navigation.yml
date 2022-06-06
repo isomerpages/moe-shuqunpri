@@ -13,6 +13,21 @@ links:
         url: /school-history/
       - title: School Achievements
         url: /school-achievements/
+  - title: Our Staff
+    url: /school-management-team/
+    sublinks:
+      - title: Principal's Message
+        url: /principals-message1/
+      - title: School Management Team
+        url: /school-management-team/
+      - title: Lower Primary
+        url: /lower-primary-2/
+      - title: Middle Primary
+        url: /middle-primary-2/
+      - title: Upper Primary
+        url: /upper-primary-2/
+      - title: Executive & Admin Staff
+        url: /executive-administrative-staff/
   - title: Our Partners
     url: /parents/
     sublinks:
@@ -26,21 +41,6 @@ links:
         url: /overseas-partner-school/
       - title: Community
         url: /community/
-  - title: Our Staff
-    url: /school-management-team/
-    sublinks:
-      - title: Principal's Message
-        url: /principals-message/
-      - title: School Management Team
-        url: /school-management-team/
-      - title: Lower Primary
-        url: /lower-primary-2/
-      - title: Middle Primary
-        url: /middle-primary-2/
-      - title: Upper Primary
-        url: /upper-primary-2/
-      - title: Executive & Admin Staff
-        url: /executive-administrative-staff/
   - title: Our Programmes
     url: /our-school/departments/english/
     sublinks:
