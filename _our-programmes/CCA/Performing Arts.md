@@ -4,7 +4,7 @@ permalink: /performing-arts/
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong><span style="text-decoration: underline;">Contemporary Dance</span><strong></h4>
+<h4><strong><span style="text-decoration: underline;">Contemporary Dance</span></strong></h4>
 
 ![](/images/Contemporary-Dance-1024x768.jpg)
 
