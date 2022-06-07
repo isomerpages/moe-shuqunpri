@@ -12,5 +12,4 @@ description: ""
 <p>To enable our Shuqunites to understand that they are never too young to contribute would require the continued support of our stakeholders.&nbsp; We look forward to working with all, invested to bring out the best in our students.&nbsp; With your continued confidence and belief in what we strive for, we look forward to enabling our students to flourish as individuals of distinction and character.</p>
 
 ![](/images/0002-1024x652.jpg)
-<p>Yours in partnership,</p>
-<p>Mrs Sara de Souza</p>
+<p>Yours in partnership,<br>Mrs Sara de Souza</p>
