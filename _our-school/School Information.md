@@ -43,10 +43,7 @@ description: ""
 </table>
 </div>
 <p>*Students who report after 7:30 a.m. will be considered late.</p>
-<p>*Dismissal for:-</p>
-<p>Primary 1 &amp; 3 &ndash; Gate 1</p>
-<p>Primary 2 &amp; 4 &ndash; Gate 2</p>
-<p>Primary 5 &amp; 6 &ndash; Gate 3</p>
+<p>*Dismissal for:-<br>Primary 1 &amp; 3 &ndash; Gate 1<br>Primary 2 &amp; 4 &ndash; Gate 2<br>Primary 5 &amp; 6 &ndash; Gate 3</p>
 <h3><strong><span style="text-decoration: underline;">Recess Timings</span></strong></h3>
 <div>
 <table border="1">
@@ -146,7 +143,7 @@ description: ""
 </ul>
 </ul>
 </ul>
-<p>Girls</p>
+<p><strong>Girls</strong></p>
 <ul>
 <ul>
 <ul>
