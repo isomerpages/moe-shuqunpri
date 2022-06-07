@@ -29,7 +29,7 @@ third_nav_title: Parents
 <p><a href="https://www.foodfromtheheart.sg/school-goodie-bag/" target="_blank" rel="noopener noreferrer">https://www.foodfromtheheart.sg/school-goodie-bag/</a></p>
 <h4><strong><span style="text-decoration: underline;">3. Family Services &amp; Support</span></strong></h4>
 <p>A. School&rsquo;s Parenting Support Provider (PSP):</p>
-<p>Thye Hua Kwan (THK) Family Service Centre@Jurong</p
+<p>Thye Hua Kwan (THK) Family Service Centre@Jurong</p>
 	
 ![](/images/THK-PSP-Digital-Poster.png)
 	
