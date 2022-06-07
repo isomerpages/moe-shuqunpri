@@ -115,11 +115,13 @@ description: ""
 <li>T-shirt should be tucked in at all times.</li>
 <li>Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</li>
 </ul>
-<p>![](/images/uniform.jpg)</p>
+
+![](/images/uniform.jpg)
 <ul>
 <li>Name tags must be sewn on all school shirts, blouses and PE T-shirt.</li>
 </ul>
-<p>![](/images/name-tag.jpg)</p>
+
+![](/images/name-tag.jpg)
 <ul>
 <li>School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</li>
 <li>PE T-shirt : one finger above the school crest.</li>
@@ -161,7 +163,8 @@ description: ""
 <li>Styling of hair with extensive gel or similar products is not allowed.</li>
 <li>Fringes must be kept above eyebrows.</li>
 <li>Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</li>
-</ul>
+	</ul>
+
 ![](/images/boy-hair.jpg)</ul>
 </ul>
 <p><strong>Girls&rsquo; Hair</strong></p>
@@ -174,6 +177,7 @@ description: ""
 <li>Only black hair accessories are allowed.</li>
 <li>Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</li>
 </ul>
+
 ![](/images/girl-hair.jpg)</ul>
 </ul>
 <h3><strong><span style="text-decoration: underline;">Expected Shuqunite Behaviour</span></strong></h3>
