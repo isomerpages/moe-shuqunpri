@@ -3,7 +3,6 @@ title: School Advisory Committee
 permalink: /school-advisory-committee/
 description: ""
 ---
-
 <p>The Shuqun Primary School Advisory Committee (SAC) was formed about the same time Shuqun Primary School was reconstituted into&nbsp;a government school from a Government-Aided School in 1984. Prior to that, Shuqun (previously known as Seh Chuan) was governed by&nbsp;a school management board. The SAC was formed for the following functions:</p>
 <div>
 <p>(a) to promote closer relationship in various ways, between members of the local community and the principals, teachers and students&nbsp;in Government schools</p>
