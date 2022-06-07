@@ -27,4 +27,3 @@ third_nav_title: CCA
 ![](/images/Art-Club.jpg)
 
 <p>Through weekly sessions, members of the Art Club will explore different kinds of art media particularly paints, color pencils and oil pastels. These art projects act as a platform for Art Club members to enhance their creativity and self-expression thus enabling them to have better understanding of the elements of art and principles of design. Artworks that are put on display around the school vicinity is evident of the Art Club members&rsquo; talent. Other activities include W7 On-the-spot Art Competition and National Art Festival.</p>
-</div>
