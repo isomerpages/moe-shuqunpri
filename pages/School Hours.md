@@ -3,7 +3,7 @@ title: School Hours
 permalink: /information-on-school-hours-and-dismissal/
 description: ""
 ---
-<h4><strong><span style="text-decoration: underline;">School Hours</span></strong></h4>
+<h3>School Hours</h3>
 <table border="1">
 <tbody>
 <tr>
@@ -31,7 +31,4 @@ description: ""
 </tbody>
 </table>
 <p>*Students who report after 7:30 a.m. will be considered late.</p>
-<p>*Dismissal for:-</p>
-<p>Primary 1 &amp; 3 &ndash; Gate 1</p>
-<p>Primary 2 &amp; 4 &ndash; Gate 2</p>
-<p>Primary 5 &amp; 6 &ndash; Gate 3</p>
+<p>*Dismissal for:-<br />Primary 1 &amp; 3 &ndash; Gate 1<br />Primary 2 &amp; 4 &ndash; Gate 2<br />Primary 5 &amp; 6 &ndash; Gate 3</p>
