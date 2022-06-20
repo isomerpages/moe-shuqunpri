@@ -24,7 +24,7 @@ description: ""
 </ul>
 <p><strong>PSLE Briefing 2022</strong></p>
 <ul>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-Matters-Direct-School-Admission-Sharing-by-Principal.pdf" target="_blank" rel="noopener noreferrer">PSLE Matters &amp; Direct School Admission</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Matters-Direct-School-Admission-Sharing-by-Principal.pdf" target="_blank" rel="noopener noreferrer">PSLE Matters &amp; Direct School Admission</a></li>
 <li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-English-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">English Language Sharing</a></li>
 <li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-Mathematics-Sharing.pdf" target="_blank" rel="noopener noreferrer">Mathematics Sharing</a></li>
 <li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-Science-Sharing.pdf" target="_blank" rel="noopener noreferrer">Science Sharing</a></li>
