@@ -8,19 +8,19 @@ description: ""
 <p><a href="https://moe-shuqunpri-staging.netlify.app/files/Students-HBL-Handbook.pdf" target="_blank" rel="noopener noreferrer">Students HBL Handbook 2021</a></p>
 <p><strong>Open Classroom Principal&rsquo;s Address 2022</strong></p>
 <ul>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/01/P2-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 2</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/01/P3-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 3</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/01/P5-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 5</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P2-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 2</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P3-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 3</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P5-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 5</a></li>
 </ul>
 <p><strong>P4 SBB Briefing 2022</strong></p>
 <ul>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Briefing-2022.pdf" target="_blank" rel="noopener noreferrer">Subject Based Banding Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-English-Language.pdf" target="_blank" rel="noopener noreferrer">English Language Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Mathematics.pdf" target="_blank" rel="noopener noreferrer">Mathematics Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Science.pdf" target="_blank" rel="noopener noreferrer">Science Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Chinese-Language.pdf" target="_blank" rel="noopener noreferrer">Chinese Language Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Malay-Language.pdf" target="_blank" rel="noopener noreferrer">Malay Language Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/P4-SBB-Tamil-Language.pdf" target="_blank" rel="noopener noreferrer">Tamil Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Briefing-2022.pdf" target="_blank" rel="noopener noreferrer">Subject Based Banding Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-English-Language.pdf" target="_blank" rel="noopener noreferrer">English Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Mathematics.pdf" target="_blank" rel="noopener noreferrer">Mathematics Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Science.pdf" target="_blank" rel="noopener noreferrer">Science Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Chinese-Language.pdf" target="_blank" rel="noopener noreferrer">Chinese Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Malay-Language.pdf" target="_blank" rel="noopener noreferrer">Malay Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/P4-SBB-Tamil-Language.pdf" target="_blank" rel="noopener noreferrer">Tamil Language Sharing</a></li>
 </ul>
 <p><strong>PSLE Briefing 2022</strong></p>
 <ul>
