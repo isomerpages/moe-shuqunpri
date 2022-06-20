@@ -3,9 +3,9 @@ title: Presentation Slides & Guides
 permalink: /presentation-slides/
 description: ""
 ---
-<p><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/01/SQPS-Student-iCON-Onboarding-Guide.pdf" target="_blank" rel="noopener noreferrer">Student iCON Onboarding Guide</a></strong></p>
-<p><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/01/Annexes-to-Letter-to-Parents.pdf" target="_blank" rel="noopener noreferrer">Student Learning Space &ndash; Instruction and FAQs for students</a></strong></p>
-<p><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/05/Students-HBL-Handbook.pdf" target="_blank" rel="noopener noreferrer">Students HBL Handbook 2021</a></strong></p>
+<p><a href="https://moe-shuqunpri-staging.netlify.app/files/SQPS-Student-iCON-Onboarding-Guide.pdf" target="_blank" rel="noopener noreferrer">Student iCON Onboarding Guide</a></p>
+<p><a href="https://moe-shuqunpri-staging.netlify.app/files/Annexes-to-Letter-to-Parents.pdf" target="_blank" rel="noopener noreferrer">Student Learning Space &ndash; Instruction and FAQs for students</a></p>
+<p><a href="https://moe-shuqunpri-staging.netlify.app/files/Students-HBL-Handbook.pdf" target="_blank" rel="noopener noreferrer">Students HBL Handbook 2021</a></p>
 <p><strong>Open Classroom Principal&rsquo;s Address 2022</strong></p>
 <ul>
 <li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/01/P2-Open-Classroom_Principals-Address.pdf" target="_blank" rel="noopener noreferrer">Primary 2</a></li>
