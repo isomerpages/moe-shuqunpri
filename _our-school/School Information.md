@@ -115,13 +115,11 @@ description: ""
 <li>T-shirt should be tucked in at all times.</li>
 <li>Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</li>
 </ul>
-
-![](/images/uniform.jpg)
+<img src="/images/uniform.jpg">
 <ul>
 <li>Name tags must be sewn on all school shirts, blouses and PE T-shirt.</li>
 </ul>
-
-![](/images/name-tag.jpg)
+<img src="/images/name-tag.jpg">
 <ul>
 <li>School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</li>
 <li>PE T-shirt : one finger above the school crest.</li>
@@ -163,9 +161,8 @@ description: ""
 <li>Styling of hair with extensive gel or similar products is not allowed.</li>
 <li>Fringes must be kept above eyebrows.</li>
 <li>Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</li>
-	</ul>
-
-![](/images/boy-hair.jpg)</ul>
+</ul>
+<img src="/images/boy-hair.jpg">
 </ul>
 <p><strong>Girls&rsquo; Hair</strong></p>
 <ul>
@@ -177,13 +174,10 @@ description: ""
 <li>Only black hair accessories are allowed.</li>
 <li>Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</li>
 </ul>
-
-![](/images/girl-hair.jpg)</ul>
+<img src="/images/girl-hair.jpg">
 </ul>
 <h3><strong><span style="text-decoration: underline;">Expected Shuqunite Behaviour</span></strong></h3>
 <p><strong>Attendance</strong></p>
-<ul>
-<ul>
 <ul>
 <li>Students must be punctual for all school activities</li>
 <li>Students are not allowed to leave the school during school hours, without permission from the teachers, vice-principals or principal.</li>
@@ -191,10 +185,7 @@ description: ""
 <li>If a student is absent from school, a medical certificate must be presented to the Form Teacher. Students who are absent for any major examination must be produce a medical certificate to cover the period of absence.</li>
 <li>Students are not allowed to take any leave of absence during term time to travel abroad for holiday.</li>
 </ul>
-</ul>
-</ul>
 <p><strong>Safety and Security</strong></p>
-<ul>
 <ul>
 <li>Students are not allowed to remain in the classroom during assembly and recess&nbsp;unless they are supervised by the teacher.</li>
 <li>Mobile phones are not allowed to be brought in or used in school.</li>
@@ -204,5 +195,4 @@ description: ""
 <li>For PE and CCAs that involve strenuous or outdoor activities, students should&nbsp;take part only if they are well. Highlight any medical condition to the teacher-in-charge or instructor.&nbsp;</li>
 <li>During hazy conditions, when the air quality is in the unhealthy range (i.e.&nbsp;24-hour PSI at 101-200, or 1-hour PM2.5 at 56-150), students with pre-existing&nbsp;lung or heart conditions or who are unwell should inform the instructor or&nbsp;teacher-in-charge of the PE/CCA/outdoor activity, and will be exempted.</li>
 <li>When students hear the fire alarm, they are to listen for an announcement. They&nbsp;should follow the instructions of the teacher, and walk briskly to the assembly&nbsp;area at the school field.</li>
-</ul>
 </ul>
