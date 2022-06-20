@@ -29,8 +29,8 @@ description: ""
 <li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Mathematics-Sharing.pdf" target="_blank" rel="noopener noreferrer">Mathematics Sharing</a></li>
 <li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Science-Sharing.pdf" target="_blank" rel="noopener noreferrer">Science Sharing</a></li>
 <li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Chinese-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">Chinese Language Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-Malay-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">Malay Language Sharing</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2022/02/PSLE-Tamil-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">Tamil Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Malay-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">Malay Language Sharing</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSLE-Tamil-Language-Sharing.pdf" target="_blank" rel="noopener noreferrer">Tamil Language Sharing</a></li>
 <li><a href="https://youtu.be/mPPvNy1mE64" target="_blank" rel="noopener noreferrer">PSLE Briefing &ndash; Video</a></li>
 <li><a href="https://youtu.be/YGxpuLq2OGU" target="_blank" rel="noopener noreferrer">PSLE Briefing Q&amp;A &ndash; Video</a></li>
 </ul>
