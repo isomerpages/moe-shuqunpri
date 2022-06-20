@@ -52,3 +52,4 @@ plugins:
 staging: https://moe-shuqunpri-staging.netlify.app
 prod: https://moe-shuqunpri-prod.netlify.app
 is_government: false
+resources_name: pdf
