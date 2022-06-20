@@ -4,7 +4,6 @@ permalink: /parents/
 description: ""
 third_nav_title: Parents
 ---
-
 <p><strong>Our Mission:</strong>&nbsp;Support the school and enrich the school life of our Shuqunites.</p>
 <p><strong>Our Vision:</strong>&nbsp;Forged a strong partnership between school and parents.</p>
 <p><strong>Our Motto:</strong>&nbsp;Serve with ICARE (Integrity, Care, Adaptability, Respect and Excellence)</p>
@@ -41,7 +40,7 @@ third_nav_title: Parents
 <p>Our dedicated members work closely with school with a common goal of making it a great place for our children to learn and play. It is also a platform for parents to network and support one another. Click below!</p>
 <ul>
 <li><a href="https://sites.google.com/moe.edu.sg/2021-sqpsg-activities/home" target="_blank" rel="noopener noreferrer">SQPSG Activities</a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/06/PSG-Kit-Issue-2-FINAL.pdf" target="_blank" rel="noopener noreferrer">PSG Kit Issue 2</a></li>
+<li><a href="https://moe-shuqunpri-staging.netlify.app/files/PSG-Kit-Issue-2-FINAL.pdf" target="_blank" rel="noopener noreferrer">PSG Kit Issue 2</a></li>
 </ul>
 <p>Some of the activities that we are involved in are as follows:</p>
 <ul>
@@ -66,5 +65,5 @@ third_nav_title: Parents
 <p>9. The selection of the Parent Volunteers is dependent on the school needs and priorities. Please note that while the school may receive and interview all applications, not all applicants may be selected.</p>
 <p>10. The deployment of parent volunteers in the school is dependent on the school needs. This would be arranged with the parents with sufficient notice given each time before their services are required.</p>
 <ul>
-<li><u><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2017/03/Parent-VolunteerApplication-Letter.pdf" target="_blank" rel="noopener noreferrer">Parent Volunteer Form</a></u></li>
+<li><u><a href="https://moe-shuqunpri-staging.netlify.app/files/Parent-VolunteerApplication-Letter.pdf" target="_blank" rel="noopener noreferrer">Parent Volunteer Form</a></u></li>
 </ul>
