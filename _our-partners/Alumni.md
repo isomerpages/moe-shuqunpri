@@ -13,7 +13,7 @@ description: ""
 <p>Do you miss the times you had in Shuqun Primary School? Do you miss the teachers who had given you your favourite Children&rsquo;s Day gift or the teacher&nbsp;who used to detain you in school? Or do you miss catching up with some friends who had gone separate ways after PSLE?</p>
 <p>Come and join us and be on our Alumni mailing list. We will keep you posted of up and coming events.</p>
 <p>Feel free to contact&nbsp;Miss Zeng Yingxu&nbsp;@ 65637129.&nbsp;</p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2016/12/Alumni_Form.pdf">Seh-Chuan Shuqun Alumni Association Registration Form</a></p>
+<p><a href="/files/Alumni_Form.pdf">Seh-Chuan Shuqun Alumni Association Registration Form</a></p>
 <p><strong>Seh-Chuan Shuqun Alumni Association&nbsp;Exco Members</strong></p>
 <div class="table-responsive">
 <table style="border-style: solid; border-color: #000000;" border="1">
