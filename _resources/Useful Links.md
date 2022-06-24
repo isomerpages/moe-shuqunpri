@@ -33,4 +33,4 @@ description: ""
 <p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2019/11/Swim-Safer-E-Certificate-User-Guide-For-Parents.pdf" target="_blank" rel="noopener noreferrer">Swim Safer E-Certificate</a> </p>
 <p><a href="https://sites.google.com/moe.edu.sg/sqps-p1-e-orientation/home" target="_blank" rel="noopener noreferrer">P1 Orientation</a> </p>
 <p><a href="https://sites.google.com/moe.edu.sg/shuqun-primary-presentations/home" target="_blank" rel="noopener noreferrer">Parents Engagement</a></p>
-<p><a href="/information-on-school-hours-and-dismissal/" target="_blank" rel="noopener noreferrer">Information on School Hours and Dismissal</a></p>
+<p><a href="/information-on-school-hours-and-dismissal" target="_blank" rel="noopener noreferrer">Information on School Hours and Dismissal</a></p>
