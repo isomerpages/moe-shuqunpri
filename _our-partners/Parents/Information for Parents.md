@@ -41,22 +41,22 @@ third_nav_title: Parents
 </div>
 <h4><span style="text-decoration: underline;"><strong>5. Resource Kit &ndash; HBL</strong></span></h4>
 
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-1.pdf">
+<p><a href="/files/Resource-Kit-HBL-Part-1.pdf">
 <img src="/images/HBL-1.jpg">
 </a></p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-2.pdf">
+<p><a href="/files/Resource-Kit-HBL-Part-2.pdf">
 <img src="/images/HBL-2.jpg">
 </a></p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL-Part-3.pdf">
+<p><a href="/files/Resource-Kit-HBL-Part-3.pdf">
 <img src="/images/HBL-3.jpg">
 </a></p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/05/Resource-Kit-School-Holiday-Edition-1.pdf">
+<p><a href="/files/Resource-Kit-School-Holiday-Edition-1.pdf">
 <img src="/images/HBL-4.jpg">
 </a></p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/Resource-Kit-HBL-Part-6.pdf">
+<p><a href="/files/Resource-Kit-HBL-Part-6.pdf">
 <img src="/images/HBL-6-e1596671636482.jpg">
 </a></p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/08/Resource-Kit-Parent-Kit-My-Independent-Learner.pdf">
+<p><a href="/files/Resource-Kit-Parent-Kit-My-Independent-Learner.pdf">
 <img src="/images/Resource-Kit-Parent-Kit-My-Independent-Learner-e1596671564562.jpg">
 </a></p>
 
@@ -72,6 +72,4 @@ third_nav_title: Parents
 <p><a href="https://www.schoolbag.edu.sg/story/5-questions-to-ask-your-kids-over-dinner?utm_source=newsletter&utm_medium=email&utm_campaign=2019-Aug">
 <img src="/images/5-questions-to-ask-your-kids-over-dinner.jpg">
 </a></p>
-
-
-![](/images/Snacks-for-Break-Time_HPB1.jpg)
+<img src="/images/Snacks-for-Break-Time_HPB1.jpg">
