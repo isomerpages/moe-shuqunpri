@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 <h4><strong><span style="text-decoration: underline;">1. Parent Kit</span></strong></h4>
-<p><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/01/Parent-Kit-Starting-School-Right-Jan-2020.pdf" target="_blank" rel="noopener noreferrer">Starting School Right (Jan 2020)</a></strong></p>
+<p><strong><a href="/files/Parent-Kit-Starting-School-Right-Jan-2020.pdf" target="_blank" rel="noopener noreferrer">Starting School Right (Jan 2020)</a></strong></p>
 <h4><strong><span style="text-decoration: underline;">2. Financial Support</span></strong></h4>
 <p><strong>A. Financial Assistance Scheme (FAS)</strong></p>
 <p>The Ministry of Education (MOE) provides financial assistance to needy Singapore citizens so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education. It also provides subsidy for school fees to Singapore citizen students from lower and middle income families. Students may apply for this anytime throughout the year.</p>
@@ -17,8 +17,8 @@ third_nav_title: Parents
 <p>How to apply?</p>
 <p>Students who wish to apply for the scheme can obtain the application form from the school, or download a copy of the following forms:</p>
 <ul>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/Application-Form-for-MOE-SPED-FAS-v5-April-2020.pdf" target="_blank" rel="noopener noreferrer"><u>Application Form for MOE-SPED FAS</u></a></li>
-<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/PC_Bundle-Application-Form-v12-April-2020.pdf" target="_blank" rel="noopener noreferrer"><u>PC_Bundle Application Form</u></a></li>
+<li><a href="/files/Application-Form-for-MOE-SPED-FAS-v5-April-2020.pdf" target="_blank" rel="noopener noreferrer"><u>Application Form for MOE-SPED FAS</u></a></li>
+<li><a href="/files/PC_Bundle-Application-Form-v12-April-2020.pdf" target="_blank" rel="noopener noreferrer"><u>PC_Bundle Application Form</u></a></li>
 </ul>
 <p>For those who need&nbsp;<strong>only broadband</strong>, they can apply under Home Access 3.0 programme.</p>
 <p>For details on the programme, please visit&nbsp;<a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener noreferrer">www.digitalaccess.gov.sg</a></p>
@@ -30,16 +30,14 @@ third_nav_title: Parents
 <h4><strong><span style="text-decoration: underline;">3. Family Services &amp; Support</span></strong></h4>
 <p>A. School&rsquo;s Parenting Support Provider (PSP):</p>
 <p>Thye Hua Kwan (THK) Family Service Centre@Jurong</p>
-	
-![](/images/THK-PSP-Digital-Poster.png)
-	
-<p><strong><span style="text-decoration: underline;"><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/03/THK-Family-Services-Division-Managing-Emotional-Health-Book-Digital.pdf" target="_blank" rel="noopener noreferrer">THK Family Services Division &ndash; Managing Emotional Health Book (Digital)</a></span></strong></p>
+<img src="/images/THK-PSP-Digital-Poster.png">
+<p><strong><span style="text-decoration: underline;"><a href="/files/THK-Family-Services-Division-Managing-Emotional-Health-Book-Digital_compressed.pdf" target="_blank" rel="noopener noreferrer">THK Family Services Division &ndash; Managing Emotional Health Book (Digital)</a></span></strong></p>
 <p>B. National Care Hotline &ndash; for those facing anxiety and stress (24 hours)</p>
 <p>&nbsp; &nbsp;Contact No: 1800 6202 6868</p>
 <p>C. Tinkle Friend Helpline (Singapore Children&rsquo;s Society)</p>
 <p>&nbsp; &nbsp; Contact No: 1800 274 4788</p>
 <div>
-<h4><span style="text-decoration: underline;"><strong><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/01/Guidelines-for-School-Home-Partnership.pdf" target="_blank" rel="noopener noreferrer">4. Guidelines for School Home Partnership</a></strong></span></h4>
+<h4><span style="text-decoration: underline;"><strong><a href="/files/Guidelines-for-School-Home-Partnership.pdf" target="_blank" rel="noopener noreferrer">4. Guidelines for School Home Partnership</a></strong></span></h4>
 </div>
 <h4><span style="text-decoration: underline;"><strong>5. Resource Kit &ndash; HBL</strong></span></h4>
 
