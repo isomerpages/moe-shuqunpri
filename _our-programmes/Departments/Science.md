@@ -26,21 +26,15 @@ third_nav_title: Departments
 </ul>
 <p>The EE framework is primarily made up of the four main domains that align the school&rsquo;s environmental initiatives and programmes to the outcomes of EE curriculum.</p>
 <p>&nbsp;</p>
-
-![](/images/ee-framework.jpg)
+<img src="/images/ee-framework.jpg">
 <p>Through the 3A approach namely &lsquo;Awareness&rsquo;, &lsquo;Actions&rsquo; and &lsquo;Advocacy&rsquo;, we hope that EE programme deepen our students&rsquo; level of environmental knowledge so that they can transfer their learning into positive environmental actions.&nbsp; Through active learning, students can learn to be more proactive and are able to advocate through their actions the importance of environment conservation.</p>
-
-![](/images/River-clean-up-during-the-eco-camp.jpg)
+<img src="/images/River-clean-up-during-the-eco-camp.jpg">
 <p><em><strong>River Clean Up During The Eco Camp</strong></em></p>
-
-![](/images/River-clean-up-during-the-eco-camp1.jpg)
+<img src="/images/River-clean-up-during-the-eco-camp1.jpg">
 <p><em><strong>River Clean Up During The Eco Ca</strong></em><em><strong>mp</strong></em></p>
-
-![](/images/Food-waste-management-programme-.jpg)
+<img src="/images/Food-waste-management-programme-.jpg">
 <p><em><strong>Food Waste Management Programme</strong></em></p>
-
-![](/images/Students-gardening-at-the-eco-garden.jpg)
+<img src="/images/Students-gardening-at-the-eco-garden.jpg">
 <p><em><strong>Students Gardening At The Eco Garden</strong></em></p>
-
-![](/images/Students-outreach-with-ACRES.jpg)
+<img src="/images/Students-outreach-with-ACRES.jpg">
 <p><strong><em>Students Outreach With Acres</em></strong></p>
