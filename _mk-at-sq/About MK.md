@@ -3,8 +3,7 @@ title: About MK
 permalink: /about-mk/
 description: ""
 ---
-![](/images/MK-Banner.jpg)
-
+<img src="/images/MK-Banner.jpg">
 <p>We are pleased to share with you that MOE will be setting up an MOE Kindergarten (MK) within Shuqun Primary School. The MK at Shuqun Primary School will enroll Kindergarten 1 (K1) children from&nbsp;<strong>January 2023</strong>.</p>
 <p>The MOE Kindergarten online registration exercise for 2023 K1 admission is closed. Parents who have missed the registration exercise and would like to apply for MOE Kindergarten at Shuqun Primary, please submit the Waitlist Application and supporting documents via:&nbsp;<a href="https://form.gov.sg/61f0b0efad84620013aff7a8" target="_blank" rel="noopener noreferrer">MOE Kindergarten Waitlist Application 2023</a>.</p>
 <p>For more information on MOE Kindergarten, Open House and Registration Exercise for K1 Admission, you can visit&nbsp;<a href="http://www.moe.gov.sg/mk" target="_blank" rel="noopener noreferrer">www.moe.gov.sg/mk</a>, or call the MOE Customer Service Centre at 6872 2220 (Mondays to Fridays: 8.30 a.m. to 5.30 p.m.).</p>
