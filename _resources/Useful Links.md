@@ -30,7 +30,7 @@ description: ""
 <p><a href="https://www.sinda.org.sg/" target="_blank" rel="noopener noreferrer">SINDA</a>&nbsp;</p>
 <p><a href="https://www.mendaki.org.sg/" target="_blank" rel="noopener noreferrer">MENDAKI</a> </p>
 <p><a href="/parents-gateway" target="_blank" rel="noopener noreferrer">Parents Gateway</a> </p>
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2019/11/Swim-Safer-E-Certificate-User-Guide-For-Parents.pdf" target="_blank" rel="noopener noreferrer">Swim Safer E-Certificate</a> </p>
+<p><a href="/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf" target="_blank" rel="noopener noreferrer">Swim Safer E-Certificate</a> </p>
 <p><a href="https://sites.google.com/moe.edu.sg/sqps-p1-e-orientation/home" target="_blank" rel="noopener noreferrer">P1 Orientation</a> </p>
 <p><a href="https://sites.google.com/moe.edu.sg/shuqun-primary-presentations/home" target="_blank" rel="noopener noreferrer">Parents Engagement</a></p>
 <p><a href="/information-on-school-hours-and-dismissal" target="_blank" rel="noopener noreferrer">Information on School Hours and Dismissal</a></p>
