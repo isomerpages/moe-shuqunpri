@@ -13,7 +13,7 @@ sections:
           description: 2022 WE-STories Publication
           url: https://online.fliphtml5.com/obrr/qkde/#p=4
         - title: Calendar of Events
-          description: No events
+          description: "2023"
           url: ""
         - title: Useful Links
           description: For students, teachers and parents
