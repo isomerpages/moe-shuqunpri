@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Calendar of Events.md
       - Departments/.keep
       - Departments/English.md
       - Departments/Mathematics.md
@@ -26,3 +25,4 @@ collections:
       - CCA/Performing Arts.md
       - CCA/Uniformed Groups.md
       - CCA/Sports.md
+      - Calendar of Events.md
