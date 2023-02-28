@@ -13,7 +13,20 @@ links:
         url: /school-history/
       - title: School Achievements
         url: /school-achievements/
-  - title: Our Staff
+  - title: Our Curriculum
+    url: /our-school/departments/english/
+    sublinks:
+      - title: Departments
+        url: /our-school/departments/english/
+      - title: Distinctive Programmes
+        url: /reading-programme/
+      - title: Sexuality Education
+        url: /our-school/departments/cce/sexuality-education/
+      - title: CCA
+        url: our-students/cca/
+      - title: Calendar of Events
+        url: /permalink
+  - title: Our Distinctive Programme
     url: /school-management-team/
     sublinks:
       - title: School Management Team
@@ -39,19 +52,11 @@ links:
         url: /overseas-partner-school/
       - title: Community
         url: /community/
-  - title: Our Programmes
-    url: /our-school/departments/english/
+  - title: MK@SQ
+    url: /about-mk/
     sublinks:
-      - title: Departments
-        url: /our-school/departments/english/
-      - title: Distinctive Programmes
-        url: /reading-programme/
-      - title: Sexuality Education
-        url: /our-school/departments/cce/sexuality-education/
-      - title: CCA
-        url: our-students/cca/
-      - title: Calendar of Events
-        url: /permalink
+      - title: About MK
+        url: /about-mk/
   - title: Resources
     url: /forms/
     sublinks:
@@ -59,10 +64,5 @@ links:
         url: /forms/
       - title: Presentations Slides & Guides
         url: /presentation-slides/
-      - title: Useful Links
+      - title: .
         url: /useful-links/
-  - title: MK@SQ
-    url: /about-mk/
-    sublinks:
-      - title: About MK
-        url: /about-mk/
