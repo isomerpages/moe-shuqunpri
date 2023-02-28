@@ -57,7 +57,7 @@ links:
     sublinks:
       - title: About MK
         url: /about-mk/
-  - title: Resources
+  - title: "-"
     url: /forms/
     sublinks:
       - title: Forms
