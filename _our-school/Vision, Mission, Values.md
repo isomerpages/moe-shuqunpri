@@ -35,5 +35,5 @@ We are resilient and respond positively in times of change and adversity.
 #### * **Respect**
 We show a positive regard for self, others and the environment.
 
-#### * Excellence
+#### * **Excellence**
 We are reflective and committed to continuous improvement and persevere in the pursuit of learning.
