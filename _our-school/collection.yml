@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Information/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
       - School History.md
@@ -10,3 +9,4 @@ collections:
       - Our Staff/.keep
       - Our Staff/School Management Team.md
       - School Achievements.md
+      - Contact Information/.keep
