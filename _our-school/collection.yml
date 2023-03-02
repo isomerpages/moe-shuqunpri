@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - School History.md
@@ -14,3 +13,4 @@ collections:
       - Our Staff/Upper Primary.md
       - Our Staff/Executive & Administrative Staff.md
       - School Achievements.md
+      - Contact Us.md
