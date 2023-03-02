@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  our-curriculum:
     output: true
     order:
       - Departments/.keep
