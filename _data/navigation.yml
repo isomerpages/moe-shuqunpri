@@ -7,14 +7,16 @@ links:
         url: /principals-message/
       - title: Vision, Mission, Values
         url: /vision-mission-values/
-      - title: School Information
-        url: /school-information/
       - title: School History
         url: /school-history/
-      - title: School Achievements
-        url: /school-achievements/
+      - title: School Information
+        url: /school-information/
       - title: Our Staff
         url: /school-management-team/
+      - title: School Achievements
+        url: /school-achievements/
+      - title: Contact Us
+        url: /permalink
   - title: Our Curriculum
     url: /our-school/departments/english/
     sublinks:
