@@ -5,64 +5,35 @@ description: ""
 ---
 ### **Our Mission, Our Purpose**
 
-We believe that every Shuqunite has
+We believe that every Shuqunite has the potential to be best of themselves.
 
-the potential to be best of themselves.
+As a school, we will provide opportunities for every one to discover their strengths.
 
-As a school, we will provide
+We will encourage efforts towards continuous improvement and celebrate successes.
 
-opportunities for every one to discover
-
-their strengths.
-
-We will encourage efforts towards
-
-continuous improvement and celebrate
-
-successes.
-
-We will inspire every one to make a
-
-positive difference to others.
+We will inspire every one to make a positive difference to others.
 
 ### **Our Vision, Our Goal**
 
-We will embark on continuous learning in
+We will embark on continuous learning in a joyful and conducive environment.
 
-a joyful and conducive environment.
+With strong moral compass guided by the ICARE values, we will demonstrate compassion and be willing to make a difference. 
 
-With strong moral compass guided by
-
-the ICARE values, we will demonstrate
-
-compassion and be willing to make a
-
-difference.
-
-We are undergirded by ICARE Values of
-
-Integrity, Care, Adaptability, Respect and
-
-Excellence.
+We are undergirded by ICARE Values of Integrity, Care, Adaptability, Respect and Excellence.
 
 ### **iCARE**
 
-* **Integrity**
-
+#### * **Integrity**
 We possess the moral courage to stand up for what is right by aligning thoughts, words and actions with ethical principles.
 
-* **Care**
-
+#### * **Care**
 We are able to empathise be kind and live in harmony with others and the environment.
 
-* **Adaptability**
-
+#### * **Adaptability**
 We are resilient and respond positively in times of change and adversity.
 
-* **Respect**
-
+#### * **Respect**
 We show a positive regard for self, others and the environment.
 
-* **Excellence**
-
+#### * Excellence
 We are reflective and committed to continuous improvement and persevere in the pursuit of learning.
