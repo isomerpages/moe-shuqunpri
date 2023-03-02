@@ -13,6 +13,8 @@ links:
         url: /school-history/
       - title: School Achievements
         url: /school-achievements/
+      - title: Our Staff
+        url: /permalink
   - title: Our Curriculum
     url: /our-school/departments/english/
     sublinks:
@@ -57,12 +59,3 @@ links:
     sublinks:
       - title: About MK
         url: /about-mk/
-  - title: "-"
-    url: /forms/
-    sublinks:
-      - title: Forms
-        url: /forms/
-      - title: Presentations Slides & Guides
-        url: /presentation-slides/
-      - title: .
-        url: /useful-links/
