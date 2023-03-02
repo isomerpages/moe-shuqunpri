@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://shuqunpri.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#a11104"
@@ -53,3 +53,7 @@ staging: https://moe-shuqunpri-staging.netlify.app
 prod: https://moe-shuqunpri-prod.netlify.app
 is_government: false
 resources_name: pdf
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
