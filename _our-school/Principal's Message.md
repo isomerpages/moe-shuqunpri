@@ -3,9 +3,6 @@ title: Principal's Message
 permalink: /principals-message/
 description: ""
 ---
-Principal’s Message
-===================
-
 In the midst of managing COVID-19 and witnessing the many changes to our lives, we decided to review what we stand for as a school in 2021.
 
 ![](https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/12/FEATURE-WALL-@-CONCOURSE_VISUAL-2-1024x604.jpg)
