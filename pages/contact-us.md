@@ -6,7 +6,7 @@ agency_name: Shuqun Primary
 locations:
   - address:
       - 8 Jurong West
-      - " St 51"
+      - " Street 51"
       - Singapore 649332
     operating_hours: []
     maps_link: https://goo.gl/maps/8oEtYambxKhYGkHe6
