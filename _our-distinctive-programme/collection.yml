@@ -2,6 +2,7 @@ collections:
   our-distinctive-programme:
     output: true
     order:
+      - Student Ambassador Programme (SAP).md
       - LLP In Outdoor Education.md
       - Student Wellness Programme.md
       - Environmental Education Programme.md
