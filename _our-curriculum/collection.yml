@@ -2,14 +2,15 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Character and Citizenship Education.md
-      - Student Management.md
-      - Aesthetics.md
-      - Physical & Health Education.md
-      - Mother Tongue.md
-      - Science.md
-      - Mathematics.md
       - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Physical & Health Education.md
+      - Aesthetics.md
+      - Student Management.md
+      - Character and Citizenship Education.md
+      - Sexuality Education.md
       - Departments/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Reading Culture Programme.md
@@ -18,7 +19,6 @@ collections:
       - Distinctive Programmes/LLP In Outdoor Education.md
       - Distinctive Programmes/Student Wellness Programme.md
       - Distinctive Programmes/Environmental Education Programme.md
-      - Sexuality Education.md
       - CCA/.keep
       - CCA/CCAs.md
       - CCA/Clubs & Societies.md
