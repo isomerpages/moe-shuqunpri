@@ -30,6 +30,10 @@ links:
         url: /permalink
       - title: Mathematics
         url: /our-school/departments/mathematics/
+      - title: Science
+        url: /our-school/departments/science/
+      - title: Submenu Title
+        url: /permalink
   - title: Our Distinctive Programme
     url: /permalink
     sublinks:
