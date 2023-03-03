@@ -2,5 +2,6 @@ collections:
   our-distinctive-programme:
     output: true
     order:
+      - LLP In Outdoor Education.md
       - Student Wellness Programme.md
       - Environmental Education Programme.md
