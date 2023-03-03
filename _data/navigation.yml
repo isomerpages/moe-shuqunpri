@@ -22,18 +22,26 @@ links:
     sublinks:
       - title: English
         url: /our-school/departments/English/
-      - title: Sexuality Education
-        url: /our-school/departments/cce/sexuality-education/
-      - title: CCA
-        url: our-students/cca/
-      - title: Calendar of Events
-        url: /permalink
       - title: Mathematics
         url: /our-school/departments/mathematics/
       - title: Science
         url: /our-school/departments/science/
       - title: Mother Tongue
         url: /our-school/departments/mother-tongue-language/
+      - title: Physical & Health Education
+        url: /our-school/departments/physical-and-health-education/
+      - title: Aesthetics
+        url: /our-school/departments/aesthetics/
+      - title: Student Management
+        url: /our-school/departments/student-development/
+      - title: Sexuality Education
+        url: /our-school/departments/cce/sexuality-education/
+      - title: CCA
+        url: our-students/cca/
+      - title: Calendar of Events
+        url: /permalink
+      - title: CCE
+        url: /our-school/departments/cce/
   - title: Our Distinctive Programme
     url: /permalink
     sublinks:
