@@ -31,19 +31,15 @@ links:
       - title: Calendar of Events
         url: /permalink
   - title: Our Distinctive Programme
-    url: /school-management-team/
+    url: /permalink
     sublinks:
       - title: Reading Culture Programme
-        url: /school-management-team/
-      - title: Lower Primary
-        url: /lower-primary-2/
-      - title: Middle Primary
-        url: /middle-primary-2/
-      - title: LLP in Outdoor Education
+        url: /permalink
+      - title: Talent Development Programme
         url: /permalink
       - title: Student Ambassador Programme
         url: /permalink
-      - title: Talent Development Programme
+      - title: LLP in Outdoor Education
         url: /permalink
   - title: Our Partners
     url: /parents/
