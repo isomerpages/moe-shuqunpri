@@ -18,10 +18,10 @@ links:
       - title: Contact Us
         url: /contact-us/
   - title: Our Curriculum
-    url: /our-curriculum/English/
+    url: /English/
     sublinks:
       - title: English
-        url: /our-curriculum/English/
+        url: /English/
       - title: Sexuality Education
         url: /our-school/departments/cce/sexuality-education/
       - title: CCA
