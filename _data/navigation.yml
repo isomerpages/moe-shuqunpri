@@ -32,8 +32,8 @@ links:
         url: /our-school/departments/mathematics/
       - title: Science
         url: /our-school/departments/science/
-      - title: Submenu Title
-        url: /permalink
+      - title: Mother Tongue
+        url: /our-school/departments/mother-tongue-language/
   - title: Our Distinctive Programme
     url: /permalink
     sublinks:
