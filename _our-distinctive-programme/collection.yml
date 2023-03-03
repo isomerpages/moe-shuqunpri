@@ -2,4 +2,5 @@ collections:
   our-distinctive-programme:
     output: true
     order:
+      - Student Wellness Programme.md
       - Environmental Education Programme.md
