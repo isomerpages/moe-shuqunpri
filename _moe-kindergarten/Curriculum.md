@@ -31,7 +31,7 @@ We will use Big Books, songs, rhymes and games to help your child to:
 *   Communicate with confidence.
 *   Learn about local customs and traditions.
 
-![](https://shuqunpri.moe.edu.sg/wp-content/uploads/2023/01/MK-pic2.jpg)
+![](/images/MK%20pic2.jpg)
 
 #### **MTL and bilingualism**
 
