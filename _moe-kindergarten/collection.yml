@@ -2,9 +2,9 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Contact Us.md
-      - Our Staff.md
-      - Facilities.md
-      - Our Partners.md
-      - Curriculum.md
       - About MK.md
+      - Curriculum.md
+      - Our Staff.md
+      - Our Partners.md
+      - Facilities.md
+      - Contact Us.md
