@@ -3,7 +3,6 @@ title: Curriculum
 permalink: /moe-kindergarten/permalink/curriculum/
 description: ""
 ---
-
 ### **Hi-Light** **Programme**
 --------------------------
 
@@ -16,7 +15,7 @@ The Hi-Light programme is designed to support the holistic development of childr
 *   Numeracy
 *   Social and Emotional Development
 
-![](https://shuqunpri.moe.edu.sg/wp-content/uploads/2023/01/MK-pic.jpg)
+![](/images/MK%20pic.jpg)
 
 ### **Starlight Literacy** **Programme**
 ------------------------------------
