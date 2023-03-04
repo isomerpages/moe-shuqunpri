@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Shuqun Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -19,4 +19,5 @@ sections:
           description: For students, teachers and parents
           url: /useful-links/students
 ---
+
 
