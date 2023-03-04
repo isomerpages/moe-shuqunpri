@@ -2,5 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partners.md
       - Curriculum.md
       - About MK.md
