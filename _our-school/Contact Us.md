@@ -18,7 +18,7 @@ description: ""
 <p>Operation hours:</p>
 </td>
 <td width="401">
-<p>Monday - Friday : 7.00 a.m. - 5.00 p.m.<br>Closed on Saturday &amp; Sunday</p>
+<p>Monday - Friday : 7.30 a.m. - 5.30 p.m.<br>Closed on Saturday &amp; Sunday</p>
 </td>
 </tr>
 <tr>
