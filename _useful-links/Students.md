@@ -3,7 +3,7 @@ title: Students
 permalink: /useful-links/students/
 description: ""
 ---
-<table style="height: 192px; border-style: solid; border-color: #000000;" border="1" cellspacing="1" cellpadding="1">
+<table style="height: 192px;">
 <tbody>
 <tr style="height: 64px;">
 <td style="text-align: center; height: 64px; width: 208px;">
