@@ -17,7 +17,5 @@ sections:
           url: /our-programmes/permalink/
         - title: Useful Links
           description: For students, teachers and parents
-          url: /useful-links/students
+          url: /useful-links/students/
 ---
-
-
