@@ -1,14 +1,40 @@
 ---
 title: Students
-permalink: /useful-links/students
+permalink: /useful-links/students/
 description: ""
 ---
-<p><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2021/10/WE-STories-Publication-2021-FINAL_spread-1.pdf" target="_blank" rel="noopener noreferrer">We STories</a></p>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank" rel="noopener noreferrer">My Skills Future</a></p>
-<p><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank" rel="noopener noreferrer">School e-Resource Repository</a></p>
-<p><a href="https://www.sportsingapore.gov.sg/" target="_blank" rel="noopener noreferrer">Sport Singapore</a></p>
-<p><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer">Student Learning Space (SLS)</a></p>
-<p><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank" rel="noopener noreferrer">SLS Login Help</a></p>
-<p><a href="https://sites.google.com/moe.edu.sg/the-shuqun-story/home" target="_blank" rel="noopener noreferrer">Shuqun&rsquo;s 95th Anniversary</a></p>
-<p><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer">MIMS</a>&nbsp;</p>
-<p><a href="https://w7euphoria.edu.sg/" target="_blank" rel="noopener noreferrer">The Euphoria for the Arts Website</a></p>
+<table style="height: 192px; border-style: solid; border-color: #000000;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr style="height: 64px;">
+<td style="text-align: center; height: 64px; width: 208px;">
+<p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://online.fliphtml5.com/obrr/qkde/#p=1" target="_blank">We STories</a></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 208px;">
+<p><span style="color: #000000;"><a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">My Skills Future</a></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 208px;">
+<p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">School e-Resource Repository</a></span></p>
+</td>
+</tr>
+<tr style="text-align: left; height: 64px;">
+<td style="text-align: center; height: 64px; width: 208px;">
+<p><span style="color: #000000;"><a style="color: #000000;" href="https://www.sportsingapore.gov.sg/">Sport Singapore</a></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 208px;">
+<p><span style="color: #000000;"><a style="color: #000000;" href="https://vle.learning.moe.edu.sg/login">Student Learning Space (SLS)</a></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 208px;">
+<p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">MOE Identity Management System (MIMS)</a></span></p>
+</td>
+</tr>
+<tr style="text-align: left; height: 64px;">
+<td style="text-align: center; height: 64px; width: 208px;">
+<p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://w7euphoria.edu.sg/">The Euphoria for the Arts Website</a></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 208px;">&nbsp;</td>
+<td style="text-align: center; height: 64px; width: 208px;">
+<p><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
