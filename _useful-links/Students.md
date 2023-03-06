@@ -35,7 +35,7 @@ description: ""
 <p><span style="color: #000000;"><a style="color: #000000;" href="https://w7euphoria.edu.sg/">The Euphoria for the Arts Website</a></span></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><span style="color: #000000;"><a style="color: #000000;" href="Recommended-Reading-Lists_P1-P6.pdf">Recommended Reading Lists</a></span></p>
+<p><span style="color: #000000;">Recommended Reading Lists</span></p>
 </td>
 </tr>
 </tbody>
