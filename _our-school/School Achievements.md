@@ -3,287 +3,586 @@ title: School Achievements
 permalink: /school-achievements/
 description: ""
 ---
-<img src="/images/IMG_5075-300x200.jpg" 
-     style="width: 50%">
-<p style="text-align: center;"><strong><em>Congratulations to our Shuqunites who have done well!</em></strong>;</p>
-<h3><strong>Year 2020</strong></h3>
-<div>
-<table border="2" width="780">
+<h2><span style="color: #000000;">Year 2022</span></h2>
+<table class="MsoNormalTable" style="width: 100.0%; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-border-themecolor: text1; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: 1.5pt solid black; mso-border-insideh-themecolor: text1; mso-border-insidev: 1.5pt solid black; mso-border-insidev-themecolor: text1;" border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td width="549"><strong>Name of Competition</strong></td>
-<td width="232"><strong>Award</strong></td>
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
+<td style="width: 23.0%; border: solid black 1.5pt; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">NAME OF COMPETITION</span></strong></span></p>
+</td>
+<td style="width: 44.0%; border: solid black 1.5pt; border-left: none; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">RECOGNITION/POSITION</span></strong></span></p>
+</td>
+<td style="width: 32.0%; border: solid black 1.5pt; border-left: none; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">NAME OF STUDENT(S)</span></strong></span></p>
+</td>
 </tr>
-<tr>
-<td rowspan="2" width="549">13th Annual Mathlympics for all Singapore Primary Schools 2020</td>
-<td width="232">Silver</td>
+<tr style="mso-yfti-irow: 1;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">5TH TEXT RECITAL COMPETITION</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER AWARD</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI XINTONG VALERIE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HE DAI LE</span></p>
+</td>
 </tr>
-<tr>
-<td width="232">Bronze</td>
+<tr style="mso-yfti-irow: 2;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE AWARD</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WONG ZHI HAO KEITH</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIAO YUHAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ZHANG JIA HE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WU YOU RAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HUANG YI WEN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIANG JINGYI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUN YUE YAO MERRY</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Green Mark Award 2020</td>
-<td width="232">Gold</td>
+<tr style="mso-yfti-irow: 3;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RI PRIMARY MATH WORLD COMPETITION</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MERIT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PETER PAULRAJ BRISTO</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">STEVE KOH</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XU WEIXIANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XU GAOWEI</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Draw My Stamp Story Art Competition 2020</td>
-<td width="232">Bronze</td>
+<tr style="mso-yfti-irow: 4;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DISTINCTION</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TAN SHI QIAN LUCIEN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WILLAMME BRYAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 5;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SMOPS</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ISABEL LEE YIN YEE</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 6;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HU XINNAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 7;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NMOS</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HONOURABLE MENTION</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AHMAD DARWISH BIN JUFFRI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CLOVIS YONG JIA YE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DYUTHI BHATT</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">EWE JUNN HOWE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HU XINNAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">JERRON TAN JUN FENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIM ZI JIAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SHI HUIXIN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUN SHIBO ANDY</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XU WEIXIANG</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 8;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DENG RUNXUAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 9;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">FABIAN KOH CHUN KIAT</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">JIAO JUNHE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PETER PAULRAJ BRISTO</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">STEVE KOH</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 10;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MATHLYMPICS</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">GOLD</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HU XINNAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 11;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHEN XIAOHAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DENG RUNXUAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ERIC CHUA JUN QI</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 12;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SHI HUIXIN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HE HOUXIANG DANIEL</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WONG HAO CHENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NG SZE HWEE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WILLAMME BRYAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 13;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MYTHOS JUNIOR ORATORS 2022 &ndash; STORYTELLING</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TOP 20 FINALISTS</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WU YOU RAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 14;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SEMI-FINALISTS</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ZEMILY LEAW JIE RU</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DYUTHI BHATT</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 15;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SINGAPORE SCIENCE OLYMPIAD 2022</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LUO ZHEN KAI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XU WEIXIANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TAN JUN HONG</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 16;">
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MERIT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ANDREA MAE LOH</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BETA HONG YIK TONG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DYUTHI BHATT</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">FEI LINGQI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TAN HUI MIN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">THEA CHEN YEE THUNG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WANG XINXIANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WILLAMME BRYAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">YAP ZHONG SHENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">YEO YU AN, MAXX</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 17;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">STORY TELLING</span><span style="font-size: 12pt; font-family: Arial, sans-serif;"><br /></span><span style="font-size: 10pt; font-family: Arial, sans-serif;">COMPETITION</span></span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">4TH PLACE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BASKARAN MONEISH</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BALASUBRAMANIAN ROHAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 18;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">TAMIL LITERATURE</span><span style="font-size: 12pt; font-family: Arial, sans-serif;"><br /></span><span style="font-size: 10pt; font-family: Arial, sans-serif;">SILAPATHIKKARAM</span></span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BEST PRESENTATION AWARD</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SARAVANAN BHAVADHARANI</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 19;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">POEM READING</span><span style="font-size: 12pt; font-family: Arial, sans-serif;"><br /></span><span style="font-size: 10pt; font-family: Arial, sans-serif;">COMPETITION</span></span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KASHIKA D/O LAKSHMIKANDAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AYSHA IBRAHIM</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 20;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">FANCY DRESS</span><span style="font-size: 12pt; font-family: Arial, sans-serif;"><br /></span><span style="font-size: 10pt; font-family: Arial, sans-serif;">COMPETITION</span></span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AYSHA IBRAHIM</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAJASEKARAN KARTHIKEYAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 21;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ORATORY COMPETITION</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SARAVANAN BHAVADHARANI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PANDIYAN SHANJAY</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 22; mso-yfti-lastrow: yes;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MALAY CEPAT TEPAT COMPETITION</span></p>
+</td>
+<td style="width: 44.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 32.0%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="32%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">EISHALEEZ BELLA BINTE ISKANDAR HADI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NUR RAYYANA BALQIS BINTE MOHAMAD UMAR</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AYUMI ARMANI BINTE MOHAMED ISZUAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD SHAFIQ BIN ZAINI</span></p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h3><strong>Year 2019</strong></h3>
-<div>
-<table border="2" width="780">
+<h2><span style="color: #000000;">Year 2021</span></h2>
+<table class="MsoNormalTable" style="width: 100.0%; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-border-themecolor: text1; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: 1.5pt solid black; mso-border-insideh-themecolor: text1; mso-border-insidev: 1.5pt solid black; mso-border-insidev-themecolor: text1;" border="1" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td width="549"><strong>Name of Competition</strong></td>
-<td width="232"><strong>Award</strong></td>
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes;">
+<td style="width: 23.0%; border: solid black 1.5pt; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">NAME OF COMPETITION</span></strong></span></p>
+</td>
+<td style="width: 44.14%; border: solid black 1.5pt; border-left: none; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">RECOGNITION/POSITION</span></strong></span></p>
+</td>
+<td style="width: 31.84%; border: solid black 1.5pt; border-left: none; background: #B2BEB5; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><strong><span style="font-size: 10pt; font-family: Arial, sans-serif;">NAME OF STUDENT(S)</span></strong></span></p>
+</td>
 </tr>
-<tr>
-<td rowspan="2" width="549">Raffles Institution Pri Mathematics World Competition</td>
-<td width="232">Distinction</td>
+<tr style="mso-yfti-irow: 1;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TEXT RECITAL COMPETITION FOR PRIMARY &amp; SECONDARY SCHOOLS</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE AWARD</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHEE TAI WAH EMILY</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RYAN ZHANG JUNXI</span></p>
+</td>
 </tr>
-<tr>
-<td width="232">Merit</td>
+<tr style="mso-yfti-irow: 2;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SOTA P6 CREATIVE WRITING COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TOP 50 FINALISTS</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HARINEATHRA D/O VENKATESAN</span></p>
+</td>
 </tr>
-<tr>
-<td rowspan="3" width="549">Asia Pacific Mathematics Olympiad</td>
-<td width="232">Gold</td>
+<tr style="mso-yfti-irow: 3;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MYTHOS JUNIOR ORATORS 2021 STORYTELLING COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SEMI-FINALISTS</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TOP 20 FINALISTS</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DYUTHI BHATT</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ZEMILY LEAW JIE RU</span></p>
+</td>
 </tr>
-<tr>
-<td width="232">Silver</td>
+<tr style="mso-yfti-irow: 4;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CREATIVE WRITING COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">2</span><sup><span style="font-size: 7.5pt; font-family: Arial, sans-serif;">ND</span></sup><span style="font-size: 10pt; font-family: Arial, sans-serif;">&nbsp;PLACE</span></span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PUTRI NUR EMELDA BINTE JAILANI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD ZADE ZAEYAEN BIN MOHAMMAD NAZRI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAFKA TRISTAN MAULANA BIN ZULKIFLI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RUKHSANA BINTI JAHANGEER</span></p>
+</td>
 </tr>
-<tr>
-<td width="232">Bronze</td>
+<tr style="mso-yfti-irow: 5;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">3</span><sup><span style="font-size: 7.5pt; font-family: Arial, sans-serif;">RD</span></sup><span style="font-size: 10pt; font-family: Arial, sans-serif;">&nbsp;PLACE</span></span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KHAIRAH KAIYISAH BINTE MOHAMMAD FADLY</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SHANA RIYANA BTE RAMLI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD ZANE ZAEFAER BIN MOHAMMAD NAZRI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ADRYAN B MUHAMMED FARIZAL</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Tamil Language Storytelling Competition (National level)</td>
-<td width="232">Motivational Prize</td>
+<tr style="mso-yfti-irow: 6;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CONSOLATION</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUCI RESHTINA BINTE SAMSOL</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RANDY FERKHAN BIN MOHAMMAD ASRAF</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAPUNZEL SYAKEYLA ABHELIYA BINTE ISMAIL</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NAWFAL AL-AMEEN BIN DARWIS</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Mediacorp Tamil Language Compo Writing Competition</td>
-<td width="232">Winner (top 6, no ranking)</td>
+<tr style="mso-yfti-irow: 7;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CREATIVE DRAMA COMPETITION &ndash; IDIOMS</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">2</span><sup><span style="font-size: 7.5pt; font-family: Arial, sans-serif;">ND</span></sup><span style="font-size: 10pt; font-family: Arial, sans-serif;">&nbsp;PLACE</span></span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PUTERI NUR EMELDA BIN JALANI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD ZADE ZAEYAEN BIN MOHAMNAD NAZRI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RUKSANA BINTE JAHANGEER</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAFKA TRISTAN MAULANA BIN ZULKIFLI</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Tamil Language &ldquo;Spelling Bee&rdquo; National Competition (Ipad Activity)</td>
-<td width="232">Semi Finalists</td>
+<tr style="mso-yfti-irow: 8;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="color: #000000;"><span style="font-size: 10pt; font-family: Arial, sans-serif;">3</span><sup><span style="font-size: 7.5pt; font-family: Arial, sans-serif;">RD</span></sup><span style="font-size: 10pt; font-family: Arial, sans-serif;">&nbsp;PLACE</span></span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KHAIRAH KAIYISAH BINTE MOHAMED FADLY</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SHANA RIYANA BINTE RAMLI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD ZANE ZAEFAER BIN MOHAMMAD NAZRI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ADRYAN BIN MUHAMMED FARIZAL</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">National Schools Game (Netball)</td>
-<td width="232">Quarter Finalists</td>
+<tr style="mso-yfti-irow: 9;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CONSOLATION</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUCI RESHTINA BINTE SAMSOL</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RANDY FERKHAN BIN MOHAMMAD ASRAF</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAPUNZEL SYAKELA ABHELIYA BINTE ISMAIL</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NAWFAL AL-AMEEN BIN MUHAMMAD DARWIS</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Singapore Youth Festival &ndash; Art Exhibition 2019</td>
-<td width="232">Catogory A: Certificate of Recognition</td>
+<tr style="mso-yfti-irow: 10;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="2" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">OPS (SINGAPORE MATHEMATICAL OLYMPIAD FOR PRIMARY SCHOOLS)</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">GOLD</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LO SHAO KAI</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Singapore Youth Festival &ndash; Art Exhibition 2019</td>
-<td width="232">Catogory B: Certificate of Recognition (Special Mention)</td>
+<tr style="mso-yfti-irow: 11;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHUA MING ZHE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NGUYEN BAO LAM</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHEN XINMEI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI DONGNAN</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Singapore Youth Festival &ndash; Art Exhibition 2019</td>
-<td width="232">Catogory C: Certificate of Recognition</td>
+<tr style="mso-yfti-irow: 12;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MATHLYMPICS</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI DONGNAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MATTHIAS NG KYAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHENG RUIDI</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">13<sup>th</sup>&nbsp;National Inter-Primary On-The-Spot Chinese Poetry Writing Competition</td>
-<td width="232">Merit</td>
+<tr style="mso-yfti-irow: 13;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">DENG RUNXUAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XU JIA&rsquo;EN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ISABEL LEE YIN YEE</span></p>
+</td>
 </tr>
-<tr>
-<td width="549">Schools Green Award (SGA)</td>
-<td width="232">Vanda Miss Joaquim Award</td>
+<tr style="mso-yfti-irow: 14;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MERIT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XANDER TAN WEE TONG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SEAN LIM ZHUO YI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TAN KAI QING</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIANG JINGYI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">EVANGELINE YAP XIN YU</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">WONG YU HAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 15;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" rowspan="3" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SINGAPORE PRIMARY SCIENCE OLYMPIAD (SPSO) 2021</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SILVER</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHEE TAI WAH EMILY</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHEN XINMEI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHLOE CHAN KAI HO</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI DONGNAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MATTHIAS NG KYAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MUHAMMAD HAIZEN RAYYAN BIN RASIDIN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KEVIN WANG JINGYU</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 16;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BRONZE</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CHUA MING ZHE (CAI MINGZHE)</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">NGUYEN BAO LAM</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SEAN LIM ZHUO YI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUN CHANGCHENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XANDER TAN WEE TONG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ZHOU ZEYANG</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 17;">
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MERIT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ETHAN BAI YIXUAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">FANG SUM NOK CONSTANCE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ISABEL LEE YIN YEE</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">JOVY CHAN LOK YENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LEE HOI MAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI XINYE NOLAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LO SHAO KAI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LOH ZHENG XUN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">REDDIPALLI SRI SINDUJA</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RITVIK RAMANATHAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">TAN YU XUAN JENELL</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 18;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">FANCY DRESS COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAJASEKARAN KARTHIKEYAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">BALASUBRAMANIAN ROHAN</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 19;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">ORATORY COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">HARI NEATHRA D/O VENKATESAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SRINIVASAN SHREEJAA</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 20;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">STORY TELLING</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AADHAVAN BASKARAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">VENKIDUPATHI SRIJITH</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 21;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">INTERNATIONAL CHINESE LANGUAGE COMPETITION</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIM JIAQI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KEVIN WANG JINGYU</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LOW YU HANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KOK JIA HAO</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LE PEIHAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">AMBER LAR YENRU</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">CAI SHUHUI</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 22; mso-yfti-lastrow: yes;">
+<td style="width: 23.0%; border: solid black 1.5pt; border-top: none; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="23%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RAFFLES SCIENCE OLYMPIAD 2021</span></p>
+</td>
+<td style="width: 44.14%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="44%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">PARTICIPANT</span></p>
+</td>
+<td style="width: 31.84%; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; background: white; padding: 3.75pt 7.5pt 3.75pt 7.5pt;" width="31%">
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LO SHAO KAI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LOW YU HANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">RYAN ZHANG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">SUN CHANGCHENG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KEVIN WANG JINGYU</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LIM JIAQI</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">LI DONGNAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">XANDER TAN WEE TONG</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">MATTHIAS NG KYAN</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #000000;">KALIAPERUMAL PANNEERSELVAM JAHADEESWARAN</span></p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-<h3><strong>Year 2018</strong></h3>
-<div>
-<table border="2" width="780">
-<tbody>
-<tr>
-<td><strong>Name Of Competition</strong></td>
-<td><strong>Award</strong></td>
-</tr>
-<tr>
-<td>7 Star Junior Picasso</td>
-<td>Top Score</td>
-</tr>
-<tr>
-<td rowspan="3">9th International Young Whizzes Challenge Award 2018</td>
-<td>Honorable Mention</td>
-</tr>
-<tr>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Merit</td>
-</tr>
-<tr>
-<td>Singapore Primary Science Olympiad</td>
-<td>Silver</td>
-</tr>
-<tr>
-<td>12th National Inter-Primary On-the-Spot Chinese Poetry Writing Competition</td>
-<td>Third placing</td>
-</tr>
-<tr>
-<td rowspan="3">11th Annual Mathlympics for all Singapore Primary Schools 2018</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Bronze</td>
-</tr>
-<tr>
-<td rowspan="2">Raffles Institution Primary Maths World Competition</td>
-<td>Distinction</td>
-</tr>
-<tr>
-<td>Credit</td>
-</tr>
-<tr>
-<td rowspan="2">Singapore Mathematical Olympiad for Primary School</td>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Credit</td>
-</tr>
-<tr>
-<td>National School Games &ndash; Taekwondo Poomsae</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>3rd National Primary Schools Sports Climbing Championship</td>
-<td>Senior Boys Team Award</td>
-</tr>
-<tr>
-<td>Beautex Life&rsquo;s Beautiful Art Competition</td>
-<td>Merit Award (Top 8)</td>
-</tr>
-<tr>
-<td rowspan="4">W7 On-the-spot Art Competition</td>
-<td>Outstanding Artwork Award (Top 3)</td>
-</tr>
-<tr>
-<td>Outstanding Artwork Award (Top 5)</td>
-</tr>
-<tr>
-<td>Outstanding Artwork Award (Top 10)</td>
-</tr>
-<tr>
-<td>Outstanding Artwork Award (Top 10)</td>
-</tr>
-<tr>
-<td rowspan="2">34th Annual Bird Race by Nature Society of Singapore</td>
-<td>1st</td>
-</tr>
-<tr>
-<td>3rd</td>
-</tr>
-<tr>
-<td>Brownies Chief Commissioner&rsquo;s Award</td>
-<td>Chief Commissioner&rsquo;s Award</td>
-</tr>
-<tr>
-<td>Puan Noor Aishah Award</td>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Frank Cooper Sands Award</td>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Girls&rsquo; Brigade Company Award</td>
-<td>Gold</td>
-</tr>
-<tr>
-<td>JM Fraser Excellence Award</td>
-<td>Silver</td>
-</tr>
-<tr>
-<td>Singapore Youth Festival &ndash; Indian Dance</td>
-<td>Accomplishment</td>
-</tr>
-<tr>
-<td>Singapore Youth Festival &ndash; Contemporary Dance</td>
-<td>Accomplishment</td>
-</tr>
-<tr>
-<td>Singapore Youth Festival &ndash; Choir</td>
-<td>Accomplishment</td>
-</tr>
-<tr>
-<td>Singapore Youth Festival &ndash; Brass Band</td>
-<td>Accomplishment</td>
-</tr>
-<tr>
-<td rowspan="3">Pesta Bahasa</td>
-<td>1st</td>
-</tr>
-<tr>
-<td>2nd</td>
-</tr>
-<tr>
-<td>3rd</td>
-</tr>
-<tr>
-<td rowspan="2">West Zone Junior Science Whiz Challenge</td>
-<td>20th in Written Round</td>
-</tr>
-<tr>
-<td>3rd in Practical Round, 6th in overall</td>
-</tr>
-<tr>
-<td>Singapore Primary School Sports Council Inter Primary School Football Tournament West Zone &ndash; Senior Soccer Team</td>
-<td>Top 4</td>
-</tr>
-<tr>
-<td>Schools Green Award (SGA)</td>
-<td>Vanda Miss Joaquim Award</td>
-</tr>
-<tr>
-<td>WWF Eco Schools</td>
-<td>Silver Award</td>
-</tr>
-</tbody>
-</table>
-</div>
-<h3><strong>Year 2017</strong></h3>
-<div>
-<table border="2" width="780">
-<tbody>
-<tr>
-<td><strong>Name Of Competition</strong></td>
-<td><strong>Award</strong></td>
-</tr>
-<tr>
-<td>Scholastic Read &amp; Write Challenge 2017</td>
-<td>2nd Prize (Primary 1 Category)</td>
-</tr>
-<tr>
-<td>Raffles Institute Primary Math World Contest (Junior Category)</td>
-<td>Credit</td>
-</tr>
-<tr>
-<td rowspan="3">Raffles Institute Primary Math World Contest (Open Category)</td>
-<td>High Distinction</td>
-</tr>
-<tr>
-<td>Distinction</td>
-</tr>
-<tr>
-<td>Credit</td>
-</tr>
-<tr>
-<td>Story Challenge Competition</td>
-<td>Consolation</td>
-</tr>
-<tr>
-<td>Kalakkal Drama</td>
-<td>Champion</td>
-</tr>
-</tbody>
-</table>
-</div>
