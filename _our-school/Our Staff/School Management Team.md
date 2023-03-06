@@ -4,7 +4,7 @@ permalink: /school-management-team/
 description: ""
 third_nav_title: Our Staff
 ---
-<h2><span style="color: #000000;">School Leaders</span></h2>
+<h3><span style="color: #000000;">School Leaders</span></h2>
 <table width="691">
 <tbody>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 <p></p>
-<h2><span style="color: #000000;">Management Team</span></h2>
+<h3><span style="color: #000000;">Management Team</span></h2>
 <table width="691">
 <tbody>
 <tr>
