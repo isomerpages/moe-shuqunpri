@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Calendar.md
+      - Calendar of Events.md
       - Forms.md
       - Presentation Slides & Guides.md
       - Useful Links.md
