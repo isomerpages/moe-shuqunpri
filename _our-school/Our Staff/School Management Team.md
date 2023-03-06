@@ -4,127 +4,234 @@ permalink: /school-management-team/
 description: ""
 third_nav_title: Our Staff
 ---
-
-<h4 class="has-text-align-left"><strong>School Leaders</strong></h4>
-<figure class="wp-block-table">
-<div class="table-responsive">
-<table class="alignleft" border="1" width="96.8938%">
+<h2><span style="color: #000000;">School Leaders</span></h2>
+<table width="691">
 <tbody>
 <tr>
-<td width="199">Principal</td>
-<td width="209">Mrs Sara De Souza</td>
-<td width="282">&nbsp;SARA_de_souza@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">Principal</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mrs Sara De Souza</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">&nbsp;SARA_de_souza@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">Vice Principal (Curriculum)</td>
-<td width="209">Mrs Adeline Kee&nbsp;</td>
-<td width="282">adeline_chong@moe.edu.sg&nbsp;</td>
+<td width="199">
+<p><span style="color: #000000;">Vice Principal (Curriculum)</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mrs Adeline Kee&nbsp;</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">adeline_chong@moe.edu.sg&nbsp;</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">Vice Principal (Administration)</td>
-<td width="209">Ms Angela Lee</td>
-<td width="282">lee_koon_har_angela@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">Vice Principal (Administration)</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Angela Lee</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">lee_koon_har_angela@moe.edu.sg</span></p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
-<h4 class="has-text-align-left"><strong>Management Team</strong></h4>
-<figure class="wp-block-table">
-<div class="table-responsive">
-<table class="alignleft" border="1" width="690">
+<p></p>
+<h2><span style="color: #000000;">Management Team</span></h2>
+<table width="691">
 <tbody>
 <tr>
-<td width="199">Lower Primary Year Head</td>
-<td width="209">Mdm Lee Chiak Ling</td>
-<td width="282">lee_chiak_ling@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">Lower Primary Year Head</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Lee Chiak Ling</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">lee_chiak_ling@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">Middle Primary Year Head</td>
-<td width="209">Mrs Tan Pui Ling</td>
-<td width="282">lau_pui_ling@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">Middle Primary Year Head</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mrs Tan Pui Ling</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">lau_pui_ling@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">Upper Primary Year Head</td>
-<td width="209">Mrs Lim Kar Mui Pamela</td>
-<td width="282">goh_kar_mui@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">Upper Primary Year Head</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mrs Lim Kar Mui Pamela</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">goh_kar_mui@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD English</td>
-<td width="209">Mrs Fong Yoon Yee Sarah</td>
-<td width="282">fong_yoon_yee@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD English</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mrs Fong Yoon Yee Sarah</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">fong_yoon_yee@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD Mathematics</td>
-<td width="209">Mr Billy Wiguna Widjaja</td>
-<td width="282">billy_wiguna_widjaja@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD Mathematics</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mr Billy Wiguna Widjaja</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">billy_wiguna_widjaja@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD Science</td>
-<td width="209">Mdm Lau Hong Lay Karen</td>
-<td width="282">lau_hong_lay@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD Science</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Lau Hong Lay Karen</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">lau_hong_lay@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD Mother Tongue</td>
-<td width="209">Ms Ho Boon Sim</td>
-<td width="282">ho_boon_sim@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD Mother Tongue</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Ang Kai Shi Bessie</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">ang_kai_shi_bessie@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD Educational Support</td>
-<td width="209">Ms Chew Huoy Ling Serene</td>
-<td width="282">chew_huoy_ling_serene@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD Educational Support</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Chew Huoy Ling Serene</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">chew_huoy_ling_serene@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD CCE</td>
-<td width="209">Mdm Germaine Choo Wai Sum</td>
-<td width="282">choo_wai_sum@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD CCE</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Germaine Choo Wai Sum</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">choo_wai_sum@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">HOD Student Management&nbsp;</td>
-<td width="209">Mr Arivinthan s/o Ahwahday</td>
-<td width="282">arivinthan_ahwahday@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD Student Management</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mr Arivinthan s/o Ahwahday</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">arivinthan_ahwahday@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">School Staff Developer</td>
-<td width="209">Mdm Juliyah Yaacob</td>
-<td width="282">juliyah_yaacob@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">HOD PE &amp; CCA</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Chen Li Qun</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">chen_liqun@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">LH Infocomm Technology</td>
-<td width="209">Ms Ng Kwan Gar Rene</td>
-<td width="282">ng_kwan_gar@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">School Staff Developer</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Juliyah Yaacob</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">juliyah_yaacob@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">LH English</td>
-<td width="209">Ms Nurdiana Bte Razeli</td>
-<td width="282">nurdiana_razeli@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">LH Infocomm Technology</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Ng Kwan Gar Rene</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">ng_kwan_gar@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">LH Science</td>
-<td width="209">Mrs Doreen Teh Sze Ming</td>
-<td width="282">Doreen_teh_sze_ming@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">SH Malay Language</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Siti Hajjar Bte Mohd Eusop</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">siti_hajjar_mohamad_eusop@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">LH Chinese Language</td>
-<td width="209">Ms Ang Kai Shi Bessie</td>
-<td width="282">ang_kai_shi_bessie@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">SH Arts</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Mdm Norfaraidh Bte Talib</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">norfaraidh_talib@moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">SH Malay Language</td>
-<td width="209">Mdm Siti Hajjar Bte Mohd Eusop</td>
-<td width="282">siti_hajjar_mohamad_eusop@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">SH Data Management</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Ong Liting</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">ONG_Liting@ moe.edu.sg</span></p>
+</td>
 </tr>
 <tr>
-<td width="199">SH Arts</td>
-<td width="209">Mdm Norfaraidh Bte Talib</td>
-<td width="282">norfaraidh_talib@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="199">SH NESS</td>
-<td width="209">Mr Huang Hansheng</td>
-<td width="282">huang_hansheng@moe.edu.sg</td>
+<td width="199">
+<p><span style="color: #000000;">SH NESS</span></p>
+</td>
+<td width="209">
+<p><span style="color: #000000;">Ms Nurdiana Bte Razeli</span></p>
+</td>
+<td width="283">
+<p><span style="color: #000000;">nurdiana_razeli@moe.edu.sg</span></p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-</figure>
