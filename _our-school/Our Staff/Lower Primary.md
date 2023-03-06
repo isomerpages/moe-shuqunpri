@@ -8,13 +8,13 @@ third_nav_title: Our Staff
 <table class="MsoNormalTable" style="border-collapse: collapse; mso-table-layout-alt: fixed; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="642" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.1pt;">
-<td style="width: 40.85pt; border: solid black 1.5pt; mso-border-themecolor: text1; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="54">
+<td style="width: 40.85pt; border: 1.5pt solid black; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="54">
 <p class="MsoNormal" style="margin-bottom: 0cm; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Class</span></p>
 </td>
-<td style="width: 206.75pt; border: solid black 1.5pt; mso-border-themecolor: text1; border-left: none; mso-border-left-alt: solid black 1.5pt; mso-border-left-themecolor: text1; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="276">
+<td style="width: 206.75pt; border-top: 1.5pt solid black; border-right: 1.5pt solid black; border-bottom: 1.5pt solid black; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="276">
 <p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Form Teacher</span></p>
 </td>
-<td style="width: 233.85pt; border: solid black 1.5pt; mso-border-themecolor: text1; border-left: none; mso-border-left-alt: solid black 1.5pt; mso-border-left-themecolor: text1; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="312">
+<td style="width: 233.85pt; border-top: 1.5pt solid black; border-right: 1.5pt solid black; border-bottom: 1.5pt solid black; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="312">
 <p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Email Address</span></p>
 </td>
 </tr>
@@ -185,18 +185,18 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
 <h3><span style="color: #000000;">Primary 2</span></h3>
 <table class="MsoNormalTable" style="border-collapse: collapse; mso-table-layout-alt: fixed; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="642" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 20.1pt;">
-<td style="width: 40.85pt; border: solid windowtext 1.5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="54">
+<td style="width: 40.85pt; border: 1.5pt solid windowtext; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="54">
 <p class="MsoNormal" style="margin-bottom: 0cm; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Class</span></p>
 </td>
-<td style="width: 206.75pt; border: solid windowtext 1.5pt; border-left: none; mso-border-left-alt: solid windowtext 1.5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="276">
+<td style="width: 206.75pt; border-top: 1.5pt solid windowtext; border-right: 1.5pt solid windowtext; border-bottom: 1.5pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="276">
 <p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Form Teacher</span></p>
 </td>
-<td style="width: 233.85pt; border: solid windowtext 1.5pt; border-left: none; mso-border-left-alt: solid windowtext 1.5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20.1pt;" width="312">
+<td style="width: 233.85pt; border-top: 1.5pt solid windowtext; border-right: 1.5pt solid windowtext; border-bottom: 1.5pt solid windowtext; border-image: initial; border-left: none; padding: 0cm 5.4pt; height: 20.1pt; background-color: #b2beb5;" width="312">
 <p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Email Address</span></p>
 </td>
 </tr>
