@@ -185,7 +185,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <h3><span style="color: #000000;">Primary 2</span></h3>
 <table class="MsoNormalTable" style="border-collapse: collapse; mso-table-layout-alt: fixed; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="642" cellspacing="0" cellpadding="0">
 <tbody>
