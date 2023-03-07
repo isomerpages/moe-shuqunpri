@@ -21,7 +21,7 @@ description: ""
 <td class="xl65" style="border-top: none; border-left: none; width: 166pt;" width="221"><span style="color: #000000;"><a style="color: #000000;" href="https://w7euphoria.edu.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">The Euphoria for the Arts Website</span></a></span></td>
 </tr>
 <tr style="mso-height-source: userset; height: 35.1pt; mso-yfti-irow: 3; mso-yfti-lastrow: yes;">
-<td class="xl65" style="height: 35.1pt; border-top: none; width: 188pt;" width="250" height="46"><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Recommended-Reading-Lists.pdf" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Recommended Reading Lists</span></a></span></td>
+<td class="xl65" style="height: 35.1pt; border-top: none; width: 188pt;" width="250" height="46"><span style="color: #000000;"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Recommended-Reading-Lists.pdf" target="_blank">Recommended Reading Lists</a></span></span></td>
 <td class="xl66" style="border-top: none; border-left: none; width: 187pt;" width="249">&nbsp;</td>
 <td class="xl66" style="border-top: none; border-left: none; width: 166pt;" width="221">&nbsp;</td>
 </tr>
