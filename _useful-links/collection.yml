@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Parents Gateway.md
       - Students.md
       - Teachers.md
       - Parents & Partners.md
