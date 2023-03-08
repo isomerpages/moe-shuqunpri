@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RTP_3162.jpg
+      background: /images/banner.gif
       key_highlights:
         - title: News & Announcements
           description: 2022 WE-STories Publication
@@ -18,8 +18,4 @@ sections:
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
