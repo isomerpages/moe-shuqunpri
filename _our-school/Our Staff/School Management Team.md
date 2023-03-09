@@ -4,7 +4,7 @@ permalink: /school-management-team/
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><span style="text-decoration: underline;">School Leaders</span></h3>
+<h4><span style="text-decoration: underline;">School Leaders</span></h4>
 <table width="771">
 <tbody>
 <tr>
@@ -29,7 +29,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3><span style="text-decoration: underline;">School Executive Committee (Exco)</span></h3>
+<h4><span style="text-decoration: underline;">School Executive Committee (Exco)</span></h4>
 <table width="771">
 <tbody>
 <tr>
