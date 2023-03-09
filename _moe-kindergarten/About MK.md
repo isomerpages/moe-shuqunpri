@@ -16,12 +16,12 @@ description: ""
 <p><span style="color: #000000;">At MOE Kindergarten (MK), we believe that children are curious, active, and competent learners.</span></p>
 <ul>
 <li>
-<h4><span style="color: #000000;"><strong>Children are curious learners<br /></strong></span></h4>
+<h4><span style="color: #000000;">Children are curious learners<br /></span></h4>
 <span style="color: #000000;">They have an innate sense of curiosity that should be nurtured. They wonder, question, explore and seek to make sense and meaning of their world. By acting on their curiosity, they continue to discover and learn more.</span></li>
 <li>
-<h4><span style="color: #000000;"><strong>Children are active learners<br /></strong></span></h4>
+<h4><span style="color: #000000;">Children are active learners<br /></span></h4>
 <span style="color: #000000;">They learn by doing. They are also more likely to understand and remember skills and concepts learnt through participation, exploration and experimentation involving real-life objects and experiences.&nbsp;</span></li>
 <li>
-<h4><span style="color: #000000;"><strong>Children are competent learners<br /></strong></span></h4>
+<h4><span style="color: #000000;">Children are competent learners<br /></span></h4>
 <span style="color: #000000;">Their thinking and reasoning skills evolve over time as they build new knowledge upon their existing knowledge and experiences. Through constantly thinking and reflecting about their learning, children deepen their understanding of how the world works.</span></li>
 </ul>
