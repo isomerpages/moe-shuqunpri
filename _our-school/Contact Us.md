@@ -42,7 +42,7 @@ description: ""
 <p>Email:</p>
 </td>
 <td width="401">
-<p><a href="mailto:svps@moe.edu.sg">sqps@moe.edu.sg</a></p>
+<p><a href="mailto:sqps@moe.edu.sg">sqps@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
