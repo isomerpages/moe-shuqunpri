@@ -15,6 +15,7 @@ description: ""
 </ul>
 
 ![](/images/2023%20Tangrams.png)
+
 <h3><span style="text-decoration: underline; color: #000000;">Starlight Literacy Programme</span></h3>
 <h4><span style="color: #000000;"><strong>Early Childhood Literacy</strong></span></h4>
 <p><span style="color: #000000;">Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children&rsquo;s listening and speaking skills. An active, interactive approach helps to nurture children&rsquo;s interest in learning languages.</span></p>
@@ -32,7 +33,6 @@ description: ""
 <p><span style="color: #000000;">Bilingualism is a cornerstone of Singapore&rsquo;s education system. Learning our MTL gives us direct access to our cultural heritage, and can help us better understand our values, roots and identities.</span></p>
 <p><span style="color: #000000;">At MK, we nurture bilingualism by focusing on listening, speaking and engaging children in games and activities that encourage early literacy development.</span></p>
 <p><span style="color: #000000;">By using their MTL to communicate with teachers and their friends on a daily basis, children build a strong foundation that will prepare them for language learning in later years.</span></p>
-
 <h4><span style="color: #000000;"><strong>Weeks of Wonder (WoW Project)</strong></span></h4>
 <p><span style="color: #000000;">Each term at MOE Kindergarten (MK) culminates in a&nbsp;<strong>Weeks of Wonder (WoW) project</strong>. In a year, children complete 2 WoW projects in English and another 2 in their Mother Tongue Language (MTL). Children will work together with their friends on a topic of their choice.</span></p>
 <p><span style="color: #000000;">Through WoW projects, children learn how to:</span></p>
