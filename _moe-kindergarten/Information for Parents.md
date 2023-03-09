@@ -13,4 +13,3 @@ description: ""
 <h3><span style="text-decoration: underline; color: #000000;">MK financial assistance</span></h3>
 <p><span style="color: #000000;">If your child is a Singapore Citizen, they may qualify for financial assistance under the&nbsp;<a style="color: #000000;" href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" target="_blank"><u>Kindergarten Fee Assistance Scheme (KiFAS)</u></a>. KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.</span></p>
 
-![](/images/MK%20Fee.png)
