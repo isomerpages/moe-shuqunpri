@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /moe-kindergarten/contact-us/
 description: ""
 ---
-
 <table width="539">
 <tbody>
 <tr>
@@ -38,7 +37,7 @@ description: ""
 <p><span style="color: #000000;">Email:</span></p>
 </td>
 <td width="401">
-<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:svps@moe.edu.sg">mk_shuqun@moe.edu.sg</a></span></p>
+<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:mk_shuqun@moe.edu.sg">mk_shuqun@moe.edu.sg</a></span></p>
 </td>
 </tr>
 <tr>
