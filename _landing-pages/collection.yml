@@ -1,5 +1,4 @@
 collections:
   landing-pages:
     output: true
-    order:
-      - Our School LP.md
+    order: []
