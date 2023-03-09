@@ -13,6 +13,8 @@ description: ""
 <li><span style="color: #000000;">Numeracy</span></li>
 <li><span style="color: #000000;">Social and Emotional Development</span></li>
 </ul>
+
+![](/images/2023%20Tangrams.png)
 <h3><span style="text-decoration: underline; color: #000000;"><strong>Starlight Literacy Programme</strong></span></h3>
 <h4><span style="color: #000000;"><strong>Early Childhood Literacy</strong></span></h4>
 <p><span style="color: #000000;">Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children&rsquo;s listening and speaking skills. An active, interactive approach helps to nurture children&rsquo;s interest in learning languages.</span></p>
@@ -23,7 +25,8 @@ description: ""
 <li><span style="color: #000000;">Communicate with confidence.</span></li>
 <li><span style="color: #000000;">Learn about local customs and traditions.</span></li>
 </ul>
-<p>&nbsp;</p>
+
+
 <h4><span style="color: #000000;"><strong>MTL and bilingualism</strong></span></h4>
 <p><span style="color: #000000;">Bilingualism is a cornerstone of Singapore&rsquo;s education system. Learning our MTL gives us direct access to our cultural heritage, and can help us better understand our values, roots and identities.</span></p>
 <p><span style="color: #000000;">At MK, we nurture bilingualism by focusing on listening, speaking and engaging children in games and activities that encourage early literacy development.</span></p>
