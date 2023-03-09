@@ -5,14 +5,14 @@ description: ""
 ---
 ![](/images/MK-Banner.jpg)
 
-<h3><span style="text-decoration: underline; color: #000000;"><strong>Our Vision</strong></span></h3>
+<h3><span style="text-decoration: underline; color: #000000;">Our Vision</span></h3>
 <ul>
 <li><span style="color: #000000;">Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.&nbsp;</span></li>
 <li><span style="color: #000000;">We nurture children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.</span></li>
 <li><span style="color: #000000;">Our curriculum is designed by MOE's curriculum specialists and is based on the Nurturing Early Learners Framework which guides the development of kindergarten programmes in Singapore.&nbsp;</span></li>
 </ul>
 <p><span style="color: #000000;">With a well-designed physical environment and through our two flagship programmes - the HI-Light programme and the Starlight Literacy programme, your child will engage in authentic learning experiences.</span></p>
-<h3><span style="text-decoration: underline; color: #000000;"><strong>Our Beliefs</strong></span></h3>
+<h3><span style="text-decoration: underline; color: #000000;">Our Beliefs</span></h3>
 <p><span style="color: #000000;">At MOE Kindergarten (MK), we believe that children are curious, active, and competent learners.</span></p>
 <ul>
 <li>
