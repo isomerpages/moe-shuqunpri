@@ -3,16 +3,25 @@ title: About MK
 permalink: /moe-kindergarten/about-mk/
 description: ""
 ---
+![](/images/MK-Banner.jpg)
 
-<img src="/images/MK-Banner.jpg">
-         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"Source Sans Pro"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1610613495 33554433 0 0 415 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
-We are excited to share with you that MOE Kindergarten at Shuqun (MK@SQPS) has commenced operation from January 2023.
-
-MOE has been running MKs since 2014 to provide A Strong Start for Every Child. The MK Curriculum nurtures children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy. The feedback from the parents of MK children has been consistently positive, affirming that their children have the confidence and social skills to adapt to Primary 1.
-
-The siting of an MK in our school will offer enriched learning experiences for the school community. Our students will develop social and interpersonal skills by participating in joint activities with the younger children. These joint activities are also opportunities for our students to showcase their learning to the kindergarten children and to exercise their leadership skills when they guide the younger children. Our school teachers will also benefit from a mutual understanding of educational programmes in the MK and primary schools.
-
-The MOE Kindergarten online registration exercise for 2023 K1 admission is closed. Parents who have missed the registration exercise and would like to apply for MOE Kindergarten at Shuqun Primary, please submit the Waitlist Application and supporting documents via: [MOE Kindergarten Waitlist Application 2023](https://www.form.gov.sg/63dcd639dd51570011a2d87a).
-
-The online registration exercise for Early Years Centre (EYC) and Open Admissions (OA) will open from **9am on Friday, 17 February 2023 and close at 4pm on Tuesday, 21 February 2023**. During the registration period, all EYC and OA parents are required to complete a questionnaire via the [MOE MK website](http://www.moe.gov.sg/mk-howtoregister), which will lead you to the respective form link (i.e. EYC or OA registration form) to register online.
+<h3><span style="text-decoration: underline; color: #000000;"><strong>Our Vision</strong></span></h3>
+<ul>
+<li><span style="color: #000000;">Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.&nbsp;</span></li>
+<li><span style="color: #000000;">We nurture children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.</span></li>
+<li><span style="color: #000000;">Our curriculum is designed by MOE's curriculum specialists and is based on the Nurturing Early Learners Framework which guides the development of kindergarten programmes in Singapore.&nbsp;</span></li>
+</ul>
+<p><span style="color: #000000;">With a well-designed physical environment and through our two flagship programmes - the HI-Light programme and the Starlight Literacy programme, your child will engage in authentic learning experiences.</span></p>
+<h3><span style="text-decoration: underline; color: #000000;"><strong>Our Beliefs</strong></span></h3>
+<p><span style="color: #000000;">At MOE Kindergarten (MK), we believe that children are curious, active, and competent learners.</span></p>
+<ul>
+<li>
+<h4><span style="color: #000000;"><strong>Children are curious learners<br /></strong></span></h4>
+<span style="color: #000000;">They have an innate sense of curiosity that should be nurtured. They wonder, question, explore and seek to make sense and meaning of their world. By acting on their curiosity, they continue to discover and learn more.</span></li>
+<li>
+<h4><span style="color: #000000;"><strong>Children are active learners<br /></strong></span></h4>
+<span style="color: #000000;">They learn by doing. They are also more likely to understand and remember skills and concepts learnt through participation, exploration and experimentation involving real-life objects and experiences.&nbsp;</span></li>
+<li>
+<h4><span style="color: #000000;"><strong>Children are competent learners<br /></strong></span></h4>
+<span style="color: #000000;">Their thinking and reasoning skills evolve over time as they build new knowledge upon their existing knowledge and experiences. Through constantly thinking and reflecting about their learning, children deepen their understanding of how the world works.</span></li>
+</ul>
