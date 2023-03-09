@@ -19,8 +19,8 @@ description: ""
 </td>
 <td width="401">
 <p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">Monday - Friday :</span></p>
-<p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">8.00 a.m. - 5.00 p.m. (<a style="color: #000000;" href="mailto:MK@Shuqun">MK@Shuqun</a>)</span></p>
-<p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">7.00 a.m. - 7.00 p.m. (<a style="color: #000000;" href="mailto:KCare@Shuqun">KCare@Shuqun</a>)</span></p>
+<p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">8.00 a.m. - 5.00 p.m. (MK@Shuqun)</span></p>
+<p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">7.00 a.m. - 7.00 p.m. (KCare@Shuqun)</span></p>
 <p style="margin: 0cm;"><span style="font-family: Arial, sans-serif; color: #000000;">Closed on Saturday &amp; Sunday</span></p>
 </td>
 </tr>
