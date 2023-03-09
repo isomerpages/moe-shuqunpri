@@ -12,7 +12,8 @@ description: ""
 <h4><span style="color: #000000;"><strong>Math Activities and Displays</strong></span></h4>
 <p><span style="color: #000000;">To increase students&rsquo; interest in learning Mathematics, the school uses its Math walls and notice boards to engage students with Math application in daily life, as well as Math quizzes. In addition, the school also conduct Math competitions such as poster and game design competition as well as ICT quizzes.</span></p>
 
-![](/images/Math.png)
+![](/images/Dept%20Photo/Math.png)
+
 <h4><span style="color: #000000;"><strong>Enrichment Programmes</strong></span></h4>
 <ol>
 <li><span style="color: #000000;"><strong>E2K (Excellence 2000)</strong></span></li>
