@@ -3,7 +3,7 @@ title: Curriculum
 permalink: /moe-kindergarten/curriculum/
 description: ""
 ---
-<h3><span style="text-decoration: underline; color: #000000;"><strong>Hi-Light Programme</strong></span></h3>
+<h3><span style="text-decoration: underline; color: #000000;">Hi-Light Programme</span></h3>
 <p><span style="color: #000000;">The HI-Light programme is designed to support the holistic development of children by nurturing in them values, social and emotional skills and learning dispositions, as well as knowledge and skills across the following five learning areas through an integrated approach:</span></p>
 <ul>
 <li><span style="color: #000000;">Aesthetics and Creative Expression</span></li>
@@ -15,7 +15,7 @@ description: ""
 </ul>
 
 ![](/images/2023%20Tangrams.png)
-<h3><span style="text-decoration: underline; color: #000000;"><strong>Starlight Literacy Programme</strong></span></h3>
+<h3><span style="text-decoration: underline; color: #000000;">Starlight Literacy Programme</span></h3>
 <h4><span style="color: #000000;"><strong>Early Childhood Literacy</strong></span></h4>
 <p><span style="color: #000000;">Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children&rsquo;s listening and speaking skills. An active, interactive approach helps to nurture children&rsquo;s interest in learning languages.</span></p>
 <p><span style="color: #000000;">We will use Big Books, songs, rhymes and games to help your child to:</span></p>
