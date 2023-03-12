@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - School Achievements/School Achievements.md
+      - School Achievements/2022.md
       - School Achievements/.keep
       - Our School.md
       - Principal's Message.md
