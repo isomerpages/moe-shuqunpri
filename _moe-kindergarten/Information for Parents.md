@@ -10,7 +10,7 @@ description: ""
 <li><span style="color: #000000;">$320 for Singapore Permanent Residents (PRs).</span></li>
 </ul>
 <p><span style="color: #000000;">Fees are also payable during the June and December holidays.</span></p>
-<h3><span style="text-decoration: underline; color: #000000;">MK financial assistance</span></h3>
+<h3><span style="text-decoration: underline; color: #000000;">MK Financial Assistance</span></h3>
 <p><span style="color: #000000;">If your child is a Singapore Citizen, they may qualify for financial assistance under the&nbsp;<a style="color: #000000;" href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" target="_blank"><u>Kindergarten Fee Assistance Scheme (KiFAS)</u></a>. KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.</span></p>
 
 **KiFAS Subsidies from 1 Jan 2023:-**
