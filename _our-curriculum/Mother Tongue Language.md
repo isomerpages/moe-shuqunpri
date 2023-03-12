@@ -22,4 +22,4 @@ description: ""
 <p><strong>Programme&nbsp;for High Progress students</strong></p>
 <p>Identified high progress learners are given extra opportunities to stretch their potential through competitions, E-book creations and school-based writing programme.</p>
 
-![](/images/Dept%20Photo/MTL.png)
+![](/images/MTL.png)
