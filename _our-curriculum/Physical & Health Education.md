@@ -33,6 +33,8 @@ description: ""
 <li><span style="color: #000000;">Primary 1 students would learn about the general dental health and hygiene.</span></li>
 <li><span style="color: #000000;">Primary 5 students would learn about the causes of gum diseases and its prevention.</span></li>
 </ul>
+
+![](/images/Dental%20Health%20Programme.jpg)
 <ol start="4">
 <li>
 <h4><span style="color: #000000;"> Holistic Health Education Programme</span></h4>
@@ -58,4 +60,5 @@ description: ""
 </li>
 </ol>
 <p><span style="color: #000000;">The SwimSafer programme is part of the PE curriculum. Through this programme, the students learn water confidence and skills that enable them to participate in water activities safely and confidently. After a hiatus due to COVID, our Primary 6 and 5 students finally got the opportunities to embark on their SwimSafer course.</span></p>
-<p>&nbsp;</p>
+
+![](/images/Swim%20Safer.jpg)
