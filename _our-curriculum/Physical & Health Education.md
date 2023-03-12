@@ -5,7 +5,7 @@ description: ""
 ---
 <h3><span style="text-decoration: underline; color: #000000;">Mission</span></h3>
 <p><span style="color: #000000;">To provide opportunities for our students to discover and pursue their interest in physical activities through Physical Education (PE). The department aims to prepare students to lead a healthy and active lifestyle beyond primary school, and develop character and leadership skills that are aligned to the school&rsquo;s values.</span></p>
-<h4><span style="color: #000000;"><u>Key Programmes</u></span></h4>
+<h3><span style="color: #000000;"><u>Key Programmes</u></span></h3>
 <ol>
 <li>
 <h4><span style="color: #000000;"> Sports and Wellness Fiesta</span></h4>
