@@ -42,4 +42,4 @@ description: ""
 </ol>
 <p>HP Enrichment is in the form of literature appreciation such as novel study where students engage in extensive reading and understanding of different types of rich texts for pleasure. Students learn to read critically by focusing on implied meaning, higher-order thinking, judgement and evaluation.</p>
 
-![](/images/English%20Dept/English.png)
+![](/images/English.png)
