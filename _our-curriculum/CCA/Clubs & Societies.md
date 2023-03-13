@@ -4,17 +4,16 @@ permalink: /our-students/cca/clubs-and-societies/
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong><span style="text-decoration: underline;">Media Production Club</span></strong></h4>
-<img src="/images/MPH.jpg">
-<p>Here at Media Production Club, members will learn the art of photography and videography. One of the highlights in this club is the Stop-motion animation whereby members will work in a group and embark on video projects using Lego Movie Maker to create a story-based animation.</p>
+<h3><span style="text-decoration: underline; color: #000000;">Clubs</span></h3>
+<h4><span style="color: #000000;">Media Production House</span></h4>
+<p><span style="color: #000000;">Here at Media Production House, members will learn the art of photography and videography. One of the highlights in this CCA is the Stop-motion workshop where members work in groups to create a story-based animation. The members also have the opportunities to apply their skills of photo taking during school events and taking part in photography competitions.</span></p>
 
-<h4><strong><span style="text-decoration: underline;">Library Club</span></strong></h4>
-<img src="/images/Library-e1548995553855.jpg">
-<p>Other than learning to do cataloging of books, members of the Library Club will also be trained to choose interesting books for display and help to change the school library monthly theme displays. Other activities include completing the Dare To Read Mission, participating in Reader&rsquo;s Theater and school events such as CCA Open House, Book Buffet and PCRD (Parent Child Reading Day).</p>
+![](/images/MPH1.jpg)
+<h4><span style="color: #000000;">Green Club</span></h4>
+<p><span style="color: #000000;">Members of the Green Club will learn about environmental issues particularly on awareness of the 3Rs and understanding of the impact of plastic pollution on wildlife and the environment through hands-on and experiential learning. They have many opportunities to advocate for environmental issues both within and outside the school. They also participate in gardening and bird watching activities.</span></p>
 
-<h4><strong><span style="text-decoration: underline;">Green Club</span></strong></h4>
-<img src="/images/Green-Club.jpg">
-<p>Members of the Green Club will learn about environmental issues particularly on awareness of the 3Rs and understanding of the impact of plastic pollution on wildlife and the environment through hands on and experiential learning. Other than working together in a group to come up with innovative and creative environmental solutions, they will also be participating in Eco Camp and Youth For Environment Day.</p>
-<h4><strong><span style="text-decoration: underline;">Art Club</span></strong></h4>
-<img src="/images/Art-Club.jpg">
-<p>Through weekly sessions, members of the Art Club will explore different kinds of art media particularly paints, color pencils and oil pastels. These art projects act as a platform for Art Club members to enhance their creativity and self-expression thus enabling them to have better understanding of the elements of art and principles of design. Artworks that are put on display around the school vicinity is evident of the Art Club members&rsquo; talent. Other activities include W7 On-the-spot Art Competition and National Art Festival.</p>
+![](/images/Green%20Club.jpg)
+<h4><span style="color: #000000;">Library Club</span></h4>
+<p><span style="color: #000000;">Students with a love for reading and a passion for activities related to books are most welcomed at the Library CCA Club. We have different activities throughout the year, introducing students to new books, marketing of books, researching on thematic displays for the library and even performing items like Reader's Theatre and Storytelling. In addition, students go on Treasure Hunts in school and on learning journeys outside of school too!</span></p>
+
+![](/images/LIbrary%20.jpg)
