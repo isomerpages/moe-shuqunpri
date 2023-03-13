@@ -1,5 +1,5 @@
 collections:
-  our-distinctive-programme:
+  our-distinctive-programmes:
     output: true
     order:
       - Reading Culture Programme.md
