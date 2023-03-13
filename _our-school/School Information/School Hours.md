@@ -4,7 +4,7 @@ permalink: /our-school/School-Information/permalink/
 description: ""
 third_nav_title: School Information
 ---
-<h3><span style="color: #000000;"><u>School Hours</u></span></h3>
+<h3><span style="color: #ff0000;">School Hours</span></h3>
 <table width="633">
 <tbody>
 <tr>
@@ -75,7 +75,7 @@ third_nav_title: School Information
 <p><span style="color: #000000;">Primary 3 &amp; 4 &ndash; Gate 2</span></p>
 <p><span style="color: #000000;">Primary 5 &amp; 6 &ndash; Gate 3</span></p>
 <p><span style="color: #000000;">Wet Weather &ndash; All Gate 1</span></p>
-<h3><span style="color: #000000;"><u>Recess Timings</u></span></h3>
+<h3><span style="color: #ff0000;">Recess Timings</span></h3>
 <table width="434">
 <tbody>
 <tr>
@@ -124,7 +124,7 @@ third_nav_title: School Information
 </tr>
 </tbody>
 </table>
-<h3><span style="color: #000000;"><u>Lunch Timings</u></span></h3>
+<h3><span style="color: #ff0000;">Lunch Timings</span></h3>
 <table style="width: 335px;" width="330">
 <tbody>
 <tr>
