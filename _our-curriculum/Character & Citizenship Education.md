@@ -34,6 +34,8 @@ description: ""
 ![](/images/CCE004.jpg)
 <h4><span style="color: #ff0000;"><strong>CCE Ambassadors</strong></span></h4>
 <p><span style="color: #000000;">Our ambassadors are student leaders who promote Character and Citizenship values through school programmes. They engage and lead their peers in class, level, school and student-initiated community projects as part of their leadership development. Our CCE ambassadors adopt the five practices of exemplary leadership model in the planning and implementation of CCE activities which they initiate. &nbsp;Some activities include involvement in NE commemorative events, sharing of school values and organising the Non-Teaching Staff Appreciation Day.</span></p>
+
+![](/images/CCE005.jpg)
 <h3><span style="color: #ff0000;"><strong>Citizenship Education</strong></span></h3>
 <h4><span style="color: #ff0000;"><strong>National Education (NE) Events</strong></span></h4>
 <p><span style="color: #000000;">National Education comprises four core annual events that we commemorate as a school. The Commemorative Days are linked to defining moments in Singapore's history. Learning activities are customised to create a holistic learning experience for our students. They will engage in various activities to understand the significance of each event and reflect on their importance in Singapore as well as themselves as Singaporeans. As part of the National Education programme, all Primary 5 students will also be scheduled to attend the National Education Show (NE Show) which is a special preview of the National Day Parade. Through this Learning Journey, students learn to appreciate the significance of National Day.</span></p>
