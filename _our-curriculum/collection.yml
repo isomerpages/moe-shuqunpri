@@ -2,8 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Information & Communication Technology.md
-      - Educational Support.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -12,6 +10,8 @@ collections:
       - Aesthetics.md
       - Student Management.md
       - Character and Citizenship Education.md
+      - Educational Support.md
+      - Information & Communication Technology.md
       - Sexuality Education.md
       - CCA/.keep
       - CCA/CCAs.md
