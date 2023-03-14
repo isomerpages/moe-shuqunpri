@@ -6,11 +6,11 @@ description: ""
 <h3><span style="color: #ff0000;"><strong>Applied Learning Programme (ALP) </strong></span></h3>
 <p>In alignment with the school&rsquo;s Vision, Mission and Values, our ALP - Caring and Responsible Environmentalists (CaRE) is anchored on the focus area on the environment. Through our ALP, we strive to strengthen connections between learning across different subject disciplines and develop 21<sup>st</sup> CC and skills in our Shuqunites.</p>
 
-
+![](/images/ALP001.png)
 <p>Figure 1: ALP Framework</p>
 <p>The objectives of our ALP are as follows:</p>
 
-![](/images/ALP002.jpg)
+![](/images/ALP002.png)
 <p>Through engagement in the learning of environmental issues, students learn the necessary knowledge, skills and inculcate values which will enable them to demonstrate compassion and be willing to make a difference. The ALP lessons for all Primary 4 and Primary 5 students are structured in a pedagogical approach &ldquo;Learn, Explore and Apply&rdquo;, by which students deepen their learning of environmental issues in an inter-disciplinary manner, and apply their learning in a hands-on, minds-on manner through design thinking.</p>
 <table style="height: 119px;">
 <tbody>
@@ -46,3 +46,5 @@ description: ""
 <p>Green Club CCA members and Green Ambassadors who are passionate about caring for the environment, play an active in advocating and influencing others to adopt an environmentally friendly lifestyle through outreach activities for the community and school. During Youth for Environment Day, they prepared videos to educate their peers about recycling and pollution. Besides spreading environmental-related messages to others, they perform daily checks during recess and lunch to ensure that their peers are recycling their recyclables properly. Our Green Club members also play active roles in in taking care of the plants in our school&rsquo;s Edibles Garden.</p>
 <h4><span style="color: #ff0000;"><strong>Makers@Shuqun</strong></span></h4>
 <p>Our Makers@Shuqun programme engages students in fun hands-on-activities to develop their inventive thinking, collaboration skills and positive mindsets towards learning. As our Shuqunites immerse in these hands-on minds-on challenges, we hope to inculcate a dare-to-try spirit and a growth mindset in them.</p>
+
+![](/images/ALP005.jpg)
