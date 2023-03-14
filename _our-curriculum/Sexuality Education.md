@@ -36,7 +36,7 @@ description: ""
 ![](/images/Pri5.jpg)
 <h4 style="text-align: center;"><span style="color: #ff0000;">Primary 6</span></h4>
 
-![](/images/Pri%206.jpg)
+![](/images/Pri6.jpg)
 <p style="margin: 0cm;"><span style="color: black;">Please Note:</span></p>
 <p style="margin: 0cm;"><strong><span style="color: black;">*</span></strong><span style="color: black;">For&nbsp;<u>2023</u>, the Primary 5 lesson &ldquo;<em>Did You Know</em>?&rdquo; will also be conducted for the Primary 6 cohort.</span></p>
 <h4><strong><span style="color: #ff0000;">Information for Parents</span></strong></h4>
