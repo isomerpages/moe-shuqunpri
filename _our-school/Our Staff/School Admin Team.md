@@ -4,12 +4,7 @@ permalink: /school-admin-team/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
-
-
-
-<h4><span style="text-decoration: underline; color: #000000;">School Executive &amp; Administrative Staff</span></h4>
+<h3><span style="color: #ff0000;">School Admin Team</span></h3>
 <table width="771">
 <tbody>
 <tr>
