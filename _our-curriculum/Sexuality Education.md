@@ -18,9 +18,9 @@ description: ""
 <li><span style="color: #000000;">Make responsible decisions for yourself, your family and society; and</span></li>
 <li><span style="color: #000000;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</span></li>
 </ul>
-<p><span style="color: #000000;">You may click&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a></span>&nbsp;for more information on MOE Sexuality Education.</span></p>
+<p><span style="color: #000000;">You may click&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://go.gov.sg/moe-sexuality-education">here</a></span>&nbsp;for more information on MOE Sexuality Education.</span></p>
 <h4><strong><span style="color: #ff0000;">Overview of Shuqun Primary School&rsquo;s Sexuality Education Programme for 2023.</span></strong></h4>
-<p><span style="color: #000000;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a style="color: #000000;" href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
+<p><span style="color: #000000;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://go.gov.sg/moe-sexuality-education-scope">here</a></span>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
 <p><span style="color: #000000;">5. The subjects that incorporate topics on sexuality include:</span></p>
 <ul>
 <li><span style="color: #000000;">Science</span></li>
@@ -40,5 +40,5 @@ description: ""
 <p style="margin: 0cm;"><strong><span style="color: black;">*</span></strong><span style="color: black;">For&nbsp;2023, the Primary 5 lesson &ldquo;<em>Did You Know</em>?&rdquo; will also be conducted for the Primary 6 cohort.</span></p>
 <h4><strong><span style="color: #ff0000;">Information for Parents</span></strong></h4>
 <p><span style="color: #000000;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</span></p>
-<p><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable from the website <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://go.gov.sg/sqps-sed2023-optoutform" target="_blank">here</a></span>.</span></p>
+<p><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable from the website <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://go.gov.sg/sqps-sed2023-optoutform">here</a></span>.</span></p>
 <p><span style="color: #000000;">10. Parents can contact the school at 65637129 for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.</span></p>
