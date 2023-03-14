@@ -3,24 +3,41 @@ title: Learning of Life Programme
 permalink: /learning-for-life-programme/
 description: ""
 ---
-
-
-
-<p><strong>Outdoor Education (Learning for Life Programme)</strong></p>
-<p>Shuqun Primary School&nbsp; attained the Learning for Life Programe (LLP) status for Outdoor Education (OE) in 2014. Outdoor Education in SQPS engages the students&rsquo; spirit of adventure through exploring both natural and urbanised environments, starting with the local context, and extending it to other unfamiliar, outdoor locations.&nbsp;</p>
-
+<p><strong>Character and Leadership development through ADventure (CLAD)</strong></p>
+<p>We aim to develop the students&rsquo; character and leadership through outdoor education. Outdoor Education in SQPS engages the students&rsquo; spirit of adventure through the exploration of natural and urban environments.</p>
+<p><strong>Shuqun Primary School&rsquo;s objectives for LLP are:</strong></p>
+<ol>
+<li>Provide students with opportunities to develop and apply outdoor skills in an authentic environment.</li>
+<li>Train and empower students with the skills and aptitudes to lead and advocate for OE and Environmental Education.</li>
+<li>Develop character and leadership skills of students through adventure, in line with the 21st Century Competencies.</li>
+</ol>
 <p><strong>OE Framework</strong></p>
-<p>The framework for Outdoor Education in SQPS is based on the 3Ls of&nbsp;<strong>Learn, Live</strong>&nbsp;and&nbsp;<strong>Lead&nbsp;</strong>whereby students are progressively taught specific outdoor and life skills through various programmes at the learning stage.&nbsp; They are given opportunities to apply these skills in authentic settings such as thematic level based camps at the living stage. Students with keen interest and aptitude in OE are further stretched at the Lead stage by learning to become advocates for OE and environmental education.</p>
-<p>Through this 3 tiered&nbsp;approach, students across all 6 levels are given the opportunity to develop outdoor skills that enable them to move comfortably, confidently and safely over different terrains. In addition to learning about designing a targeted approach for students to be exposed to and experience OE , schools can also learn how to get students&nbsp;to identify, assess and manage risks to self and others as they learn to interact responsibly with and care for the environments they explore as they build character, leadership&nbsp;and&nbsp;the spirit of adventurism.</p>
-
-<p>The outcomes of OE in SQPS contribute to the 21<sup>st</sup>&nbsp;century competencies. The OE outcome after six years is a Shuqunite who is comfortable and ready to be involved in activities in the outdoor environment. In addition, Shuqunites with the aptitude and talents will be able to lead in OE.</p>
-
-
-<img src="/images/LLP3-300x224.jpg" 
-     style="width:50%">
-<p style="text-align: center;"><strong>Shuqunite&rsquo;s OE Journey</strong></p>
-<img src="/images/LLP2-300x240.jpg" 
-     style="width:50%">
-<p style="text-align: center;"><strong>OE Key Programmes</strong></p>
-<img src="/images/LLP1-300x211.jpg" 
-     style="width:50%">
+<p><strong>&nbsp;</strong></p>
+<p>The framework for Outdoor Education in SQPS is based on the 3Ls of&nbsp;<strong>Learn, Live</strong>&nbsp;and&nbsp;<strong>Lead. </strong></p>
+<p><strong>OE pathway</strong></p>
+<p><strong>Key Programmes</strong></p>
+<p><strong><u>Learning Stage</u></strong></p>
+<p>At the learning stage, students learn specific outdoor and life skills through a spiral approach. OE skills are taught explicitly in Physical Education lessons for Primary 1 to 6 students and Programme for Active Learning (PAL) for Primary 1 and 2 students. The values and skills learnt in this stage form the building blocks for the next stage of the students&rsquo; OE experience.</p>
+<p><strong>P1 &amp; P2 PAL OE</strong></p>
+<p><strong>P3 to P6 OE in PE</strong></p>
+<ul>
+<li><strong>Navigation</strong></li>
+<li><strong>Bouldering exposure</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><u>Living Stage</u></strong></p>
+<p>In the living stage, students apply their learning in authentic outdoor situations as they participate in OE activities beyond the school environment. At camps, students would learn to manage themselves and work with others.&nbsp;</p>
+<p><strong>P4 Explorer camp</strong></p>
+<p><strong>P5 Adventurer camp</strong></p>
+<p><strong>P6 Eco-champ camp</strong></p>
+<p>&nbsp;</p>
+<p><strong>Leading Stage</strong></p>
+<p>Students with a keen interest and aptitude in OE are further stretched at the leading stage. They become more skillful and can advocate for outdoor education and environmental efforts. Students may have the opportunity to participate in competitions and the LEADEx programme where their character and leadership skills are further honed through outdoor adventure activities.</p>
+<p>&nbsp;</p>
+<p><strong>Leadership Through Adventure Expedition (LEADEx)</strong></p>
+<p>&nbsp;</p>
+<p><strong>OE Competitions</strong></p>
+<ul>
+<li><strong>Orienteering</strong></li>
+<li><strong>Sports climbing</strong></li>
+</ul>
