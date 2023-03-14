@@ -3,18 +3,42 @@ title: Applied Learning Programme
 permalink: /environmental-education-programme/
 description: ""
 ---
+<h3><span style="color: #ff0000;"><strong>Applied Learning Programme (ALP) </strong></span></h3>
+<p>In alignment with the school&rsquo;s Vision, Mission and Values, our ALP - Caring and Responsible Environmentalists (CaRE) is anchored on the focus area on the environment. Through our ALP, we strive to strengthen connections between learning across different subject disciplines and develop 21<sup>st</sup> CC and skills in our Shuqunites.</p>
 
 
-<p>Shuqun&rsquo;s Green Plan is a school wide approach to educate students with skills to solve global environmental problems we face. We want them to be responsible to the environment which they live in. The Environment Education curriculum is developed by teachers with the aim to educate our students on environmental challenges and raise awareness that our everyday actions impact our environment sustainability.<br />This curriculum focuses on six key areas of conservation. &nbsp;The students will engage in active discussion on the various environmental and conservation challenges such as climate change. Through active learning, students can learn to be more proactive and become next generation of conservation leaders. The lessons and discussions are aimed&nbsp;&nbsp;to broaden and deepen students&rsquo; level of environmental knowledge so that they can transfer their learning into positive environmental actions.&nbsp;</p>
-
-<img src="/images/Untitled-300x280.jpg" 
-     style="width:50%">
-
-<p style="text-align: center;"><strong>6 Key Areas of the Environmental Education Programme&nbsp;</strong></p>
-<p><strong>Water Conservation (Primary 1)</strong>&nbsp;&ndash; Students will learn the importance of conserving water and ways to conserve water at home and in school through interactive videos and teacher-facilitated class discussions.<br /><strong>Electrical Conservation (Primary 2)</strong>&nbsp;&ndash; Students go through a series of lessons focus on conserving electricity and how students can play a key at home at in school to help reduce the consumption of electricity.<br /><strong>Animals Conservation (Primary 3)</strong>&nbsp;&ndash; Lessons are conducted to empower students with knowledge of what they as individuals can do to make a difference for animals. They will also learn more about illegal wildlife trade and understand how human&rsquo;s activities lead to animals becoming endangered.<br /><strong>Waste Management (Primary 4)</strong>&nbsp;&ndash; Students will learn about the increase of waste generated day to day is not sustainable for a land -scarce Singapore. They will learn more about recycling and food waste management. Opportunities are provided to students to demonstrate their understanding about the importance of waste reduction using ICT tools such as Stop-Animation.<br /><strong>Singapore Environmental Challenges (Primary 5)</strong>&nbsp;&ndash; Lessons faced by Singapore such as haze and pollution are covered to increase students&rsquo; awareness about Singapore&rsquo;s environmental concerns. Students will create simple animated videos to educate others about the environmental challenges they have learnt.<br /><strong>Global Environmental Challenges (Primary 6)</strong>&nbsp;&ndash; Students learn more about global environmental problems such as global warming and climate change.</p>
-<p><strong>Shuqun Primary&rsquo;s Environmental Education Policy</strong></p>
-<p>It is important for the Shuqun Primary community to have an awareness and understanding of its actions on the environment in which we learn, work, play and interact. We must make it our goal to make responsible choices and demonstrate a duty of care to the lives of others, living things and the environment around us.</p>
-<p>The way in which we will strive towards this goal is to reduce wastage, reuse materials which can be restored and recycle materials that can be used for various purposes and participate in environmental education activities.</p>
-<p>As members of the Shuqun Primary community,</p>
-<p>1. We will switch off all fans and lights when not in use.<br />2. We will turn off taps when they are not in use.<br />3. We will not litter.<br />4. We will reduce the amount of paper we use and ensure both sides of the paper are fully used before we dispose them.<br />5. We will dispose recyclable items into the proper recycle bins where available.<br />6. We will not buy things we do not need.<br />7. We will use our own reusable bags when we go shopping.<br />8. We will use refillable products such as refillable ink pens, markers and soap.<br />9. We will avoid the use of styrofoam plates, cups and utensils.<br />10. We will champion energy and water conservation.<br />11. We will adopt &ldquo;Leave No Trace&rdquo; (LNT) principles in the conduct of&nbsp;our outdoor activities.<br />12. We will reduce our *carbon footprints to protect the environment.<br />13. We will participate in activities that champion and promote green&nbsp;efforts and environmental education.</p>
-<p>*<em>Carbon footprint generally refers to measure of the amount of carbon dioxide or its equivalent of other green house gases emitted that contribute to global warming.</em></p>
+<p>Figure 1: ALP Framework</p>
+<p>The objectives of our ALP are as follows:</p>
+<p>&nbsp;</p>
+<p>Through engagement in the learning of environmental issues, students learn the necessary knowledge, skills and inculcate values which will enable them to demonstrate compassion and be willing to make a difference. The ALP lessons for all Primary 4 and Primary 5 students are structured in a pedagogical approach &ldquo;Learn, Explore and Apply&rdquo;, by which students deepen their learning of environmental issues in an inter-disciplinary manner, and apply their learning in a hands-on, minds-on manner through design thinking.</p>
+<table style="height: 119px;">
+<tbody>
+<tr style="height: 41px;">
+<td style="height: 41px; width: 630px;" colspan="2">
+<p><strong>Focus area for Tier 1 Programme</strong></p>
+</td>
+</tr>
+<tr style="height: 78px;">
+<td style="height: 78px; width: 312px;">
+<p>Primary 4</p>
+<p>Waste Management</p>
+</td>
+<td style="height: 78px; width: 312px;">
+<p>Primary 5</p>
+<p>Water Sustainability</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4><span style="color: #ff0000;"><strong>P4 ALP Waste Management (2022)</strong></span></h4>
+<p>Our P4 students embarked on their ALP journey anchored on the theme of Waste Management this year. Using the Design Thinking approach, students are able to connect their learning through different subject disciplines such as English, Mathematics, Science, Social Studies, CCE, Art and Music to solve waste management issues. They gain deeper understanding on how they can play their part to save the environment and contribute to building a sustainable nation. Our students develop skills and 21<sup>st</sup> century competencies as they collaborate to come up with various creative solutions. Students also learn to be resilient as they try multiple times to improve their solutions.</p>
+<p>&nbsp;</p>
+<h4><span style="color: #ff0000;"><strong>Environmental Education Curriculum</strong></span></h4>
+<p>Through our school&rsquo;s Environment Education curriculum, our Shuqunites learn more about environmental issues happening around them and raise their awareness about the environment so that they can transfer their learning into positive actions. This curriculum focuses on key areas of environmental conservation.</p>
+<p><strong>&nbsp;</strong></p>
+<h3><span style="color: #ff0000;"><strong>ALP Tier 2 Programme</strong></span></h3>
+<h4><span style="color: #ff0000;"><strong>Green Club CCA / Green Ambassadors</strong></span></h4>
+<p>Green Club CCA members and Green Ambassadors who are passionate about caring for the environment, play an active in advocating and influencing others to adopt an environmentally friendly lifestyle through outreach activities for the community and school. During Youth for Environment Day, they prepared videos to educate their peers about recycling and pollution. Besides spreading environmental-related messages to others, they perform daily checks during recess and lunch to ensure that their peers are recycling their recyclables properly. Our Green Club members also play active roles in in taking care of the plants in our school&rsquo;s Edibles Garden.</p>
+<h4><span style="color: #ff0000;"><strong>Makers@Shuqun</strong></span></h4>
+<p>Our Makers@Shuqun programme engages students in fun hands-on-activities to develop their inventive thinking, collaboration skills and positive mindsets towards learning. As our Shuqunites immerse in these hands-on minds-on challenges, we hope to inculcate a dare-to-try spirit and a growth mindset in them.</p>
