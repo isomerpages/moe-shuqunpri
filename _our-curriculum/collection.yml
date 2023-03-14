@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Educational Support.md
       - English.md
       - Mathematics.md
       - Science.md
