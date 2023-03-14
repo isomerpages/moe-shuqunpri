@@ -45,6 +45,8 @@ description: ""
 <li><span style="color: #000000;">-Racial Harmony Day</span></li>
 <li><span style="color: #000000;">-National Day</span></li>
 </ul>
+
+![](/images/CCE006.jpg)
 <h4><span style="color: #ff0000;"><strong>Learning Journeys</strong></span></h4>
 <p><span style="color: #000000;">Cohort learning journeys support the development of citizenship dispositions and national identity in students. The learning journeys at the museums and heritage institutions allow students to understand the history and heritage of Singapore and the region; appreciate the contributions by the ethnic communities towards the development of our nation; and strengthen national identity, build a sense of belonging and pride in the nation. Students will be visiting the following places of interest according to their levels.</span></p>
 <p><span style="color: #000000;">P1 &ndash; Jacob Ballas Children&rsquo;s Garden</span></p>
@@ -53,5 +55,5 @@ description: ""
 <p><span style="color: #000000;">P4 &ndash; Geylang Serai Heritage Gallery</span></p>
 <p><span style="color: #000000;">P5 &ndash; Indian Heritage Centre</span></p>
 <p><span style="color: #000000;">P6 &ndash; Asian Civilisations Museum</span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+![](/images/CCE007.jpg)
