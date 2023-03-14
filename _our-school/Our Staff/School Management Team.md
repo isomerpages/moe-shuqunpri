@@ -4,7 +4,6 @@ permalink: /school-management-team/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #ff0000;">School Leaders</span></strong></h3>
 <table width="771">
 <tbody>
