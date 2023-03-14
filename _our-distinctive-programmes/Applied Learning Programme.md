@@ -9,7 +9,8 @@ description: ""
 
 <p>Figure 1: ALP Framework</p>
 <p>The objectives of our ALP are as follows:</p>
-<p>&nbsp;</p>
+
+![](/images/ALP002.jpg)
 <p>Through engagement in the learning of environmental issues, students learn the necessary knowledge, skills and inculcate values which will enable them to demonstrate compassion and be willing to make a difference. The ALP lessons for all Primary 4 and Primary 5 students are structured in a pedagogical approach &ldquo;Learn, Explore and Apply&rdquo;, by which students deepen their learning of environmental issues in an inter-disciplinary manner, and apply their learning in a hands-on, minds-on manner through design thinking.</p>
 <table style="height: 119px;">
 <tbody>
