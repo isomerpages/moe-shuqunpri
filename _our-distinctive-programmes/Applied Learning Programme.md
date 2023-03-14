@@ -34,10 +34,13 @@ description: ""
 <p>&nbsp;</p>
 <h4><span style="color: #ff0000;"><strong>P4 ALP Waste Management (2022)</strong></span></h4>
 <p>Our P4 students embarked on their ALP journey anchored on the theme of Waste Management this year. Using the Design Thinking approach, students are able to connect their learning through different subject disciplines such as English, Mathematics, Science, Social Studies, CCE, Art and Music to solve waste management issues. They gain deeper understanding on how they can play their part to save the environment and contribute to building a sustainable nation. Our students develop skills and 21<sup>st</sup> century competencies as they collaborate to come up with various creative solutions. Students also learn to be resilient as they try multiple times to improve their solutions.</p>
-<p>&nbsp;</p>
+
+![](/images/ALP003.jpg)
+
 <h4><span style="color: #ff0000;"><strong>Environmental Education Curriculum</strong></span></h4>
 <p>Through our school&rsquo;s Environment Education curriculum, our Shuqunites learn more about environmental issues happening around them and raise their awareness about the environment so that they can transfer their learning into positive actions. This curriculum focuses on key areas of environmental conservation.</p>
-<p><strong>&nbsp;</strong></p>
+
+![](/images/ALP004.jpg)
 <h3><span style="color: #ff0000;"><strong>ALP Tier 2 Programme</strong></span></h3>
 <h4><span style="color: #ff0000;"><strong>Green Club CCA / Green Ambassadors</strong></span></h4>
 <p>Green Club CCA members and Green Ambassadors who are passionate about caring for the environment, play an active in advocating and influencing others to adopt an environmentally friendly lifestyle through outreach activities for the community and school. During Youth for Environment Day, they prepared videos to educate their peers about recycling and pollution. Besides spreading environmental-related messages to others, they perform daily checks during recess and lunch to ensure that their peers are recycling their recyclables properly. Our Green Club members also play active roles in in taking care of the plants in our school&rsquo;s Edibles Garden.</p>
