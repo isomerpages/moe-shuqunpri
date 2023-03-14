@@ -15,6 +15,8 @@ description: ""
 <h4><span style="color: #ff0000;"><strong>Educational Career Guidance (ECG)</strong></span></h4>
 <p><span style="color: #000000;">In Shuqun Primary, we invite our partners such as PSG, SAC and Alumni members to share on their occupations during event such as Total Defence Day. Students gain an insight in occupations which are related to the six pillars of defence. ECG sharing on the different educational pathway as well as different occupations by our alumni members is also part of our post PSLE activity for the Primary 6 students.</span></p>
 <p><span style="color: #000000;">Through ECG lessons conducted during CCE FTGP, students are equipped with the knowledge, skills and values to help them make informed education and career choices, empowering them for lifelong learning. Upper Primary students get to access My SkillsFuture portal that helps them start on a journey of self-discovery. Through the use of the information and tools, students find out what they want to do when they grow up, learn about the choices on hand and set goals towards their ambitions!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+![](/images/CCE001.jpg)
 <h4><span style="color: #ff0000;"><strong>Sexuality Education (SEd)</strong></span></h4>
 <p><span style="color: #000000;">SEd lessons are taught during CCE FTGP lessons at Primary 5 and 6. This programme aims to help our students develop positive self-identities and healthy relationships and make responsible decisions on sexuality matters.</span></p>
 <h4><span style="color: #ff0000;"><strong>Programme for Active Learning (PAL)</strong></span></h4>
