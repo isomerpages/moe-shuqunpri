@@ -3,8 +3,6 @@ title: Student Ambassador Programme
 permalink: /our-students/signature-programmes/student-ambassador-programme-sap/
 description: ""
 ---
-
-
 <h4><strong>Objectives</strong></h4>
 <p>Knowledge:</p>
 <ul>
@@ -22,9 +20,7 @@ description: ""
 <img src="/images/outbound.jpg">
 <p><span style="text-decoration: underline;">Friends4Life</span><br />The inbound Friends-For-Life is the reciprocating programme for the school&rsquo;s outbound Student Ambassador Programme. The duration is dependent on each partner school&rsquo;s arrangement. In Friends-For-Life, students get to host and build friendships with students of the partner schools through interactive activities. It also allows school staff to have exchanges to share pedagogical experiences and resources.</p>
 <img src="/images/friends4life.jpg">
-<h4><strong>2) Leadex</strong></h4>
-<p>Our Leadership Through Adventure Expedition (LEADEx) provides students who have performed well both physically and academically, the opportunity to apply what they have learnt during the modules for Outdoor Education, either during school curriculum or in level camps. This includes being certified in kayaking and then embark on kayaking expedition during this programme.<br />The programme will be conducted in&nbsp;one of the South-east Asian countries, like Krabi (Thailand).</p>
-<img src="/images/leadex.jpg">
+
 <h4>Training for Ambassadors</h4>
 <p>The training programme&nbsp;is designed to equip our students with the necessary skills before they represent themselves as ambassadors of the school. Training sessions consist of&nbsp;centralized training, interview skills, customized group training and the overseas learning journey. The training components include&nbsp;communication skills, general knowledge, national education, leadership and reflection skills.</p>
 <div class="table-responsive">
