@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/banner new (1).gif
       key_highlights:
         - title: News & Announcements
           description: 2022 WE-STories Publication
