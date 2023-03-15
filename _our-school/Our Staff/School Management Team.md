@@ -15,17 +15,17 @@ third_nav_title: Our Staff
 <tr>
 <td width="223"><strong>Principal</strong></td>
 <td width="241"><strong>Mrs Sara De Souza</strong></td>
-<td width="307"><strong>&nbsp;SARA_de_souza@moe.edu.sg</strong></td>
+<td width="307"><strong>&nbsp;sqps@moe.edu.sg</strong></td>
 </tr>
 <tr>
 <td width="223"><strong>Vice Principal (Curriculum)</strong></td>
 <td width="241"><strong>Mrs Adeline Kee&nbsp;</strong></td>
-<td width="307"><strong>adeline_chong@moe.edu.sg&nbsp;</strong></td>
+<td width="307"><strong>sqps@moe.edu.sg&nbsp;</strong></td>
 </tr>
 <tr>
 <td width="223"><strong>Vice Principal (Administration)</strong></td>
 <td width="241"><strong>Ms Angela Lee</strong></td>
-<td width="307"><strong>lee_koon_har_angela@moe.edu.sg</strong></td>
+<td width="307"><strong>sqps@moe.edu.sg</strong></td>
 </tr>
 </tbody>
 </table>
