@@ -1,7 +1,7 @@
 logo: /images/logo.jpg
 links:
   - title: Our School
-    url: /our-school/permalink/
+    url: /our-school/
     sublinks:
       - title: Principal's Message
         url: /principals-message/
