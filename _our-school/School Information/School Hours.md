@@ -125,29 +125,29 @@ third_nav_title: School Information
 </tbody>
 </table>
 <h3><strong><span style="color: #ff0000;">Lunch Timings</span></strong></h3>
-<table style="width: 339px;" width="330">
+<table style="width: 362px;" width="330">
 <tbody>
 <tr>
-<td style="width: 69.5px; text-align: center;">
+<td style="width: 81.7969px; text-align: center;">
 <p><span style="color: #000000;"><strong>Levels</strong></span></p>
 </td>
-<td style="width: 253.5px; text-align: center;">
+<td style="width: 264.203px; text-align: center;">
 <p><span style="color: #000000;"><strong>Lunch Timings</strong></span></p>
 </td>
 </tr>
 <tr>
-<td style="width: 69.5px; text-align: center;">
+<td style="width: 81.7969px; text-align: center;">
 <p><span style="color: #000000;">P5</span></p>
 </td>
-<td style="width: 253.5px; text-align: center;">
+<td style="width: 264.203px; text-align: center;">
 <p><span style="color: #000000;">12.30 p.m. &ndash; 1 p.m. (Wed &ndash; Fri)</span></p>
 </td>
 </tr>
 <tr>
-<td style="width: 69.5px; text-align: center;">
+<td style="width: 81.7969px; text-align: center;">
 <p><span style="color: #000000;">P6</span></p>
 </td>
-<td style="width: 253.5px; text-align: center;">
+<td style="width: 264.203px; text-align: center;">
 <p><span style="color: #000000;">12 p.m. &ndash; 12.30 p.m. (Wed &ndash; Fri)</span></p>
 </td>
 </tr>
