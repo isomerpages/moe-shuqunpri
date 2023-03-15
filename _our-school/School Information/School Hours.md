@@ -6,7 +6,7 @@ third_nav_title: School Information
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #a11104;">School Hours</span></strong></h3>
 
-![](/images/school%20hour1.jpg)
+
 <p style="text-align: justify;"><span style="color: #000000;">*Students who report after 7:30 a.m. will be considered late.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Dismissal for:-</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Primary 1 &amp; 2&ndash; Gate 1</span></p>
