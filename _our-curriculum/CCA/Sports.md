@@ -4,18 +4,23 @@ permalink: /our-students/cca/sports-and-games/
 description: ""
 third_nav_title: CCA
 ---
-<h4><strong><span style="text-decoration: underline;">Basketball</span></strong></h4>
-<img src="/images/basketball-e1548987184502.jpg">
-<p>Our Basketball CCA comprises of the CCA team and the school team. Our CCA team is made up of Primary 3 to 6 students who have the interest and passion in basketball. The school team comprises of students who are selected based on their skills and character, to represent the school in competitions. The training sessions provide members the opportunity to achieve their true potential and develop their character. Basketball CCA activities include the West Zone Inter-Primary Basketball tournament, tournaments organized by secondary schools, friendly games with other schools and our very own Sports Camp.</p>
-<h4><strong><span style="text-decoration: underline;">Football</span></strong></h4>
-<img src="/images/football.jpg">
-<p>Our Football CCA comprises of the CCA team and the school team. Our CCA team is made up of primary 3 to 6 students who have the interest and passion in football. The school team comprises of students who are selected based on their skills and character, to represent the school in competitions. The training sessions provide members the opportunity to achieve their true potential and develop their character. Football CCA activities include the West Zone Inter-Primary Football tournament, Nationals Inter-Primary Football tournament, tournaments organized by secondary schools, friendly games with other schools and our very own Sports Camp.</p>
-<h4><strong><span style="text-decoration: underline;">Netball</span></strong></h4>
-<img src="/images/netball.jpg">
-<p>Our Netball CCA comprises of the CCA team and the school team. Our CCA team is made up of primary 3 to 6 students who have the interest and passion in Netball. The school team comprises of students who are selected based on their skills and character, to represent the school in competitions. The training sessions provide members the opportunity to achieve their true potential and develop their character. Netball CCA activities include the West Zone Inter-Primary Netball tournament, tournaments organized by secondary schools, friendly games with other schools and our very own Sports Camp.</p>
-<h4><strong><span style="text-decoration: underline;">Silat</span></strong></h4>
-<img src="/images/silat.jpg">
-<p>Silat CCA creates a platform for students to develop their self-defence skills and artistic movements of Silat. Through the sessions, members not only develop their Silat skills as an individual and a group but also learn about good values such as respect, discipline and integrity. Members are often involved in performances during community events and school events such as Hari Raya Celebrations and Annual Prize-Giving Day.</p>
-<h4><strong><span style="text-decoration: underline;">Wushu</span></strong></h4>
-<img src="/images/wushu.jpg">
-<p>Students who have the passion for Chinese Martial Art will join Wushu CCA to develop their talents. Through the sessions, members not only develop their Wushu skills as an individual and a group but also learn about good values such as respect, discipline and perseverance. Members often involved in in performances during community events and school events such as Chinese New Year Celebrations Concert and Annual Prize-Giving Day.</p>
+<h3><span style="color: #ff0000;"><strong>Basketball</strong></span></h3>
+
+![](/images/Basketball.jpg)
+<p>Our Basketball CCA's objective is to teach commitment, respect, and responsibility to the students. Our CCA emphasize fundamentals and is the perfect opportunity for beginner, intermediate and advanced players to work on ball handling, shooting, passing and knowledge of the sport. Basketball CCA activities include the West Zone Inter-Primary Basketball tournament, tournaments organized by secondary schools and DSA opportunities to selected secondary schools.</p>
+<h3><span style="color: #ff0000;">Football</span></h3>
+
+![](/images/Football.jpg)
+<p>Our CCA team is made up of primary 3 to 6 students who have the interest and passion in football. The CCA training sessions provide members with opportunities to achieve their true potential and develop their character. Students with good skills and character will stand a chance to represent the school in various competitions. The competitions include the West Zone Inter-Primary Football tournament, Nationals Inter-Primary Football tournament, tournaments organized by secondary schools and friendly games with other schools.</p>
+<h3><span style="color: #ff0000;">Netball</span></h3>
+
+![](/images/Netball.jpg)
+<p>Shuqun Netball CCA is open to all girls regardless of their background or experience in sports. We provide a safe space for girls who are new to the sport, to learn and gain game experience. Our CCA is not only focused on teaching the fundamentals of Netball, but also building the girls&rsquo; resilience and nurturing a love for sports.</p>
+<h3><span style="color: #ff0000;">Wushu</span></h3>
+
+![](/images/Wushu.jpg)
+<p>Students who have the passion for Chinese Martial Art will join Wushu CCA to develop their talents. The training sessions aim to improve whole-body fitness, strength, stamina and flexibility. Whilst speed, control and balance are developed through repetitive movements that include kicking and open hand techniques. Through CCA sessions, members also learn about good values such as respect, discipline and perseverance. Students in Wushu take part in National School Games Wushu Competition, community events and school events such as Chinese New Year Celebrations Concert and Annual Prize-Giving Day.</p>
+<h3><span style="color: #ff0000;">Silat</span></h3>
+
+![](/images/Silat.jpg)
+<p>Silat CCA creates a platform for students to develop their self-defense skills and artistic movements of Silat. Through the sessions, members not only develop their Silat skills as an individual and a group but also learn about good moral values such as respect, self-discipline and integrity. Members are often involved in performances during community events and school events such as Hari Raya Celebrations and Annual Prize-Giving Day.</p>
