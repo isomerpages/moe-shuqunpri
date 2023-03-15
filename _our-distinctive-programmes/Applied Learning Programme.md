@@ -12,26 +12,31 @@ description: ""
 
 ![](/images/ALP002.png)
 <p>Through engagement in the learning of environmental issues, students learn the necessary knowledge, skills and inculcate values which will enable them to demonstrate compassion and be willing to make a difference. The ALP lessons for all Primary 4 and Primary 5 students are structured in a pedagogical approach &ldquo;Learn, Explore and Apply&rdquo;, by which students deepen their learning of environmental issues in an inter-disciplinary manner, and apply their learning in a hands-on, minds-on manner through design thinking.</p>
-<table style="height: 119px;">
+<table style="width: 66%; margin-left: auto; margin-right: auto;" width="66%">
 <tbody>
-<tr style="height: 41px;">
-<td style="height: 41px; width: 630px; text-align: center;" colspan="2">
-<p style="text-align: center;"><strong>Focus area for Tier 1 Programme</strong></p>
+<tr>
+<td style="width: 99%; text-align: center;" colspan="2" width="100%">
+<p><strong>Focus area for Tier 1 Programme</strong></p>
 </td>
 </tr>
-<tr style="height: 78px;">
-<td style="height: 78px; width: 312px; text-align: center;">
+<tr>
+<td style="width: 49.9355%; text-align: center;" width="48%">
 <p><strong>Primary 4</strong></p>
+</td>
+<td style="width: 49.0645%; text-align: center;" width="51%">
+<p><strong>Primary 5</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9355%; text-align: center;" width="48%">
 <p><strong>Waste Management</strong></p>
 </td>
-<td style="height: 78px; width: 312px; text-align: center;">
-<p><strong>Primary 5</strong></p>
+<td style="width: 49.0645%; text-align: center;" width="51%">
 <p><strong>Water Sustainability</strong></p>
 </td>
 </tr>
 </tbody>
-</table>
-<h4><span style="color: #ff0000;"><strong>P4 ALP Waste Management (2022)</strong></span></h4>
+</table><h4><span style="color: #ff0000;"><strong>P4 ALP Waste Management (2022)</strong></span></h4>
 <p>Our P4 students embarked on their ALP journey anchored on the theme of Waste Management this year. Using the Design Thinking approach, students are able to connect their learning through different subject disciplines such as English, Mathematics, Science, Social Studies, CCE, Art and Music to solve waste management issues. They gain deeper understanding on how they can play their part to save the environment and contribute to building a sustainable nation. Our students develop skills and 21<sup>st</sup> century competencies as they collaborate to come up with various creative solutions. Students also learn to be resilient as they try multiple times to improve their solutions.</p>
 
 ![](/images/ALP003.jpg)
