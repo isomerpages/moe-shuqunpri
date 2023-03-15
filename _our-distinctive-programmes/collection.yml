@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Our Distinctive Programmes.md
       - Reading Culture Programme.md
       - Talent Development Programme.md
       - Student Ambassador Programme.md
