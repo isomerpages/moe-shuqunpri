@@ -16,7 +16,7 @@ links:
       - title: Contact Us
         url: /contact-us/permalink/
   - title: Our Curriculum
-    url: /our-school/departments/English/
+    url: /our-curriculum/permalink/
     sublinks:
       - title: English
         url: /our-school/departments/English/
@@ -52,7 +52,7 @@ links:
       - title: Applied Learning Programme
         url: /applied-learning-programme/
   - title: Our Partners
-    url: /parents/
+    url: /our-partners/permalink/
     sublinks:
       - title: Parents
         url: /parents/
