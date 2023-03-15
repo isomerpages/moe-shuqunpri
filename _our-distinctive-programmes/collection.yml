@@ -2,9 +2,9 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
-      - MAD Day & Stardust.md
       - Reading Culture Programme.md
       - Talent Development Programme.md
       - Student Ambassador Programme.md
       - Learning of Life Programme.md
       - Applied Learning Programme.md
+      - MAD Day & Stardust.md
