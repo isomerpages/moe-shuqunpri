@@ -2,7 +2,6 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
-      - P6 Stardust Competition.md
       - MAD Day & Stardust.md
       - Reading Culture Programme.md
       - Talent Development Programme.md
