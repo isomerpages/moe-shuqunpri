@@ -4,66 +4,42 @@ permalink: /parents/
 description: ""
 third_nav_title: Parents
 ---
-<p><strong>Our Mission:</strong>&nbsp;Support the school and enrich the school life of our Shuqunites.</p>
-<p><strong>Our Vision:</strong>&nbsp;Forged a strong partnership between school and parents.</p>
-<p><strong>Our Motto:</strong>&nbsp;Serve with ICARE (Integrity, Care, Adaptability, Respect and Excellence)</p>
-<p><strong><u>PSG Executive Committee</u></strong></p>
-<div>
-<table border="1">
-<tbody>
-<tr>
-<td width="173">Mdm Tan Ai Lay</td>
-<td width="173">Mdm Chew Kia Huey</td>
-<td width="173">Mdm Lai Pen Yen, May</td>
-<td width="173">Mdm Ang Li Fong</td>
-<td width="167">Mdm Chua Li Tink</td>
-</tr>
-<tr>
-<td width="173">Mdm Chris Tang</td>
-<td width="173">Mdm Koh Li Ching, Cherie</td>
-<td width="173">Mdm Marini Binte Osman</td>
-<td width="173">Mdm Deborah Quah</td>
-<td width="167">Mdm Ho Shiun Ling Shirley</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>To find out more about PSG (Speech by Mdm Chew Kia Huey)</p>
+<p>Our school acknowledges the value of a strong school-parent partnership in enhancing the holistic development and learning of our students. SQPSG was formed to foster a closer communication and understanding between our school and families.</p>
+<p>Mission: Support the school and enrich the school life of our students</p>
+<p>Vision: Forge a strong partnership between school and parents</p>
+<p>Motto: Serve with ICARE (Integrity, Care, Adaptability, Respect and Excellence)</p>
+<p>As our partners-in-education, the SQPSG supports the school&rsquo;s vision in developing our students to be Engaged Learners, Rooted in Values, and With a Heart to Serve. SQPSG collaborates actively with the school in the various activities and events to create a vibrant environment that enhances the holistic school experience of students. Such activities and events include:</p>
+<h4><span style="color: #ff0000;"><strong>Mother Tongue Language Fortnight (MTL Fortnight)</strong></span></h4>
+<p>As part of our MTL Fortnight, the P1 and P2 students had the opportunity to have their iPad Trail, focusing on traditional music and songs. A group of our PSG members volunteered their time with assisting teachers in the students&rsquo; discipline and safety during the iPad Trail.</p>
+<h4><span style="color: #ff0000;"><strong>P1 &amp; P2 Learning Journeys</strong></span></h4>
+<p>During the P1 and P2 learning journeys to Jacob Ballas Garden and Harmony in Diversity Gallery respectively, our PSG members went along and assisted the teachers in chaperoning the students around the locations.</p>
+<h4><span style="color: #ff0000;"><strong>Teachers&rsquo; Day Celebration</strong></span></h4>
+<p>Prior to Teachers&rsquo; Day, our PSG members came on a Saturday to volunteer their expertise and artistic talents in decorating the hall and stage in line with the Kampung theme.</p>
+<h4><span style="color: #ff0000;"><strong>Children&rsquo;s Day Celebration</strong></span></h4>
+<p>To embrace the new normal after the Covid-19 pandemic and continue to learn the values from the different characters we meet in real life and in fantasy books, the PSG dressed up as characters from books and prepared craft activities and game booths in a carnival-style Children&rsquo;s Day celebration.</p>
+<h4><span style="color: #ff0000;"><strong>P1 Orientation 2023</strong></span></h4>
+<p>After sharing with the P1 2023 parents on how the PSG complements the school by aligning programmes and activities with the school&rsquo;s objectives to improve the students&rsquo; well-being and learning, the PSG EXCO members held a recruitment drive for parents to join SQPSG in 2023.</p>
+<h4><span style="color: #ff0000;"><strong>P6 BizKids</strong></span></h4>
+<p>PSG had set up a booth selling things items such as bookmarks and bags from upcycled materials to encourage sustainable living. They also created games to educate students on the 3Rs: Reduce, Reuse, and Recycle.</p>
+<h4><span style="color: #ff0000;"><strong>P1 First Day of School</strong></span></h4>
+<p>On the first day of school for the Primary 1 students, PSG EXCO members were given the opportunity to helm the engagement session with parents, sharing on tips and their experiences setting routines with their children. This sharing was beneficial as they also shared on the importance of executive functioning skills in children.</p>
+<h4><span style="color: #ff0000;"><strong>Chinese New Year Decoration</strong></span></h4>
+<p>For Chinese New Year, PSG members volunteered their time and effort in decorating the school. Some had even stayed back to do a few bunny standees from scratch, to beautify the hall entrance.</p>
+<h4><span style="color: #ff0000;"><strong>Total Defence Day Commemoration</strong></span></h4>
+<p>To commemorate Total Defence Day, we had PSG parents who took time to share with students on their respective careers and how their jobs contribute to the six TDD pillars. The P4 to P6 students had the chance to hear the sharing as part of their Education &amp; Career Guidance journey.</p>
+<p>These programmes and activities would not be possible without the Executive Committee (EXCO), that constantly helps to oversee all PSG efforts and is the main point of contact with the school staff.</p>
+<h3><span style="color: #ff0000;"><strong>PSG EXCO Members</strong></span></h3>
+<p>To find out more about SQPSG:</p>
 <ul>
-<li>&nbsp;<a href="https://youtu.be/HfcMjklcTF4" target="_blank" rel="noopener noreferrer">PSG Speech by Mdm Chew Kia Huey</a></li>
+<li>SQPSG Microsite click <a href="https://sites.google.com/moe.edu.sg/sqpsg-activities" target="_blank">here</a>.&nbsp;</li>
+<li><a href="https://drive.google.com/file/d/1oCmXgwv9dtMcYetZHeZhz-0WU1NMsbgx/view" target="_blank">PSG Sharing </a>during 2023 Welcome Session by Mdm Tan Ai Lay and Mdm Koh Shir Li.</li>
 </ul>
-<p>Join us in getting more involved in your child&rsquo;s life! Click below!</p>
+<p>Apart from working closely with the school with a common goal of making it a great place for our children to learn and play, SQPSG is also platform for parents to network and support one another. Click below for resources that were specially prepared for PSGs, to support you in your role as a PSG member:</p>
 <ul>
-<li><a href="https://tinyurl.com/2021SQPSG" target="_blank" rel="noopener noreferrer">Parent Support Group Application Form</a></li>
+<li><span style="text-decoration: underline;"><a href="https://sites.google.com/moe.edu.sg/psg-online-repository/home?pli=1" target="_blank">PSG Repository</a></span></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/compass/psg-online-guide.ashx" target="_blank">Parent Support Groups &ndash; A How-to Guide by Parents for Parents.</a></li>
 </ul>
-<p><span style="text-decoration: underline;"><strong>PSG Involvement and Activities</strong></span></p>
-<p>Our dedicated members work closely with school with a common goal of making it a great place for our children to learn and play. It is also a platform for parents to network and support one another. Click below!</p>
+<p>The support of all parents as partners-in-education is essential in ensuring that our students are developed to their fullest potential. We encourage all parents to be actively involved in the school activities. Come join us!</p>
 <ul>
-<li><a href="https://sites.google.com/moe.edu.sg/2021-sqpsg-activities/home" target="_blank" rel="noopener noreferrer">SQPSG Activities</a></li>
-<li><a href="/files/PSG-Kit-Issue-2-FINAL.pdf" target="_blank" rel="noopener noreferrer">PSG Kit Issue 2</a></li>
-</ul>
-<p>Some of the activities that we are involved in are as follows:</p>
-<ul>
-<li>Children&rsquo;s Day</li>
-<li>Racial Harmony Day</li>
-<li>Teachers&rsquo; Day</li>
-<li>Singapore Youth Festival</li>
-<li>St Francis of Assisi (SFA) Farewell</li>
-<li>P1 Orientation</li>
-<li>Used Textbook Collection</li>
-<li>Reading Programmes</li>
-</ul>
-<p><strong><u>Parent Volunteer Scheme</u></strong></p>
-<p>1. Apart from joining the Parent Support Group, parents can also volunteer in the school as part of MOE&rsquo;s Primary One (P1) Phase 2B Registration.</p>
-<p>2. Under the ruling of MOE Primary One P1 Registration Exercise, a parent can volunteer in the school to qualify for Phase 2B if the child is a Singapore citizen or a Permanent Resident.</p>
-<p>3. The registration stage for a child whose parent would like to join the school as a parent volunteer is between 1 April and 30 June of the year preceding the P1 registration year.</p>
-<p>4. The parent has to complete at least 40 hours of voluntary service from 1 July of the preceding year to 30 June in the P1 registration year. After the 40 hours of voluntary service is performed, the child will be eligible for the phase 2B registration exercise and places will be allocated subject to vacancies available.</p>
-<p>5. MOE P1 registration consists of Phase 1, 2A(1), 2A(2), 2B, 2C and 2C Supplementary; at the end of Phase 2A(2), 50% of the remaining places will be allocated for phase 2B and the other 50% for Phase 2C registrants in a school. In the event when there are more parent volunteers than allocated vacancies in Phase 2B, balloting will be carried out to allocate these vacancies to ensure fairness. Singapore citizens will be given priority should balloting be required.</p>
-<p>6. Please refer to MOE website for more details regarding the P1 Registration processes.</p>
-<p>7. If you are interested in signing up as a parent volunteer, please complete the attached form and submit it with the copies of the relevant documents to the school office.</p>
-<p>8. The school office will then contact you regarding the application and make an appointment for an interview.</p>
-<p>9. The selection of the Parent Volunteers is dependent on the school needs and priorities. Please note that while the school may receive and interview all applications, not all applicants may be selected.</p>
-<p>10. The deployment of parent volunteers in the school is dependent on the school needs. This would be arranged with the parents with sufficient notice given each time before their services are required.</p>
-<ul>
-<li><u><a href="/files/Parent-VolunteerApplication-Letter.pdf" target="_blank" rel="noopener noreferrer">Parent Volunteer Form</a></u></li>
+<li><a href="https://bit.ly/sqpsg-application-form" target="_blank">Parent Support Group Application Form</a></li>
 </ul>
