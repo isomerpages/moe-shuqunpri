@@ -3,7 +3,6 @@ title: Community
 permalink: /community/
 description: ""
 ---
-
 <h4><strong>Jurong Spring Community Club</strong></h4>
 <div>
 <div style="float: left">
