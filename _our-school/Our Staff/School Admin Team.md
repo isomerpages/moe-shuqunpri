@@ -55,27 +55,27 @@ third_nav_title: Our Staff
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Chithra d/o Arjunan</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">chithra_arjunan@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Kamarneesa Begam d/o Naina Mohd</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">kamarneesa_begam_naina_mohamed@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Vasantha Kumari d/o Govindasamy</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">vasantha_kumari_govindasamy@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Koh Quay Choon William</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">koh_quay_choon@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Wong Kok Fah&nbsp;</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">wong_kok_fah@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Desktop Engineer&nbsp;</span></strong></td>
