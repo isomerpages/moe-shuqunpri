@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-shuqunpri-staging.netlify.app
-prod: https://moe-shuqunpri-prod.netlify.app
+staging: https://staging.d2w6f17b52epdm.amplifyapp.com/
+prod: https://master.d2w6f17b52epdm.amplifyapp.com/
 is_government: false
 resources_name: pdf
 shareicon: /images/isomer-logo.svg
