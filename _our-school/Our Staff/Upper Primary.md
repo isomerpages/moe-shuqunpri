@@ -4,7 +4,7 @@ permalink: /upper-primary-2/
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><strong><span style="color: #a11104;">Primary 5</span></strong></h3>
+<h3><strong><span style="color: #800000;">Primary 5</span></strong></h3>
 <table style="width: 663px;" width="693">
 <tbody>
 <tr>
@@ -89,7 +89,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3><strong><span style="color: #a11104;">Primary 6</span></strong></h3>
+<h3><strong><span style="color: #800000;">Primary 6</span></strong></h3>
 <table style="width: 643px;" width="693">
 <tbody>
 <tr>
