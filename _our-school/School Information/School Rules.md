@@ -4,7 +4,7 @@ permalink: /school-information/
 description: ""
 third_nav_title: School Information
 ---
-<h3><span style="color: #a11104;"><strong>School Rules</strong></span></h3>
+<h3><strong><span style="color: #800000;">School Rules</span></strong></h3>
 <ul>
 <li><span style="color: #000000;">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</span></li>
 <li><span style="color: #000000;">Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</span></li>
@@ -23,7 +23,7 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</span></li>
 <li><span style="color: #000000;">Students are not allowed to bring or use mobile phones in school.</span></li>
 </ul>
-<h3><span style="color: #a11104;"><strong>Expected Shuqunite Appearance</strong></span></h3>
+<h3><strong><span style="color: #800000;">Expected Shuqunite Appearance</span></strong></h3>
 <h4><span style="color: #000000;"><strong>Uniform</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">The uniform must be well-ironed, clean and &nbsp;free from stains and unpleasant odour.</span></li>
@@ -76,7 +76,9 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</span></li>
 </ul>
 <p><span style="color: #000000;">![](/images/girl-hair.jpg)</span></p>
-<h3><span style="color: #a11104;"><strong>Expected Shuqunite Behaviour</strong></span></h3>
+
+<h3><strong><span style="color: #800000;">Expected Shuqunite Behaviour</span></strong></h3>
+
 <h4><span style="color: #000000;"><strong>Attendance</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">Students must be punctual for all school activities</span></li>
