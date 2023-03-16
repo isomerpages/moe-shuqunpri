@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /our-school/School-Information/permalink/
+permalink: /our-school/school-information/permalink/
 description: ""
 third_nav_title: School Information
 ---

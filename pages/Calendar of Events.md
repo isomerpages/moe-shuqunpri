@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events
-permalink: /Calendar-of-Events/
+permalink: /calendar-of-events/
 description: ""
 ---
 
