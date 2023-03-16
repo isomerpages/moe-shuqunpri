@@ -3,50 +3,117 @@ title: Alumni
 permalink: /alumni/
 description: ""
 ---
-<h4><strong>1. Shuqun Alumni</strong></h4>
-<p>Refer to the link:&nbsp;<a href="https://sites.google.com/moe.edu.sg/shuqunalumni/home" target="_blank" rel="noopener noreferrer">https://sites.google.com/moe.edu.sg/shuqunalumni/home</a></p>
-<h4><strong>2. Seh-Chuan Shuqun Alumni Association</strong></h4>
-<div>
-<p>In 2005, our Ex-Principal, Mr Gary Tsu initiated the idea of starting an alumni association. After a year of planning, we finally launched our&nbsp;Seh-Chuan Shuqun Alumni Association during our 83rd Anniversary. This was the first ever- grand occasion held in our school compound after we had shifted into our new premises.</p>
-<p>Following this, we collaborated with Shuqun Secondary School in 2010 to organize another big-scale event to celebrate the school&rsquo;s 85th&nbsp;Anniversary at Orchid Country Club. It turned up to be a joyous and memorable function which was well attended by many former students and staff of the school.</p>
-<p>Other events included a gathering at the old Seh-Chuan School building. It was publicized in the papers and websites. Brochures were sent out and banners&nbsp;promoting the event were hung outside both schools. It was successfully attended by many ex-shuqunites. Indeed, it brought back the good old days when they&nbsp;were students and staff at the old school compound. The nostalgic feelings sent tears of happiness down the cheeks of many and laughter filled that building.&nbsp;Everyone mingled around, chatted with one another and viewed old-times photos. All had so much to talk about those days.</p>
-<p>Do you miss the times you had in Shuqun Primary School? Do you miss the teachers who had given you your favourite Children&rsquo;s Day gift or the teacher&nbsp;who used to detain you in school? Or do you miss catching up with some friends who had gone separate ways after PSLE?</p>
-<p>Come and join us and be on our Alumni mailing list. We will keep you posted of up and coming events.</p>
-<p>Feel free to contact&nbsp;Miss Zeng Yingxu&nbsp;@ 65637129.&nbsp;</p>
-<p><a href="/files/Alumni_Form.pdf">Seh-Chuan Shuqun Alumni Association Registration Form</a></p>
-<p><strong>Seh-Chuan Shuqun Alumni Association&nbsp;Exco Members</strong></p>
-<div class="table-responsive">
-<table style="border-style: solid; border-color: #000000;" border="1">
+<p><span style="color: #000000;">Our vision for our Shuqunites is to imbue the heart to serve in every aspect of their lives and our commonly used slogan of &ldquo;Once a Shuqunite, always a Shuqunite&rdquo; propels us to invite our alumni to return to support some of the school initiatives and programmes.</span></p>
+<h3><span style="color: #a11104;"><strong>Shuqun Youth Alumni</strong></span></h3>
+<p><span style="color: #000000;">Shuqun Youth Alumni was established in 2020 for ex-Shuqunites who are between 13 to 21 years old. Members in this alumni group do not need to pay any membership fees and are encouraged to give motivational talks to current Shuqunites and contribute to TDD commemorative events tied in with ECG, CCA activities and programmes such as our inaugural Homework Clinic, that aims to to provide current Shuqunites an opportunity to be tutored and mentored by our alumni students. We believe that our alumni students can guide them in their homework, explain concepts and provide positives that go beyond just the educational.</span></p>
+<h4><span style="color: #000000;"><strong>SQPS Homework Clinic</strong></span></h4>
+<table>
 <tbody>
 <tr>
-<td width="180">
-<p>Mr Mark Yeo</p>
-<p>(President)</p>
+<td width="288">&nbsp;</td>
+<td width="288">&nbsp;</td>
+</tr>
+<tr>
+<td width="288">&nbsp;</td>
+<td width="288">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #000000;">For more information or to join our Homework Clinic as a student mentor, do contact Level Head for Mathematics, Mdm Suma Sukanya Mohan at <a style="color: #000000;" href="mailto:suma_sukanya_mohan@moe.edu.sg">suma_sukanya_mohan@moe.edu.sg</a> or Subject Head for Partnership, Mdm Nur Amira at <a style="color: #000000;" href="mailto:nur_amira_aminnudin@moe.edu.sg">nur_amira_aminnudin@moe.edu.sg</a>.</span></p>
+<p><span style="color: #000000;">To find out more about Shuqun Youth Alumni, you may head to the microsite here (<a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/shuqunalumni/home">https://sites.google.com/moe.edu.sg/shuqunalumni/home</a>).</span></p>
+<p><span style="color: #000000;">If you are interested to be part of the Shuqun Youth Alumni, you may click here (<a style="color: #000000;" href="https://bit.ly/Shuqun-youth-alumni">https://bit.ly/Shuqun-youth-alumni</a>) to be redirected to the interest form.</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #000000;"><strong><u>&nbsp;</u></strong></span></p>
+<p><span style="color: #000000;"><strong><u>&nbsp;</u></strong></span></p>
+<h3><span style="color: #a11104;"><strong>Seh-Chuan Shuqun Alumni Association</strong></span></h3>
+<p><span style="color: #000000;">Our Seh-Chuan Shuqun Alumni Association was launched during our 83rd Anniversary in 2005. This association is for members aged 21 years old and above. Members pay a one-time subscription of $20.</span></p>
+<p><span style="color: #000000;">Alumni members are cordially invited to give motivational or career talks. We also welcome you to be a sponsor for events or join us in TDD or any school programmes.</span></p>
+<p><span style="color: #000000;">Do you miss the times you had in Shuqun Primary School? Do you miss the teachers who had given you your favourite Children&rsquo;s Day gifts? Or do you miss catching up with friends who had gone separate ways after PSLE?</span></p>
+<p><span style="color: #000000;">Come, join the Seh-Chuan Shuqun Alumni Association. Download the registration form here (<a style="color: #000000;" href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2016/12/Alumni_Form.pdf">https://shuqunpri.moe.edu.sg/wp-content/uploads/2016/12/Alumni_Form.pdf</a>) and submit the completed form to the General Office.</span></p>
+<p><span style="color: #000000;">For more information, feel free to contact alumni secretary, Ms Zeng Yingxu at <a style="color: #000000;" href="mailto:zeng_yingxu@moe.edu.sg">zeng_yingxu@moe.edu.sg</a> or tel: 65637129.</span></p>
+<p><span style="color: #000000;"><strong>Seh-Chuan Shuqun Alumni Association&nbsp;Exco Members:</strong></span></p>
+<table width="454">
+<tbody>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>President</strong></span></p>
 </td>
-<td width="198">
-<p>Mr Jeremy Ong Sing Huat</p>
-<p>(Vice President)</p>
-</td>
-<td width="186">
-<p>Mr Kang Guan Beng</p>
-<p>(Treasurer)</p>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mr Mark Yeo</strong></span></p>
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>Mr Ng Kok Hua</p>
-<p>(Assistant Treasurer)</p>
+<td width="227">
+<p><span style="color: #000000;"><strong>Vice President</strong></span></p>
 </td>
-<td width="198">
-<p>Ms Zeng Ying Xu</p>
-<p>(Secretary)</p>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mr Kang Guan Beng</strong></span></p>
 </td>
-<td width="186">
-<p>Mr Albert Tan Kiah Hock</p>
-<p>(Assistant Secretary)</p>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Treasurer</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mr Jeremy Ong Sing Huat</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Assistant Treasurer</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mr Ng Kok Hua</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Secretary</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Ms Zeng Ying Xu</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Assistant Secretary</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mr Albert Tan Kiah Hock</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Committee Member</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mdm Kok Wai Chee</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Committee Member</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mdm Tan Siow Cheng</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Committee Member</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Mdm Teo Siew Yong</strong></span></p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p><span style="color: #000000;"><strong>Committee Member</strong></span></p>
+</td>
+<td width="227">
+<p><span style="color: #000000;"><strong>Ms Boo Fang Fei</strong></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
+<p><span style="color: #000000;">Figure 19 - Mr Mark Yeo, Seh-Chuan Shuqun Alumni chairperson, gracing our Chinese New Year lunch in 2023.</span></p>
