@@ -31,11 +31,13 @@ third_nav_title: School Information
 <li><span style="color: #000000;">T-shirt should be tucked in at all times.</span></li>
 <li><span style="color: #000000;">Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</span></li>
 </ul>
-<p><span style="color: #000000;">![](/images/uniform.jpg)</span></p>
+
+![](/images/uniform.jpg)
 <ul>
 <li><span style="color: #000000;">Name tags must be sewn on all school shirts, blouses and PE T-shirt.</span></li>
 </ul>
-<p><span style="color: #000000;">![](/images/name-tag.jpg)</span></p>
+
+![](/images/name-tag.jpg)
 <ul>
 <li><span style="color: #000000;">School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</span></li>
 <li><span style="color: #000000;">PE T-shirt : one finger above the school crest.</span></li>
@@ -48,7 +50,8 @@ third_nav_title: School Information
 <li><span style="color: #000000;">School shoes and socks should be kept white and clean at all times.</span></li>
 <li><span style="color: #000000;">Shoes/Socks with stark / colourful logos are not allowed.</span></li>
 </ul>
-<p><span style="color: #000000;">![](/images/shoe.jpg)</span></p>
+
+![](/images/shoe.jpg)
 <h4><span style="color: #000000;"><strong>Accessories</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">No bracelets, bangles, nose studs,&nbsp;necklaces or other accessories are permitted.</span></li>
@@ -66,7 +69,8 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Fringes must be kept above eyebrows.</span></li>
 <li><span style="color: #000000;">Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</span></li>
 </ul>
-<p><span style="color: #000000;">![](/images/boy-hair.jpg)</span></p>
+
+![](/images/boy-hair.jpg)
 <h4><span style="color: #000000;"><strong>Girls&rsquo; Hair</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">Fringes must&nbsp;be kept above eyebrows or&nbsp;pinned up neatly with black pins or clips..</span></li>
@@ -75,8 +79,8 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Only black hair accessories are allowed.</span></li>
 <li><span style="color: #000000;">Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</span></li>
 </ul>
-<p><span style="color: #000000;">![](/images/girl-hair.jpg)</span></p>
 
+![](/images/girl-hair.jpg)
 <h3><strong><span style="color: #800000;">Expected Shuqunite Behaviour</span></strong></h3>
 
 <h4><span style="color: #000000;"><strong>Attendance</strong></span></h4>
