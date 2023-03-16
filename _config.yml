@@ -3,7 +3,7 @@ url: https://shuqunpri.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#a11104"
-  secondary-color: "#776260"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#1812d8"
