@@ -88,29 +88,29 @@ third_nav_title: School Information
 </tbody>
 </table>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Lunch Timings</span></strong></h3>
-<table style="height: 138px; width: 417px; border-style: solid; border-color: #000000;" border="1" width="357">
+<table style="height: 138px; width: 444px; border-style: solid; border-color: #000000;" border="1" width="357">
 <tbody>
 <tr style="height: 46px;">
-<td style="width: 131.469px; height: 46px; text-align: center;">
+<td style="width: 114.703px; height: 46px; text-align: center;">
 <p><strong>Levels</strong></p>
 </td>
-<td style="width: 269.531px; height: 46px; text-align: center;">
+<td style="width: 313.297px; height: 46px; text-align: center;">
 <p><strong>Lunch Timings</strong></p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 131.469px; height: 46px; text-align: center;">
+<td style="width: 114.703px; height: 46px; text-align: center;">
 <p><strong>P5</strong></p>
 </td>
-<td style="width: 269.531px; height: 46px; text-align: center;">
+<td style="width: 313.297px; height: 46px; text-align: center;">
 <p><strong>12.30 p.m. &ndash; 1 p.m. (Wed &ndash; Fri)</strong></p>
 </td>
 </tr>
 <tr style="height: 46px;">
-<td style="width: 131.469px; height: 46px; text-align: center;">
+<td style="width: 114.703px; height: 46px; text-align: center;">
 <p><strong>P6</strong></p>
 </td>
-<td style="width: 269.531px; height: 46px; text-align: center;">
+<td style="width: 313.297px; height: 46px; text-align: center;">
 <p><strong>12 p.m. &ndash; 12.30 p.m. (Wed &ndash; Fri)</strong></p>
 </td>
 </tr>
