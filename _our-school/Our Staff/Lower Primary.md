@@ -4,7 +4,7 @@ permalink: /lower-primary-2/
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><strong><span style="color: #ff0000;">Primary 1</span></strong></h3>
+<h3><strong><span style="color: #a11104;">Primary 1</span></strong></h3>
 <table style="width: 668px;" width="667">
 <tbody>
 <tr>
@@ -94,7 +94,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3><strong><span style="color: #ff0000;">Primary 2</span></strong></h3>
+<h3><strong><span style="color: #a11104;">Primary 2</span></strong></h3>
 <table style="width: 667px;" width="667">
 <tbody>
 <tr>
