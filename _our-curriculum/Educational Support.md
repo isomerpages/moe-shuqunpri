@@ -3,9 +3,8 @@ title: Educational Support
 permalink: /our-curriculum/educational-support/
 description: ""
 ---
-
-<p style="text-align: justify;"><span style="color: #000000;">The ES department spearheads efforts in building an inclusive school culture and supporting students with special educational needs.&nbsp; We believe that every child is unique and a precious resource and each one of them deserves a fair chance at fulfilling his or her potential and contribute positively to society.</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">The ES department strives towards the following goals:</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">The Educational Support department spearheads efforts in building an inclusive school culture and supporting students with special educational needs.&nbsp; We believe that every child is unique and a precious resource and each one of them deserves a fair chance at fulfilling his or her potential and contribute positively to society.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">The Educational Support department strives towards the following goals:</span></p>
 <ul style="text-align: justify;">
 <li><span style="color: #000000;">Make learning accessible to all learners</span></li>
 <li><span style="color: #000000;">Ensure fair and equitable opportunities are provided to all learners</span></li>
