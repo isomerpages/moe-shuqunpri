@@ -34,7 +34,7 @@ description: ""
 <li><span style="color: #000000;">Height and weight measurement</span></li>
 <li><span style="color: #000000;">Information booths/panels &amp; murals</span></li>
 </ul>
-<h4 style="text-align: justify;"><span style="color: #000000;">Outdoor Education in Physical Education (OE in PE)</span></h4>
+<h4 style="text-align: justify;"><strong><span style="color: #000000;">Outdoor Education in Physical Education (OE in PE)</span></strong></h4>
 <p style="text-align: justify;"><span style="color: #000000;">The school has incorporated outdoor education (OE) into the PE lessons. Through being exposed to a variety of age-appropriate OE activities during their PE lessons, the students would develop character and leadership skills. Some of the OE activities include packing, navigation and tent-pitching.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>SwimSafer 2.0 Programme</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">The SwimSafer programme is part of the PE curriculum. Through this programme, the students learn water confidence and skills that enable them to participate in water activities safely and confidently. After a hiatus due to COVID, our Primary 6 and 5 students finally got the opportunities to embark on their SwimSafer course.</span></p>
