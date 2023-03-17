@@ -3,8 +3,7 @@ title: English
 permalink: /our-curriculum/english/
 description: ""
 ---
-
-<h3><span style="color: #ff0000;"><strong>Mission</strong></span></h3>
+<h3><span style="color: #800000;"><strong>Mission</strong></span></h3>
 <p><span style="color: #000000;">Building A Strong Foundation and Rich Language for All.</span></p>
 <p><span style="color: #000000;">The English Department aims to develop effective language use through a two-pronged approach of building a strong foundation and providing rich language for all.</span></p>
 <p><span style="color: #000000;">Teachers will focus on developing the following areas of language learning in students:</span></p>
