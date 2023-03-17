@@ -4,17 +4,17 @@ links:
     url: /our-school/permalink
     sublinks:
       - title: Principal's Message
-        url: /principals-message/
+        url: /our-school/principals-message/
       - title: Vision, Mission, Values
-        url: /vision-mission-values/
+        url: /our-school/vision-mission-values/
       - title: School Information
-        url: /school-history/
+        url: /our-school/school-history/
       - title: Our Staff
-        url: /school-management-team/
+        url: /our-school/school-management-team/
       - title: School Achievements
-        url: /school-achievements/
+        url: /our-school/school-achievements/
       - title: Contact Us
-        url: /contact-us/permalink/
+        url: /our-school/contact-us/
   - title: Our Curriculum
     url: /our-curriculum/permalink/
     sublinks:
