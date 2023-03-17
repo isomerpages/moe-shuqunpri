@@ -3,14 +3,12 @@ title: Aesthetics
 permalink: /our-curriculum/aesthetics/
 description: ""
 ---
-
-<h3><span style="color: #ff0000;"><strong>Mission</strong></span></h3>
-<ul>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 <li><span style="color: #000000;">Develop&nbsp;<strong>awareness of and appreciation</strong>&nbsp;for Arts of various culture and the role of Arts in daily living</span></li>
 <li><span style="color: #000000;">Develop the&nbsp;<strong>ability for creative expression</strong>&nbsp;through Arts-making</span></li>
 <li><span style="color: #000000;">Provide the basis to&nbsp;<strong>develop passion and life-long involvement</strong>&nbsp;in Arts</span></li>
 </ul>
-<h3><span style="color: #ff0000;"><strong>Key Programmes</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 <h4><span style="color: #ff0000;"><strong>Modular Enrichments</strong></span></h4>
 <p><span style="color: #000000;">The acquisition of arts skills is further enhanced through direct arts-making during Art and Music lessons. All students are given the opportunity to acquire a focused art skill pitched at their level. The enrichment aims to expose them to different active arts experiences. The enrichments are as follow:</span></p>
 <table>
@@ -106,8 +104,8 @@ description: ""
 <p><span style="color: #000000;">Quality arts assembly programmes are scheduled to expose the students to a wide range of art forms. Assembly showcases by professional artists and arts groups such as Acapella group, Caricature Drawing and Beatboxing have been inspirational to the students. Outreach talks are also conducted for our Primary 5 and 6 students who are talented in Arts so that they are aware of the different alternatives secondary school path.</span></p>
 
 ![](/images/Aesthetics2.jpg)
-<h3><span style="color: #ff0000;"><strong>Enrichment Programmes</strong></span></h3>
-<h4><strong><span style="color: #ff0000;">Lower Primary Music Enrichments</span></strong></h4>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
+<h4><strong><span style="color: #000000;">Lower Primary Music Enrichments</span></strong></h4>
 <p><span style="color: #000000;">Primary 2 students are given a choice to go through different music enrichment programmes after-school. Violin and Brass Band enrichments are conducted&nbsp;to allow the young enthusiasts to start learning the music instrument before they start their CCAs in Primary 3.</span></p>
 <h4><span style="color: #ff0000;"><strong>Lower Primary Museum Visit</strong></span></h4>
 <p><span style="color: #000000;">Selected lower primary students who show interest and talent in art are involved in the guided tour at the Singapore Art Museum or the Philatelic Museum. Via the museum and gallery visits, students learn about Singapore&rsquo;s culture, its heritage as well as appreciate how art is involved in the creation of the artefacts.</span></p>
