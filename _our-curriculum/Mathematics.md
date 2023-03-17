@@ -14,8 +14,8 @@ description: ""
 
 ![](/images/Mathematics.jpg)
 
-<h3><span style="color: #800000;">Enrichment Programmes</span></h3>
+<h3><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
 <h4><span style="color: #000000;"><span style="color: #000000;"><strong>E2K (Excellence 2000)</strong></span></span></h4>
 <p><span style="color: #000000;">This programme is designed to provide the students a structured approach to mathematical thinking and mathematical communication. In addition, there are opportunities to develop abilities for independent learning and love of learning. Different forms of games, stories and puzzles are used to engage the students in problem solving.</span></p>
-<h4><span style="color: #000000;">Math Olympiad Training and Competition</span></h4>
+<h4><strong><span style="color: #000000;">Math Olympiad Training and Competition</span></strong></h4>
 <p><span style="color: #000000;">Students with high aptitude and attitude in Mathematics will be selected for Math Olympiad training sessions. These sessions will prepare the participants for national Mathematics competitions.</span></p>
