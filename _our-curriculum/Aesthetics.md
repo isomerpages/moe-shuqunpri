@@ -7,7 +7,7 @@ description: ""
 <li><span style="color: #000000;">Develop&nbsp;<strong>awareness of and appreciation</strong>&nbsp;for Arts of various culture and the role of Arts in daily living</span></li>
 <li><span style="color: #000000;">Develop the&nbsp;<strong>ability for creative expression</strong>&nbsp;through Arts-making</span></li>
 <li><span style="color: #000000;">Provide the basis to&nbsp;<strong>develop passion and life-long involvement</strong>&nbsp;in Arts</span></li>
-</ul>
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 <h4><span style="color: #ff0000;"><strong>Modular Enrichments</strong></span></h4>
 <p><span style="color: #000000;">The acquisition of arts skills is further enhanced through direct arts-making during Art and Music lessons. All students are given the opportunity to acquire a focused art skill pitched at their level. The enrichment aims to expose them to different active arts experiences. The enrichments are as follow:</span></p>
