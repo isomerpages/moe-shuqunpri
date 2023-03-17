@@ -3,11 +3,12 @@ title: Science
 permalink: /our-curriculum/science/
 description: ""
 ---
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 
-
-<h3><span style="text-decoration: underline;"><strong>Mission</strong></span></h3>
 <p>Nurture effective and creative thinkers with a sense of inquiry and passion for the learning of science</p>
-<h3><span style="text-decoration: underline;"><strong>Key&nbsp;Programmes</strong></span></h3>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
+
 <p>Science curriculum at SQPS adopts the pedagogy of Inquiry-Based Learning (IBL) in the teaching and learning of Science. Students are provided with opportunities to engage in meaningful learning of key scientific ideas as they are taken through the 5 key stages of learning in the 5E Instructional Model &ndash; Engage, Explore, Explain, Elaborate and Evaluate. Through active learning, students acquire the skills to synthesize knowledge, transfer their learning in varied contexts and make connections with their surroundings.</p>
 <p><strong>1. Integration of Science with Stellar</strong></p>
 <p>This programme is mainly integrated into the teaching of English in Primary 1 and Primary 2. It taps on the natural curiosity of our young learners to develop their Science concepts and skills. Students get to learn simple science concepts and facts which are weaved into the Stellar units through interactive and fun activities.</p>
@@ -17,7 +18,9 @@ description: ""
 <p>To complement the Primary 3 syllabus, Every Child a Seed programme provide the opportunity for our students to experience the process of growing their own plants. Students not only learn about the life cycle of plants, plant parts and their functions, our school&rsquo;s ICARE values (care and responsibility) are also reinforced.</p>
 <p><strong>4. Lessons at Science Centre</strong></p>
 <p>Learning of Science extends beyond the classrooms. Students from P3 to P5 attend lessons at the Science Centre targeted at selected topics within the syllabus.</p>
-<h3><span style="text-decoration: underline;"><strong>Environmental Education</strong></span></h3>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Environmental Education</span></strong></h3>
+
 <p>Aligned to Shuqun&rsquo;s strategic thrust &lsquo;Service to Community&rsquo; and as part of the school-wide approach towards our Shuqun Green Plan, Environmental Education (EE) modules, which are part of the school-based Science curriculum, &nbsp;aim to educate our students on environmental challenges and to nurture young minds in building a greener future.</p>
 <p>The EE curriculum aims to achieve the following outcomes:</p>
 <ul>
