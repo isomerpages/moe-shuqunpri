@@ -3,10 +3,9 @@ title: Character & Citizenship Education
 permalink: /our-curriculum/cce/
 description: ""
 ---
-
 <p><span style="color: #000000;">Character and Citizenship Education, including National Education and Social Emotional Learning, is integral to the holistic development of our students, leading to positive outcomes.</span></p>
 <p><span style="color: #000000;">In Shuqun Primary, the CCE experience is customised based on the 3Es approach &ndash; Engage, Enrich and Excite through the CCE Curriculum and school-customised programmes. In cultivating a caring and enabling learning environment, student voice and ownership is encouraged to cater to our students&rsquo; interests. Students would feel included and empowered as we acknowledge their views and ideas. With that, we hope that Shuqunites will be motivated to contribute positively and strive towards excellence.</span></p>
-<h3><span style="color: #ff0000;"><strong>Key Programmes</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 <h4><span style="color: #ff0000;"><strong>Character Education</strong></span></h4>
 <p><span style="color: #000000;">The CCE curriculum content is premised on the three big ideas of Identity, Relationships and Choices, and anchored on the teaching of core values and social-emotional competencies. Students are taken through structured lessons and activities to equip them with necessary skills and knowledge including 21st century competencies for their personal and social growth.</span></p>
 <h4><span style="color: #ff0000;"><strong>Form Teacher Guidance Period (CCE FTGP)</strong></span></h4>
@@ -37,7 +36,7 @@ description: ""
 <p><span style="color: #000000;">Our ambassadors are student leaders who promote Character and Citizenship values through school programmes. They engage and lead their peers in class, level, school and student-initiated community projects as part of their leadership development. Our CCE ambassadors adopt the five practices of exemplary leadership model in the planning and implementation of CCE activities which they initiate. &nbsp;Some activities include involvement in NE commemorative events, sharing of school values and organising the Non-Teaching Staff Appreciation Day.</span></p>
 
 ![](/images/CCE005.jpg)
-<h3><span style="color: #ff0000;"><strong>Citizenship Education</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Citizenship Education</span></strong></h3>
 <h4><span style="color: #ff0000;"><strong>National Education (NE) Events</strong></span></h4>
 <p><span style="color: #000000;">National Education comprises four core annual events that we commemorate as a school. The Commemorative Days are linked to defining moments in Singapore's history. Learning activities are customised to create a holistic learning experience for our students. They will engage in various activities to understand the significance of each event and reflect on their importance in Singapore as well as themselves as Singaporeans. As part of the National Education programme, all Primary 5 students will also be scheduled to attend the National Education Show (NE Show) which is a special preview of the National Day Parade. Through this Learning Journey, students learn to appreciate the significance of National Day.</span></p>
 <ul>
