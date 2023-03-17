@@ -3,11 +3,11 @@ title: Physical & Health Education
 permalink: /our-curriculum/physical-and-health-education/
 description: ""
 ---
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>Mission</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 
 <p style="text-align: justify;"><span style="color: #000000;">To provide opportunities for our students to discover and pursue their interest in physical activities through Physical Education (PE). The department aims to prepare students to lead a healthy and active lifestyle beyond primary school, and develop character and leadership skills that are aligned to the school&rsquo;s values.</span></p>
 
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>Key Programmes</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Sports and Wellness Fiesta</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">The Sports and Wellness Fiesta is an annual event that aims to promote both mental the physical well-being of the students through a variety of sports and physical activities. It is part of the school&rsquo;s effort to develop the students holistically.</span></p>
