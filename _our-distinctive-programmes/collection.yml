@@ -2,7 +2,6 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
-      - Positive Education.md
       - Our Distinctive Programmes.md
       - Reading Culture Programme.md
       - Talent Development Programme.md
@@ -11,3 +10,4 @@ collections:
       - Applied Learning Programme.md
       - MAD Day & Stardust.md
       - Bizkids.md
+      - Positive Education.md
