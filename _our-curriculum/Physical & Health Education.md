@@ -3,7 +3,6 @@ title: Physical & Health Education
 permalink: /our-curriculum/physical-and-health-education/
 description: ""
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 
 <p style="text-align: justify;"><span style="color: #000000;">To provide opportunities for our students to discover and pursue their interest in physical activities through Physical Education (PE). The department aims to prepare students to lead a healthy and active lifestyle beyond primary school, and develop character and leadership skills that are aligned to the school&rsquo;s values.</span></p>
@@ -40,4 +39,4 @@ description: ""
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>SwimSafer 2.0 Programme</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">The SwimSafer programme is part of the PE curriculum. Through this programme, the students learn water confidence and skills that enable them to participate in water activities safely and confidently. After a hiatus due to COVID, our Primary 6 and 5 students finally got the opportunities to embark on their SwimSafer course.</span></p>
 
-![](/images/Swim%20Safer.jpg)</span></p>
+![](/images/Swim%20Safer.jpg)
