@@ -3,7 +3,8 @@ title: Information & Communication Technology
 permalink: /our-curriculum/information-communication-technology/
 description: ""
 ---
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>Mission</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
+
 <p style="text-align: justify;"><span style="color: #000000;">To develop a conducive environment in teaching and learning for every student and staff to become intelligent and responsible users of ICT.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Desired Outcomes for Students</strong></span></h4>
 <ul style="text-align: justify;">
@@ -11,7 +12,8 @@ description: ""
 <li><span style="color: #000000;">Active learners who are able to think critically and problem solve creatively.</span></li>
 <li><span style="color: #000000;">Confident citizens/residents who can contribute and serve the country with a heart.</span></li>
 </ul>
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>ICT in Shuqun</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">ICT in Shuqun</span></strong></h3>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>ICT in Teaching and Learning</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">ICT is integrated across various subjects to engage students and increase efficacy so that students can deepen learning and go through meaningful learning experiences.&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">ICT baseline skills needed to enable these ICT integrated lessons are embedded in the curriculum through various ways e.g. SLS lessons, ICT tips and quizzes, face-to-face lessons and so on, for the different levels.&nbsp; The progressive skill sets for the levels are chosen to suit the students&rsquo; ability and level of readiness.&nbsp;&nbsp;</span></p>
@@ -38,7 +40,9 @@ description: ""
 <p style="text-align: justify;"><span style="color: #000000;">We believe that &ldquo;it takes a village to raise a child&rdquo;.&nbsp; We believe in working with parents to further strengthen the CW issues taught in school.&nbsp; Parents are updated on the various CW issues via SPEC, a sharing from various departments, conducted yearly or through term letters.&nbsp; The school website also has useful links for parents to find out more about any relevant CW or ICT concerns that they might have.</span></p>
 
 ![](/images/ICT002.jpg)
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>Enrichment Programmes</strong></span></h3>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
+
 <p style="text-align: justify;"><span style="color: #000000;">As stated by MOE, the following competencies are necessary for the globalised world we live in:</span></p>
 <ul style="text-align: justify;">
 <li><span style="color: #000000;">Civic Literacy, Global Awareness and Cross-Cultural Skills</span></li>
