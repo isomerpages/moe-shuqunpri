@@ -9,7 +9,7 @@ description: ""
 <td style="width: 33.3333%; text-align: center;">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Principal Message</strong></p>
+<p><strong>Principal's Message</strong></p>
 </td>
 <td style="width: 33.3333%; text-align: center;">
 <p>&nbsp;</p>
