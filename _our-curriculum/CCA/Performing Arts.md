@@ -1,0 +1,25 @@
+---
+title: Performing Arts
+permalink: /our-curriculum/performing-arts/
+description: ""
+third_nav_title: CCA
+---
+
+<h3><span style="color: #ff0000;"><strong>Art Club</strong></span></h3>
+
+![](/images/Art.jpg)
+<p>Through weekly sessions, members of the Art Club explore various mediums and genres of Art. For example, observational drawing, digital art, oil pastel, watercolour, and even clay work. These art tasks act as a platform for Art Club members to enhance their creativity and self-expression, enabling them to have better understanding of the elements of art and principles of design. By exposing them to competitions and exhibitions, we hope to instill in Art Club members self-confidence, resilience as well as deeper appreciation for the different art forms.</p>
+<h3><span style="color: #ff0000;"><strong>Brass Band</strong></span></h3>
+
+![](/images/Brass%20Band.jpg)
+<p>Brass Band CCA provides an opportunity for students to learn music by playing an instrument in an ensemble setting. Activities for Band CCA include performances such as SYF and Speech Prize-Giving Day. Members will also be participating in Band Camp where they will be involved in team bonding activities and doing a performance at an old folk&rsquo;s home.</p>
+
+<h3><span style="color: #ff0000;"><strong>Choir</strong></span></h3>
+
+![](/images/Choir1.jpg)
+<p>Choir CCA aims to spread the joy of community singing in a fun and engaging way. Choir members will develop skills such as voice articulation, score reading, performance etiquette in an ensemble. They will have the opportunity to watch concerts as well as perform for Prize-Giving Day, community events and SYF Arts Festival.</p>
+<h3><strong>Contemporary Dance</strong></h3>
+
+![](/images/Contemporary%20Dance.jpg)
+<p>Contemporary Dance CCA incorporates elements from many styles of dance such as classical, ballet and jazz. During the CCA training sessions, members will be trained on mastering strong and controlled legwork, floor work, fall and recovery and other techniques.<strong>&nbsp;</strong>Members will be involved in performances such as SYF, Hari Raya Concert and our annual Speech and Prize-Giving Day.</p>
+<p>&nbsp;</p>
