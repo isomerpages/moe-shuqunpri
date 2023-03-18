@@ -9,6 +9,7 @@ description: ""
 <td style="width: 27.7935%; text-align: center; height: 92px;">
 
 ![](/images/Principal%20Message1.jpg)
+	
 <p><strong>Principal's Message</strong></p>
 </td>
 <td style="width: 38.8731%; text-align: center; height: 92px;">
