@@ -30,12 +30,12 @@ description: ""
 ![](/images/LLP003.jpg)
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>P3 to P6 OE in PE</strong></span></h4>
 <ul>
-<li style="text-align: justify;"><span style="color: #000000;">Navigation</span></li>
+<li style="text-align: justify;"><span style="color: #000000;"><strong>Navigation</strong></span></li>
 </ul>
 
 ![](/images/LLP004.jpg)
 <ul>
-<li style="text-align: justify;"><span style="color: #000000;">Bouldering exposure</span></li>
+<li style="text-align: justify;"><span style="color: #000000;"><strong>Bouldering exposure</strong></span></li>
 </ul>
 
 ![](/images/LLP005.jpg)
