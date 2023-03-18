@@ -21,6 +21,7 @@ description: ""
 <p style="text-align: justify;"><span style="color: #000000;">To allow the students to have more opportunities to further hone their ICT skills, the school has also arranged for fun filled activities outside the classroom.&nbsp; For example, students can test their typing skills by competing with each other through the touch-typing competitions.&nbsp; During the PSLE period, students get to encourage and show care to their graduating seniors/peers by sending their well-wishes through a common platform linked by SLS. They can use various ICT skills learnt from enrichment programmes to either record videos, design e-cards or simply type messages and posting them in SLS.</span></p>
 
 ![](/images/ICT003.jpg)
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness Education</strong></span></h4>
 
 ![](/images/CyberWellness%201.jpg)
