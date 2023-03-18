@@ -21,6 +21,9 @@ description: ""
 
 ![](/images/ICT003.jpg)
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness Education</strong></span></h4>
+
+![](/images/CyberWellness%201.jpg)
+
 <p style="text-align: justify;"><span style="color: #000000;">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in the online space. The focus of CW is to help students to become safe and responsible digital learners. It is important for students to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practice safe and responsible use. Students should also be a positive peer influence and harness the power of technology for the good of the community.&nbsp; &nbsp;The CW framework shown above guides schools in planning for an inclusive programme to ensure students become intelligent and responsible users of ICT.&nbsp;</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness Student Ambassadors (CWSA)</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">To help champion our Cyber Wellness efforts, CWSA undergo a series of training by our CW teachers to equip them with the necessary CW and leadership skills.&nbsp; The CWSA are expected to harness what they have learnt and positively influence their peers in school, carry out duties at CW/ICT events and share presentations on current CW issues during Student Teacher Contact Time (STCT).&nbsp; Together with their CW teachers, the CWSA also produces CW videos to share useful CW tips.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
@@ -36,6 +39,8 @@ description: ""
 </ul>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness for Parents</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">We believe that &ldquo;it takes a village to raise a child&rdquo;.&nbsp; We believe in working with parents to further strengthen the CW issues taught in school.&nbsp; Parents are updated on the various CW issues via SPEC, a sharing from various departments, conducted yearly or through term letters.&nbsp; The school website also has useful links for parents to find out more about any relevant CW or ICT concerns that they might have.</span></p>
+
+![](/images/ICT002.jpg)
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;"><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
 <h3 style="text-align: justify;"><span style="color: #800000;"><strong>Enrichment Programmes</strong></span></h3>
@@ -46,6 +51,9 @@ description: ""
 <li><span style="color: #000000;">Communication, Collaboration and Information Skills</span></li>
 </ul>
 <p style="text-align: justify;"><span style="color: #000000;">These competencies together with the core values listed below will help our students capitalise on the rich opportunities of the digital age.</span></p>
+
+
+
 <p style="text-align: justify;"><span style="color: #000000;">On top of what is carried out in the curriculum, different enrichment programmes run by carefully sourced vendors, are curated for students to further develop students&rsquo; 21<sup>st</sup> Century Competencies Skills.&nbsp;</span></p>
 <p style="text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Stop Motion (P4)</strong></span></h4>
