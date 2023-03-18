@@ -3,7 +3,8 @@ title: Sexuality Education
 permalink: /our-curriculum/sexuality-education/
 description: ""
 ---
-<h3 style="text-align: justify;"><span style="color: #000000;"><strong>MOE Sexuality Education in Schools</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Sexuality Education in Schools</span></strong></h3>
+
 <p style="text-align: justify;"><span style="color: #000000;">1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">2. The <strong>Goals</strong>&nbsp;of Sexuality Education are:</span></p>
 <ul style="text-align: justify;">
@@ -20,6 +21,7 @@ description: ""
 </ul>
 <p style="text-align: justify;"><span style="color: #000000;">You may click&nbsp;<a style="color: #000000;" href="https://go.gov.sg/moe-sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Overview of Shuqun Primary School&rsquo;s Sexuality Education Programme for 2023.</strong></span></h4>
+
 <p style="text-align: justify;"><span style="color: #000000;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a style="color: #000000;" href="https://go.gov.sg/moe-sexuality-education-scope">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">5. The subjects that incorporate topics on sexuality include:</span></p>
 <ul style="text-align: justify;">
@@ -29,7 +31,7 @@ description: ""
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Sexuality Education Lessons:</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</span></p>
-<p style="text-align: justify;"><strong><span style="color: #000000;">At Shuqun Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:</span></strong></p>
+<h4 style="text-align: justify;"><span style="color: #000000;"><strong>At Shuqun Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:</strong></span></h4>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Primary 5</strong></span></h4>
 
 ![](/images/SEd%20Pri5.jpg)
