@@ -2,6 +2,7 @@ collections:
   our-distinctive-programmes:
     output: true
     order:
+      - Positive Education.md
       - Our Distinctive Programmes.md
       - Reading Culture Programme.md
       - Talent Development Programme.md
