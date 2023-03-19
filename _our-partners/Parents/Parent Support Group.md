@@ -53,41 +53,42 @@ third_nav_title: Parents
 <table>
 <tbody>
 <tr>
-<td style="width: 221px;">
+<td width="241">
 <p><strong>Mdm Ang Li Fong</strong></p>
 </td>
-<td style="width: 269px;">
+<td width="241">
 <p><strong>Mdm Marini Binte Osman</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 221px;">
+<td width="241">
 <p><strong>Mdm Chua Li Tink</strong></p>
 </td>
-<td style="width: 269px;">
+<td width="241">
 <p><strong>Mdm Tan Ai Lay</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 221px;">
+<td width="241">
 <p><strong>Mdm Deborah Quah</strong></p>
 </td>
-<td style="width: 269px;">
+<td width="241">
 <p><strong>Mdm Koh Shir Li</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 221px;">
+<td width="241">
 <p><strong>Mdm Koh Li Ching, Cherie</strong></p>
 </td>
-<td style="width: 269px;">
+<td width="241">
 <p><strong>Mdm Shirleen Yap</strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 221px;"><strong>Mdm Wendy Yap</strong></td>
-<td style="width: 269px;">
-<p>&nbsp;</p>
+<td width="241">
+<p><strong>Mdm Wendy Yap</strong></p>
+</td>
+<td width="241">
 </td>
 </tr>
 </tbody>
