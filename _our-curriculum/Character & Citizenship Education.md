@@ -3,6 +3,8 @@ title: Character & Citizenship Education
 permalink: /our-curriculum/cce/
 description: ""
 ---
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
+
 <p><span style="color: #000000;">Character and Citizenship Education, including National Education and Social Emotional Learning, is integral to the holistic development of our students, leading to positive outcomes.</span></p>
 <p><span style="color: #000000;">In Shuqun Primary, the CCE experience is customised based on the 3Es approach &ndash; Engage, Enrich and Excite through the CCE Curriculum and school-customised programmes. In cultivating a caring and enabling learning environment, student voice and ownership is encouraged to cater to our students&rsquo; interests. Students would feel included and empowered as we acknowledge their views and ideas. With that, we hope that Shuqunites will be motivated to contribute positively and strive towards excellence.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
