@@ -13,7 +13,9 @@ description: ""
 <li><span style="color: #000000;">Numeracy</span></li>
 <li><span style="color: #000000;">Social and Emotional Development</span></li>
 </ul>
-<p style="text-align: justify;">![](/images/2023%20Tangrams.png)</p>
+
+![](/images/2023%20Tangrams.png)
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Starlight Literacy Programme</span></strong></h3>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Early Childhood Literacy</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children&rsquo;s listening and speaking skills. An active, interactive approach helps to nurture children&rsquo;s interest in learning languages.</span></p>
