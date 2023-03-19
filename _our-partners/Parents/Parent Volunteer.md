@@ -4,7 +4,8 @@ permalink: /our-partners/parents/parent-volunteer/
 description: ""
 third_nav_title: Parents
 ---
-<h3 style="text-align: justify;"><span style="color: #a11104;">Parent Volunteer Scheme</span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #a11104;">Parent Volunteer Scheme</span></strong></h3>
+
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">Apart from joining the Parent Support Group, parents can also volunteer in the school as part of MOE&rsquo;s Primary One (P1) Phase 2B Registration.</span></p>
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">Under the ruling of MOE Primary One P1 Registration Exercise, a parent can volunteer in the school to qualify for Phase 2B if the child is a Singapore citizen or a Permanent Resident.</span></p>
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">The registration stage for a child whose parent would like to join the school as a parent volunteer is between 1 April and 30 June of the year preceding the P1 registration year.</span></p>
