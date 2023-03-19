@@ -4,7 +4,6 @@ permalink: /our-partners/parents/parent-support-group/
 description: ""
 third_nav_title: Parents
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Objectives</span></strong></h3>
 
 <p style="text-align: justify;">Our school acknowledges the value of a strong school-parent partnership in enhancing the holistic development and learning of our students. SQPSG was formed to foster a closer communication and understanding between our school and families.</p>
