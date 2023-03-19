@@ -15,7 +15,7 @@ description: ""
 <li><span style="color: #000000;"> Expose students to the different cultures and establish overseas friendships.</span></li>
 </ul>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Student Ambassador Programme (Outbound and Friends4life)</span></strong></h3>
+<h3><strong><span style="color: #800000;">Student Ambassador Programme (Outbound and Friends4Life)</span></strong></h3>
 
 <h4><span style="color: #000000;"><strong>Outbound</strong></span></h4>
 <p><span style="color: #000000;">With the fast pace of globalization, it is essential for us to prepare our students not only to be connected global citizens, but also knowledgeable rooted Singaporeans. The Student Ambassador Programme (SAP) aims to transform our students into confident young ambassadors for Singapore.</span></p>
