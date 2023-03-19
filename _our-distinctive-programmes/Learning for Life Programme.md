@@ -7,7 +7,7 @@ description: ""
 
 <p style="text-align: justify;"><span style="color: #000000;">We aim to develop the students&rsquo; character and leadership through outdoor education. Outdoor Education in SQPS engages the students&rsquo; spirit of adventure through the exploration of natural and urban environments.</span></p>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Shuqun Primary School&rsquo;s objectives for LLP are:</span></strong></h3>
+<h4 style="text-align: justify;"><strong><span style="color: #000000;">Shuqun Primary School&rsquo;s objectives for LLP are:</span></strong></h4>
 
 <ul style="text-align: justify;">
 <li><span style="color: #000000;">Provide students with opportunities to develop and apply outdoor skills in an authentic environment.</span></li>
