@@ -4,7 +4,7 @@ permalink: /parents/parent-support-group/
 description: ""
 third_nav_title: Parents
 ---
-<h3 style="text-align: justify;"><span style="color: #800000;"><strong>Objectives</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Objectives</span></strong></h3>
 
 <p style="text-align: justify;">Our school acknowledges the value of a strong school-parent partnership in enhancing the holistic development and learning of our students. SQPSG was formed to foster a closer communication and understanding between our school and families.</p>
 <p style="text-align: justify;"><strong>Mission:</strong> Support the school and enrich the school life of our students</p>
@@ -48,7 +48,8 @@ third_nav_title: Parents
 ![](/images/Psg009.jpg)
 <p style="text-align: justify;">To commemorate Total Defence Day, we had PSG parents who took time to share with students on their respective careers and how their jobs contribute to the six TDD pillars. The P4 to P6 students had the chance to hear the sharing as part of their Education &amp; Career Guidance journey.</p>
 <p style="text-align: justify;">These programmes and activities would not be possible without the Executive Committee (EXCO), that constantly helps to oversee all PSG efforts and is the main point of contact with the school staff.</p>
-<h4 style="text-align: justify;"><strong>PSG EXCO Members</strong></h4>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">PSG EXCO Members</span></strong></h3>
 <table>
 <tbody>
 <tr>
@@ -91,7 +92,6 @@ third_nav_title: Parents
 </tr>
 </tbody>
 </table>
-<h3><span style="color: #ff0000;"><strong>PSG EXCO Members</strong></span></h3>
 <p>To find out more about SQPSG:</p>
 <ul>
 <li>SQPSG Microsite click <a href="https://sites.google.com/moe.edu.sg/sqpsg-activities" target="_blank">here</a>.&nbsp;</li>
