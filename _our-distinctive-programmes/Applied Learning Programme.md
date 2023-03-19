@@ -3,6 +3,8 @@ title: Applied Learning Programme
 permalink: /our-distinctive-programmes/applied-learning-programme/
 description: ""
 ---
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Objectives</span></strong></h3>
+
 <p style="text-align: justify;">In alignment with the school&rsquo;s Vision, Mission and Values, our ALP - Caring and Responsible Environmentalists (CaRE) is anchored on the focus area on the environment. Through our ALP, we strive to strengthen connections between learning across different subject disciplines and develop 21<sup>st</sup> CC and skills in our Shuqunites.</p>
 
 ![](/images/ALP001.png)
