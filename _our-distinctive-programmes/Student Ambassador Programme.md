@@ -26,6 +26,7 @@ description: ""
 <h4><span style="color: #000000;"><strong>Friends4Life</strong></span></h4>
 <p><span style="color: #000000;">The inbound Friends-For-Life is the reciprocating programme for the school&rsquo;s outbound Student Ambassador Programme. The duration is dependent on each partner school&rsquo;s arrangement. In Friends-For-Life, students get to host and build friendships with students of the partner schools through interactive activities. It also allows school staff to have exchanges to share pedagogical experiences and resources.</span></p>
 
+![](/images/SAP2.jpg)
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Training for Ambassadors</span></strong></h3>
 
 <p><span style="color: #000000;">The training programme&nbsp;is designed to equip our students with the necessary skills before they represent themselves as ambassadors of the school. Training sessions consist of&nbsp;centralized training, interview skills, customized group training and the overseas learning journey. The training components include&nbsp;communication skills, general knowledge, national education, leadership and reflection skills.</span></p>
@@ -55,3 +56,5 @@ description: ""
 </tbody>
 </table>
 <p><span style="color: #000000;">The SAP&nbsp;provides ample opportunities for our students to learn from our partner schools.&nbsp; Eventually, the students will be provided the&nbsp;overseas exposure that may help them to interact with the world bravely and collaborate with friends they make around the world. At the&nbsp;same time, it heightens their awareness of their identities as Singaporeans.</span></p>
+
+![](/images/img_sap.jpg)
