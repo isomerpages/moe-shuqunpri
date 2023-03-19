@@ -3,7 +3,7 @@ title: Talent Development Programme
 permalink: /our-distinctive-programmes/talent-development-programme/
 description: ""
 ---
-<h3 style="text-align: justify;"><span style="color: #800000;">Objectives</span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Objectives</span></strong></h3>
 
 <p style="text-align: justify;"><span style="color: #000000;">Co-curricular activities (CCA) form an integral part of the school&rsquo;s objective to provide an all-round education for our pupils. As such, every pupil from P3 onwards is required to participate in one CCA during his/her primary school years. The CCA was organised</span><br /><span style="color: #000000;">and implemented to fuel in the individual a lifelong love for a particular activity. The CCA schedule has been built into the school overall plan to ensure that all P3 to P6 students participate in one CCA.</span></p>
 
