@@ -3,9 +3,4 @@ title: Calendar of Events
 permalink: /calendar-of-events/
 description: ""
 ---
-
-
-
-
-
-<iframe src="https://calendar.google.com/calendar/embed?src=sqps%40moe.edu.sg&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=c3Fwc0Btb2UuZWR1LnNn&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
