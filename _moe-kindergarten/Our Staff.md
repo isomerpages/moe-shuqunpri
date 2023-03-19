@@ -3,7 +3,8 @@ title: Our Staff
 permalink: /moe-kindergarten/our-staff/
 description: ""
 ---
-<h3><span style="text-decoration: underline; color: #000000;">MOE Kindergarten Staff @ Shuqun</span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Kindergarten Staff @ Shuqun</span></strong></h3>
+
 <table style="width: 687px;" width="771">
 <tbody>
 <tr>
