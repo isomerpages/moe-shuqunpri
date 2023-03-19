@@ -3,6 +3,8 @@ title: Positive Education
 permalink: /our-distinctive-programmes/positive-education/
 description: ""
 ---
+<h3 style="text-align: justify;"><span style="color: #800000;">Objectives</span></h3>
+
 <p style="text-align: justify;">In Shuqun Primary School, Positive Education is integrated into character development and well-being which are important components of learning.</p>
 <p style="text-align: justify;">Leveraging Positive Education, Shuqunites realise their own abilities and are able to cope with the normal stresses of life; work productively and fruitfully and contribute to the community.</p>
 <p style="text-align: justify;">The school began its Positive Education journey in 2018 and adopted PROSPER (i.e., Positivity, Relationships, Outcomes, Strengths, Purpose, Engagement, and Resilience) as the framework. Different aspects of the framework are emphasized and implemented in school initiatives to enhance student well-being.</p>
