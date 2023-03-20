@@ -3,9 +3,6 @@ title: Student Management
 permalink: /our-curriculum/student-management/
 description: ""
 ---
-
-
-
 <h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
 <div>
 <div>
@@ -37,9 +34,8 @@ description: ""
 </ol>
 </li>
 </ul>
-<p><strong>3. School &ndash; based Student Care Centre (SCC)</strong></p>
-<p>SCC&rsquo;s provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by NASCANS.</p>
-<p><strong>4. Innovation and Enterprise (I&amp;E) Initiatives</strong></p>
+
+<p><strong>3. Innovation and Enterprise (I&amp;E) Initiatives</strong></p>
 <p>To develop innovative and enterprising students, the school has planned programmes to provide students a holistic education. The exposure of 21st century skills to our students will equip them better in the ever changing environment.</p>
 <ul>
 <li>A 6-year developmental I&amp;E programme</li>
@@ -82,7 +78,7 @@ description: ""
 <li>ThinkBox</li>
 </ul>
 <p>Students are encouraged to give suggestions to improve their school experience. This suggestion scheme uses the school&rsquo;s Learning Management System to collate students&rsquo; suggestions. All suggestions will be evaluated with a rubric and a small reward will be given to students to recognise good suggestions. The school management team will also undertake the selected good suggestions by students and implement them in school.</p>
-<p><strong>5. Student Recognition</strong></p>
+<p><strong>4. Student Recognition</strong></p>
 <p>Exemplary student behaviour through demonstration of the school&rsquo;s ICARE values is recognized through the following student recognition awards.</p>
 <ul>
 <li>Shuqunite STAR Awards (Bronze/Silver/Gold) for excellence in holistic areas.</li>
