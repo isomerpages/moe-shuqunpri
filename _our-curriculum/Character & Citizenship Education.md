@@ -7,7 +7,7 @@ description: ""
 
 <p><span style="color: #000000;">In Shuqun Primary School, the CCE experience is customised based on the 3Es approach &ndash; Engage, Enrich and Excite through the CCE Curriculum and school-customised programmes. In cultivating a caring and enabling learning environment, student voice and ownership is encouraged to cater to our students&rsquo; interests. Students would feel included and empowered as we acknowledge their views and ideas. With that, we hope that Shuqunites will be motivated to contribute positively and strive for excellence.</span></p>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programme</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 
 <h4><span style="color: #000000;"><strong>Character Education</strong></span></h4>
 <p><span style="color: #000000;">The CCE curriculum content is premised on the three big ideas of Identity, Relationships and Choices, and anchored on the teaching of core values and social-emotional competencies. Students are taken through structured lessons and activities to equip them with necessary skills and knowledge including 21st century competencies for their personal and social growth.</span></p>
