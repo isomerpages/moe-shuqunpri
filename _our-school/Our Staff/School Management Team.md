@@ -39,7 +39,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="223"><strong>HOD English</strong></td>
-<td width="241"><strong>Mrs Fong Yoon Yee Sarah</strong></td>
+<td width="241"><strong>Mdm Fong Yoon Yee Sarah</strong></td>
 <td width="307"><strong>fong_yoon_yee@moe.edu.sg</strong></td>
 </tr>
 <tr>
