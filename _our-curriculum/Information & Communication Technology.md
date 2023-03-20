@@ -24,8 +24,7 @@ description: ""
 
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness Education</strong></span></h4>
 
-![](/images/CyberWellness%201.jpg)
-
+![](/images/cyber002.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in the online space. The focus of CW is to help students to become safe and responsible digital learners. It is important for students to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practice safe and responsible use. Students should also be a positive peer influence and harness the power of technology for the good of the community.&nbsp; &nbsp;The CW framework shown above guides schools in planning for an inclusive programme to ensure students become intelligent and responsible users of ICT.&nbsp;</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Cyber Wellness Student Ambassadors (CWSA)</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">To help champion our Cyber Wellness efforts, CWSA undergo a series of training by our CW teachers to equip them with the necessary CW and leadership skills.&nbsp; The CWSA are expected to harness what they have learnt and positively influence their peers in school, carry out duties at CW/ICT events and share presentations on current CW issues during Student Teacher Contact Time (STCT).&nbsp; Together with their CW teachers, the CWSA also produces CW videos to share useful CW tips.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
