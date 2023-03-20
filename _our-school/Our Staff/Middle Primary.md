@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/middle-primary-2/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #800000;">Primary 3</span></strong></h3>
 <table width="693">
 <tbody>
@@ -30,7 +29,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">3A2</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Gauhrie C. Yogarrajah</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Mdm Gauhrie C. Yogarrajah</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">gauhrie_yogarrajah@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
@@ -45,7 +44,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">3B1</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Bindu d/o Moosdan Singh</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Mdm Bindu d/o Moosdan Singh</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">bindu_moosdan_singh@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
@@ -90,7 +89,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">4A1</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Narmadha Rani Ravi</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Mdm Narmadha Rani Ravi</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">narmadha_rani_ravi@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
@@ -145,12 +144,12 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Mdm Lau Hong Lay Karen</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Ms Lau Hong Lay Karen</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">lau_hong_lay@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Anisah Banu</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Mdm Anisah Banu</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">anisah_banu_abdul_razack@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
