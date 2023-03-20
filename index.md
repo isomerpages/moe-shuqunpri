@@ -18,13 +18,4 @@ sections:
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
