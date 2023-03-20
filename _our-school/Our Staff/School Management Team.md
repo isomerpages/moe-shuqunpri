@@ -39,7 +39,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="223"><strong>HOD English</strong></td>
-<td width="241"><strong>Mdm Fong Yoon Yee Sarah</strong></td>
+<td width="241"><strong>Ms Fong Yoon Yee Sarah</strong></td>
 <td width="307"><strong>fong_yoon_yee@moe.edu.sg</strong></td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="223"><strong>HOD Science</strong></td>
-<td width="241"><strong>Mdm Lau Hong Lay Karen</strong></td>
+<td width="241"><strong>Ms Lau Hong Lay Karen</strong></td>
 <td width="307"><strong>lau_hong_lay@moe.edu.sg</strong></td>
 </tr>
 <tr>
