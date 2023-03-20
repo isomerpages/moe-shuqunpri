@@ -106,7 +106,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-![](/images/Alumni002.jpg)
-<p style="text-align: justify;"><span style="color: #000000;">Figure 19 - Mr Mark Yeo, Seh-Chuan Shuqun Alumni chairperson, gracing our Chinese New Year lunch in 2023.</span></p>
-<p style="text-align: justify;">&nbsp;</p>
