@@ -12,7 +12,7 @@ description: ""
 <li><span style="color: #000000;">Active learners who are able to think critically and problem solve creatively.</span></li>
 <li><span style="color: #000000;">Confident citizens/residents who can contribute and serve the country with a heart.</span></li>
 </ul>
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">ICT in Shuqun</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">ICT in Shuqun Primary School</span></strong></h3>
 
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>ICT in Teaching and Learning</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">ICT is integrated across various subjects to engage students and increase efficacy so that students can deepen learning and go through meaningful learning experiences.&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
