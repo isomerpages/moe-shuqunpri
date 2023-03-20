@@ -95,87 +95,87 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 <h3><strong><span style="color: #800000;">Primary 2</span></strong></h3>
-<table style="width: 667px;" width="667">
+<table style="width: 690px;" width="667">
 <tbody>
 <tr>
-<td style="width: 45.1094px;"><strong>Class</strong></td>
-<td style="width: 281.688px;"><strong>Form Teacher</strong></td>
-<td style="width: 318.203px;"><strong>Email Address</strong></td>
+<td style="width: 40.8906px;"><strong>Class</strong></td>
+<td style="width: 309.703px;"><strong>Form Teacher</strong></td>
+<td style="width: 317.406px;"><strong>Email Address</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A1</strong></td>
-<td style="width: 281.688px;"><strong>Ms Lau Yanling</strong></td>
-<td style="width: 318.203px;"><strong>lau_yanling@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A1</strong></td>
+<td style="width: 309.703px;"><strong>Ms Lau Yanling</strong></td>
+<td style="width: 317.406px;"><strong>lau_yanling@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A1</strong></td>
-<td style="width: 281.688px;"><strong>Ms Ong Liting</strong></td>
-<td style="width: 318.203px;"><strong>ONG_Liting@ moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A1</strong></td>
+<td style="width: 309.703px;"><strong>Ms Ong Liting</strong></td>
+<td style="width: 317.406px;"><strong>ONG_Liting@ moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A2</strong></td>
-<td style="width: 281.688px;"><strong>Ms Yeo Shu Fong Rachel</strong></td>
-<td style="width: 318.203px;"><strong>yeo_shu_fong_rachel@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A2</strong></td>
+<td style="width: 309.703px;"><strong>Ms Yeo Shu Fong Rachel</strong></td>
+<td style="width: 317.406px;"><strong>yeo_shu_fong_rachel@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A2</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Mahalingam Sujatha</strong></td>
-<td style="width: 318.203px;"><strong>mahalingam_sujatha@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A2</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Mahalingam Sujatha</strong></td>
+<td style="width: 317.406px;"><strong>mahalingam_sujatha@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A3</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Morni Bte Ahmad</strong></td>
-<td style="width: 318.203px;"><strong>morni_ahmad@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A3</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Morni Bte Ahmad</strong></td>
+<td style="width: 317.406px;"><strong>morni_ahmad@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2A3</strong></td>
-<td style="width: 281.688px;"><strong>Ms Tan Ping Siew</strong></td>
-<td style="width: 318.203px;"><strong>tan_ping_siew@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2A3</strong></td>
+<td style="width: 309.703px;"><strong>Ms Tan Ping Siew</strong></td>
+<td style="width: 317.406px;"><strong>tan_ping_siew@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2B1</strong></td>
-<td style="width: 281.688px;"><strong>Mrs Wang Ee Ling</strong></td>
-<td style="width: 318.203px;"><strong>ang_ee_ling@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2B1</strong></td>
+<td style="width: 309.703px;"><strong>Mrs Wang Ee Ling</strong></td>
+<td style="width: 317.406px;"><strong>ang_ee_ling@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2B1</strong></td>
-<td style="width: 281.688px;"><strong>Ms Tang Yee Huay</strong></td>
-<td style="width: 318.203px;"><strong>tang_yee_huay@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2B1</strong></td>
+<td style="width: 309.703px;"><strong>Ms Tang Yee Huay</strong></td>
+<td style="width: 317.406px;"><strong>tang_yee_huay@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2B2</strong></td>
-<td style="width: 281.688px;"><strong>Mr Leong Martin</strong></td>
-<td style="width: 318.203px;"><strong>martin_leong@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2B2</strong></td>
+<td style="width: 309.703px;"><strong>Mr Leong Martin</strong></td>
+<td style="width: 317.406px;"><strong>martin_leong@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2B2</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Jasbir Kaur</strong></td>
-<td style="width: 318.203px;"><strong>jasbir_kaur_labh_singh@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2B2</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Jasbir Kaur</strong></td>
+<td style="width: 317.406px;"><strong>jasbir_kaur_labh_singh@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2C1</strong></td>
-<td style="width: 281.688px;"><strong>Ms Chou Qi Ling Felicia</strong></td>
-<td style="width: 318.203px;"><strong>chou_qi_ling_felicia@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2C1</strong></td>
+<td style="width: 309.703px;"><strong>Ms Chou Qi Ling Felicia</strong></td>
+<td style="width: 317.406px;"><strong>chou_qi_ling_felicia@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2C1</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Nur Syafiqah Binte Abdul Rahim</strong></td>
-<td style="width: 318.203px;"><strong>nur_syafiqah_abdul_rahim@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2C1</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Nur Syafiqah Binte Abdul Rahim</strong></td>
+<td style="width: 317.406px;"><strong>nur_syafiqah_abdul_rahim@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>2C2</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Nur Azrin Bte Mahadi</strong></td>
-<td style="width: 318.203px;"><strong>nur_azrin_mahadi@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>2C2</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Nur Azrin Bte Mahadi</strong></td>
+<td style="width: 317.406px;"><strong>nur_azrin_mahadi@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>P2</strong></td>
-<td style="width: 281.688px;"><strong>Mr Fong Kah Onn</strong></td>
-<td style="width: 318.203px;"><strong>fong_kah_onn_michael@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>P2</strong></td>
+<td style="width: 309.703px;"><strong>Mr Fong Kah Onn</strong></td>
+<td style="width: 317.406px;"><strong>fong_kah_onn_michael@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 45.1094px;"><strong>P2</strong></td>
-<td style="width: 281.688px;"><strong>Mdm Jovene Png</strong></td>
-<td style="width: 318.203px;"><strong>png_kim_yen_a@moe.edu.sg</strong></td>
+<td style="width: 40.8906px;"><strong>P2</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Jovene Png</strong></td>
+<td style="width: 317.406px;"><strong>png_kim_yen_a@moe.edu.sg</strong></td>
 </tr>
 </tbody>
 </table>
