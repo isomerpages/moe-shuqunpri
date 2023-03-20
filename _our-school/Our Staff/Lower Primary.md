@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>1B1</strong></td>
-<td style="width: 285.844px;"><strong>Ms Nur Diyana Bte Mohd</strong></td>
+<td style="width: 285.844px;"><strong>Mdm Nur Diyana Bte Mohd</strong></td>
 <td style="width: 319.266px;"><strong>nur_diyana_mohamad@moe.edu.sg</strong></td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 45.1094px;"><strong>2C1</strong></td>
-<td style="width: 281.688px;"><strong>Ms Nur Syafiqah Binte Abdul Rahim</strong></td>
+<td style="width: 281.688px;"><strong>Mdm Nur Syafiqah Binte Abdul Rahim</strong></td>
 <td style="width: 318.203px;"><strong>nur_syafiqah_abdul_rahim@moe.edu.sg</strong></td>
 </tr>
 <tr>
