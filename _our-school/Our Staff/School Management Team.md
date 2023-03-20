@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/school-management-team/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #800000;">School Leaders</span></strong></h3>
 <table width="771">
 <tbody>
@@ -15,7 +14,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="223"><strong>Principal</strong></td>
-<td width="241"><strong>Mrs Sara De Souza</strong></td>
+<td width="241"><strong>Mrs Sara de Souza</strong></td>
 <td width="307"><strong>&nbsp;sqps@moe.edu.sg</strong></td>
 </tr>
 <tr>
@@ -60,7 +59,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="223"><strong>HOD PE &amp; CCA</strong></td>
-<td width="241"><strong>Ms Chen Li Qun</strong></td>
+<td width="241"><strong>Ms Chen Liqun</strong></td>
 <td width="307"><strong>chen_liqun@moe.edu.sg</strong></td>
 </tr>
 <tr>
