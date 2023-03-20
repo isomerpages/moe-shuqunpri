@@ -12,7 +12,7 @@ description: ""
 <h4><strong><span style="color: #000000;">Math Activities and Displays</span></strong></h4>
 <p><span style="color: #000000;">To increase students&rsquo; interest in learning Mathematics, the school uses its Math walls and notice boards to engage students with Math application in daily life, as well as Math quizzes. In addition, the school also conduct Math competitions such as poster and game design competition as well as ICT quizzes.</span></p>
 
-![](/images/Mathematics.jpg)
+![](/images/Maths.jpg)
 <h3><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
 <h4><span style="color: #000000;"><span style="color: #000000;"><strong>E2K (Excellence 2000)</strong></span></span></h4>
 <p><span style="color: #000000;">This programme is designed to provide the students a structured approach to mathematical thinking and mathematical communication. In addition, there are opportunities to develop abilities for independent learning and love of learning. Different forms of games, stories and puzzles are used to engage the students in problem solving.</span></p>
