@@ -51,7 +51,7 @@ description: ""
 </ul>
 <p style="text-align: justify;"><span style="color: #000000;">These competencies together with the core values listed below will help our students capitalise on the rich opportunities of the digital age.</span></p>
 
-![](/images/ICT04%20(1).jpg)
+![](/images/ICT01.jpg)
 
 <p style="text-align: justify;"><span style="color: #000000;">On top of what is carried out in the curriculum, different enrichment programmes run by carefully sourced vendors, are curated for students to further develop students&rsquo; 21<sup>st</sup> Century Competencies Skills.&nbsp;</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Stop Motion (P4)</strong></span></h4>
