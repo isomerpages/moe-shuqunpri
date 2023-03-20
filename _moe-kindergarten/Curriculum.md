@@ -3,7 +3,7 @@ title: Curriculum
 permalink: /moe-kindergarten/curriculum/
 description: ""
 ---
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Hi-Light Programme</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">HI-Light Programme</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">The HI-Light programme is designed to support the holistic development of children by nurturing in them values, social and emotional skills and learning dispositions, as well as knowledge and skills across the following five learning areas through an integrated approach:</span></p>
 <ul style="text-align: justify;">
 <li><span style="color: #000000;">Aesthetics and Creative Expression</span></li>
