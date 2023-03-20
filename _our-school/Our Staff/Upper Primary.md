@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/upper-primary-2/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #800000;">Primary 5</span></strong></h3>
 <table style="width: 663px;" width="693">
 <tbody>
