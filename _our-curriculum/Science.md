@@ -5,7 +5,7 @@ description: ""
 ---
 <h3 style="text-align: justify;"><span style="color: #800000;"><strong>Mission</strong></span></h3>
 
-<p style="text-align: justify;"><span style="color: #000000;">Nurture effective and creative thinkers with a sense of inquiry and passion for the learning of science</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Nurture effective and creative thinkers with a sense of inquiry and passion for the learning of science.</span></p>
 <h3 style="text-align: justify;"><span style="color: #000000;"><strong>Key Programmes</strong></span></h3>
 <p style="text-align: justify;"><span style="color: #000000;">Science curriculum at SQPS adopts the pedagogy of Inquiry-Based Learning (IBL) in the teaching and learning of Science. Students are provided with opportunities to engage in meaningful learning of key scientific ideas as they are taken through the 5 key stages of learning in the 5E Instructional Model &ndash; Engage, Explore, Explain, Elaborate and Evaluate. Through active learning, students acquire the skills to synthesize knowledge, transfer their learning in varied contexts and make connections with their surroundings.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Integration of Science with Stellar</strong></span></h4>
