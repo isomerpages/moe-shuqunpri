@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/school-admin-team/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #800000;">School Admin Team</span></strong></h3>
 <table width="771">
 <tbody>
@@ -34,16 +33,6 @@ third_nav_title: Our Staff
 <td style="width: 365.484px;"><strong><span style="color: #000000;">ravi_kumar_subramaniam@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
-<td style="width: 142.391px;"><strong><span style="color: #000000;">Management Support Officer</span></strong></td>
-<td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Abdul Rahim B Non</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">abdul_rahim_non@moe.edu.sg</span></strong></td>
-</tr>
-<tr>
-<td style="width: 142.391px;"><strong><span style="color: #000000;">Management Support Officer</span></strong></td>
-<td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Zainab Bte Sjawaltul Abidin</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">zainab_sjawaltul_abidin@moe.edu.sg</span></strong></td>
-</tr>
-<tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Admin Executive (MK)</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mrs Jaisena Banu D/O Maghalingam</span></strong></td>
 <td style="width: 365.484px;"><strong><span style="color: #000000;">jaisena_banu_maghalingam_mrs@moe.edu.sg</span></strong></td>
@@ -52,6 +41,17 @@ third_nav_title: Our Staff
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Admin Executive</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Kong Pei Ling</span></strong></td>
 <td style="width: 365.484px;"><strong><span style="color: #000000;">kong_pei_ling_a@moe.edu.sg</span></strong></td>
+</tr>
+
+	<tr>
+<td style="width: 142.391px;"><strong><span style="color: #000000;">Management Support Officer</span></strong></td>
+<td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Abdul Rahim B Non</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">abdul_rahim_non@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
+<td style="width: 142.391px;"><strong><span style="color: #000000;">Management Support Officer</span></strong></td>
+<td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Zainab Bte Sjawaltul Abidin</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">zainab_sjawaltul_abidin@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
