@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/lower-primary-2/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <h3><strong><span style="color: #800000;">Primary 1</span></strong></h3>
 <table style="width: 668px;" width="667">
 <tbody>
@@ -167,11 +166,6 @@ third_nav_title: Our Staff
 <td style="width: 45.1094px;"><strong>2C2</strong></td>
 <td style="width: 281.688px;"><strong>Mdm Nur Azrin Bte Mahadi</strong></td>
 <td style="width: 318.203px;"><strong>nur_azrin_mahadi@moe.edu.sg</strong></td>
-</tr>
-<tr>
-<td style="width: 45.1094px;"><strong>2C2</strong></td>
-<td style="width: 281.688px;"><strong>Mr Toh Wee Hong</strong></td>
-<td style="width: 318.203px;"><strong>toh_wee_hong@moe.edu.sg</strong></td>
 </tr>
 <tr>
 <td style="width: 45.1094px;"><strong>P2</strong></td>
