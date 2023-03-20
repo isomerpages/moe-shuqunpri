@@ -3,9 +3,8 @@ title: Vision, Mission, Values
 permalink: /our-school/vision-mission-values/
 description: ""
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Our Vision, Our Goal</span></strong></h3>
-<p style="text-align: justify;"><span style="color: #000000;">A Vibrant learning community, rooted in values with a heart to serve.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">A vibrant learning community, rooted in values with a heart to serve.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Our Mission, Our Purpose</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">To nurture a star in every Shuqunite, who strives to contribute positively.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Our Values (iCare)</span></strong></h3>
