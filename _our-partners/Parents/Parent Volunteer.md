@@ -16,3 +16,5 @@ third_nav_title: Parents
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">Successful applicants will be informed through the main applicant&rsquo;s email. Do ensure that the email is valid and legibly filled in.</span></p>
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">The school has the sole discretion in the selection of Parent Volunteers. We seek your understanding that the school will not be able to share with you the reason for non-selection.</span></p>
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0cm 0cm 12.0pt 0cm;"><span style="font-family: 'Arial',sans-serif; color: black;">The deployment of parent volunteers in the school is dependent on the school needs. This would be arranged with the parents with sufficient notice given each time before their services are required.</span></p>
+
+Parent Volunteers Registration Form
