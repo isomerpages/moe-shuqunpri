@@ -105,8 +105,8 @@ description: ""
 
 ![](/images/Aesthetics2.jpg)
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
-<h4><strong><span style="color: #000000;">Lower Primary Music Enrichments</span></strong></h4>
-<p><span style="color: #000000;">Primary 2 students are given a choice to go through different music enrichment programmes after-school. Violin and Brass Band enrichments are conducted&nbsp;to allow the young enthusiasts to start learning the music instrument before they start their CCAs in Primary 3.</span></p>
+<h4><strong><span style="color: #000000;">Lower Primary Music Enrichment</span></strong></h4>
+<p><span style="color: #000000;">Primary 2 students are given a choice to go through different music enrichment programmes after-school. Violin and Brass Band enrichment sessions are conducted&nbsp;to allow the young enthusiasts to start learning the music instrument before they start their CCAs in Primary 3.</span></p>
 <h4><span style="color: #ff0000;"><strong>Lower Primary Museum Visit</strong></span></h4>
 <p><span style="color: #000000;">Selected lower primary students who show interest and talent in art are involved in the guided tour at the Singapore Art Museum or the Philatelic Museum. Via the museum and gallery visits, students learn about Singapore&rsquo;s culture, its heritage as well as appreciate how art is involved in the creation of the artefacts.</span></p>
 
