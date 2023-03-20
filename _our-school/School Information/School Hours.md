@@ -4,7 +4,6 @@ permalink: /our-school/school-information/school-hours/
 description: ""
 third_nav_title: School Information
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">School Hours</span></strong></h3>
 <table style="height: 304px; width: 99.2725%; border-collapse: collapse; border-style: solid; border-color: #000000;" border="1">
 <tbody>
@@ -50,7 +49,7 @@ third_nav_title: School Information
 <p style="text-align: justify;"><span style="color: #000000;">Primary 1 &amp; 2&ndash; Gate 1</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Primary 3 &amp; 4 &ndash; Gate 2</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Primary 5 &amp; 6 &ndash; Gate 3</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">Wet Weather &ndash; All Gate 1</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Wet Weather &ndash; All use Gate 1</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Recess Timings</span></strong></h3>
 <table style="border-style: solid; width: 463px;" border="1" width="463">
 <tbody>
