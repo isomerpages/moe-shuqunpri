@@ -5,7 +5,7 @@ description: ""
 ---
 <h4 style="text-align: left;"><span style="color: #000000;"><strong>Ground-Up Initiative (GUI)</strong></span></h4>
 
-![](/images/Community001.jpg)
+![](/images/Community02.jpg)
 <p style="text-align: left;"><span style="color: #000000;">GUI is a non-profit organization with a mission to nurture a 21st century kampung spirit and provide a space to reconnect with nature, foster sustainable living, and nurture the community spirit. Shuqun Primary first partnered with GUI for BizKids in 2022, providing an opportunity for graduating Primary 6 students to raise funds for GUI.</span></p>
 <p style="text-align: left;"><span style="color: #000000;">To know more about GUI and their efforts to nurture a community that cares about humanity and the Earth, click <a href="https://patron.groundupinitiative.org/" target="_blank">here</a>.</span></p>
 <h4 style="text-align: left;"><span style="color: #000000;"><strong>National Library Board (NLB)</strong></span></h4>
