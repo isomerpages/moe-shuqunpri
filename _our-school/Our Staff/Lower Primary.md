@@ -49,7 +49,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>1B1</strong></td>
-<td style="width: 285.844px;"><strong>Mr Choo Chang Wen</strong></td>
+<td style="width: 285.844px;"><strong>Mr Choo Chang Wen Jason</strong></td>
 <td style="width: 319.266px;"><strong>choo_chang_wen@moe.edu.sg</strong></td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>2B2</strong></td>
-<td style="width: 309.703px;"><strong>Mdm Jasbir Kaur</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Jasbir Kaur d/o Labh Singh</strong></td>
 <td style="width: 317.406px;"><strong>jasbir_kaur_labh_singh@moe.edu.sg</strong></td>
 </tr>
 <tr>
@@ -169,12 +169,12 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>P2</strong></td>
-<td style="width: 309.703px;"><strong>Mr Fong Kah Onn</strong></td>
+<td style="width: 309.703px;"><strong>Mr Fong Kah Onn Michael</strong></td>
 <td style="width: 317.406px;"><strong>fong_kah_onn_michael@moe.edu.sg</strong></td>
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>P2</strong></td>
-<td style="width: 309.703px;"><strong>Mdm Jovene Png</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Jovene Png Kim Yen</strong></td>
 <td style="width: 317.406px;"><strong>png_kim_yen_a@moe.edu.sg</strong></td>
 </tr>
 </tbody>
