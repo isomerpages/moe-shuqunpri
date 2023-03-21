@@ -24,7 +24,7 @@ description: ""
 <li><span style="color: #000000;">Primary 5 students would learn about the causes of gum diseases and its prevention.</span></li>
 </ul>
 
-![](/images/Dental%20Health%20Programme.jpg)
+![](/images/Dental%20Health%20Programme1.jpg)
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Holistic Health Education Programme</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">The following programmes teach students about the importance of maintaining good personal hygiene and healthy habits. They complement the teaching of Physical Education, and are customised according to the needs of the different levels of students.</span></p>
 <ul style="text-align: justify;">
