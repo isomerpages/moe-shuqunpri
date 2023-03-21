@@ -1,40 +1,45 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Shuqun Primary School
+url: https://shuqunpri.moe.edu.sg
+favicon: /images/logo.jpg
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#800000"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#1812d8"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#1812d8"
     - title: media-color-three
-      color: '#00838f'
+      color: "#ffffff"
     - title: media-color-four
-      color: '#00838f'
+      color: "#ffffff"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#00838f"
+description: ""
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -44,5 +49,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-shuqunpri-staging.netlify.app
-prod: https://moe-shuqunpri-prod.netlify.app
+staging: https://staging.d2w6f17b52epdm.amplifyapp.com/
+prod: https://master.d2w6f17b52epdm.amplifyapp.com/
+is_government: false
+resources_name: pdf
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""

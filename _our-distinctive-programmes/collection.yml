@@ -1,0 +1,12 @@
+collections:
+  our-distinctive-programmes:
+    output: true
+    order:
+      - Our Distinctive Programmes.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Reading Culture Programme.md
+      - Student Ambassador Programme.md
+      - BizKids.md
+      - MAD Day & Stardust.md
+      - Positive Education.md

@@ -1,0 +1,21 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Our Curriculum.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Language.md
+      - Physical & Health Education.md
+      - Aesthetics.md
+      - Student Management.md
+      - Character & Citizenship Education.md
+      - Educational Support.md
+      - Information & Communication Technology.md
+      - Sexuality Education.md
+      - CCA/.keep
+      - CCA/Clubs & Societies.md
+      - CCA/Performing Arts.md
+      - CCA/Uniformed Groups.md
+      - CCA/Sports.md
