@@ -37,8 +37,7 @@ description: ""
 
 <h3 style="text-align: justify;"><span style="color: #800000;">PROSP<strong>E</strong>R &ndash; Engagement</span></h3>
 
-![](/images/PosEd007.jpg)
-![](/images/PosEd008.jpg)
+![](/images/PosEd010.jpg)
 <p style="text-align: justify;">Our staff engage in professional development so as to enrich the learning environment for their students. Whether it be in the area of content delivery, pedagogies employed or experiences curated, our teachers work collectively to provide a positive and safe learning environment for our students to thrive as learners.</p>
 
 <h3 style="text-align: justify;"><span style="color: #800000;">PROSPE<strong>R</strong> &ndash; Resilience</span></h3>
