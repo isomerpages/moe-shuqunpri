@@ -74,7 +74,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 46.2031px;"><strong><span style="font-style: inherit;">P5</span></strong></td>
-<td style="width: 264.578px;"><strong><span style="font-style: inherit;">Mdm Siew Ji Er</span></strong></td>
+<td style="width: 264.578px;"><strong><span style="font-style: inherit;">Mdm Siew Ji Er Gina</span></strong></td>
 <td style="width: 330.219px;"><strong><span style="font-style: inherit;">siew_jin_er@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
