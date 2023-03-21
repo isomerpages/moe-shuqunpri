@@ -14,7 +14,7 @@ sections:
           url: https://online.fliphtml5.com/obrr/qkde/#p=4
         - title: Calendar of Events
           description: "2023"
-          url: https://calendar.google.com/calendar/u/0?cid=c3Fwc0Btb2UuZWR1LnNn
+          url: /calendar-of-events/
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
