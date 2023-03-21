@@ -7,32 +7,32 @@ description: ""
 
 <p style="text-align: justify;">In alignment with the school&rsquo;s Vision, Mission and Values, our ALP - Caring and Responsible Environmentalists (CaRE) is anchored on the focus area on the environment. Through our ALP, we strive to strengthen connections between learning across different subject disciplines and develop 21<sup>st</sup> CC and skills in our Shuqunites.</p>
 
-![](/images/ALP001.png)
-<p style="text-align: justify;">Figure 1: ALP Framework</p>
-<p style="text-align: justify;">The objectives of our ALP are as follows:</p>
+![](/images/ALP01.jpg)
+<p style="text-align: center;"><strong>Figure 1: ALP Framework</strong></p>
+<p style="text-align: center;"><strong>The objectives of our ALP are as follows:</strong></p>
 
 ![](/images/ALP002.png)
 <p style="text-align: justify;">Through engagement in the learning of environmental issues, students learn the necessary knowledge, skills and inculcate values which will enable them to demonstrate compassion and be willing to make a difference. The ALP lessons for all Primary 4 and Primary 5 students are structured in a pedagogical approach &ldquo;Learn, Explore and Apply&rdquo;, by which students deepen their learning of environmental issues in an inter-disciplinary manner, and apply their learning in a hands-on, minds-on manner through design thinking.</p>
-<table style="width: 66%;" border="1" width="66%">
+<table style="height: 138px; width: 48.9696%; margin-left: auto; margin-right: auto;" width="48.9696%">
 <tbody>
-<tr>
-<td style="width: 99%; text-align: center;" colspan="2" width="100%">
+<tr style="height: 46px;">
+<td style="width: 72.2053%; height: 46px; text-align: center;" colspan="2" width="100%">
 <p style="text-align: center;"><strong>Focus area for Tier 1 Programme</strong></p>
 </td>
 </tr>
-<tr>
-<td style="width: 49.9355%; text-align: center;" width="48%">
+<tr style="height: 46px;">
+<td style="width: 35.7463%; height: 46px; text-align: center;" width="48%">
 <p><strong>Primary 4</strong></p>
 </td>
-<td style="width: 49.0645%; text-align: center;" width="51%">
+<td style="width: 36.459%; height: 46px; text-align: center;" width="51%">
 <p><strong>Primary 5</strong></p>
 </td>
 </tr>
-<tr>
-<td style="width: 49.9355%; text-align: center;" width="48%">
+<tr style="height: 46px;">
+<td style="width: 35.7463%; height: 46px; text-align: center;" width="48%">
 <p><strong>Waste Management</strong></p>
 </td>
-<td style="width: 49.0645%; text-align: center;" width="51%">
+<td style="width: 36.459%; height: 46px; text-align: center;" width="51%">
 <p><strong>Water Sustainability</strong></p>
 </td>
 </tr>
