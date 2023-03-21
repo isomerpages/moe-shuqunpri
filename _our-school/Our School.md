@@ -5,7 +5,7 @@ description: ""
 ---
 | ![](/images/Principal-Message.ico) |![](/images/VMV.ico)| ![](/images/School-Information.ico) |
 | -------- | -------- | -------- |
-| <h5 style="text-align: center;"><strong>Principal's Message</strong></h5> | <h5 style="text-align: center;"><strong>Vision, Mision, Values</strong></h5> | <h5 style="text-align: center;"><strong>School Information</strong></h5> |
+| <p style="text-align: center;"><strong>[Principal's Message](/our-school/principals-message/)</strong></p> | <p style="text-align: center;"><strong>[Vision, Mission, Values](our-school/vision-mission-values/)</strong></p> | <p style="text-align: center;"><strong>[School Information](/our-school/school-inormation/)</strong></p> |
 
 | ![](/images/Our-Staff.ico) | ![](/images/JR9-RF816-1%20(1).ico) | ![](/images/Contact%20Us.ico) |
 | -------- | -------- | -------- |
