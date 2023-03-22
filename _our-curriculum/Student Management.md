@@ -100,23 +100,29 @@ description: ""
 
 ![](/images/SM002.jpg)
 
-<strong>Safety Awareness</strong></p>
+<h4><strong>Safety Awareness</strong></h4>
 <p>As part of school&rsquo;s efforts to build a caring and safe environment, awareness programmes on safety are annually conducted during school assembly programmes, student-teacher contact time and student broadcast system. The school also tracks students who cycle to school daily. These students are also briefed on safe cycling practices. Student leaders are identified to play the role of Safety Ambassadors. Safety Ambassadors play a crucial role in looking out for the safety of their peers during breaks.</p>
 
 ![](/images/SM003.jpg)
 
-<p><strong>Student Leadership</strong></p>
+<h4><strong>Student Leadership</strong></h4>
+
 <p>The Student Leadership Development Plan follows a tiered approach. Each tier reflects the student leader&rsquo;s level of impact and contribution. Student leadership opportunities are available at the class, school and community level.</p>
 <p>At school-wide level, there is explicit progressive teaching of Kouzes and Posner&rsquo;s Leadership Challenge principles (MICEE) to strengthen student leadership efforts for all students during FTGP periods. At Tier 1, there are multiple leadership roles at classroom levels (eg. class monitor, subject reps).</p>
 <p>Tiers 2 and 3 student leaders are given additional training on effective communication skills, problem solving, public speaking and conflict management. These leaders are also provided opportunities to serve the school and community (eg. Jurong Spring National Day Observance Ceremony, P1 Orientation &amp; CCA Appreciation Day etc).</p>
-<p><strong>Student Leadership Framework</strong></p>
+
+<h4 style="text-align: center;"><strong>Student Leadership Framework</strong></h4>
 
 ![](/images/SM004.jpg)
+<p>&nbsp;</p>
 
-<p><strong>Student Leadership Developmental Framework</strong></p>
+<h4 style="text-align: center;"><strong>Student Leadership Developmental Framework</strong></h4>
 
 ![](/images/SM005.jpg)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ![](/images/SM006.jpg)
+<p>&nbsp;</p>
 
 ![](/images/SM007.jpg)
