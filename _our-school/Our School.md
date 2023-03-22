@@ -16,5 +16,4 @@ description: ""
 
 | ![](/images/Principal-Message.ico) | ![](/images/VMV.ico) |  ![](/images/School-Information.ico) | ![](/images/Our-Staff.ico) |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-
+| <p style="text-align: center;"><span style="color: #000000;"><strong>Principal's Message</strong></span></p> | Text     | Text     | Text     |
