@@ -14,7 +14,7 @@ description: ""
 ![](/images/VMV.ico)</td>
 <td style="width: 33.3333%; text-align: center;">
 
-![](/images/School-Information.ico)</td>
+![](/images/School%20Information.ico)</td>
 </tr>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><strong>Principal's Message</strong></td>
