@@ -4,7 +4,6 @@ permalink: /our-partners/parents/information-for-parents/
 description: ""
 third_nav_title: Parents
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 <p><span style="color: #000000;">The original African proverb might have been &ldquo;It takes a village to raise a child&rdquo; and here in Shuqun, we recognise the importance of partnering parents to create a &ldquo;village&rdquo; that engages the wider community.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Shuqun Parenting Education Conference (SPEC)</span></strong></h3>
@@ -21,3 +20,19 @@ third_nav_title: Parents
 <p><span style="color: #000000;"><strong>Personal Growth</strong> &ndash; Tips and advice on how to support your child in building interpersonal skills to help them manage their emotions throughout their schooling journey.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Schoolbag</span></strong></h3>
 <p><span style="color: #000000;">Click <a href="https://www.schoolbag.edu.sg/" target="_blank">here</a> to access the education news site, Schoolbag, that was established by MOE's Schools Division, </span>and designed for parents of school-going children of all ages. You can find out more about the many options and types of schools in Singapore's education system and pick up ideas on how you can guide their children in their learning.</p>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Financial Support</span></strong></h3>
+
+<h4><strong>Financial Assistance Scheme (FAS)</strong></h4>
+<p>The Ministry of Education (MOE) provides financial assistance to needy Singapore citizens so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education. It also provides subsidy for school fees to Singapore citizen students from lower- and middle-income families. Students may apply for this anytime throughout the year.</p>
+<p>For more information, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank">here</a>.</p>
+<h4><strong>IMDA&rsquo;s NEU PC Plus Programme</strong></h4>
+<p>The NEU PC Plus Programme provide students from low-income households the opportunity to own a&nbsp;<strong>subsidised PC-Bundle</strong>&nbsp;(i.e. computer with 3 years free broadband), to support their learning needs.</p>
+<p>For more information, please click <a href="http://www.imda.gov.sg/neupc" target="_blank">here</a>.</p>
+<p>Students who wish to apply for the scheme can obtain the application form from the school, or download a copy of the following forms:</p>
+<ul>
+<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/Application-Form-for-MOE-SPED-FAS-v5-April-2020.pdf" target="_blank">Application Form for MOE-SPED FAS</a></li>
+<li><a href="https://shuqunpri.moe.edu.sg/wp-content/uploads/2020/06/PC_Bundle-Application-Form-v12-April-2020.pdf" target="_blank">PC_Bundle Application Form</a></li>
+</ul>
+<p>For those who need&nbsp;<strong>only broadband</strong>, they can apply under Home Access 3.0 programme.</p>
+<p>For details on the programme, please click <a href="https://www.digitalaccess.gov.sg" target="_blank">here</a>.</p>
