@@ -3,17 +3,23 @@ title: Our School
 permalink: /our-school/permalink/
 description: ""
 ---
-| ![](/images/Principal-Message.ico) |![](/images/VMV.ico)| ![](/images/School-Information.ico) |
-| -------- | -------- | -------- |
-|<p style="text-align: center;"><strong>[Principal's Message](/our-school/principals-message/)</strong></p>| [Vision, Mission, Values](our-school/vision-mission-values/)| [School Information](/our-school/school-information/school-history/) |
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
 
-| ![](/images/Our-Staff.ico) | ![](/images/JR9-RF816-1%20(1).ico) | ![](/images/Contact%20Us.ico) |
-| -------- | -------- | -------- |
-| [Our Staff](/our-school/our-staff/) | [School Achievements](/our-school/school-achievements/)| [Contact Us](/our-school/contact-us/)|
+![](/images/Principal-Message.ico)</td>
+<td style="width: 33.3333%; text-align: center;">
 
+![](/images/VMV.ico)</td>
+<td style="width: 33.3333%; text-align: center;">
 
-
-
-| ![](/images/Principal-Message.ico) | ![](/images/VMV.ico) |  ![](/images/School-Information.ico) | ![](/images/Our-Staff.ico) |
-| -------- | -------- | -------- | -------- |
-| <p style="text-align: center;"><span style="color: #000000;"><strong>Principal's Message</strong></span></p> | Text     | Text     | Text     |
+![](/images/School-Information.ico)</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;"><strong>Principal's Message</strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>Vision, Mission, Values</strong></td>
+<td style="width: 33.3333%; text-align: center;"><strong>&nbsp;School Information</strong></td>
+</tr>
+</tbody>
+</table>
