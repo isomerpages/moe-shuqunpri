@@ -19,10 +19,13 @@ description: ""
 <p>In Tier 2, selected students are trained to be student Peer Support Leaders (PSL); these students can help to keep a look out for students who may be lonely, isolated and befriend them. These students can also provide a listening ear and support to students who may be in distress.&nbsp; They are also good influencers to others, helping to promote positive mindsets and pro-social behavior, and role-modelling good character.</p>
 <p>The school has also piloted Tier 2 level Student Peer Supporters Programme. Various platforms are created for students to help one another (e.g. P1 -P4 Buddy programme, P1 Orientation) and for peer bonding (eg. Camps, MAD Day).</p>
 <ul>
+	
+![](/images/SM001.jpg)
+
 <li>School Counsellor&rsquo;s Developmental Programme</li>
 </ul>
 <p>Our school counsellor identifies key topics based on social emotional needs for each level and designs a level-based psychoeducation for all students on mental health issues and healthy coping strategies. Our school counsellor conducts this school-wide developmental programme in each class throughout the year. Furthermore, the school counsellor also identifies and implement suitable intervention programmes for students at-risk who need additional help in the areas of social and emotional development.&nbsp;</p>
-<p>&nbsp;</p>
+
 <table width="384">
 <tbody>
 <tr>
@@ -95,11 +98,25 @@ description: ""
 
 <p>Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.</strong>&nbsp;A judicious balance creates an environment conducive for their learning and development. A positive, proactive approach to discipline&nbsp;develops students&rsquo; readiness and motivation&nbsp;to learn, and enables them to feel safe both physically and psychologically. The school continually seeks to strengthen school processes to enhance consistency in discipline processes.&nbsp;The school has adopted a positive and proactive approach to discipline through three main aspects (Promote and Prevent, Address and Correct &amp; Replace and Restore). The school also communicates key discipline messages such as school rules, types of offences, zero bullying policy, acceptable internet use policy and appearance expectations regularly.</p>
 
-<p><strong>&nbsp;</strong><strong>Safety Awareness</strong></p>
+![](/images/SM002.jpg)
+
+<strong>Safety Awareness</strong></p>
 <p>As part of school&rsquo;s efforts to build a caring and safe environment, awareness programmes on safety are annually conducted during school assembly programmes, student-teacher contact time and student broadcast system. The school also tracks students who cycle to school daily. These students are also briefed on safe cycling practices. Student leaders are identified to play the role of Safety Ambassadors. Safety Ambassadors play a crucial role in looking out for the safety of their peers during breaks.</p>
+
+![](/images/SM003.jpg)
+
 <p><strong>Student Leadership</strong></p>
 <p>The Student Leadership Development Plan follows a tiered approach. Each tier reflects the student leader&rsquo;s level of impact and contribution. Student leadership opportunities are available at the class, school and community level.</p>
 <p>At school-wide level, there is explicit progressive teaching of Kouzes and Posner&rsquo;s Leadership Challenge principles (MICEE) to strengthen student leadership efforts for all students during FTGP periods. At Tier 1, there are multiple leadership roles at classroom levels (eg. class monitor, subject reps).</p>
 <p>Tiers 2 and 3 student leaders are given additional training on effective communication skills, problem solving, public speaking and conflict management. These leaders are also provided opportunities to serve the school and community (eg. Jurong Spring National Day Observance Ceremony, P1 Orientation &amp; CCA Appreciation Day etc).</p>
 <p><strong>Student Leadership Framework</strong></p>
+
+![](/images/SM004.jpg)
+
 <p><strong>Student Leadership Developmental Framework</strong></p>
+
+![](/images/SM005.jpg)
+
+![](/images/SM006.jpg)
+
+![](/images/SM007.jpg)
