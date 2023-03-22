@@ -3,10 +3,11 @@ title: Student Management
 permalink: /our-curriculum/student-management/
 description: ""
 ---
-<h3><span style="color: #800000;"><strong>Mission</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 <p>To provide a safe and nurturing environment where students grow to be engaged learners, rooted in values and with a heart to serve.</p>
 
-<h3><span style="color: #800000;"><strong>Key Programmes</strong></span></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
+
 <h4><strong>Support for student wellness</strong></h4>
 
 <p>The social, emotional and learning needs of support programmes such as:-</p>
@@ -90,10 +91,10 @@ description: ""
 <p>Teachers may refer students for intervention to the DCMT via a one-stop referral form. The team will assess the case and assign case managers to the cases. Case managers will recommend the actions to be taken and work with relevant stakeholders to support the referred students. Tier 1 programmes are targeted to the general school population. For example, the school counsellor conducts yearly developmental talks on various topics which are chosen based on observation and feedback from teachers and DCMT case trends.</p>
 <p>There are Tier 2 intervention programmes for targeted groups of students.&nbsp;Besides learning support programmes, the school has implemented I<sup>3</sup> (I am, I Have, I Can) programme which targets at-risk students that seeks to develop their strengths, self and social awareness and equip them with problem solving skills. Students requiring more specialised or individualised support are allocated more resources or referred to external agencies for support.&nbsp;</p>
 
-<h3><span style="color: #800000;"><strong>Discipline</strong></span></h3>
-<p><strong>Students learn well when there is order and discipline.</strong>
-	
-<strong>&nbsp;</strong><strong>At the same time, they need care, encouragement and space to learn from mistakes and improve.</strong>&nbsp;A judicious balance creates an environment conducive for their learning and development. A positive, proactive approach to discipline&nbsp;develops students&rsquo; readiness and motivation&nbsp;to learn, and enables them to feel safe both physically and psychologically. The school continually seeks to strengthen school processes to enhance consistency in discipline processes.&nbsp;The school has adopted a positive and proactive approach to discipline through three main aspects (Promote and Prevent, Address and Correct &amp; Replace and Restore). The school also communicates key discipline messages such as school rules, types of offences, zero bullying policy, acceptable internet use policy and appearance expectations regularly.</p>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Discipline</span></strong></h3>
+
+<p>Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.</strong>&nbsp;A judicious balance creates an environment conducive for their learning and development. A positive, proactive approach to discipline&nbsp;develops students&rsquo; readiness and motivation&nbsp;to learn, and enables them to feel safe both physically and psychologically. The school continually seeks to strengthen school processes to enhance consistency in discipline processes.&nbsp;The school has adopted a positive and proactive approach to discipline through three main aspects (Promote and Prevent, Address and Correct &amp; Replace and Restore). The school also communicates key discipline messages such as school rules, types of offences, zero bullying policy, acceptable internet use policy and appearance expectations regularly.</p>
+
 <p><strong>&nbsp;</strong><strong>Safety Awareness</strong></p>
 <p>As part of school&rsquo;s efforts to build a caring and safe environment, awareness programmes on safety are annually conducted during school assembly programmes, student-teacher contact time and student broadcast system. The school also tracks students who cycle to school daily. These students are also briefed on safe cycling practices. Student leaders are identified to play the role of Safety Ambassadors. Safety Ambassadors play a crucial role in looking out for the safety of their peers during breaks.</p>
 <p><strong>Student Leadership</strong></p>
