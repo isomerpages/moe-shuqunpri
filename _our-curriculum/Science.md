@@ -15,51 +15,55 @@ description: ""
 
 ![](/images/Science001.jpg)
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>E-Pedagogy </strong></span></h4>
+
+![](/images/Science002.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">Various ICT tools and online learning platforms are used to enhance Science teaching and learning and increase students&rsquo; engagement as well as having ownership of learning. ICT lesson packages are curated and made accessible to students via SLS.<strong>&nbsp;</strong></span></p>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Outdoor Learning Spaces </strong></span></h4>
+
+![](/images/Science003.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">The department seeks to enhance students learning of science using the natural and physical environment in the school as the 3<sup>rd</sup> teacher.&nbsp; Our Green Spaces complement the teaching and learning of the science curriculum; it provides the avenue for students to engage in hands-on learning to nurture their care for the environment. Through our Greens@Shuqun programme, students learn to grow, observe plants growth until the crops are ready to be harvested and consumed. &nbsp;</span></p>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Use of Sparkle Kits </strong></span></h4>
+
+![](/images/Science004.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">Resources such as Sparkle kits are used to encourage students to explore and test out ideas. Students develop their ways of thinking and doing Science as they engaged in active learning and discussion.</span></p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
 
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>E2k Science </strong></span></h4>
+
+![](/images/Science005.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">E2K Science Programme is conducted for Primary 4 and 5 who demonstrate high aptitude and interest in Science. The E2K lessons are designed to engage students in scientific investigations to enhance their scientific thinking dispositions and 21<sup>st</sup> century competencies such as critical and inventive thinking and effective communication skills. The contents covered in this programme extend beyond the basic syllabus and students are engaged in scientific inquiry as they conduct research and experiments involving more advanced science concepts.</span></p>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Lessons at Science Centre </strong></span></h4>
+
+
 <p style="text-align: justify;"><span style="color: #000000;">Learning of Science extends beyond the classrooms. Students from Primary 3 to 5 attend lessons at the Science Centre targeted at selected topics within the syllabus.</span></p>
-<p style="text-align: justify;">&nbsp;</p>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Interest Group Learning Journeys</strong></span></h4>
+
+![](/images/Science006.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">Learning journeys are conducted for students of different levels (Primary 3, 4 and 5) who display a keen interest in the environment and are passionate about learning more about the biodiversity in Singapore. We conduct learning journeys to Gardens by the Bay, Sungei Buloh Wetland Reserve and Bukit Timah Nature Reserve.</span></p>
-<p style="text-align: justify;"><span style="color: #000000;"><strong>Youth for Environment Day (YED) </strong></span></p>
+
+<h4 style="text-align: justify;"><span style="color: #000000;"><strong>Youth for Environment Day (YED) </strong></span></h4>
+
+![](/images/Science007.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">YED is an annual event to engage students in green efforts and commitment towards the environment. Assembly programmes and class discussions are conducted to increase students&rsquo; awareness of the environmental issues such as climate change and food wastage. Eco-Challenge, Clean Plate Campaign and Garage Exchange are some activities which provide opportunities for students to show how they can play an active role in saving our Earth.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Our Accolades </strong></span></h4>
-<ul style="text-align: justify;">
+
+![](/images/Science008.jpg)
 <li><span style="color: #000000;"><strong>SEC-Starhub School Green Awards </strong></span></li>
 </ul>
-<p style="text-align: justify;"><span style="color: #000000;">Vanda Miss Joaquim 2019</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">Vanda Miss Joaquim Sustained Achievement Award 2021</span></p>
-<p style="text-align: justify;"><span style="color: #000000;"><strong>&nbsp;</strong></span><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
-<ul style="text-align: justify;">
-<li><span style="color: #000000;"><strong>Green Schools@South West</strong></span></li>
+<p style="padding-left: 40px;"><span style="color: #000000;">Vanda Miss Joaquim 2019</span></p>
+<p style="padding-left: 40px;"><span style="color: #000000;">Vanda Miss Joaquim Sustained Achievement Award 2021</span></p>
+<ul>
+<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>Green Schools@South West</strong></span></li>
 </ul>
-<p style="text-align: justify;"><span style="color: #000000;">One Star- JEA Star 2021</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">Two Stars- JEA Star 2022</span></p>
-<p style="text-align: justify;">&nbsp;</p>
-<ul style="text-align: justify;">
-<li>
-<p><strong><span style="color: #000000;">BCA Green Mark Gold 2020</span></strong></p>
-</li>
+<p style="padding-left: 40px;"><span style="color: #000000;">One Star- JEA Star 2021</span></p>
+<p style="padding-left: 40px;"><span style="color: #000000;">Two Stars- JEA Star 2022</span></p>
+<ul>
+<li><span style="color: #000000;"><strong>BCA Green Mark Gold 2020 </strong></span></li>
+<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>WWF Eco Schools - Excellence Award 2020</strong></span></li>
+<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>WWF Eco Schools &ndash; Silver Award 2021</strong></span></li>
 </ul>
-<p style="text-align: justify;">&nbsp;</p>
-<ul style="text-align: justify;">
-<li>
-<p><strong><span style="color: #000000;">WWF Eco Schools - Excellence Award 2020</span></strong></p>
-</li>
-</ul>
-<p style="text-align: justify;">&nbsp;</p>
-<ul style="text-align: justify;">
-<li>
-<p><strong><span style="color: #000000;">WWF Eco Schools &ndash; Silver Award 2021</span></strong></p>
-</li>
-</ul>
-<p style="text-align: justify;">&nbsp;</p>
