@@ -15,4 +15,4 @@ description: ""
 
 | ![](/images/Generic%20Photos.ico) | ![](/images/ICT.ico) | ![](/images/Generic%20Photos.ico) | ![](/images/CCA.ico) |
 | -------- | -------- | -------- | -------- |
-| Educational Support     | Information & Communication Technology     | Sexuality Education     | <p style="text-align: center;">**Text Script**</p>     |
+| Educational Support     | Information & Communication Technology     | Sexuality Education     | <p style="text-align: center;">**CCA**</p>     |
