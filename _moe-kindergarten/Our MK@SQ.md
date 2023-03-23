@@ -1,8 +1,11 @@
 ---
 title: Our MK@SQ
-permalink: /permalink/
+permalink: /moe-kindergarten/permalink/
 description: ""
 ---
+
+
+
 
 About MK
 

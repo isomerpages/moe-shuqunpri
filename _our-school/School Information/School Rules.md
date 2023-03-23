@@ -4,26 +4,25 @@ permalink: /our-school/school-information/school-rules/
 description: ""
 third_nav_title: School Information
 ---
-
 <h3><strong><span style="color: #800000;">School Rules</span></strong></h3>
 <ul>
-<li><span style="color: #000000;">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.</span></li>
-<li><span style="color: #000000;">Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</span></li>
-<li><span style="color: #000000;">Students must be clean shaven and there should be no wearing of beard and moustache.</span></li>
-<li><span style="color: #000000;">Students must adhere to the Expected Shuqunite Appearance and Behaviour.</span></li>
-<li><span style="color: #000000;">Students must be proud of and be loyal to the school and nation.&nbsp;</span></li>
-<li><span style="color: #000000;">Students must be respectful and courteous.</span></li>
-<li><span style="color: #000000;">Students must be punctual at all times.</span></li>
-<li><span style="color: #000000;">Students must be honest, truthful and obedient always.</span></li>
-<li><span style="color: #000000;">Students must be neatly and appropriately attired.</span></li>
-<li><span style="color: #000000;">Students must keep the school clean.</span></li>
-<li><span style="color: #000000;">Students must queue when necessary.</span></li>
-<li><span style="color: #000000;">Students must speak softly and maintain silence when required to do so.</span></li>
-<li><span style="color: #000000;">Students must stay at home when they are unwell.</span></li>
-<li><span style="color: #000000;">Students must take good care of all common and public property.</span></li>
-<li><span style="color: #000000;">Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</span></li>
-<li><span style="color: #000000;">Students are not allowed to bring or use mobile phones in school.</span></li>
+<li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</li>
+<li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed. Male students must be clean-shaven and neat in appearance.</li>
+<li>Students must adhere to the Expected Shuqunite Appearance and Behaviour.</li>
+<li>Students must be proud of and be loyal to the school and nation.</li>
+<li>Students must be respectful and courteous.</li>
+<li>Students must be punctual at all times.</li>
+<li>Students must be honest, truthful and obedient always.</li>
+<li>Students must be neatly and appropriately attired.</li>
+<li>Students must keep the school clean.</li>
+<li>Students must queue when necessary.</li>
+<li>Students must speak softly and maintain silence when required to do so.</li>
+<li>Students must stay at home when they are unwell.</li>
+<li>Students must take good care of all common and public property.</li>
+<li>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</li>
+<li>Students are not allowed to bring or use mobile phones or any other devices that can capture video, images and/or make phone calls.</li>
 </ul>
+
 <h3><strong><span style="color: #800000;">Expected Shuqunite Appearance</span></strong></h3>
 <h4><span style="color: #000000;"><strong>Uniform</strong></span></h4>
 <ul>

@@ -13,7 +13,7 @@ third_nav_title: School Information
 ![](/images/img_history.jpg)
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Our Logo</span></strong></h3>
 
-![](/images/School%20Logo.jpg)
+![](/images/Sch%20Logo%202.png)
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">School Song</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">Let us strive for perfection</span><br /><span style="color: #000000;">Let us do our best</span><br /><span style="color: #000000;">As we honour our nation and honour our crest</span><br /><span style="color: #000000;">Let us march forward boldly into the years to come</span><br /><span style="color: #000000;">and may we forever be seen as one</span></p>
 <p style="text-align: justify;"><span style="color: #000000;"><em>Chorus</em>:</span><br /><span style="color: #000000;">Shuqun Shuqun by you we have been taught</span><br /><span style="color: #000000;">to strive for excellence in studies, arts and sports</span><br /><span style="color: #000000;">Lifting our banner high</span><br /><span style="color: #000000;">Stand straight and tall and be quick to respond</span><br /><span style="color: #000000;">when duty calls</span></p>

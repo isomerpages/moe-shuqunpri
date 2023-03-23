@@ -3,89 +3,107 @@ title: Student Management
 permalink: /our-curriculum/student-management/
 description: ""
 ---
-<h3><strong><span style="text-decoration: underline;">Mission</span></strong></h3>
-<div>
-<div>
-<div align="left">
-<p>To provide a safe and nurturing environment where students grow to be engaged learners, rooted in values and ready to serve.</p>
-<h3><strong><span style="text-decoration: underline;">Key Programmes</span></strong></h3>
-</div>
-</div>
-<p><strong>1. Pastoral Care Programme</strong></p>
-<p>Students are taken through structural lessons and activities to equip them with necessary skills and knowledge including 21st century competencies for their personal and social growth. These programmes are:</p>
-<ul>
-<li>Form Teacher Guidance Period (FTGP)</li>
-<li>Educational Career Guidance (ECG)</li>
-<li>Traffic Games (Road Safety)</li>
-<li>Sexuality Education (SEd)&nbsp;</li>
-</ul>
-<p><strong>2. Support for student wellness</strong></p>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
+<p>To provide a safe and nurturing environment where students grow to be engaged learners, rooted in values and with a heart to serve.</p>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
+<h4><strong>Support for Student Wellness</strong></h4>
 <p>The social, emotional and learning needs of support programmes such as:-</p>
-<ul>
-<li>Counselling support (Individual/Group counselling)</li>
-<li>P1 &ndash; P6 Developmental Programme on focussed topics based on social emotional needs.</li>
-<li>Support for students with mild special needs</li>
-<li>Bursary and assistance provided to under-privileged students. (Financial Assistance Scheme, Food from the heart scheme, bursaries by South-West CDC etc)</li>
-<li>Intervention programme for At-Risk students
-<ol>
-<li>STAMP (Sports Tuition and Mentoring Programme)</li>
-<li>Hands to Hold</li>
-<li>Responsibility, Respect and Resilience (R2R)</li>
-</ol>
-</li>
-</ul>
+<p><strong>Peer Support and Relationship Programme</strong></p>
+<p>The school embarked on a 2-tiered Peer Support and Relationship Programme for all students.In tier 1, everyone can be a peer supporter in all 3 PSR domains (Peer Bonding, Peer Helping and Peer Influencing); this happens through natural friendships, and the support can be reciprocal. All students are taught peer helping skills during FTGP periods once a semester.</p>
+<p>In Tier 2, selected students are trained to be student Peer Support Leaders (PSL); these students can help to keep a look out for students who may be lonely, isolated and befriend them. These students can also provide a listening ear and support to students who may be in distress.&nbsp; They are also good influencers to others, helping to promote positive mindsets and pro-social behavior, and role-modelling good character.</p>
+<p>The school has also piloted Tier 2 level Student Peer Supporters Programme. Various platforms are created for students to help one another (e.g. P1 -P4 Buddy programme, P1 Orientation) and for peer bonding (eg. Camps, M.A.D Day).</p>
 
-<p><strong>3. Innovation and Enterprise (I&amp;E) Initiatives</strong></p>
-<p>To develop innovative and enterprising students, the school has planned programmes to provide students a holistic education. The exposure of 21st century skills to our students will equip them better in the ever changing environment.</p>
-<ul>
-<li>A 6-year developmental I&amp;E programme</li>
-</ul>
-<div class="table-responsive">
-<table border="1">
+![](/images/SM001.jpg)
+<p><strong>School Counsellor&rsquo;s Developmental Programme</strong></p>
+<p>Our school counsellor identifies key topics based on social emotional needs for each level and designs a level-based psychoeducation for all students on mental health issues and healthy coping strategies. Our school counsellor conducts this school-wide developmental programme in each class throughout the year. Furthermore, the school counsellor also identifies and implement suitable intervention programmes for students at-risk who need additional help in the areas of social and emotional development.&nbsp;</p>
+
+<table width="384">
 <tbody>
 <tr>
-<td>Primary 1</td>
-<td>Financial Literacy Programme (Basic 1)</td>
+<td style="text-align: center;" width="132">
+<p><strong>LEVEL</strong></p>
+</td>
+<td style="text-align: center;" width="252">
+<p><strong>PROGRAMME TOPIC</strong></p>
+</td>
 </tr>
 <tr>
-<td>Primary 2</td>
-<td>&nbsp;Financial Literacy Programme (Basic 2)</td>
+<td style="text-align: center;" width="132">
+<p>P1</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>All About Feelings</p>
+</td>
 </tr>
 <tr>
-<td>Primary 3</td>
-<td>Introduction to mindmapping skills</td>
+<td style="text-align: center;" width="132">
+<p>P2</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>I&rsquo;m In Control</p>
+</td>
 </tr>
 <tr>
-<td>Primary 4</td>
-<td>Creating a stop animation video (ICT skill)</td>
+<td style="text-align: center;" width="132">
+<p>P3</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>I&rsquo;m Special</p>
+</td>
 </tr>
 <tr>
-<td>Primary 5</td>
-<td>&nbsp;Public speaking programme</td>
+<td style="text-align: center;" width="132">
+<p>P4</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>Let&rsquo;s Be Friends</p>
+</td>
 </tr>
 <tr>
-<td>Primary 6</td>
-<td>&nbsp;&bull; Basic project management skills<br />&bull; BizKidz Fund-raising Carnival</td>
+<td style="text-align: center;" width="132">
+<p>P5</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>Conflict Management</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="132">
+<p>P6</p>
+</td>
+<td style="text-align: center;" width="252">
+<p>Creating My World</p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-<ul>
-<li>Developing empathy skills through reading literature</li>
-</ul>
-<p>Empathy skills are incorporated in class instructions can have positive results in the classroom. Adopting &lsquo;empathy map&rsquo; from Design Thinking process, students will discuss different children literature with their classmates and teachers to analyse the characters&rsquo; needs.</p>
-<ul>
-<li>ThinkBox</li>
-</ul>
-<p>Students are encouraged to give suggestions to improve their school experience. This suggestion scheme uses the school&rsquo;s Learning Management System to collate students&rsquo; suggestions. All suggestions will be evaluated with a rubric and a small reward will be given to students to recognise good suggestions. The school management team will also undertake the selected good suggestions by students and implement them in school.</p>
-<p><strong>4. Student Recognition</strong></p>
-<p>Exemplary student behaviour through demonstration of the school&rsquo;s ICARE values is recognized through the following student recognition awards.</p>
-<ul>
-<li>Shuqunite STAR Awards (Bronze/Silver/Gold) for excellence in holistic areas.</li>
-<li>Edusave Character Award (ECHA) &amp; EAGLES Awards</li>
-<li>Primary 6 Graduation Awards</li>
-<li>Shuqunite of the Year</li>
-<li>Arts Talent of the Year</li>
-<li>Sportsperson of the Year</li>
-</ul>
-</div>
+<p><strong>Discipline &amp; Case Management (DCMT)</strong></p>
+<p>The <strong>Discipline &amp;</strong> <strong>Case Management Team (DCMT) </strong>is a school-level team comprising personnel with different areas of expertise. It serves as the nucleus for overall management of students with additional needs in the areas of academic, behavioural, social and emotional (including at-risk students and those with special educational needs). The CMT members meet regularly and use a problem-solving approach to develop a collaborative plan to ensure that targeted and coordinated support are being provided to these students.</p>
+<p>Teachers may refer students for intervention to the DCMT via a one-stop referral form. The team will assess the case and assign case managers to the cases. Case managers will recommend the actions to be taken and work with relevant stakeholders to support the referred students. Tier 1 programmes are targeted to the general school population. For example, the school counsellor conducts yearly developmental talks on various topics which are chosen based on observation and feedback from teachers and DCMT case trends.</p>
+<p>There are Tier 2 intervention programmes for targeted groups of students.&nbsp;Besides learning support programmes, the school has implemented I<sup>3</sup> (I am, I Have, I Can) programme which targets at-risk students that seeks to develop their strengths, self and social awareness and equip them with problem solving skills. Students requiring more specialised or individualised support are allocated more resources or referred to external agencies for support.&nbsp;</p>
+
+<h4 style="text-align: justify;"><strong><span style="color: #000000;">Discipline</span></strong></h4>
+<p>Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.&nbsp;A judicious balance creates an environment conducive for their learning and development. A positive, proactive approach to discipline&nbsp;develops students&rsquo; readiness and motivation&nbsp;to learn, and enables them to feel safe both physically and psychologically. The school continually seeks to strengthen school processes to enhance consistency in discipline processes.&nbsp;The school has adopted a positive and proactive approach to discipline through three main aspects (Promote and Prevent, Address and Correct &amp; Replace and Restore). The school also communicates key discipline messages such as school rules, types of offences, zero bullying policy, acceptable internet use policy and appearance expectations regularly.</p>
+
+![](/images/SM002.jpg)
+<h4><strong>Safety Awareness</strong></h4>
+<p>As part of school&rsquo;s efforts to build a caring and safe environment, awareness programmes on safety are annually conducted during school assembly programmes, student-teacher contact time and student broadcast system. The school also tracks students who cycle to school daily. These students are also briefed on safe cycling practices. Student Leaders are identified to play the role of Safety Ambassadors. Safety Ambassadors play a crucial role in looking out for the safety of their peers during breaks.</p>
+
+![](/images/SM003.jpg)
+<h4><strong>Student Leadership</strong></h4>
+<p>The Student Leadership Development Plan follows a tiered approach. Each tier reflects the student leader&rsquo;s level of impact and contribution. Student leadership opportunities are available at the class, school and community level.</p>
+<p>At school-wide level, there is explicit progressive teaching of Kouzes and Posner&rsquo;s Leadership Challenge principles (MICEE) to strengthen student leadership efforts for all students during FTGP periods. At Tier 1, there are multiple leadership roles at classroom levels (eg. class monitor, subject reps). Tiers 2 and 3 student leaders are given additional training on effective communication skills, problem solving, public speaking and conflict management. These leaders are also provided opportunities to serve the school and community (eg. Jurong Spring CC National Day Observance Ceremony, P1 Orientation &amp; CCA Appreciation Day etc).
+<h4 style="text-align: center;"><strong>Student Leadership Framework</strong></h4>
+
+![](/images/SM004.jpg)
+<p>&nbsp;</p>
+<h4 style="text-align: center;"><strong>Student Leadership Developmental Framework</strong></h4>
+
+![](/images/SM005.jpg)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![](/images/SM006.jpg)
+<p>&nbsp;</p>
+
+![](/images/SM007.jpg)

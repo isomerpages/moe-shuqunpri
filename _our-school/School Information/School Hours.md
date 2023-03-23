@@ -14,33 +14,33 @@ third_nav_title: School Information
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px; width: 13.3518%; text-align: center;">
-<p><span style="color: #000000;"><strong>P1 &ndash; P2</strong></span></p>
+<p><span style="color: #000000;">P1 &ndash; P2</span></p>
 </td>
 <td style="width: 51.2003%; height: 78px; text-align: center;">
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 1 p.m. (Wed &amp; Thu)</strong></span></p>
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Fri)</strong></span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 1 p.m. (Wed &amp; Thu)</span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Fri)</span></p>
 </td>
-<td style="width: 17.9827%; height: 78px; text-align: center;"><strong>By 7.25 a.m.</strong></td>
+<td style="width: 17.9827%; height: 78px; text-align: center;">By 7.25 a.m.</td>
 </tr>
 <tr style="height: 96px;">
 <td style="height: 96px; width: 13.3518%; text-align: center;">
-<p><span style="color: #000000;"><strong>P3 &ndash; P4</strong></span></p>
+<p><span style="color: #000000;">P3 &ndash; P4</span></p>
 </td>
 <td style="width: 51.2003%; height: 96px; text-align: center;">
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Wed/Thu)</strong></span></p>
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 1 p.m. (Fri)</strong></span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 1.30 p.m. (Mon/Tue/Wed/Thu)</span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 1 p.m. (Fri)</span></p>
 </td>
-<td style="width: 17.9827%; height: 96px; text-align: center;"><strong>By 7.25 a.m.</strong></td>
+<td style="width: 17.9827%; height: 96px; text-align: center;">By 7.25 a.m.</td>
 </tr>
 <tr style="height: 78px;">
 <td style="height: 78px; width: 13.3518%; text-align: center;">
-<p><span style="color: #000000;"><strong>P5 &ndash; P6</strong></span></p>
+<p><span style="color: #000000;">P5 &ndash; P6</span></p>
 </td>
 <td style="width: 51.2003%; height: 78px; text-align: center;">
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 1.30 p.m. (Mon &amp; Tue)</strong></span></p>
-<p><span style="color: #000000;"><strong>7.30 a.m. &ndash; 2 p.m. (Wed/Thu/Fri)</strong></span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 1.30 p.m. (Mon &amp; Tue)</span></p>
+<p><span style="color: #000000;">7.30 a.m. &ndash; 2 p.m. (Wed/Thu/Fri)</span></p>
 </td>
-<td style="width: 17.9827%; height: 78px; text-align: center;"><strong> By 7.25 a.m.</strong></td>
+<td style="width: 17.9827%; height: 78px; text-align: center;">By 7.25 a.m.</td>
 </tr>
 </tbody>
 </table>
@@ -63,26 +63,26 @@ third_nav_title: School Information
 </tr>
 <tr>
 <td style="text-align: center; width: 163.562px;">
-<p><strong>P1 and P4</strong></p>
+<p>P1 and P4</p>
 </td>
 <td style="text-align: center; width: 283.438px;">
-<p><strong>10.30 a.m. &ndash; 11 a.m.</strong></p>
+<p>10.30 a.m. &ndash; 11 a.m.</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 163.562px;">
-<p><strong>P2 and P5</strong></p>
+<p>P2 and P5</p>
 </td>
 <td style="text-align: center; width: 283.438px;">
-<p><strong>10 a.m. &ndash; 10.30 a.m.</strong></p>
+<p>10 a.m. &ndash; 10.30 a.m.</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 163.562px;">
-<p><strong>P3 and P6</strong></p>
+<p>P3 and P6</p>
 </td>
 <td style="text-align: center; width: 283.438px;">
-<p><strong>9.30 a.m. &ndash; 10 a.m.</strong></p>
+<p>9.30 a.m. &ndash; 10 a.m.</p>
 </td>
 </tr>
 </tbody>
@@ -100,18 +100,18 @@ third_nav_title: School Information
 </tr>
 <tr style="height: 46px;">
 <td style="width: 114.703px; height: 46px; text-align: center;">
-<p><strong>P5</strong></p>
+<p>P5</p>
 </td>
 <td style="width: 313.297px; height: 46px; text-align: center;">
-<p><strong>12.30 p.m. &ndash; 1 p.m. (Wed &ndash; Fri)</strong></p>
+<p>12.30 p.m. &ndash; 1 p.m. (Wed &ndash; Fri)</p>
 </td>
 </tr>
 <tr style="height: 46px;">
 <td style="width: 114.703px; height: 46px; text-align: center;">
-<p><strong>P6</strong></p>
+<p>P6</p>
 </td>
 <td style="width: 313.297px; height: 46px; text-align: center;">
-<p><strong>12 p.m. &ndash; 12.30 p.m. (Wed &ndash; Fri)</strong></p>
+<p>12 p.m. &ndash; 12.30 p.m. (Wed &ndash; Fri)</p>
 </td>
 </tr>
 </tbody>

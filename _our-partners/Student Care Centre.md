@@ -20,9 +20,9 @@ description: ""
 </td>
 <td width="401">
 <p><span style="color: #000000;">Monday - Friday</span></p>
-<p><span style="color: #000000;">10.00 a.m. - 7.00 p.m. (School Term)</span></p>
-<p><span style="color: #000000;">7.00 a.m. - 7.00 p.m. (On Term Holiday)</span></p>
-<p><span style="color: #000000;">Closed on Saturday &amp; Sunday</span></p>
+<p><span style="color: #000000;">1.30 p.m. - 7.00 p.m. (School Term)</span></p>
+<p><span style="color: #000000;">7.00 a.m. - 7.00 p.m. (School Holiday)</span></p>
+<p><span style="color: #000000;">Closed on Saturday, Sunday & Public Holidays</span></p>
 </td>
 </tr>
 <tr>
