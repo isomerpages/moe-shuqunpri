@@ -50,20 +50,3 @@ description: ""
 
 ![](/images/Science007.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">YED is an annual event to engage students in green efforts and commitment towards the environment. Assembly programmes and class discussions are conducted to increase students&rsquo; awareness of the environmental issues such as climate change and food wastage. Eco-Challenge, Clean Plate Campaign and Garage Exchange are some activities which provide opportunities for students to show how they can play an active role in saving our Earth.</span></p>
-<h4 style="text-align: justify;"><span style="color: #000000;"><strong>Our Accolades </strong></span></h4>
-
-![](/images/Science008.jpg)
-<li><span style="color: #000000;"><strong>SEC-Starhub School Green Awards </strong></span></li>
-</ul>
-<p style="padding-left: 40px;"><span style="color: #000000;">Vanda Miss Joaquim 2019</span></p>
-<p style="padding-left: 40px;"><span style="color: #000000;">Vanda Miss Joaquim Sustained Achievement Award 2021</span></p>
-<ul>
-<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>Green Schools@South West</strong></span></li>
-</ul>
-<p style="padding-left: 40px;"><span style="color: #000000;">One Star- JEA Star 2021</span></p>
-<p style="padding-left: 40px;"><span style="color: #000000;">Two Stars- JEA Star 2022</span></p>
-<ul>
-<li><span style="color: #000000;"><strong>BCA Green Mark Gold 2020 </strong></span></li>
-<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>WWF Eco Schools - Excellence Award 2020</strong></span></li>
-<li><span style="color: #000000;"><strong>&nbsp;</strong><strong>WWF Eco Schools &ndash; Silver Award 2021</strong></span></li>
-</ul>
