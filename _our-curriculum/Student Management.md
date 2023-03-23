@@ -21,12 +21,17 @@ description: ""
 <ul>
 	
 ![](/images/SM001.jpg)
-
 <li>School Counsellor&rsquo;s Developmental Programme</li>
 </ul>
 <p>Our school counsellor identifies key topics based on social emotional needs for each level and designs a level-based psychoeducation for all students on mental health issues and healthy coping strategies. Our school counsellor conducts this school-wide developmental programme in each class throughout the year. Furthermore, the school counsellor also identifies and implement suitable intervention programmes for students at-risk who need additional help in the areas of social and emotional development.&nbsp;</p>
 
-<table width="384">
+
+<p>&nbsp;</p>
+<ul>
+<li>Discipline &amp; Case Management (DCMT)</li>
+</ul>
+<p>The <strong>Discipline &amp;</strong> <strong>Case Management Team (DCMT) </strong>is a school-level team comprising personnel with different areas of expertise. It serves as the nucleus for overall management of students with additional needs in the areas of academic, behavioural, social and emotional (including at-risk students and those with special educational needs). The CMT members meet regularly and use a problem-solving approach to develop a collaborative plan to ensure that targeted and coordinated support is being provided to these students.</p>
+<p>Teachers may refer students for intervention to the DCMT via a one-stop referral form. The team will assess the <table width="384">
 <tbody>
 <tr>
 <td style="text-align: center;" width="132">
@@ -38,7 +43,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P1</strong></p>
+<p>P1</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>All About Feelings</p>
@@ -46,7 +51,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P2</strong></p>
+<p>P2</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>I&rsquo;m In Control</p>
@@ -54,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P3</strong></p>
+<p>P3</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>I&rsquo;m Special</p>
@@ -62,7 +67,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P4</strong></p>
+<p>P4</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>Let&rsquo;s Be Friends</p>
@@ -70,7 +75,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P5</strong></p>
+<p>P5</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>Conflict Management</p>
@@ -78,20 +83,14 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="132">
-<p><strong>P6</strong></p>
+<p>P6</p>
 </td>
 <td style="text-align: center;" width="252">
 <p>Creating My World</p>
 </td>
 </tr>
 </tbody>
-</table>
-<p>&nbsp;</p>
-<ul>
-<li>Discipline &amp; Case Management (DCMT)</li>
-</ul>
-<p>The <strong>Discipline &amp;</strong> <strong>Case Management Team (DCMT) </strong>is a school-level team comprising personnel with different areas of expertise. It serves as the nucleus for overall management of students with additional needs in the areas of academic, behavioural, social and emotional (including at-risk students and those with special educational needs). The CMT members meet regularly and use a problem-solving approach to develop a collaborative plan to ensure that targeted and coordinated support is being provided to these students.</p>
-<p>Teachers may refer students for intervention to the DCMT via a one-stop referral form. The team will assess the case and assign case managers to the cases. Case managers will recommend the actions to be taken and work with relevant stakeholders to support the referred students. Tier 1 programmes are targeted to the general school population. For example, the school counsellor conducts yearly developmental talks on various topics which are chosen based on observation and feedback from teachers and DCMT case trends.</p>
+</table>case and assign case managers to the cases. Case managers will recommend the actions to be taken and work with relevant stakeholders to support the referred students. Tier 1 programmes are targeted to the general school population. For example, the school counsellor conducts yearly developmental talks on various topics which are chosen based on observation and feedback from teachers and DCMT case trends.</p>
 <p>There are Tier 2 intervention programmes for targeted groups of students.&nbsp;Besides learning support programmes, the school has implemented I<sup>3</sup> (I am, I Have, I Can) programme which targets at-risk students that seeks to develop their strengths, self and social awareness and equip them with problem solving skills. Students requiring more specialised or individualised support are allocated more resources or referred to external agencies for support.&nbsp;</p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Discipline</span></strong></h3>
