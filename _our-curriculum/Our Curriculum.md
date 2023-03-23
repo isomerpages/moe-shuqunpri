@@ -13,6 +13,6 @@ description: ""
 | **Physical & Health Education**     | **Aesthetics**     | **Student Management**     | **Character & Citizenship Education**     |
 
 
-| ![](/images/Generic%20Photos.ico) | ![](/images/ICT.jpg) | ![](/images/Sexuality%20Educcation.jpg) | ![](/images/CCA.ico) |
+| ![](/images/Generic%20Photos.ico) | ![](/images/ICT.ico) | ![](/images/Sexuality%20Educcation.ico) | ![](/images/CCA.ico) |
 | -------- | -------- | -------- | -------- |
 | **Educational Support**     | **Information & Communication Technology**     | **Sexuality Education**     |  **Co-Curricular Activities**    |
