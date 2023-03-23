@@ -8,11 +8,11 @@ description: ""
 | **English**     | **Mathematics**     | **Science**     | **Mother Tongue Language**     |
 
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| ![](/images/PHE.ico) | ![](/images/Aesthetics.ico) | ![](/images/SM.ico) | ![](/images/CCE.ico) |
 | -------- | -------- | -------- | -------- |
 | Physical & Health Education     | Aesthetics     | Student Management     | Character & Citizenship Education     |
 
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| ![](/images/Generic%20Photos.ico) | ![](/images/ICT.ico) | ![](/images/Generic%20Photos.ico) | ![](/images/CCA.ico) |
 | -------- | -------- | -------- | -------- |
 | Educational Support     | Information & Communication Technology     | Sexuality Education     | CCA     |
