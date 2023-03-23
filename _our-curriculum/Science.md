@@ -7,7 +7,7 @@ description: ""
 
 <p style="text-align: justify;"><span style="color: #000000;">Nurture self-directed and creative thinkers with a sense of inquiry and passion for the learning of science</span></p>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Teaching and Learning Approach</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Key Programmes</span></strong></h3>
 
 <p style="text-align: justify;"><span style="color: #000000;">The Science curriculum at Shuqun Primary School seeks to nurture Shuqunites to be scientifically literate so that they are able to appreciate the role of Science in daily life and the environment around them.&nbsp; We hope to inspire students to enjoy learning science and have the passion to inquire and innovate to solve real-world problems. Through a myriad of meaningful learning experiences facilitated by our teachers, we hope to ignite and fuel their curiosity for the learning of Science.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">As a Green school, we work towards nurturing all Shuqunites to become responsible citizens who show care for the environment around them.</span></p>
