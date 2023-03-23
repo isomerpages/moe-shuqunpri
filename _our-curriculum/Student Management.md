@@ -96,11 +96,10 @@ description: ""
 <h4 style="text-align: center;"><strong>Student Leadership Framework</strong></h4>
 
 ![](/images/SM004.jpg)
-<p>&nbsp;</p>
+
 <h4 style="text-align: center;"><strong>Student Leadership Developmental Framework</strong></h4>
 
 ![](/images/SM005.jpg)
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ![](/images/SM006.jpg)
