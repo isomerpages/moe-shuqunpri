@@ -24,11 +24,6 @@ description: ""
 <td class="xl65" style="height: 39.95pt; border-top: none; width: 259.172px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Swim Safer E-Certificate</span></a></span></td>
 <td class="xl65" style="border-top: none; border-left: none; width: 265.828px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Practising Cyberwellness</span></a></span></td>
 <td class="xl65" style="border-top: none; border-left: none; width: 304px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Cyber Security Awareness Alliance</span></a></span></td>
-</tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 259.172px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">CW Parent Kit</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 265.828px;">&nbsp;</td>
-<td class="xl65" style="border-top: none; border-left: none; width: 304px;">&nbsp;</td>
-</tr>
+
 </tbody>
 </table>
