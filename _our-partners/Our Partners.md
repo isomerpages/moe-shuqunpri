@@ -11,4 +11,4 @@ description: ""
 
 | ![](/images/Generic%20Icon.ico) | ![](/images/Community.ico) | ![](/images/SSC.ico) |
 | :--------: | :--------: | :--------: |
-| **Overseas Partner Schools and Programmes**     | **Community**     | **Student Care Centre**     |
+| **[Overseas Partner Schools](/our-partners/overseas-partner-school/)**     | **Community**     | **Student Care Centre**     |
