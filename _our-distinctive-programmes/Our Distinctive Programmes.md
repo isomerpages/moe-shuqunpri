@@ -10,8 +10,4 @@ description: ""
 
 | ![](/images/Bizkids1.ico) | ![](/images/Stardust.ico) | ![](/images/PosEd001.ico) |
 | :--------: | :--------: | :--------: |
-| **[BizKids](/our-distinctive-programmes/bizkids/)**     | **[MAD Day & Stardust](/our-distinctive-programmes/mad-day-stardust/)**     | **[Positive Education](/our-distinctive-programmes/positive-education/)**     | 
-
-
-
-
+| **[BizKids](/our-distinctive-programmes/bizkids/)**     | **[MAD Day & Stardust](/our-distinctive-programmes/mad-day-stardust/)**     | **[Positive Education](/our-distinctive-programmes/positive-education/)**     |
