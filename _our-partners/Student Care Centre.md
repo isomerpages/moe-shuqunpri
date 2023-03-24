@@ -3,6 +3,10 @@ title: Student Care Centre
 permalink: /our-partners/student-care-centre/
 description: ""
 ---
+![](/images/SSC.jpg)
+
+
+
 <p><span style="color: #000000;">School &ndash; based Student Care Centre (SCC) provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by NASCANS.</span></p>
 <table width="539">
 <tbody>
