@@ -4,9 +4,9 @@ permalink: /useful-links/parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-[**Sexuality Education Form**](https://go.gov.sg/sqsp-gy2022-optoutform)
+**[Sexuality Education Form](https://go.gov.sg/sqsp-gy2022-optoutform)**
 
-[**Parent Volunteer Application Form**](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2017/03/Parent-VolunteerApplication-Letter.pdf)
+**[Parent Volunteer Application Form](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2017/03/Parent-VolunteerApplication-Letter.pdf)**
 
 **[Giro Application Form](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2016/12/GIRO_Form.pdf)**
 
