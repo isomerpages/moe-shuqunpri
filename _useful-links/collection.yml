@@ -4,6 +4,6 @@ collections:
     order:
       - Students.md
       - Teachers.md
-      - Parents/Forms.md
-      - Parents/Parents.md
       - Parents/.keep
+      - Parents/Parents.md
+      - Parents/Forms.md
