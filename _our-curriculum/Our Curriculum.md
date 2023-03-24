@@ -13,6 +13,6 @@ description: ""
 | **[Physical & Health Education](/our-curriculum/physical-and-health-education/)**     | **[Aesthetics](/our-curriculum/aesthetics/)**     | **[Student Management](/our-curriculum/student-management/)**     | **[Character & Citizenship Education](/our-curriculum/cce/)**     |
 
 
-| ![](/images/Generic%20Photos.ico) | ![](/images/ICT.ico) | ![](/images/Sexuality%20Educcation.ico) | ![](/images/CCA.ico) |
+| ![](/images/Generic%20Photos.ico) | ![](/images/ICT1.ico) | ![](/images/Sexuality%20Educcation.ico) | ![](/images/CCA.ico) |
 | :--------: | :--------: | :--------: | :--------: |
 | **[Educational Support](/our-curriculum/educational-support/)**     | **[Information & Communication Technology](/our-curriculum/information-communication-technology/)**     | **[Sexuality Education](/our-curriculum/sexuality-education/)**     |  **[Co-Curricular Activities](/our-curriculum/cca/clubs-and-societies/)**    |
