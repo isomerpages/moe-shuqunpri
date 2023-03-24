@@ -4,7 +4,7 @@ collections:
     order:
       - Students.md
       - Teachers.md
-      - Parents/Presentation Guide.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Forms.md
+      - Parents/Presentation Guide.md
