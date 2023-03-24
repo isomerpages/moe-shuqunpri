@@ -7,6 +7,6 @@ description: ""
 | :--------: | :--------: | :--------: | :--------: |
 | **About MK**     | **Curriculum**     | **Information for Parents**     | **Our Staff**     |
 
-| Column 1 | ![](/images/Gallery.ico) | ![](/images/Contact%20Us2.ico) |
-| :--------: | :--------: | :--------: |
-| **Our Partners**     | **Gallery**     | **Contact Us**     |
+| ![](/images/Partners.ico) | ![](/images/Gallery.ico) | ![](/images/Contact%20Us2.ico) |![](/images/Blank.ico) |
+| :--------: | :--------: | :--------: | :--------: |
+| **Our Partners**     | **Gallery**     | **Contact Us**     | 
