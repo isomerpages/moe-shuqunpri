@@ -168,6 +168,11 @@ third_nav_title: Our Staff
 <td style="width: 317.406px;"><strong>nur_azrin_mahadi@moe.edu.sg</strong></td>
 </tr>
 <tr>
+<td style="width: 40.8906px;"><strong>2C2</strong></td>
+<td style="width: 309.703px;"><strong></strong></td>
+<td style="width: 317.406px;"><strong></strong></td>
+</tr>
+<tr>
 <td style="width: 40.8906px;"><strong>P2</strong></td>
 <td style="width: 309.703px;"><strong>Mr Fong Kah Onn Michael</strong></td>
 <td style="width: 317.406px;"><strong>fong_kah_onn_michael@moe.edu.sg</strong></td>
