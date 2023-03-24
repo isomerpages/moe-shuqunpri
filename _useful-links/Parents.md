@@ -3,8 +3,6 @@ title: Parents
 permalink: /useful-links/parents-partners/
 description: ""
 ---
-<h3><span style="color: #800000;"><strong>Useful Links &amp; Resources</strong></span></h3>
-
 <table style="border-collapse: collapse; width: 833px;" border="0" width="861" cellspacing="0" cellpadding="0"><colgroup><col style="mso-width-source: userset; mso-width-alt: 10130; width: 208pt;" width="277" /> <col style="mso-width-source: userset; mso-width-alt: 9472; width: 194pt;" width="259" /> <col style="mso-width-source: userset; mso-width-alt: 11885; width: 244pt;" width="325" /></colgroup>
 <tbody>
 <tr style="mso-height-source: userset; height: 39.95pt;">
