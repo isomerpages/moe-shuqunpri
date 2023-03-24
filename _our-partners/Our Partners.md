@@ -5,7 +5,7 @@ description: ""
 ---
 | ![](/images/Parents.ico) | ![](/images/Generic%20Icon.ico) | ![](/images/Alumni.ico) |
 | :--------: | :--------: | :--------: |
-| **Parents**     | **School Advisory Committee**  | **Alumni**     |
+| **[Parents](/our-partners/parents/information-for-parents/)**     | **[School Advisory Committee](/our-partners/school-advisory-committee/)**  | **[Alumni](/our-partners/alumni/)**     |
 
 
 
