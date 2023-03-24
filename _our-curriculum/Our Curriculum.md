@@ -5,12 +5,12 @@ description: ""
 ---
 | ![](/images/English.ico) | ![](/images/Maths.ico) | ![](/images/Science.ico) | ![](/images/MTL.ico) |
 | :--------: | :--------: | :--------: | :--------: |
-| **English**     | **Mathematics**     | **Science**     | **Mother Tongue Language**     |
+| **[English](/our-curriculum/english/)**     | **[Mathematics](/our-curriculum/mathematics/)**     | **[Science](/our-curriculum/science/)**     | **[Mother Tongue Language](/our-curriculum/mother-tongue/)**     |
 
 
 | ![](/images/PHE.ico) | ![](/images/Aesthetics.ico) | ![](/images/SM.ico) | ![](/images/CCE.ico) |
 | :--------: | :--------: | :--------: | :--------: |
-| **Physical & Health Education**     | **Aesthetics**     | **Student Management**     | **Character & Citizenship Education**     |
+| **[Physical & Health Education](/our-curriculum/physical-and-health-education/)**     | **[Aesthetics](/our-curriculum/aesthetics/)**     | **[Student Management](/our-curriculum/student-management/)**     | **[Character & Citizenship Education](/our-curriculum/cce/)**     |
 
 
 | ![](/images/Generic%20Photos.ico) | ![](/images/ICT.ico) | ![](/images/Sexuality%20Educcation.ico) | ![](/images/CCA.ico) |
