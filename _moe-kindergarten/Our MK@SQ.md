@@ -3,22 +3,11 @@ title: Our MK@SQ
 permalink: /moe-kindergarten/permalink/
 description: ""
 ---
+| Column 1 | Column 2 | Column 3 |Column 4 |
+| :--------: | :--------: | :--------: | :--------: |
+| **About MK**     | **Curriculum**     | **Information for Parents**     | **Our Staff**     |
 
-
-
-
-About MK
-
-Curriculum
-
-Information for Parents
-
-Our Staff
-
-Our Partners
-
-Facilities
-
-Contact Us
-
+| Column 1 | Column 2 | Column 3 |
+| :--------: | :--------: | :--------: |
+| **Our Partners**     | **Gallery**     | **Contact Us**     |
 
