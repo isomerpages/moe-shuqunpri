@@ -4,5 +4,4 @@ collections:
     order:
       - Students.md
       - Teachers.md
-      - Parents.md
       - Parents/.keep
