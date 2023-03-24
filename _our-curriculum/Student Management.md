@@ -96,7 +96,6 @@ description: ""
 <h4 style="text-align: center;"><strong>Student Leadership Framework</strong></h4>
 
 ![](/images/SM004.jpg)
-
 <h4 style="text-align: center;"><strong>Student Leadership Developmental Framework</strong></h4>
 
 ![](/images/SM005.jpg)
