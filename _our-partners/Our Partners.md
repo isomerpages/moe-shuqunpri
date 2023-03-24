@@ -5,10 +5,10 @@ description: ""
 ---
 | Column 1 | Column 2 | Column 3 |
 | :--------: | :--------: | :--------: |
-| Parents     | School Advisory Committee  | Alumni     |
+| **Parents**     | **School Advisory Committee**  | **Alumni**     |
 
 
 
 | Column 1 | Column 2 | Column 3 |
 | :--------: | :--------: | :--------: |
-| Overseas Partner Schools and Programmes     | Community     | Student Care Centre     |
+| **Overseas Partner Schools and Programmes**     | **Community**     | **Student Care Centre**     |
