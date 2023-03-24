@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Parents/.keep
       - Students.md
       - Teachers.md
       - Parents.md
+      - Parents/.keep
