@@ -32,12 +32,12 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Girls&rsquo; skirt length should not be more than 4 cm above the back of the knee.</span></li>
 </ul>
 
-![](/images/uniform.jpg)
+![](/images/Uniform.jpg)
 <ul>
 <li><span style="color: #000000;">Name tags must be sewn on all school shirts, blouses and PE T-shirt.</span></li>
 </ul>
 
-![](/images/name-tag.jpg)
+![](/images/Name%20Tag.jpg)
 <ul>
 <li><span style="color: #000000;">School uniform : one finger above the pocket for boys, one&nbsp;finger above school crest for girls.</span></li>
 <li><span style="color: #000000;">PE T-shirt : one finger above the school crest.</span></li>
@@ -51,7 +51,7 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Shoes/Socks with stark / colourful logos are not allowed.</span></li>
 </ul>
 
-![](/images/shoe.jpg)
+![](/images/Shoe.jpg)
 <h4><span style="color: #000000;"><strong>Accessories</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">No bracelets, bangles, nose studs,&nbsp;necklaces or other accessories are permitted.</span></li>
@@ -70,7 +70,7 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Haircuts with distinctive style lines across hair (or any other styles deemed unacceptable by the school discipline committee) are not allowed.</span></li>
 </ul>
 
-![](/images/boy-hair.jpg)
+![](/images/Boy%20Hair.jpg)
 <h4><span style="color: #000000;"><strong>Girls&rsquo; Hair</strong></span></h4>
 <ul>
 <li><span style="color: #000000;">Fringes must&nbsp;be kept above eyebrows or&nbsp;pinned up neatly with black pins or clips..</span></li>
@@ -80,7 +80,7 @@ third_nav_title: School Information
 <li><span style="color: #000000;">Fancy hairstyle or any other style deemed unacceptable by the school discipline committee are not allowed.</span></li>
 </ul>
 
-![](/images/girl-hair.jpg)
+![](/images/Girl%20Hair.jpg)
 <h3><strong><span style="color: #800000;">Expected Shuqunite Behaviour</span></strong></h3>
 
 <h4><span style="color: #000000;"><strong>Attendance</strong></span></h4>
