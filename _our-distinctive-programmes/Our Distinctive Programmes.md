@@ -3,7 +3,7 @@ title: Our Distinctive Programmes
 permalink: /our-distinctive-programmes/permalink/
 description: ""
 ---
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| ![](/images/ALP.ico) | ![](/images/LLP.ico) | Column 3 | Column 4 |
 | -------- | -------- | -------- | -------- | 
 | Applied Learning Programme     | Learning for Life Programme     | Reading Culture Programme     | Student Ambassador Programme     |
 
