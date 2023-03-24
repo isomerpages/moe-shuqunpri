@@ -4,9 +4,6 @@ permalink: /useful-links/parents/presentation-slide-guide/permalink/
 description: ""
 third_nav_title: Parents
 ---
-
-
-
 **P4 SBB Briefing (2023)**
 
 *   **[Subject Based Banding Sharing](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/02/P4-SBB-Briefing.pdf)**
@@ -31,7 +28,3 @@ third_nav_title: Parents
 
 *   **[Primary 3](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/P3-Open-Classroom-19-Jan-2023.pdf)**
 *   **[Primary 5](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/P5-Open-Classroom-19-Jan-2023.pdf)**
-
-**[Student iCON Onboarding Guide](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/02/SQPS-Student-iCON-Onboarding-Guide.pdf)**
-
-**[Microsoft Office 365 ProPlus Apps Student Guide](https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/07/Microsoft-Office-365-ProPlus-Apps-Student-Guide-2022.pdf)**
