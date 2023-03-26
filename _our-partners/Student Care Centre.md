@@ -42,6 +42,6 @@ description: ""
 <p><span style="color: #000000;">Email:</span></p>
 </td>
 <td width="401">
-<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:sqps@moe.edu.sg">sqscc@nascans.com</a></span></p>
+<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:sqscc@nascans.com">sqscc@nascans.com</a></span></p>
 </td>
 </tr>
