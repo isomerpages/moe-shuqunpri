@@ -18,13 +18,13 @@ description: ""
 </tr>
 <tr style="height: 82px;">
 <td style="text-align: center; height: 82px; width: 200.188px;">
-<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/07/Microsoft-Office-365-ProPlus-Apps-Student-Guide-2022.pdf" target="_blank">Microsoft Office 365 ProPlus Apps Student Guide</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Microsoft-Office-365-ProPlus-Apps-Student-Guide-2022.pdf" target="_blank">Microsoft Office 365 ProPlus Apps Student Guide</a></strong></span></p>
 </td>
 <td style="text-align: center; height: 82px; width: 181.891px;">
-<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://shuqunpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/02/SQPS-Student-iCON-Onboarding-Guide.pdf" target="_blank">Student iCON Onboarding Guide</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/SQPS-Student-iCON-Onboarding-Guide.pdf" target="_blank">Student iCON Onboarding Guide</a></strong></span></p>
 </td>
 <td style="text-align: center; height: 82px; width: 218.922px;">
-<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/presentation-slides/Recommended-Reading-Lists.pdf" target="_blank">Recommended Reading Lists</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Recommended-Reading-Lists.pdf" target="_blank">Recommended Reading Lists</a></strong></span></p>
 </td>
 </tr>
 <tr style="height: 64px;">
