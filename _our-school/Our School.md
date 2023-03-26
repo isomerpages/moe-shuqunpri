@@ -10,6 +10,3 @@ description: ""
 | ![](/images/Our%20Staff1.ico) | ![](/images/School%20Achievement.ico) | ![](/images/Contact%20Us1.ico) |
 | :--------: | :--------: | :--------: |
 | **[Our Staff](/our-school/our-staff/school-management-team/)**   |  **[School Achievements](/our-school/school-achievements/2023/)**     | **[Contact Us](/our-school/contact-us/)**     |
-
-
-
