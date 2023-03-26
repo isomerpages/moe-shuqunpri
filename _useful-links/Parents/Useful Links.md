@@ -4,27 +4,51 @@ permalink: /useful-links/parents-partners/
 description: ""
 third_nav_title: Parents
 ---
-<table style="border-collapse: collapse; width: 833px;" border="0" width="861" cellspacing="0" cellpadding="0"><colgroup><col style="mso-width-source: userset; mso-width-alt: 10130; width: 208pt;" width="277" /> <col style="mso-width-source: userset; mso-width-alt: 9472; width: 194pt;" width="259" /> <col style="mso-width-source: userset; mso-width-alt: 11885; width: 244pt;" width="325" /></colgroup>
+<table width="690">
 <tbody>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; width: 259.172px;" height="53"><a href="https://staging.d2w6f17b52epdm.amplifyapp.com/parents-gateway/" target="_blank"><span style="color: #000000;"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Parents Gateway</span></span></a></td>
-<td class="xl65" style="border-left: none; width: 265.828px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.schoolbag.edu.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">SCHOOLBAG The Education News Site</span></a></span></td>
-<td class="xl65" style="border-left: none; width: 304px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.nea.gov.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">National Environment Agency</span></a></span></td>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/parents-gateway/">Parents Gateway</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="274">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.schoolbag.edu.sg/">SCHOOLBAG The Education News Site</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="246">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.nea.gov.sg/">National Environment Agency</a></span></strong></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 259.172px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://www.cdac.org.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">CDAC</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 265.828px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.sinda.org.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">SINDA</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 304px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.mendaki.org.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">MENDAKI</span></a></span></td>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.cdac.org.sg/">CDAC</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="274">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.sinda.org.sg/">SINDA</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="246">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.mendaki.org.sg/">MENDAKI</a></span></strong></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 259.172px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/sqps-p1-e-orientation/home" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">P1 Orientation</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 265.828px;"><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/shuqun-primary-presentations/home" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Parents Engagement</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 304px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.betterinternet.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Media Literacy Council</span></a></span></td>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/sqps-p1-e-orientation/home">P1 Orientation</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="274">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/shuqun-primary-presentations/home">Parents Engagement</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="246">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.betterinternet.sg/">Media Literacy Council</a></span></strong></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 259.172px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Swim Safer E-Certificate</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 265.828px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Practising Cyberwellness</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 304px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Cyber Security Awareness Alliance</span></a></span></td>
+<tr>
+<td style="text-align: center;" width="170">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf">Swim Safer E-Certificate</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="274">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">Practising Cyberwellness</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="246">
+<p><strong><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents">Cyber Security Awareness Alliance</a></span></strong></p>
+</td>
 </tr>
 </tbody>
 </table>
