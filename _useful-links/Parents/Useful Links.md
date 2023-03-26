@@ -41,7 +41,7 @@ third_nav_title: Parents
 </tr>
 <tr>
 <td style="text-align: center;" width="170">
-<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf">Swim Safer E-Certificate</a></span></strong></p>
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf">Swim Safer E-Certificate</a></span></strong></p>
 </td>
 <td style="text-align: center;" width="274">
 <p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">Practising Cyberwellness</a></span></strong></p>
