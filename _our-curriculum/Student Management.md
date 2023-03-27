@@ -16,7 +16,6 @@ description: ""
 ![](/images/SM001.jpg)
 <p><strong>School Counsellor&rsquo;s Developmental Programme</strong></p>
 <p>Our school counsellor identifies key topics based on social emotional needs for each level and designs a level-based psychoeducation for all students on mental health issues and healthy coping strategies. Our school counsellor conducts this school-wide developmental programme in each class throughout the year. Furthermore, the school counsellor also identifies and implement suitable intervention programmes for students at-risk who need additional help in the areas of social and emotional development.&nbsp;</p>
-
 <table width="384">
 <tbody>
 <tr>
@@ -81,7 +80,6 @@ description: ""
 <p>The <strong>Discipline &amp;</strong> <strong>Case Management Team (DCMT) </strong>is a school-level team comprising personnel with different areas of expertise. It serves as the nucleus for overall management of students with additional needs in the areas of academic, behavioural, social and emotional (including at-risk students and those with special educational needs). The CMT members meet regularly and use a problem-solving approach to develop a collaborative plan to ensure that targeted and coordinated support are being provided to these students.</p>
 <p>Teachers may refer students for intervention to the DCMT via a one-stop referral form. The team will assess the case and assign case managers to the cases. Case managers will recommend the actions to be taken and work with relevant stakeholders to support the referred students. Tier 1 programmes are targeted to the general school population. For example, the school counsellor conducts yearly developmental talks on various topics which are chosen based on observation and feedback from teachers and DCMT case trends.</p>
 <p>There are Tier 2 intervention programmes for targeted groups of students.&nbsp;Besides learning support programmes, the school has implemented I<sup>3</sup> (I am, I Have, I Can) programme which targets at-risk students that seeks to develop their strengths, self and social awareness and equip them with problem solving skills. Students requiring more specialised or individualised support are allocated more resources or referred to external agencies for support.&nbsp;</p>
-
 <h4 style="text-align: justify;"><strong><span style="color: #000000;">Discipline</span></strong></h4>
 <p>Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve.&nbsp;A judicious balance creates an environment conducive for their learning and development. A positive, proactive approach to discipline&nbsp;develops students&rsquo; readiness and motivation&nbsp;to learn, and enables them to feel safe both physically and psychologically. The school continually seeks to strengthen school processes to enhance consistency in discipline processes.&nbsp;The school has adopted a positive and proactive approach to discipline through three main aspects (Promote and Prevent, Address and Correct &amp; Replace and Restore). The school also communicates key discipline messages such as school rules, types of offences, zero bullying policy, acceptable internet use policy and appearance expectations regularly.</p>
 
@@ -92,7 +90,8 @@ description: ""
 ![](/images/SM003.jpg)
 <h4><strong>Student Leadership</strong></h4>
 <p>The Student Leadership Development Plan follows a tiered approach. Each tier reflects the student leader&rsquo;s level of impact and contribution. Student leadership opportunities are available at the class, school and community level.</p>
-<p>At school-wide level, there is explicit progressive teaching of Kouzes and Posner&rsquo;s Leadership Challenge principles (MICEE) to strengthen student leadership efforts for all students during FTGP periods. At Tier 1, there are multiple leadership roles at classroom levels (eg. class monitor, subject reps). Tiers 2 and 3 student leaders are given additional training on effective communication skills, problem solving, public speaking and conflict management. These leaders are also provided opportunities to serve the school and community (eg. Jurong Spring CC National Day Observance Ceremony, P1 Orientation &amp; CCA Appreciation Day etc).
+<p>At school-wide level, there is explicit progressive teaching of Kouzes and Posner&rsquo;s Leadership Challenge principles (MICEE) to strengthen student leadership efforts for all students during FTGP periods. At Tier 1, there are multiple leadership roles at classroom levels (eg. class monitor, subject reps). Tiers 2 and 3 student leaders are given additional training on effective communication skills, problem solving, public speaking and conflict management. These leaders are also provided opportunities to serve the school and community (eg. Jurong Spring CC National Day Observance Ceremony, P1 Orientation &amp; CCA Appreciation Day etc).</p>
+
 <h4 style="text-align: center;"><strong>Student Leadership Framework</strong></h4>
 
 ![](/images/SM004.jpg)
@@ -106,3 +105,4 @@ description: ""
 <p>&nbsp;</p>
 
 ![](/images/SM007.jpg)
+<p>&nbsp;</p>

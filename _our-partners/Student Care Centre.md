@@ -3,6 +3,10 @@ title: Student Care Centre
 permalink: /our-partners/student-care-centre/
 description: ""
 ---
+![](/images/SSC.jpg)
+
+
+
 <p><span style="color: #000000;">School &ndash; based Student Care Centre (SCC) provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by NASCANS.</span></p>
 <table width="539">
 <tbody>
@@ -38,6 +42,6 @@ description: ""
 <p><span style="color: #000000;">Email:</span></p>
 </td>
 <td width="401">
-<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:sqps@moe.edu.sg">sqscc@nascans.com</a></span></p>
+<p><span style="color: #000000;"><a style="color: #000000;" href="mailto:sqscc@nascans.com">sqscc@nascans.com</a></span></p>
 </td>
 </tr>

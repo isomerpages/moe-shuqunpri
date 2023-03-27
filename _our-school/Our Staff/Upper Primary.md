@@ -138,11 +138,6 @@ third_nav_title: Our Staff
 <td style="width: 310.5px;"><strong>lim_chui_hua@moe.edu.sg</strong></td>
 </tr>
 <tr>
-<td style="width: 46.0781px;"><strong>6B2</strong></td>
-<td style="width: 264.422px;"><strong>Ms Chia Sing Yi</strong></td>
-<td style="width: 310.5px;"><strong>chia_sing_yi@moe.edu.sg</strong></td>
-</tr>
-<tr>
 <td style="width: 46.0781px;"><strong>6C1</strong></td>
 <td style="width: 264.422px;"><strong>Ms Charlotte Lee Shuey Ler</strong></td>
 <td style="width: 310.5px;"><strong>charlotte_lee_shuey_ler@moe.edu.sg</strong></td>

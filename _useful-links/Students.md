@@ -3,27 +3,51 @@ title: Students
 permalink: /useful-links/students/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 758px;" border="0" width="861" cellspacing="0" cellpadding="0"><colgroup><col style="mso-width-source: userset; mso-width-alt: 10130; width: 208pt;" width="277" /> <col style="mso-width-source: userset; mso-width-alt: 9472; width: 194pt;" width="259" /> <col style="mso-width-source: userset; mso-width-alt: 11885; width: 244pt;" width="325" /></colgroup>
+<table style="height: 292px;" width="623">
 <tbody>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; width: 239.297px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">MOE Identity Management System (MIMS)</span></a></span></td>
-<td class="xl65" style="border-left: none; width: 245.516px;"><span style="color: #000000;"><a style="color: #000000;" href="https://workspace.google.com/dashboard" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Student iCon</span></a></span></td>
-<td class="xl65" style="border-left: none; width: 269.188px;"><span style="color: #000000;"><a style="color: #000000;" href="https://vle.learning.moe.edu.sg/login" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Student Learning Space (SLS)</span></a></span></td>
+<tr style="height: 82px;">
+<td style="text-align: center; height: 82px; width: 200.188px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000; text-decoration: underline;" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank">MOE Identity Management System (MIMS)</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 82px; width: 181.891px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://workspace.google.com/dashboard" target="_blank">Student iCon</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 82px; width: 218.922px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a></strong></span></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 239.297px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://online.fliphtml5.com/obrr/qkde/#p=1" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">We STories</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 245.516px;"><span style="color: #000000;"><a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">My Skills Future</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 269.188px;"><span style="color: #000000;"><a style="color: #000000;" href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">School e-Resource Repository</span></a></span></td>
+<tr style="height: 82px;">
+<td style="text-align: center; height: 82px; width: 200.188px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf" target="_blank">Microsoft Office 365 ProPlus Apps Student Guide</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 82px; width: 181.891px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/SQPS-Student-iCON-Onboarding-Guide.pdf" target="_blank">Student iCON Onboarding Guide</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 82px; width: 218.922px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Recommended-Reading-Lists.pdf" target="_blank">Recommended Reading Lists</a></strong></span></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 239.297px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://www.sportsingapore.gov.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Sport Singapore</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 245.516px;"><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/the-shuqun-story/home" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Shuqun's 95th Anniversary</span></a></span></td>
-<td class="xl65" style="border-top: none; border-left: none; width: 269.188px;"><span style="color: #000000;"><a style="color: #000000;" href="https://w7euphoria.edu.sg/" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">The Euphoria for the Arts Website</span></a></span></td>
+<tr style="height: 64px;">
+<td style="text-align: center; height: 64px; width: 200.188px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">School e-Resource Repository</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 181.891px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://online.fliphtml5.com/obrr/qkde/#p=1" target="_blank">We STories</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 218.922px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/the-shuqun-story/home" target="_blank">Shuqun's 95th Anniversary</a></strong></span></p>
+</td>
 </tr>
-<tr style="mso-height-source: userset; height: 39.95pt;">
-<td class="xl65" style="height: 39.95pt; border-top: none; width: 239.297px;" height="53"><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/Recommended-Reading-Lists.pdf" target="_blank"><span style="font-size: 12pt; font-weight: bold; text-decoration: none; font-family: Arial, sans-serif;">Recommended Reading Lists</span></a></span></td>
-<td class="xl66" style="border-top: none; border-left: none; width: 245.516px;">&nbsp;</td>
-<td class="xl66" style="border-top: none; border-left: none; width: 269.188px;">&nbsp;</td>
+<tr style="height: 64px;">
+<td style="text-align: center; height: 64px; width: 200.188px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://www.sportsingapore.gov.sg/" target="_blank">Sport Singapore</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 181.891px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://w7euphoria.edu.sg/" target="_blank">The Euphoria for the Arts Website</a></strong></span></p>
+</td>
+<td style="text-align: center; height: 64px; width: 218.922px;">
+<p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">My Skills Future</a></strong></span></p>
+</td>
 </tr>
 </tbody>
 </table>

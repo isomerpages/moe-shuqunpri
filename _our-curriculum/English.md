@@ -3,6 +3,7 @@ title: English
 permalink: /our-curriculum/english/
 description: ""
 ---
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 
 <p><span style="color: #000000;">Building A Strong Foundation and Rich Language for All.</span></p>
