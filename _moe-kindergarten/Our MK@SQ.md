@@ -12,7 +12,7 @@ description: ""
 <td style="width: 161.5px; height: 79px; text-align: left;"><span style="color: #000000;"><img src="/images/Curriculum.ico" /></span>
 <p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/moe-kindergarten/curriculum/">Curriculum</a></span></p>
 </td>
-<td style="width: 162.5px; height: 79px; text-align: left;"><span style="color: #000000;"><img src="/images/.ico" /></span>
+<td style="width: 162.5px; height: 79px; text-align: left;"><span style="color: #000000;"><img src="/images/Information for Parents1.ico" /></span>
 <p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/moe-kindergarten/information-for-parents/">Information for Parents</a>&nbsp;</span></p>
 </td>
 <td style="width: 158.5px; height: 79px; text-align: left;"><span style="color: #000000;"><img src="/images/Our Staff MK.ico" /></span>
