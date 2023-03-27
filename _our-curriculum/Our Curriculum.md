@@ -5,7 +5,8 @@ description: ""
 ---
 | ![](/images/English.ico) | ![](/images/Maths.ico) | ![](/images/Science.ico) | ![](/images/MTL.ico) |
 | :--------: | :--------: | :--------: | :--------: |
-| **[English](/our-curriculum/english/)**     | **[Mathematics](/our-curriculum/mathematics/)**     | **[Science](/our-curriculum/science/)**     | **[Mother Tongue Language](/our-curriculum/mother-tongue/)**     |
+
+| **[English](/our-curriculum/english/)**     |  **[Mathematics](/our-curriculum/mathematics/)**     | **[Science](/our-curriculum/science/)**     | **[Mother Tongue Language](/our-curriculum/mother-tongue/)**     |
 
 
 | ![](/images/PHE.ico) | ![](/images/Aesthetics.ico) | ![](/images/SM.ico) | ![](/images/CCE.ico) |
