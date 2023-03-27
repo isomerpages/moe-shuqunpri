@@ -3,17 +3,50 @@ title: Our Curriculum
 permalink: /our-curriculum/permalink/
 description: ""
 ---
-| ![](/images/English.ico) | ![](/images/Maths.ico) | ![](/images/Science.ico) | ![](/images/MTL.ico) |
-| :--------: | :--------: | :--------: | :--------: |
-
-| **[English](/our-curriculum/english/)**     |  **[Mathematics](/our-curriculum/mathematics/)**     | **[Science](/our-curriculum/science/)**     | **[Mother Tongue Language](/our-curriculum/mother-tongue/)**     |
-
-
-| ![](/images/PHE.ico) | ![](/images/Aesthetics.ico) | ![](/images/SM.ico) | ![](/images/CCE.ico) |
-| :--------: | :--------: | :--------: | :--------: |
-| **[Physical & Health Education](/our-curriculum/physical-and-health-education/)**     | **[Aesthetics](/our-curriculum/aesthetics/)**     | **[Student Management](/our-curriculum/student-management/)**     | **[Character & Citizenship Education](/our-curriculum/cce/)**     |
-
-
-| ![](/images/Educational%20Support.ico) | ![](/images/ICT.ico) | ![](/images/Sexuality%20Educcation.ico) | ![](/images/CCA.ico) |
-| :--------: | :--------: | :--------: | :--------: |
-| **[Educational Support](/our-curriculum/educational-support/)**     | **[Information & Communication Technology](/our-curriculum/information-communication-technology/)**     | **[Sexuality Education](/our-curriculum/sexuality-education/)**     |  **[Co-Curricular Activities](/our-curriculum/cca/clubs-and-societies/)**    |
+<p>&nbsp;</p>
+<table style="width: 673px;">
+<tbody>
+<tr>
+<td style="width: 170px;"><span style="color: #000000;"><img src="/images/English.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/english/">English</a></span></p>
+</td>
+<td style="width: 168px;"><span style="color: #000000;"><img src="/images/Maths.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/mathematics/">Mathematics</a></span></p>
+</td>
+<td style="width: 169px;"><span style="color: #000000;"><img src="/images/Science.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/science/">Science</a></span></p>
+</td>
+<td style="width: 166px;"><span style="color: #000000;"><img src="/images/MTL.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/mother-tongue/">Mother Tongue Language</a></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170px;"><span style="color: #000000;"><img src="/images/PHE.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/physical-and-health-education/">Physical &amp; Health Education</a></span></p>
+</td>
+<td style="width: 168px;"><span style="color: #000000;"><img src="/images/Aesthetics.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/aesthetics/">Aesthetics</a></span></p>
+</td>
+<td style="width: 169px;"><span style="color: #000000;"><img src="/images/SM.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/student-management/">Student Management</a></span></p>
+</td>
+<td style="width: 166px;"><span style="color: #000000;"><img src="/images/CCE.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/cce/">Character &amp; Citizenship Education</a></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 170px;"><span style="color: #000000;"><img src="/images/Educational Support1.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/educational-support/">Educational Support</a></span></p>
+</td>
+<td style="width: 168px;"><span style="color: #000000;"><img src="/images/ICT.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/information-communication-technology/">Information &amp; Communication Technology</a></span></p>
+</td>
+<td style="width: 169px;"><span style="color: #000000;"><img src="/images/Sexuality Education1.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/sexuality-education/">Sexuality Education</a></span></p>
+</td>
+<td style="width: 166px;"><span style="color: #000000;"><img src="/images/Our Staff.ico" /></span>
+<p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/cca/clubs-and-societies/">Co-Curricular Activities</a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
