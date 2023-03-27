@@ -41,10 +41,10 @@ description: ""
 <td style="width: 168px;"><span style="color: #000000;"><img src="/images/ICT.ico" /></span>
 <p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/information-communication-technology/">Information &amp; Communication Technology</a></span></p>
 </td>
-<td style="width: 169px;"><span style="color: #000000;"><img src="/images/Sexuality Education1.ico" /></span>
+<td style="width: 169px;"><span style="color: #000000;"><img src="/images/Sexuality Educcation.ico" /></span>
 <p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/sexuality-education/">Sexuality Education</a></span></p>
 </td>
-<td style="width: 166px;"><span style="color: #000000;"><img src="/images/Our Staff.ico" /></span>
+<td style="width: 166px;"><span style="color: #000000;"><img src="/images/CCA.ico" /></span>
 <p align="center"><span style="color: #000000;"><a style="color: #000000;" href="https://staging.d2w6f17b52epdm.amplifyapp.com/our-curriculum/cca/clubs-and-societies/">Co-Curricular Activities</a></span></p>
 </td>
 </tr>
