@@ -22,7 +22,7 @@ third_nav_title: Parents
 <p><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/forms/Alumni_Form.pdf"><strong>Alumni Application Form</strong></a></span></p>
 </td>
 <td style="text-align: center;" width="206">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://form.gov.sg/62ccd02bc4c917001335b51d"><strong>School Waiting List Form</strong></a></span></p>
+<p><span style="color: #000000;"><a style="color: #000000;" href="https://form.gov.sg/62ccd02bc4c917001335b51d"><strong>School Waiting List Application Form</strong></a></span></p>
 </td>
 <td style="text-align: center;" width="156">
 <p>&nbsp;</p>
