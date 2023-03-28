@@ -50,7 +50,7 @@ third_nav_title: Our Staff
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">3B1</span></strong></td>
 <td width="295"><strong><span style="font-style: inherit;">Mdm Chew Si Min</span></strong></td>
-<td width="349"><strong><span style="font-style: inherit;">chew_si_min@moe.edu.sg</span></strong></td>
+<td width="349"><strong><span style="font-style: inherit;">chew_si_min_a@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">3B2</span></strong></td>
