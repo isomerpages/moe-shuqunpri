@@ -15,7 +15,7 @@ description: ""
 </ol>
 <h4><strong>Privacy Policy</strong></h4>
 <ol>
-<li>Click here to review this website <a href="https://www.gov.sg/privacy-statement">Privacy Statement</a>.</li>
+<li>Click here to review this website <a href="https://shuqunpri.moe.edu.sg/privacy/" target="_blank">Privacy Statement</a>.</li>
 </ol>
 <h4><strong>Restrictions on Use of Materials</strong></h4>
 <ol>
