@@ -29,10 +29,6 @@ third_nav_title: Parents
 <h4><strong>IMDA&rsquo;s NEU PC Plus Programme</strong></h4>
 <p>The NEU PC Plus Programme provide students from low-income households the opportunity to own a&nbsp;<strong>subsidised PC-Bundle</strong>&nbsp;(i.e. computer with 3 years free broadband), to support their learning needs.</p>
 <p>For more information, please click <a href="http://www.imda.gov.sg/neupc" target="_blank">here</a>.</p>
-<p>Students who wish to apply for the scheme can obtain the application form from the school, or download a copy of the following forms:</p>
-<ul>
-<li><a href="https://moe-shuqunpri-staging.netlify.app/files/forms/Application-Form-for-MOE-SPED-FAS-v5-April-2020.pdf" target="_blank">Application Form for MOE-SPED FAS</a></li>
-<li><a href="https://moe-shuqunpri-staging.netlify.app/files/forms/PC_Bundle-Application-Form-v12-April-2020.pdf" target="_blank">PC_Bundle Application Form</a></li>
-</ul>
+
 <p>For those who need&nbsp;<strong>only broadband</strong>, they can apply under Home Access 3.0 programme.</p>
 <p>For details on the programme, please click <a href="https://www.digitalaccess.gov.sg" target="_blank">here</a>.</p>
