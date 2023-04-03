@@ -10,8 +10,8 @@ sections:
       background: /images/banner1.gif
       key_highlights:
         - title: News & Announcements
-          description: 2022 WE-STories Publication
-          url: https://online.fliphtml5.com/obrr/qkde/#p=4
+          description: M.A.D Day & Book Fiesta
+          url: ""
         - title: Calendar of Events
           description: "2023"
           url: https://shuqunpri.moe.edu.sg/calendar-of-events/
