@@ -33,5 +33,5 @@ third_nav_title: Parents
 <p>For those who need&nbsp;<strong>only broadband</strong>, they can apply under Home Access 3.0 programme.</p>
 <p>For details on the programme, please click <a href="https://www.digitalaccess.gov.sg" target="_blank">here</a>.</p>
 
-<h4><span style="color: #000000;"><strong>Primary 1 Registration Exercise 2023</strong></span></h4>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 1 Registration Exercise 2023</span></strong></h3>
 <p>For more information, please click <a target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">here</a>.</p>
