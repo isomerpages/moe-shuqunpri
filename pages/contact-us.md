@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: Shuqun Primary School
 locations:
   - address:
       - 8 Jurong West St 51
@@ -17,4 +17,10 @@ locations:
       width="600" height="450" style="border:0;" allowfullscreen=""
       loading="lazy"></iframe>
     title: Address
+contacts:
+  - content:
+      - phone: +65 6563 7129
+      - email: sqps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
 ---
