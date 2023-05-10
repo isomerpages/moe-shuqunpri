@@ -4,7 +4,7 @@ permalink: /our-partners/service-providers/school-dental-clinic/
 description: ""
 third_nav_title: Service Providers
 ---
-<h3><span style="color: #800000;">Dental Clinic @ Shuqun Primary School</span></h3>
+<h3><strong><span style="color: #800000;">Dental Clinic @ Shuqun Primary School</span></strong></h3>
 <p><span style="color: #000000;"><strong>Dental Therapist from HPB: Ms Suhaila Mohd Isa</strong></span></p>
 <p><span style="color: #000000;"><strong>Contact Number: 91156107</strong></span></p>
 <p><span style="color: #000000;"><strong>OPENING DAYS:</strong></span></p>
