@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Service Providers/.keep
       - Our Partners.md
       - Parents/.keep
       - Parents/Information for Parents.md
