@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Service Providers/.keep
       - Our Partners.md
       - Parents/.keep
       - Parents/Information for Parents.md
@@ -13,3 +12,4 @@ collections:
       - Overseas Partner Schools.md
       - Community.md
       - Student Care Centre.md
+      - Service Providers/.keep
