@@ -192,3 +192,5 @@ description: ""
   page;mso-element-anchor-horizontal:page;mso-element-left:35.3pt;mso-element-top:
   34.55pt;mso-height-rule:exactly"><span style="font-size:12.0pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"><a href="sqscc@nascans.com" target="_blank"><span style="color:windowtext">sqscc@nascans.com</span></a></span></p></td></tr></tbody></table>
+
+![](/images/SSC.jpg)
