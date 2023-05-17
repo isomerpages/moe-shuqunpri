@@ -9,7 +9,6 @@ description: ""
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>SQPS Homework Clinic</strong></span></h4>
 
 ![](/images/Alumni003.jpg)
-
 <p style="text-align: justify;"><span style="color: #000000;">For more information or to join our Homework Clinic as a student mentor, do contact Level Head for Mathematics, Mdm Suma Sukanya Mohan at <a href="mailto:suma_sukanya_mohan@moe.edu.sg" style="color: #000000;">suma_sukanya_mohan@moe.edu.sg</a> or Subject Head for Partnership, Mdm Nur Amira at <a href="mailto:nur_amira_aminnudin@moe.edu.sg" style="color: #000000;">nur_amira_aminnudin@moe.edu.sg</a>.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">To find out more about Shuqun Youth Alumni, you may head to the microsite <a target="_blank" href="https://sites.google.com/moe.edu.sg/shuqun-alumni/">here</a>.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">If you are interested to be part of the Shuqun Youth Alumni, you may click <a target="_blank" href="https://bit.ly/Shuqun-youth-alumni">here</a>&nbsp;to be redirected to the interest form.</span></p>
@@ -17,7 +16,7 @@ description: ""
 <p style="text-align: justify;"><span style="color: #000000;">Our Seh-Chuan Shuqun Alumni Association was launched during our 83rd Anniversary in 2005. This association is for members aged 21 years old and above. Members pay a one-time subscription of $20.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Alumni members are cordially invited to give motivational or career talks. We also welcome you to be a sponsor for events or join us in TDD or any school programmes.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Do you miss the times you had in Shuqun Primary School? Do you miss the teachers who had given you your favourite Children’s Day gifts? Or do you miss catching up with friends who had gone separate ways after PSLE?</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">Come, join the Seh-Chuan Shuqun Alumni Association. Download the registration form <a href="https://moe-shuqunpri-staging.netlify.app/files/Alumni_Form.pdf">here</a> and submit the completed form to the General Office.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Come, join the Seh-Chuan Shuqun Alumni Association. Download the registration form <a href="https://moe-shuqunpri-staging.netlify.app/files/forms/Alumni_Form.pdf">here</a> and submit the completed form to the General Office.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">For more information, feel free to contact alumni secretary, Ms Zeng Yingxu at <a href="mailto:zeng_yingxu@moe.edu.sg" style="color: #000000;">zeng_yingxu@moe.edu.sg</a> or tel: 65637129.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Seh-Chuan Shuqun Alumni Association&nbsp;Exco Members:</strong></span></h4>
 <table width="454">
