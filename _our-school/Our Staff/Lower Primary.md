@@ -89,8 +89,8 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>P1</strong></td>
-<td style="width: 285.844px;"><strong>Ms Guok Hong Sing Janet</strong></td>
-<td style="width: 319.266px;"><strong>koh_hong_sing@moe.edu.sg</strong></td>
+<td style="width: 285.844px;"><strong>Mdm Aishah Binte Safari</strong></td>
+<td style="width: 319.266px;"><strong>Nur_Aishah_Safari@moe.edu.sg</strong></td>
 </tr>
 </tbody>
 </table>
