@@ -87,11 +87,6 @@ third_nav_title: Our Staff
 <td style="width: 285.844px;"><strong>Mrs Tia Lay Kuan</strong></td>
 <td style="width: 319.266px;"><strong>ng_lay_kuan@moe.edu.sg</strong></td>
 </tr>
-<tr>
-<td style="width: 40.8906px;"><strong>P1</strong></td>
-<td style="width: 285.844px;"><strong>Mdm Aishah Binte Safari</strong></td>
-<td style="width: 319.266px;"><strong>Nur_Aishah_Safari@moe.edu.sg</strong></td>
-</tr>
 </tbody>
 </table>
 <h3><strong><span style="color: #800000;">Primary 2</span></strong></h3>
