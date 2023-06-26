@@ -149,11 +149,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Lau Hong Lay Karen</span></strong></td>
-<td width="349"><strong><span style="font-style: inherit;">lau_hong_lay@moe.edu.sg</span></strong></td>
-</tr>
-<tr>
-<td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
 <td width="295"><strong><span style="font-style: inherit;">Mdm Anisah Banu</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">anisah_banu_abdul_razack@moe.edu.sg</span></strong></td>
 </tr>
@@ -161,6 +156,11 @@ third_nav_title: Our Staff
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
 <td width="295"><strong><span style="font-style: inherit;">Mdm Tan Siow Cheng</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">tan_siow_cheng@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
+<td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Mdm Chick Yuet Fun Grace</span></strong></td>
+<td width="349"><strong><span style="font-style: inherit;">@moe.edu.sg</span></strong></td>
 </tr>
 </tbody>
 </table>
