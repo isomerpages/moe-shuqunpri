@@ -23,6 +23,11 @@ third_nav_title: Our Staff
 <td style="width: 237.766px;"><strong>cheng_gek_shan@moe.edu.sg</strong></td>
 </tr>
 <tr>
+<td style="width: 40.8906px;"><strong>Special Educational Needs Officer</strong></td>
+<td style="width: 285.844px;"><strong>Mdm Aishah Binte Safari</strong></td>
+<td style="width: 319.266px;"><strong>Nur_Aishah_Safari@moe.edu.sg</strong></td>
+</tr>
+<tr>
 <td style="width: 189.453px;"><strong>Allied Educator T&amp;L</strong></td>
 <td style="width: 236.781px;"><strong>Mdm Juriani Bte Saini</strong></td>
 <td style="width: 237.766px;"><strong>juriani_saini@moe.edu.sg</strong></td>
