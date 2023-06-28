@@ -160,7 +160,7 @@ third_nav_title: Our Staff
 <tr>
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
 <td width="295"><strong><span style="font-style: inherit;">Mdm Chick Yuet Fun Grace</span></strong></td>
-<td width="349"><strong><span style="font-style: inherit;">@moe.edu.sg</span></strong></td>
+<td width="349"><strong><span style="font-style: inherit;">chick_yuet_fun@moe.edu.sg</span></strong></td>
 </tr>
 </tbody>
 </table>
