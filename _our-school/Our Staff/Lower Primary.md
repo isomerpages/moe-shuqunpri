@@ -87,11 +87,6 @@ third_nav_title: Our Staff
 <td style="width: 285.844px;"><strong>Mrs Tia Lay Kuan</strong></td>
 <td style="width: 319.266px;"><strong>ng_lay_kuan@moe.edu.sg</strong></td>
 </tr>
-<tr>
-<td style="width: 40.8906px;"><strong>P1</strong></td>
-<td style="width: 285.844px;"><strong>Ms Guok Hong Sing Janet</strong></td>
-<td style="width: 319.266px;"><strong>koh_hong_sing@moe.edu.sg</strong></td>
-</tr>
 </tbody>
 </table>
 <h3><strong><span style="color: #800000;">Primary 2</span></strong></h3>
@@ -169,18 +164,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td style="width: 46.0781px;"><strong>2C2</strong></td>
-<td style="width: 264.422px;"><strong>Ms Chia Sing Yi</strong></td>
-<td style="width: 310.5px;"><strong>chia_sing_yi@moe.edu.sg</strong></td>
-</tr>
-<tr>
-<td style="width: 40.8906px;"><strong>P2</strong></td>
-<td style="width: 309.703px;"><strong>Mr Fong Kah Onn Michael</strong></td>
-<td style="width: 317.406px;"><strong>fong_kah_onn_michael@moe.edu.sg</strong></td>
+<td style="width: 264.422px;"><strong>Ms Chew Huoy Ling Serene</strong></td>
+<td style="width: 310.5px;"><strong>chew_huoy_ling_serene@moe.edu.sg</strong></td>
 </tr>
 <tr>
 <td style="width: 40.8906px;"><strong>P2</strong></td>
 <td style="width: 309.703px;"><strong>Mdm Jovene Png Kim Yen</strong></td>
 <td style="width: 317.406px;"><strong>png_kim_yen_a@moe.edu.sg</strong></td>
+</tr>
+<tr>
+<td style="width: 40.8906px;"><strong>P2</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Ng Chien Nee</strong></td>
+<td style="width: 317.406px;"><strong>ng_chien_nee@moe.edu.sg</strong></td>
 </tr>
 </tbody>
 </table>

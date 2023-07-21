@@ -43,6 +43,11 @@ third_nav_title: Our Staff
 <td style="width: 330.219px;"><strong><span style="font-style: inherit;">wang_qun@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
+<td width="49"><strong><span style="font-style: inherit;">5B1</span></strong></td>
+<td width="295"><strong><span style="font-style: inherit;">Ms Lau Hong Lay Karen</span></strong></td>
+<td width="349"><strong><span style="font-style: inherit;">lau_hong_lay@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
 <td style="width: 46.2031px;"><strong><span style="font-style: inherit;">5B2</span></strong></td>
 <td style="width: 264.578px;"><strong><span style="font-style: inherit;">Ms Nahiddah Bte Abdul Rahman</span></strong></td>
 <td style="width: 330.219px;"><strong><span style="font-style: inherit;">nahiddah_abdul_rahman@moe.edu.sg</span></strong></td>

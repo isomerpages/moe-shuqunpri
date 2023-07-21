@@ -53,6 +53,10 @@ third_nav_title: Our Staff
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Zainab Bte Sjawaltul Abidin</span></strong></td>
 <td style="width: 365.484px;"><strong><span style="color: #000000;">zainab_sjawaltul_abidin@moe.edu.sg</span></strong></td>
 </tr>
+<tr><td style="width: 142.391px;"><strong><span style="color: #000000;">Corporate Support Officer</span></strong></td>
+<td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Chan Ching Yuen</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">chan_ching_yuen@moe.edu.sg</span></strong></td>
+</tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Chithra d/o Arjunan</span></strong></td>
