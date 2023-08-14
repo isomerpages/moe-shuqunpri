@@ -7,24 +7,24 @@ third_nav_title: Parents
 <table width="651">
 <tbody>
 <tr>
-<td style="text-align: center;" width="280">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://form.gov.sg/61a5753de6d4250013fdef77"><strong>Parent Support Group Application Form</strong></a></span></p>
+<td width="280" style="text-align: center;">
+<p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/61a5753de6d4250013fdef77" style="color: #000000;"><strong>Parent Support Group Application Form</strong></a></span></p>
 </td>
-<td style="text-align: center;" width="206">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/forms/Parent-VolunteerApplication-Letter.pdf"><strong>Parent Volunteer Application Form</strong></a></span></p>
+<td width="206" style="text-align: center;">
+<p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/64d596987c3c4600110ed7d7" style="color: #000000;"><strong>Parent Volunteer Application Form</strong></a></span></p>
 </td>
-<td style="text-align: center;" width="156">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/forms/GIRO_Form.pdf"><strong>Giro Application Form</strong></a></span></p>
+<td width="156" style="text-align: center;">
+<p><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/forms/GIRO_Form.pdf" style="color: #000000;"><strong>Giro Application Form</strong></a></span></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="280">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/forms/Alumni_Form.pdf"><strong>Alumni Application Form</strong></a></span></p>
+<td width="280" style="text-align: center;">
+<p><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/forms/Alumni_Form.pdf" style="color: #000000;"><strong>Alumni Application Form</strong></a></span></p>
 </td>
-<td style="text-align: center;" width="206">
-<p><span style="color: #000000;"><a style="color: #000000;" href="https://form.gov.sg/62ccd02bc4c917001335b51d"><strong>School Waiting List Application Form</strong></a></span></p>
+<td width="206" style="text-align: center;">
+<p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/62ccd02bc4c917001335b51d" style="color: #000000;"><strong>School Waiting List Application Form</strong></a></span></p>
 </td>
-<td style="text-align: center;" width="156">
+<td width="156" style="text-align: center;">
 <p>&nbsp;</p>
 </td>
 </tr>
