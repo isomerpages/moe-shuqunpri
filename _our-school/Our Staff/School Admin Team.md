@@ -80,32 +80,32 @@ third_nav_title: Our Staff
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Support Officer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Wong Kok Fah&nbsp;</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">sqps@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Desktop Engineer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Aminurrashid Bin Ramli</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">Aminurrashid.bin.ramli@ncs.com.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Desktop Engineer&nbsp;</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Tony Rajesh Kumar</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">tonyrk@ncs.com.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Teacher Aide</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Aida Binte Wan Muhammad</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">Aida_Wan_Muhammad@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Teacher Aide</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Safiah Binte Hashim</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">safiah_hashim@moe.edu.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 <tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">Librarian</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mdm Saraswathy Lachmanan</span></strong></td>
-<td style="width: 365.484px;"><strong><span style="color: #000000;">saraswathy.lachmanan@staff.spydus.com.sg</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">-</span></strong></td>
 </tr>
 </tbody>
 </table>
