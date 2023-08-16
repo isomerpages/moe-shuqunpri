@@ -143,11 +143,6 @@ third_nav_title: Our Staff
 <td width="349"><strong><span style="font-style: inherit;">lee_guat_peng@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
-<td width="49"><strong><span style="font-style: inherit;">4B2</span></strong></td>
-<td width="295"><strong><span style="font-style: inherit;">Ms Chiew Wen Hui</span></strong></td>
-<td width="349"><strong><span style="font-style: inherit;">chiew_wen_hui@moe.edu.sg</span></strong></td>
-</tr>
-<tr>
 <td width="49"><strong><span style="font-style: inherit;">P4</span></strong></td>
 <td width="295"><strong><span style="font-style: inherit;">Mdm Anisah Banu</span></strong></td>
 <td width="349"><strong><span style="font-style: inherit;">anisah_banu_abdul_razack@moe.edu.sg</span></strong></td>
