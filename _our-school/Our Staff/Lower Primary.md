@@ -158,6 +158,11 @@ third_nav_title: Our Staff
 <td style="width: 317.406px;"><strong>nur_syafiqah_abdul_rahim@moe.edu.sg</strong></td>
 </tr>
 <tr>
+<td style="width: 40.8906px;"><strong>2C1</strong></td>
+<td style="width: 309.703px;"><strong>Mdm Lee Chiak Ling</strong></td>
+<td style="width: 317.406px;"><strong>lee_chiak_ling@moe.edu.sg</strong></td>
+</tr>
+<tr>
 <td style="width: 40.8906px;"><strong>2C2</strong></td>
 <td style="width: 309.703px;"><strong>Mdm Nur Azrin Bte Mahadi</strong></td>
 <td style="width: 317.406px;"><strong>nur_azrin_mahadi@moe.edu.sg</strong></td>
