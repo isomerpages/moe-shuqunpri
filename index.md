@@ -10,7 +10,7 @@ sections:
       background: /images/banner1.gif
       key_highlights:
         - title: News & Announcements
-          description: M.A.D Day & Book Fiesta
+          description: Teachers' Day
           url: ""
         - title: Calendar of Events
           description: "2023"
