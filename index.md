@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: Teachers' Day
-          url: https://www.shuqunpri.moe.edu.sg/news-announcements/
+          url: /news-announcements/
         - title: Calendar of Events
           description: "2023"
           url: https://shuqunpri.moe.edu.sg/calendar-of-events/
