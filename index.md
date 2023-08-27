@@ -10,8 +10,8 @@ sections:
       background: /images/banner1.gif
       key_highlights:
         - title: News & Announcements
-          description: M.A.D Day & Book Fiesta
-          url: ""
+          description: Teachers' Day
+          url: /news-announcements/
         - title: Calendar of Events
           description: "2023"
           url: https://shuqunpri.moe.edu.sg/calendar-of-events/

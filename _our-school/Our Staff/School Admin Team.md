@@ -28,6 +28,11 @@ third_nav_title: Our Staff
 <td style="width: 365.484px;"><strong><span style="color: #000000;">teo_chin_choon@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
+<td style="width: 142.391px;"><strong><span style="color: #000000;">Operations Manager</span></strong></td>
+<td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Amir Hamzah Bin Yusof</span></strong></td>
+<td style="width: 365.484px;"><strong><span style="color: #000000;">amir_hamzah_yusof@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
 <td style="width: 142.391px;"><strong><span style="color: #000000;">ICT Manager</span></strong></td>
 <td style="width: 241.125px;"><strong><span style="color: #000000;">Mr Ravi Kumar Subramaniam</span></strong></td>
 <td style="width: 365.484px;"><strong><span style="color: #000000;">ravi_kumar_subramaniam@moe.edu.sg</span></strong></td>
