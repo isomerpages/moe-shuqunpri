@@ -29,7 +29,7 @@ description: ""
 <p><span style="color: #000000;">Tel:</span></p>
 </td>
 <td width="401">
-<p><span style="color: #000000;">6278 0288</span></p>
+<p><span style="color: #000000;">6252 8656</span></p>
 </td>
 </tr>
 <tr>
