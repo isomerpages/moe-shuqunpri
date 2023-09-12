@@ -30,7 +30,7 @@ third_nav_title: Parents
 </tr>
 <tr>
 <td style="text-align: center;" width="170">
-<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/sqps-p1-e-orientation/home">P1 Orientation</a></span></strong></p>
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/welcome-to-sqps/home">P1 Orientation</a></span></strong></p>
 </td>
 <td style="text-align: center;" width="274">
 <p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://sites.google.com/moe.edu.sg/shuqun-primary-presentations/home">Parents Engagement</a></span></strong></p>
