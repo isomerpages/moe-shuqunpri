@@ -68,6 +68,11 @@ description: ""
 <td style="width: 329.75px;"><strong><span style="color: #000000;">muhammad_fairus_adam@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
+<td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (ML)</span></strong></td>
+<td style="width: 224.328px;"><strong><span style="color: #000000;">Ms Nur Haziqah Binte Zamhari</span></strong></td>
+<td style="width: 329.75px;"><strong><span style="color: #000000;">nur_haziqah_zamhari@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
 <td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (TL)</span></strong></td>
 <td style="width: 224.328px;"><strong><span style="color: #000000;">Ms Shunmugamathi D/O Senthil Nathan</span></strong></td>
 <td style="width: 329.75px;"><strong><span style="color: #000000;">Shunmugamathi_Senthil_Nathan@moe.edu.sg</span></strong></td>
