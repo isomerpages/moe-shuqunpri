@@ -63,6 +63,11 @@ description: ""
 <td style="width: 329.75px;"><strong><span style="color: #000000;">Yu_Boon_Ying@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
+<td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (EL)</span></strong></td>
+<td style="width: 224.328px;"><strong><span style="color: #000000;">Ms Natalya Bernadette Bolton</span></strong></td>
+<td style="width: 329.75px;"><strong><span style="color: #000000;">@moe.edu.sg</span></strong></td>
+</tr>
+<tr>
 <td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (ML)</span></strong></td>
 <td style="width: 224.328px;"><strong><span style="color: #000000;">Mr Muhammad Fairus Bin Adam</span></strong></td>
 <td style="width: 329.75px;"><strong><span style="color: #000000;">muhammad_fairus_adam@moe.edu.sg</span></strong></td>
