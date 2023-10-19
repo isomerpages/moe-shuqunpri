@@ -65,7 +65,7 @@ description: ""
 <tr>
 <td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (EL)</span></strong></td>
 <td style="width: 224.328px;"><strong><span style="color: #000000;">Ms Natalya Bernadette Bolton</span></strong></td>
-<td style="width: 329.75px;"><strong><span style="color: #000000;">@moe.edu.sg</span></strong></td>
+<td style="width: 329.75px;"><strong><span style="color: #000000;">natalya_bernadette_bolton@moe.edu.sg</span></strong></td>
 </tr>
 <tr>
 <td style="width: 110.922px;"><strong><span style="color: #000000;">Teacher (ML)</span></strong></td>
