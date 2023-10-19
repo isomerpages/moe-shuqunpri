@@ -4,7 +4,7 @@ permalink: /our-partners/service-providers/
 description: ""
 ---
 <h4><span style="color: #000000;"><strong>Bookshop Vendor</strong></span></h4>
-<p><span style="color: #000000;">Pacific Bookstores Pte Ltd</span><br><span style="color: #000000;">Contact Person: Ms. Amanda </span><br><span style="color: #000000;">Contact Number: 64252260</span><br><span style="color: #000000;">Email: <a style="color: #000000;" href="mailto:sqps@pacificbookstores.com" target="_blank">sqps@pacificbookstores.com</a></span></p>
+<p><span style="color: #000000;">Pacific Bookstores Pte Ltd</span><br><span style="color: #000000;">Contact Person: Ms. Amanda </span><br><span style="color: #000000;">Contact Number: 90481360</span><br><span style="color: #000000;">Email: <a style="color: #000000;" href="mailto:sqps@pacificbookstores.com" target="_blank">sqps@pacificbookstores.com</a></span></p>
 <h4><span style="color: #000000;"><strong>School Bus Vendor</strong></span></h4>
 <p><span style="color: #000000;">Beng Tat Transport Service</span><br><span style="color: #000000;">Contact Person: Ms Sharon</span><br><span style="color: #000000;">Contact Number: 98795348</span><br><span style="color: #000000;">Email: <a style="color: #000000;" href="mailto:sharon@bengtatbus.com" target="_blank">sharon@bengtatbus.com</a></span></p>
 
