@@ -23,6 +23,11 @@ third_nav_title: Our Staff
 <td width="307"><strong>sqps@moe.edu.sg&nbsp;</strong></td>
 </tr>
 <tr>
+<td width="223"><strong>Vice Principal (Curriculum)</strong></td>
+<td width="241"><strong>Mdm So Kah Lay&nbsp;</strong></td>
+<td width="307"><strong>sqps@moe.edu.sg&nbsp;</strong></td>
+</tr>
+<tr>
 <td width="223"><strong>Vice Principal (Administration)</strong></td>
 <td width="241"><strong>Ms Angela Lee</strong></td>
 <td width="307"><strong>sqps@moe.edu.sg</strong></td>
