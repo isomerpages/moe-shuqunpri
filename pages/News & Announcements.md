@@ -14,3 +14,5 @@ variant: markdown
 <h4><span style="color: #000000;">Primary 5 Booklist (Foundation)</span></h4>
 <h4><span style="color: #000000;">Primary 6 Booklist</span></h4>
 <h4><span style="color: #000000;">Primary 6 Booklist (Foundation)</span></h4>
+
+[](/files/Booklist%202024/SQPS_2024_P1_BOOKLIST.pdf)Primary
