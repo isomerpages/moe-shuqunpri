@@ -10,7 +10,7 @@ sections:
       background: /images/banner1.gif
       key_highlights:
         - title: News & Announcements
-          description: Teachers' Day
+          description: SQPS 2024 Booklist
           url: /news-announcements/
         - title: Calendar of Events
           description: "2023"
@@ -18,4 +18,5 @@ sections:
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
+      variant: center
 ---
