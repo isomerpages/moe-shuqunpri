@@ -2,7 +2,15 @@
 title: News & Announcements
 permalink: /news-announcements/
 description: ""
+variant: markdown
 ---
-<h3><strong><span style="color: #800000;">Teachers’ Day</span></strong></h3>
+<h3><strong><span style="color: #800000;">SQPS 2024 Booklist</span></strong></h3>
 
-<p><span style="color: #000000;">Former students may visit their teachers on 31st Aug 2023 from 11.30 a.m. to 12.30 p.m.</span></p>
+<h4><span style="color: #000000;">Primary 1 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 2 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 3 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 4 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 5 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 5 Booklist (Foundation)</span></h4>
+<h4><span style="color: #000000;">Primary 6 Booklist</span></h4>
+<h4><span style="color: #000000;">Primary 6 Booklist (Foundation)</span></h4>
