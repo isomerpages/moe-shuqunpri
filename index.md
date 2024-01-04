@@ -13,7 +13,7 @@ sections:
           description: SQPS 2024 Booklist
           url: /news-announcements/
         - title: Calendar of Events
-          description: "2023"
+          description: "2024"
           url: https://shuqunpri.moe.edu.sg/calendar-of-events/
         - title: Useful Links
           description: For students, teachers and parents
