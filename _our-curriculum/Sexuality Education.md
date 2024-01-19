@@ -36,7 +36,7 @@ variant: markdown
 
 ![](/images/P5.jpg)
 
-<h4 style="text-align: justify;"><span style="color: #000000;">Primary 6</span></h4>
+<h4 style="text-align: justify;"><span style="color: #000000;"><strong>Primary 6</strong></span></h4>
 
 ![](/images/P6.jpg)
 
