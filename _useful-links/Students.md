@@ -2,6 +2,7 @@
 title: Students
 permalink: /useful-links/students/
 description: ""
+variant: markdown
 ---
 <table style="height: 292px;" width="623">
 <tbody>
@@ -11,8 +12,7 @@ description: ""
 </td>
 <td style="text-align: center; height: 82px; width: 181.891px;">
 <p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://workspace.google.com/dashboard" target="_blank">Student iCon</a></strong></span></p>
-</td>
-<td style="text-align: center; height: 82px; width: 218.922px;">
+</td><td style="text-align: center; height: 82px; width: 218.922px;">
 <p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a></strong></span></p>
 </td>
 </tr>
@@ -51,3 +51,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+zz	
