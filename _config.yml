@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2w6f17b52epdm.amplifyapp.com/
 prod: https://master.d2w6f17b52epdm.amplifyapp.com/
-is_government: false
+is_government: true
 resources_name: pdf
 shareicon: /images/isomer-logo.svg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
