@@ -39,7 +39,7 @@ variant: markdown
 <h4 style="text-align: justify;"><span style="color: #000000;">Primary 6</span></h4>
 
 ![](/images/P6.jpg)
-<p style="margin: 0cm; text-align: justify;">&nbsp;</p>
+
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Information for Parents</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable from the website <a target="_blank" href="https://form.gov.sg/603886dcca08d10011c2b231" style="color: #0000ff;">here</a>.</span></p>
