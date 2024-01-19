@@ -33,11 +33,12 @@ variant: markdown
 <p style="text-align: justify;"><span style="color: #000000;">7. SEd lessons are taught during CCE FTGP lessons at Primary 5 and 6. This programme aims to help our students develop positive self-identities and healthy relationships and make responsible decisions on sexuality matters.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>At Shuqun Primary School, the following Sexuality Education lessons will be taught in 2024:</strong></span></h4>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Primary 5</strong></span></h4>
+
 ![](/images/P5.jpg)
 
 <h4 style="text-align: justify;"><span style="color: #000000;">Primary 6</span></h4>
 
-<p>![](/images/SEd%20Pri6.jpg)</p>
+![](/images/P6.jpg)
 <p style="margin: 0cm; text-align: justify;">&nbsp;</p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Information for Parents</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</span></p>
