@@ -15,9 +15,10 @@ variant: markdown
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Malay-SBB-Briefing-Slides.pdf" target="_blank">Malay Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Tamil-SBB-Briefing-Slides.pdf" target="_blank">Tamil Language Sharing</a></strong></span></li>
 </ul>
+
 <p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-EL-Briefing-2023.pdf" target="_blank">PSLE English Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">PSLE English Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-MA-Briefing-2023.pdf" target="_blank">PSLE Mathematics Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-SC-Briefing-2023.pdf" target="_blank">PSLE Science Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-CL-Briefing-2023.pdf" target="_blank">PSLE Chinese Language Sharing</a></strong></span></li>
