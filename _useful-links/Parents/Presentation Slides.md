@@ -27,9 +27,9 @@ variant: markdown
 </ul>
 <p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 2</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 3</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 4</a></strong></span></li>	
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P2_OCR_for_parents.pdf" target="_blank">Primary 2</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P3_OCR_for_parents.pdf" target="_blank">Primary 3</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P4_OCR_for_parents.pdf" target="_blank">Primary 4</a></strong></span></li>	
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P5_OCR_for_parents.pdf" target="_blank">Primary 5</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="2024_P6_OCR_for_parents.pdf" target="_blank">Primary 6</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P6_OCR_for_parents.pdf" target="_blank">Primary 6</a></strong></span></li>
 </ul>
