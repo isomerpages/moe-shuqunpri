@@ -25,8 +25,11 @@ variant: markdown
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-ML-Briefing-2023.pdf" target="_blank">PSLE Malay Langauge Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-TL-Briefing-2023.pdf" target="_blank">PSLE Tamil Language Sharing</a></strong></span></li>
 </ul>
-<p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2023)</strong></span></p>
+<p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
 <ul>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 2</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 3</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P5-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 5</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 4</a></strong></span></li>	
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P3-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 5</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/P5-Open-Classroom-19-Jan-2023.pdf" target="_blank">Primary 6</a></strong></span></li>
 </ul>
