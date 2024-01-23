@@ -20,7 +20,7 @@ variant: markdown
 <ul>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">PSLE English Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" target="_blank">PSLE Mathematics Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-SC-Briefing-2023.pdf" target="_blank">PSLE Science Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" target="_blank">PSLE Science Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-CL-Briefing-2023.pdf" target="_blank">PSLE Chinese Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-ML-Briefing-2023.pdf" target="_blank">PSLE Malay Langauge Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/PSLE-TL-Briefing-2023.pdf" target="_blank">PSLE Tamil Language Sharing</a></strong></span></li>
