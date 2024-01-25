@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+<p><span style="color: #000000;"><strong>P4 SBB Briefing (202)</strong></span></p>
+<ul>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" target="_blank">English Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" target="_blank">Mathematics Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Science-SBB-Briefing-Slides.pdf" target="_blank">Science Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Chinese-SBB-Briefing-slides.pdf" target="_blank">Chinese Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Malay-SBB-Briefing-Slides.pdf" target="_blank">Malay Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2023-Tamil-SBB-Briefing-Slides.pdf" target="_blank">Tamil Language Sharing</a></strong></span></li>
+</ul>
+
 <p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
 <ul>
 <li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">PSLE English Language Sharing</a></strong></span></li>
