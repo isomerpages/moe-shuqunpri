@@ -23,17 +23,17 @@ variant: markdown
 
 <p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">PSLE English Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">English Language Sharing</a></strong></span></li>
 	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" target="_blank">PSLE Mathematics Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" target="_blank">Mathematics Sharing</a></strong></span></li>
 	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" target="_blank">PSLE Science Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" target="_blank">Science Sharing</a></strong></span></li>
 	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" target="_blank">PSLE Chinese Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" target="_blank">Chinese Language Sharing</a></strong></span></li>
 
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" target="_blank">PSLE Malay Langauge Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" target="_blank">Malay Langauge Sharing</a></strong></span></li>
 
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" target="_blank">PSLE Tamil Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" target="_blank">Tamil Language Sharing</a></strong></span></li>
 </ul>
 
 <p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
