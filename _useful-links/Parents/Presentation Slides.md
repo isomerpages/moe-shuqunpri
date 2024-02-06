@@ -7,44 +7,29 @@ variant: markdown
 ---
 <p><span style="color: #000000;"><strong>P4 SBB Briefing (2024)</strong></span></p>
 <ul>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" target="_blank">English Language Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" target="_blank">Mathematics Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/sGdTXrhXnA8?si=zYEZ81nCH3xc14ny" target="_blank">Science Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/qx0jaoe8PxM?si=E1RFOL8DzdTj-4JY" target="_blank">Chinese Language Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/XUDa1p1qLzY?si=OxpNKP16O492xrpW" target="_blank">Malay Language Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/0DVz2KGN598?si=PB7g4dokNguG2bZ_" target="_blank">Tamil Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/principal_s_sharing_on_sbb.pdf" style="color: #000000;"><strong>Principal's Sharing on SBB</strong></a></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" style="color: #000000;">English Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/sGdTXrhXnA8?si=zYEZ81nCH3xc14ny" style="color: #000000;">Science Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/qx0jaoe8PxM?si=E1RFOL8DzdTj-4JY" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/XUDa1p1qLzY?si=OxpNKP16O492xrpW" style="color: #000000;">Malay Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/0DVz2KGN598?si=PB7g4dokNguG2bZ_" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
 </ul>
-
 <p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/_8r6va4k9tg" target="_blank">English Language Sharing</a></strong></span></li>
-	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" target="_blank">Mathematics Sharing</a></strong></span></li>
-	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" target="_blank">Science Sharing</a></strong></span></li>
-	
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" target="_blank">Chinese Language Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" target="_blank">Malay Langauge Sharing</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" target="_blank">Tamil Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/principal_s_sharing_on_psle.pdf" style="color: #000000;"><strong>Principal's Sharing on PSLE</strong></a></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/_8r6va4k9tg" style="color: #000000;">English Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" style="color: #000000;">Science Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" style="color: #000000;">Malay Langauge Sharing</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
 </ul>
-
 <p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P2_OCR_for_parents.pdf" target="_blank">Primary 2</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P3_OCR_for_parents.pdf" target="_blank">Primary 3</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P4_OCR_for_parents.pdf" target="_blank">Primary 4</a></strong></span></li>	
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P5_OCR_for_parents.pdf" target="_blank">Primary 5</a></strong></span></li>
-
-<li><span style="color: #000000;"><strong><a style="color: #000000;" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P6_OCR_for_parents.pdf" target="_blank">Primary 6</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P2_OCR_for_parents.pdf" style="color: #000000;">Primary 2</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P3_OCR_for_parents.pdf" style="color: #000000;">Primary 3</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P4_OCR_for_parents.pdf" style="color: #000000;">Primary 4</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P5_OCR_for_parents.pdf" style="color: #000000;">Primary 5</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P6_OCR_for_parents.pdf" style="color: #000000;">Primary 6</a></strong></span></li>
 </ul>
