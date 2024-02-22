@@ -1,0 +1,12 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - Our MK@SQ.md
+      - About MK.md
+      - Curriculum.md
+      - Information for Parents.md
+      - Our Staff.md
+      - Our Partners.md
+      - Photo Gallery.md
+      - Contact Us.md

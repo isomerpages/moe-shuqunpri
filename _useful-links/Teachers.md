@@ -1,0 +1,42 @@
+---
+title: Teachers
+permalink: /useful-links/teachers/
+description: ""
+---
+<table width="624">
+<tbody>
+<tr>
+<td style="text-align: center;" width="214">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://intranet.moe.gov.sg/Pages/Home.aspx">MOE Intranet</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="200">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://workspace.google.com/dashboard">Teacher iCon</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="209">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a></span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="214">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://scmobile.moe.edu.sg/login">SC Mobile</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="200">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dprofile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DPZ2fBl6FjMSxAmmVIVvIWVShcR6vCi1u5CT0i6Grbs0%26code_challenge_method%3DS256%26nonce%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-">OPAL 2.0</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="209">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://rbs.avero-tech.com/login.html">Resource Booking Service (RBS)</a></span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="214">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://www.seab.gov.sg/">Singapore Examinations and Assessment Board (SEAB)</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="200">
+<p><strong><span style="color: #000000;"><a style="color: #000000;" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">MOE Identity Management System (MIMS)</a></span></strong></p>
+</td>
+<td style="text-align: center;" width="209">
+<p><strong><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://www.hrp.gov.sg/hrp/#/">Human Resource and Payroll (HRP)</a></span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>

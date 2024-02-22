@@ -1,0 +1,14 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Our Partners.md
+      - Parents/.keep
+      - Parents/Information for Parents.md
+      - Parents/Parent Support Group.md
+      - Parents/Parent Volunteer.md
+      - School Advisory Committee.md
+      - Alumni.md
+      - Overseas Partner Schools.md
+      - Community.md
+      - Service Providers.md

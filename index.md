@@ -1,0 +1,22 @@
+---
+layout: homepage
+title: Shuqun Primary School
+description: An Isomer site of the Singapore Government
+image: /images/isomer-logo.svg
+permalink: /
+notification: ""
+sections:
+  - hero:
+      background: /images/banner1.gif
+      key_highlights:
+        - title: News & Announcements
+          description: SQPS 2024 Booklist
+          url: /news-announcements/
+        - title: Calendar of Events
+          description: "2024"
+          url: https://shuqunpri.moe.edu.sg/calendar-of-events/
+        - title: Useful Links
+          description: For students, teachers and parents
+          url: /useful-links/students/
+      variant: center
+---

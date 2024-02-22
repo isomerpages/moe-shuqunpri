@@ -1,0 +1,93 @@
+logo: /images/logo.jpg
+links:
+  - title: Our School
+    url: /our-school/permalink
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message/
+      - title: Vision, Mission, Values
+        url: /our-school/vision-mission-values/
+      - title: School Information
+        url: /our-school/school-information/school-history/
+      - title: Our Staff
+        url: /our-school/our-staff/school-management-team/
+      - title: School Achievements
+        url: /our-school/school-achievements/2023/
+      - title: Contact Us
+        url: /our-school/contact-us/
+  - title: Our Curriculum
+    url: /our-curriculum/permalink/
+    sublinks:
+      - title: English
+        url: /our-curriculum/english/
+      - title: Mathematics
+        url: /our-curriculum/mathematics/
+      - title: Science
+        url: /our-curriculum/science/
+      - title: Mother Tongue Language
+        url: /our-curriculum/mother-tongue/
+      - title: Physical & Health Education
+        url: /our-curriculum/physical-and-health-education/
+      - title: Aesthetics
+        url: /our-curriculum/aesthetics/
+      - title: Student Management
+        url: /our-curriculum/student-management/
+      - title: CCE
+        url: /our-curriculum/cce/
+      - title: Educational Support
+        url: /our-curriculum/educational-support/
+      - title: ICT
+        url: /our-curriculum/information-communication-technology/
+      - title: Sexuality Education
+        url: /our-curriculum/sexuality-education/
+      - title: Co-Curricular Activities
+        url: /our-curriculum/cca/clubs-and-societies/
+  - title: Our Distinctive Programmes
+    url: /our-distinctive-programmes/permalink/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-distinctive-programmes/applied-learning-programme/
+      - title: Learning for Life Programme
+        url: /our-distinctive-programmes/learning-for-life-programme/
+      - title: Reading Culture Programme
+        url: /our-distinctive-programmes/reading-programme/
+      - title: Student Ambassador Programme
+        url: /our-distinctive-programmes/student-ambassador-programme/
+      - title: BizKids
+        url: /our-distinctive-programmes/bizkids/
+      - title: M.A.D Day & Stardust
+        url: /our-distinctive-programmes/mad-day-stardust/
+      - title: Positive Education
+        url: /our-distinctive-programmes/positive-education/
+  - title: Our Partners
+    url: /our-partners/permalink/
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents/information-for-parents/
+      - title: Community
+        url: /our-partners/community/
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
+      - title: Alumni
+        url: /our-partners/alumni/
+      - title: Overseas Partner Schools
+        url: /our-partners/overseas-partner-school/
+      - title: Service Providers
+        url: /our-partners/service-providers/
+  - title: Our MK@SQ
+    url: /moe-kindergarten/permalink/
+    sublinks:
+      - title: About MK
+        url: /moe-kindergarten/about-mk/
+      - title: Curriculum
+        url: /moe-kindergarten/curriculum/
+      - title: Information for Parents
+        url: /moe-kindergarten/information-for-parents/
+      - title: Our Partners
+        url: /moe-kindergarten/our-partners/
+      - title: Photo Gallery
+        url: /moe-kindergarten/facilities/
+      - title: Our Staff
+        url: /moe-kindergarten/our-staff/
+      - title: Contact Us
+        url: /moe-kindergarten/contact-us/
