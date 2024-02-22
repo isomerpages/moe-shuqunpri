@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><span style="color: #000000;"><strong>P4 SBB Briefing (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/principal_s_sharing_on_sbb.pdf" style="color: #000000;"><strong>Principal's Sharing on SBB</strong></a></span></li>
+<li><span style="color: #000000;"><a target="_blank" href="/files/slides/principal_s_sharing_on_sbb.pdf" style="color: #000000;"><strong>Principal's Sharing on SBB</strong></a></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" style="color: #000000;">English Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/sGdTXrhXnA8?si=zYEZ81nCH3xc14ny" style="color: #000000;">Science Sharing</a></strong></span></li>
@@ -17,7 +17,7 @@ variant: markdown
 </ul>
 <p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/principal_s_sharing_on_psle.pdf" style="color: #000000;"><strong>Principal's Sharing on PSLE</strong></a></span></li>
+<li><span style="color: #000000;"><a target="_blank" href="/files/slides/principal_s_sharing_on_psle.pdf" style="color: #000000;"><strong>Principal's Sharing on PSLE</strong></a></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/_8r6va4k9tg" style="color: #000000;">English Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" style="color: #000000;">Science Sharing</a></strong></span></li>
@@ -27,9 +27,9 @@ variant: markdown
 </ul>
 <p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
 <ul>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P2_OCR_for_parents.pdf" style="color: #000000;">Primary 2</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P3_OCR_for_parents.pdf" style="color: #000000;">Primary 3</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P4_OCR_for_parents.pdf" style="color: #000000;">Primary 4</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P5_OCR_for_parents.pdf" style="color: #000000;">Primary 5</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/2024_P6_OCR_for_parents.pdf" style="color: #000000;">Primary 6</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P2_OCR_for_parents.pdf" style="color: #000000;">Primary 2</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P3_OCR_for_parents.pdf" style="color: #000000;">Primary 3</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P4_OCR_for_parents.pdf" style="color: #000000;">Primary 4</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P5_OCR_for_parents.pdf" style="color: #000000;">Primary 5</a></strong></span></li>
+<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P6_OCR_for_parents.pdf" style="color: #000000;">Primary 6</a></strong></span></li>
 </ul>
