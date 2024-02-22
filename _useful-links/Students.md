@@ -22,15 +22,15 @@ variant: markdown
 <p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://vle.learning.moe.edu.sg/login" style="color: #000000;">Student Learning Space (SLS)</a></strong></span></p>
 </td>
 <td style="text-align: center; height: 82px; width: 196.703px;">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf" style="color: #000000;">Microsoft Office 365 ProPlus Student Guide</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/slides/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf" style="color: #000000;">Microsoft Office 365 ProPlus Student Guide</a></strong></span></p>
 </td>
 <td style="text-align: center; height: 82px; width: 211.234px;">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/SQPS-Student-iCON-Onboarding-Guide.pdf" style="color: #000000;">Student iCON Onboarding Guide</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/slides/SQPS-Student-iCON-Onboarding-Guide.pdf" style="color: #000000;">Student iCON Onboarding Guide</a></strong></span></p>
 </td>
 </tr>
 <tr style="height: 82px;">
 <td style="text-align: center; height: 82px; width: 222.062px;">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/slides/Recommended-Reading-Lists.pdf" style="color: #000000;">Recommended Reading Lists</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/slides/Recommended-Reading-Lists.pdf" style="color: #000000;">Recommended Reading Lists</a></strong></span></p>
 </td>
 <td style="text-align: center; height: 82px; width: 196.703px;">
 <p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" style="color: #000000;">School e-Resource Repository</a></strong></span></p>

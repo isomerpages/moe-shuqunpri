@@ -14,12 +14,12 @@ third_nav_title: Parents
 <p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/64d596987c3c4600110ed7d7" style="color: #000000;"><strong>Parent Volunteer Application Form</strong></a></span></p>
 </td>
 <td width="156" style="text-align: center;">
-<p><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/forms/GIRO_Form.pdf" style="color: #000000;"><strong>Giro Application Form</strong></a></span></p>
+<p><span style="color: #000000;"><a target="_blank" href="/files/forms/GIRO_Form.pdf" style="color: #000000;"><strong>Giro Application Form</strong></a></span></p>
 </td>
 </tr>
 <tr>
 <td width="280" style="text-align: center;">
-<p><span style="color: #000000;"><a target="_blank" href="https://moe-shuqunpri-staging.netlify.app/files/forms/Alumni_Form.pdf" style="color: #000000;"><strong>Alumni Application Form</strong></a></span></p>
+<p><span style="color: #000000;"><a target="_blank" href="/files/forms/Alumni_Form.pdf" style="color: #000000;"><strong>Alumni Application Form</strong></a></span></p>
 </td>
 <td width="206" style="text-align: center;">
 <p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/62ccd02bc4c917001335b51d" style="color: #000000;"><strong>School Waiting List Application Form</strong></a></span></p>
