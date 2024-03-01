@@ -2,6 +2,7 @@
 title: Information for Parents
 permalink: /moe-kindergarten/information-for-parents/
 description: ""
+variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Kindergarten Fees</span></strong></h3>
 
@@ -21,4 +22,4 @@ description: ""
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MK Forms</span></strong></h3>
 
-* [**MK Waiting List Application Form**](https://www.form.gov.sg/63dcd639dd51570011a2d87a)
+* [**MK Waiting List Application Form**](https://form.gov.sg/65e15f103c61c0ff3c4101e5)
