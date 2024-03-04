@@ -3,6 +3,7 @@ title: Forms
 permalink: /useful-links/parents/forms/permalink/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <table width="651">
 <tbody>
@@ -14,7 +15,7 @@ third_nav_title: Parents
 <p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/64d596987c3c4600110ed7d7" style="color: #000000;"><strong>Parent Volunteer Application Form</strong></a></span></p>
 </td>
 <td width="156" style="text-align: center;">
-<p><span style="color: #000000;"><a target="_blank" href="/files/forms/GIRO_Form.pdf" style="color: #000000;"><strong>Giro Application Form</strong></a></span></p>
+<p><span style="color: #000000;"><a target="_blank" href="/files/forms/GIRO_Form" style="color: #000000;"><strong>Giro Application Form</strong></a></span></p>
 </td>
 </tr>
 <tr>
