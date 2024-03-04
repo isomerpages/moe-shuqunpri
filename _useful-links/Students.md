@@ -30,7 +30,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.shuqunpri.moe.edu.sg/files/SQPS-Student-iCON-Onboarding-Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></strong>
+<p><strong><a href="/files/SQPS-Student-iCON-Onboarding-Guide.pdf" rel="noopener" target="_blank">Student iCON Onboarding Guide</a></strong>
 </p>
 </td>
 </tr>
