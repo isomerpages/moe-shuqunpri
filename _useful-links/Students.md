@@ -2,7 +2,7 @@
 title: Students
 permalink: /useful-links/students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -36,7 +36,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/slides/Recommended-Reading-Lists.pdf" rel="noopener" target="_blank">Recommended Reading Lists</a></strong>
+<p><strong><a href="/files/Slides/Recommended-Reading-Lists.pdf" rel="noopener" target="_blank">Recommended Reading Lists</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
