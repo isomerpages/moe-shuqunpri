@@ -3,34 +3,96 @@ title: Presentation Slides
 permalink: /useful-links/parents/presentation-slide-guide/permalink/
 description: ""
 third_nav_title: Parents
-variant: markdown
+variant: tiptap
 ---
-<p><span style="color: #000000;"><a target="_blank" href="https://cms.isomer.gov.sg/files/dsa_parents_outreach_2024.pdf" style="color: #000000;"><strong>DSA Parents Outreach (2024)</strong></a></span></p>
-<p><span style="color: #000000;"><strong>P4 SBB Briefing (2024)</strong></span></p>
-<ul>
-<li><span style="color: #000000;"><a target="_blank" href="/files/slides/principal_s_sharing_on_sbb.pdf" style="color: #000000;"><strong>Principal's Sharing on SBB</strong></a></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" style="color: #000000;">English Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/sGdTXrhXnA8?si=zYEZ81nCH3xc14ny" style="color: #000000;">Science Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/qx0jaoe8PxM?si=E1RFOL8DzdTj-4JY" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/XUDa1p1qLzY?si=OxpNKP16O492xrpW" style="color: #000000;">Malay Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/0DVz2KGN598?si=PB7g4dokNguG2bZ_" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
+<p><strong><a href="/files/Slides/dsa_parents_outreach_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Parents Outreach (2024)</a></strong>
+</p>
+<p><strong>P4 SBB Briefing (2024)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/slides/principal_s_sharing_on_sbb.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on SBB</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/V6TP0cqUpuo?si=C6AOJPA7NaGCuz6O" rel="noopener noreferrer nofollow" target="_blank">English Language Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/IsmSL4BlsTE?si=BhYk53c-iXBVPVQX" rel="noopener noreferrer nofollow" target="_blank">Mathematics Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/sGdTXrhXnA8?si=zYEZ81nCH3xc14ny" rel="noopener noreferrer nofollow" target="_blank">Science Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/qx0jaoe8PxM?si=E1RFOL8DzdTj-4JY" rel="noopener noreferrer nofollow" target="_blank">Chinese Language Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/XUDa1p1qLzY?si=OxpNKP16O492xrpW" rel="noopener noreferrer nofollow" target="_blank">Malay Language Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/0DVz2KGN598?si=PB7g4dokNguG2bZ_" rel="noopener noreferrer nofollow" target="_blank">Tamil Language Sharing</a></strong>
+</p>
+</li>
 </ul>
-<p><span style="color: #000000;"><strong>PSLE Briefing (2024)</strong></span></p>
-<ul>
-<li><span style="color: #000000;"><a target="_blank" href="/files/slides/principal_s_sharing_on_psle.pdf" style="color: #000000;"><strong>Principal's Sharing on PSLE</strong></a></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/_8r6va4k9tg" style="color: #000000;">English Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" style="color: #000000;">Science Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" style="color: #000000;">Malay Langauge Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
+<p><strong>PSLE Briefing (2024)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/slides/principal_s_sharing_on_psle.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on PSLE</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/_8r6va4k9tg" rel="noopener noreferrer nofollow" target="_blank">English Language Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/5t9DKEWCdc8?si=R_K9H-gVP6YvuaYj" rel="noopener noreferrer nofollow" target="_blank">Mathematics Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/L3mayavBKKM?si=fGQIlsT8W1CuMuLM" rel="noopener noreferrer nofollow" target="_blank">Science Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/kO3Xg6PPXzk?si=CfVdukV2BRmfZzRr" rel="noopener noreferrer nofollow" target="_blank">Chinese Language Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/ac0IdiZjBBw?si=t0774jlRgbyh0Akw" rel="noopener noreferrer nofollow" target="_blank">Malay Langauge Sharing</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youtu.be/Cp3LtJNNZ1Y?si=YWpghNd9pmO1_oOQ" rel="noopener noreferrer nofollow" target="_blank">Tamil Language Sharing</a></strong>
+</p>
+</li>
 </ul>
-<p><span style="color: #000000;"><strong>Open Classroom Principal’s Address (2024)</strong></span></p>
-<ul>
-<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P2_OCR_for_parents.pdf" style="color: #000000;">Primary 2</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P3_OCR_for_parents.pdf" style="color: #000000;">Primary 3</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P4_OCR_for_parents.pdf" style="color: #000000;">Primary 4</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P5_OCR_for_parents.pdf" style="color: #000000;">Primary 5</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a target="_blank" href="/files/slides/2024_P6_OCR_for_parents.pdf" style="color: #000000;">Primary 6</a></strong></span></li>
+<p><strong>Open Classroom Principal’s Address (2024)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/slides/2024_P2_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/slides/2024_P3_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/slides/2024_P4_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/slides/2024_P5_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/slides/2024_P6_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong>
+</p>
+</li>
 </ul>
+<p></p>
