@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p><strong><a href="/files/Slides/dsa_parents_outreach_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Parents Outreach (2024)</a></strong>
+<p><strong><a href="/files/Slides/SQPS_2024_P6_FDN_BOOKLIST.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Parents Outreach (2024)</a></strong>
 </p>
 <p><strong>P4 SBB Briefing (2024)</strong>
 </p>
