@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">SQPS 2024 Booklist</span></strong></h3>
-<h4><a target="_blank" href="/files/booklist_list_2024/sqps_2024_p1_booklist.pdf"><span style="color: #000000;"><strong>Primary 1 Booklist</strong></span></a></h4>
+<h4><a target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/booklist_list_2024/sqps_2024_p1_booklist.pdf"><span style="color: #000000;"><strong>Primary 1 Booklist</strong></span></a></h4>
 <h4><span style="color: #000000;"><a target="_blank" href="https://staging.d2w6f17b52epdm.amplifyapp.com/files/Booklist%202024/SQPS_2024_P2_BOOKLIST.pdf" style="color: #000000;"><strong>Primary 2 Booklist</strong></a></span></h4>
 <h4><span style="color: #000000;"><a target="_blank" href="https://staging.d2w6f17b52epdm.amplifyapp.com/files/Booklist%202024/SQPS_2024_P3_BOOKLIST.pdf" style="color: #000000;"><strong>Primary 3 Booklist</strong></a></span></h4>
 <h4><span style="color: #000000;"><a target="_blank" href="https://staging.d2w6f17b52epdm.amplifyapp.com/files/Booklist%202024/SQPS_2024_P4_BOOKLIST.pdf" style="color: #000000;"><strong>Primary 4 Booklist</strong></a></span></h4>
