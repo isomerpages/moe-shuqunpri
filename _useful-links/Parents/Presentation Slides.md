@@ -43,7 +43,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/slides/principal_s_sharing_on_psle.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on PSLE</a></strong>
+<p><strong><a href="/files/principal_s_sharing_on_psle.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on PSLE</a></strong>
 </p>
 </li>
 <li>
@@ -75,23 +75,23 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/slides/2024_P2_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a></strong>
+<p><strong><a href="/files/2024_P2_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/slides/2024_P3_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a></strong>
+<p><strong><a href="/files/2024_P3_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/slides/2024_P4_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a></strong>
+<p><strong><a href="/files/2024_P4_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/slides/2024_P5_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong>
+<p><strong><a href="/files/2024_P5_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/slides/2024_P6_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong>
+<p><strong><a href="/files/2024_P6_OCR_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong>
 </p>
 </li>
 </ul>
