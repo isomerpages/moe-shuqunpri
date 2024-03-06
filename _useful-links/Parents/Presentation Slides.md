@@ -11,7 +11,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/principal_s_sharing_on_sbb.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on SBB</a></strong>
+<p><strong><a href="/files/Principal_s_Sharing_on_SBB.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on SBB</a></strong>
 </p>
 </li>
 <li>
@@ -43,7 +43,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/principal_s_sharing_on_psle.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on PSLE</a></strong>
+<p><strong><a href="/files/Principal_s_Sharing_on_PSLE.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing on PSLE</a></strong>
 </p>
 </li>
 <li>
