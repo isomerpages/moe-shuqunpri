@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /useful-links/parents-partners/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <table width="690">
 <tbody>
