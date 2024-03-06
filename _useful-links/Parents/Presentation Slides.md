@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-<p><strong><a href="https://staging.d2w6f17b52epdm.amplifyapp.com/files/Booklist%202024/dsa_parents_outreach_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Parents Outreach (2024)</a></strong>
+<p><strong><a href="/files/DSA_Parents_Outreach_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA Parents Outreach (2024)</a></strong>
 </p>
 <p><strong>P4 SBB Briefing (2024)</strong>
 </p>
