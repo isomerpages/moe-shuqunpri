@@ -20,7 +20,7 @@ variant: markdown
 </tr>
 <tr>
 <td width="280" style="text-align: center;">
-<p><span style="color: #000000;"><a target="_blank" href="/files/forms/Alumni_Form.pdf" style="color: #000000;"><strong>Alumni Application Form</strong></a></span></p>
+<p><span style="color: #000000;"><a target="_blank" href="/files/Alumni_Form.pdf" style="color: #000000;"><strong>Alumni Application Form</strong></a></span></p>
 </td>
 <td width="206" style="text-align: center;">
 <p><span style="color: #000000;"><a target="_blank" href="https://form.gov.sg/62ccd02bc4c917001335b51d" style="color: #000000;"><strong>School Waiting List Application Form</strong></a></span></p>
