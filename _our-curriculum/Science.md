@@ -2,6 +2,7 @@
 title: Science
 permalink: /our-curriculum/science/
 description: ""
+variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 
@@ -17,7 +18,7 @@ description: ""
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>E-Pedagogy </strong></span></h4>
 
 ![](/images/Science002.jpg)
-<p style="text-align: justify;"><span style="color: #000000;">Various ICT tools and online learning platforms are used to enhance Science teaching and learning and increase students&rsquo; engagement as well as having ownership of learning. ICT lesson packages are curated and made accessible to students via SLS.<strong>&nbsp;</strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Various ICT tools and online learning platforms are used to enhance Science teaching and learning and increase students’ engagement as well as having ownership of learning. ICT lesson packages are curated and made accessible to students via SLS.<strong>&nbsp;</strong></span></p>
 
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Outdoor Learning Spaces </strong></span></h4>
 
@@ -31,7 +32,7 @@ description: ""
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Enrichment Programmes</span></strong></h3>
 
-<h4 style="text-align: justify;"><span style="color: #000000;"><strong>E2k Science </strong></span></h4>
+<h4 style="text-align: justify;"><span style="color: #000000;"><strong>E2K Science </strong></span></h4>
 
 ![](/images/Science005.jpg)
 <p style="text-align: justify;"><span style="color: #000000;">E2K Science Programme is conducted for Primary 4 and 5 who demonstrate high aptitude and interest in Science. The E2K lessons are designed to engage students in scientific investigations to enhance their scientific thinking dispositions and 21<sup>st</sup> century competencies such as critical and inventive thinking and effective communication skills. The contents covered in this programme extend beyond the basic syllabus and students are engaged in scientific inquiry as they conduct research and experiments involving more advanced science concepts.</span></p>
@@ -49,4 +50,4 @@ description: ""
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Youth for Environment Day (YED) </strong></span></h4>
 
 ![](/images/Science007.jpg)
-<p style="text-align: justify;"><span style="color: #000000;">YED is an annual event to engage students in green efforts and commitment towards the environment. Assembly programmes and class discussions are conducted to increase students&rsquo; awareness of the environmental issues such as climate change and food wastage. Eco-Challenge, Clean Plate Campaign and Garage Exchange are some activities which provide opportunities for students to show how they can play an active role in saving our Earth.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">YED is an annual event to engage students in green efforts and commitment towards the environment. Assembly programmes and class discussions are conducted to increase students’ awareness of the environmental issues such as climate change and food wastage. Eco-Challenge, Clean Plate Campaign and Garage Exchange are some activities which provide opportunities for students to show how they can play an active role in saving our Earth.</span></p>
