@@ -2,6 +2,7 @@
 title: Alumni
 permalink: /our-partners/alumni/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;"><span style="color: #000000;">Our vision for our Shuqunites is to imbue the heart to serve in every aspect of their lives and our commonly used slogan of “Once a Shuqunite, always a Shuqunite” propels us to invite our alumni to return to support some of the school initiatives and programmes.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Shuqun Youth Alumni</span></strong></h3>
@@ -16,7 +17,7 @@ description: ""
 <p style="text-align: justify;"><span style="color: #000000;">Our Seh-Chuan Shuqun Alumni Association was launched during our 83rd Anniversary in 2005. This association is for members aged 21 years old and above. Members pay a one-time subscription of $20.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Alumni members are cordially invited to give motivational or career talks. We also welcome you to be a sponsor for events or join us in TDD or any school programmes.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">Do you miss the times you had in Shuqun Primary School? Do you miss the teachers who had given you your favourite Children’s Day gifts? Or do you miss catching up with friends who had gone separate ways after PSLE?</span></p>
-<p style="text-align: justify;"><span style="color: #000000;">Come, join the Seh-Chuan Shuqun Alumni Association. Download the registration form <a href="/files/forms/Alumni_Form.pdf">here</a> and submit the completed form to the General Office.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Come, join the Seh-Chuan Shuqun Alumni Association. Download the registration form <a href="/files/Alumni_Form.pdf">here</a> and submit the completed form to the General Office.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">For more information, feel free to contact alumni secretary, Ms Zeng Yingxu at <a href="mailto:zeng_yingxu@moe.edu.sg" style="color: #000000;">zeng_yingxu@moe.edu.sg</a> or tel: 65637129.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Seh-Chuan Shuqun Alumni Association&nbsp;Exco Members:</strong></span></h4>
 <table width="454">
