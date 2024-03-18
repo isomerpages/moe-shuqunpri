@@ -439,11 +439,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Tham Ai Ling</strong>
+<p><strong>Ms Fong Yoon Yee Sarah</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>she_Ai_ling@moe.edu.sg</strong>
+<p><strong>fong_yoon_yee@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Billy Wiguna Widjaja</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>billy_wiguna_widjaja@moe.edu.sg</strong>
 </p>
 </td>
 </tr>
@@ -458,20 +472,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>chandrasekaran_ramani@moe.edu.sg</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Fong Yoon Yee Sarah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>fong_yoon_yee@moe.edu.sg</strong>
 </p>
 </td>
 </tr>
