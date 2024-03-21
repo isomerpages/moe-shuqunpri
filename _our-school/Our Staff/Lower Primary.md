@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-<h3><strong>Primary 1</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 1</span></strong></h3>
 <table>
 <tbody>
 <tr>
@@ -136,6 +136,20 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>1B2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lau Yanling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>lau_yanling@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>1C1</strong>
 </p>
 </td>
@@ -196,20 +210,6 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lau Yanling</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>lau_yanling@moe.edu.sg</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Chick Yuet Fun Grace</strong>
 </p>
 </td>
@@ -248,7 +248,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h3><strong>Primary 2</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 2</span></strong></h3>
 <table>
 <tbody>
 <tr>
