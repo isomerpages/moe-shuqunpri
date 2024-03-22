@@ -275,7 +275,6 @@ variant: markdown
 </td>
 </tr>
 
-
 </tbody>
 </table>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 6</span></strong></h3>
@@ -460,6 +459,20 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>nurdiana_razeli@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ang Kai Shi Bessie</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ang_kai_shi_bessie@moe.edu.sg</strong>
 </p>
 </td>
 </tr>
