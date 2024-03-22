@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-<h3><strong>Primary 5</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 5</span></strong></h3>
 <table>
 <tbody>
 <tr>
@@ -245,10 +245,25 @@ variant: markdown
 <p><strong>leong_whye_ting_a@moe.edu.sg</strong>
 </p>
 </td>
+</tr><tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yeo Ghim Joo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>@moe.edu.sg</strong>
+</p>
+</td>
 </tr>
+
+
 </tbody>
 </table>
-<h3><strong>Primary 6</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 6</span></strong></h3>
 <table>
 <tbody>
 <tr>
