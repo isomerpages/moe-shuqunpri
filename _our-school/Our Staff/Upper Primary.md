@@ -245,13 +245,28 @@ variant: markdown
 <p><strong>leong_whye_ting_a@moe.edu.sg</strong>
 </p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>P5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Yeo Ghim Joo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>yeo_ghim_joo_a@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Gong Wanxin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
