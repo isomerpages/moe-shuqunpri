@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-<h3><strong>Primary 3</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 3</span></strong></h3>
 <table>
 <tbody>
 <tr>
@@ -206,7 +206,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h3><strong>Primary 4</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 4</span></strong></h3>
 <table>
 <tbody>
 <tr>
@@ -332,20 +332,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>chew_si_min_a@moe.edu.sg</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4B2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ang Kai Shi Bessie</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ang_kai_shi_bessie@moe.edu.sg</strong>
 </p>
 </td>
 </tr>
