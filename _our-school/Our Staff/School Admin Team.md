@@ -5,4 +5,289 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h3><strong>School Admin Team</strong></h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Designation</strong></p></td><td rowspan="1" colspan="1"><p><strong>Name</strong></p></td><td rowspan="1" colspan="1"><p><strong>Email</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Administration Manager</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Chua Phuay Ling</strong></p></td><td rowspan="1" colspan="1"><p><strong>Chua_Phuay_Ling@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Administration Manager</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Julia Chia Pei Yng</strong></p></td><td rowspan="1" colspan="1"><p><strong>Julia_CHIA@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Manager</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Amir Hamzah Bin Yusof</strong></p></td><td rowspan="1" colspan="1"><p><strong>amir_hamzah_yusof@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>ICT Manager</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Ravi Kumar Subramaniam</strong></p></td><td rowspan="1" colspan="1"><p><strong>ravi_kumar_subramaniam@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Admin Executive (MK)</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Jaisena Banu D/O Maghalingam</strong></p></td><td rowspan="1" colspan="1"><p><strong>jaisena_banu_maghalingam_mrs@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Admin Executive</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Kong Pei Ling</strong></p></td><td rowspan="1" colspan="1"><p><strong>kong_pei_ling_a@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Management Support Officer</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Abdul Rahim B Non</strong></p></td><td rowspan="1" colspan="1"><p><strong>abdul_rahim_non@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Management Support Officer</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Zainab Bte Sjawaltul Abidin</strong></p></td><td rowspan="1" colspan="1"><p><strong>zainab_sjawaltul_abidin@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Corporate Support Officer</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Chan Ching Yuen</strong></p></td><td rowspan="1" colspan="1"><p><strong>chan_ching_yuen@moe.edu.sg</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officer (MK)&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Chithra d/o Arjunan</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Kamarneesa Begam d/o Naina Mohd</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Vasantha Kumari d/o Govindasamy</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Koh Quay Choon William</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Wong Kok Fah David&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Desktop Engineer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Aminurrashid Bin Ramli</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Desktop Engineer&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Tony Rajesh Kumar</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Teacher Aide</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Aida Binte Wan Muhammad</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Teacher Aide</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Safiah Binte Hashim</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Librarian</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mdm Saraswathy Lachmanan</strong></p></td><td rowspan="1" colspan="1"><p><strong>-</strong></p></td></tr></tbody></table><p></p>
+<h3><strong>School Admin Team</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chua Phuay Ling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chua_Phuay_Ling@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Julia Chia Pei Yng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Julia_CHIA@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Amir Hamzah Bin Yusof</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>amir_hamzah_yusof@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ravi Kumar Subramaniam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ravi_kumar_subramaniam@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Executive (MK)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Jaisena Banu D/O Maghalingam</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>jaisena_banu_maghalingam_mrs@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kong Pei Ling</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>kong_pei_ling_a@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Management Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Abdul Rahim B Non</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>abdul_rahim_non@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Management Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Zainab Bte Sjawaltul Abidin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>zainab_sjawaltul_abidin@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chan Ching Yuen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>chan_ching_yuen@moe.edu.sg</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer (MK)&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chithra d/o Arjunan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kamarneesa Begam d/o Naina Mohd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Vasantha Kumari d/o Govindasamy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Koh Quay Choon William</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wong Kok Fah David&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Aminurrashid Bin Ramli</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tony Rajesh Kumar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher Aide</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Aida Binte Wan Muhammad</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher Aide</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Safiah Binte Hashim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Saraswathy Lachmanan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
