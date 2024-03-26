@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Our Staff
 variant: markdown
 ---
-<h3><strong>School Admin Team</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">School Admin Team</span></strong></h3>
+
 <table>
 <tbody>
 <tr>
