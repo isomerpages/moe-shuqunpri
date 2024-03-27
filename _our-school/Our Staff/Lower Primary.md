@@ -463,7 +463,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2C2</strong>
+<p><strong>P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
