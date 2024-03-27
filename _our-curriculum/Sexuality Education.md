@@ -20,7 +20,7 @@ variant: markdown
 <li><span style="color: #000000;">Make responsible decisions for yourself, your family and society; and</span></li>
 <li><span style="color: #000000;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</span></li>
 </ul>
-<p style="text-align: justify;"><span style="color: #000000;">You may click&nbsp;<a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" style="color: #0000ff;">here</a>&nbsp;for more information on MOE Sexuality Education.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">You may click&nbsp;<a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education">here</a>&nbsp;for more information on MOE Sexuality Education.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>Overview of Shuqun Primary School’s Sexuality Education Programme for 2024.</strong></span></h4>
 <p style="text-align: justify;"><span style="color: #000000;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</span></p>
 <p style="text-align: justify;"><span style="color: #000000;">5. The subjects that incorporate topics on sexuality include:</span></p>

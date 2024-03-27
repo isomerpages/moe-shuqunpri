@@ -3,9 +3,10 @@ title: School Admin Team
 permalink: /our-school/our-staff/school-admin-team/
 description: ""
 third_nav_title: Our Staff
-variant: tiptap
+variant: markdown
 ---
-<h3><strong>School Admin Team</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">School Admin Team</span></strong></h3>
+
 <table>
 <tbody>
 <tr>
