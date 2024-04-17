@@ -48,7 +48,7 @@ variant: markdown
 <p><span style="color: #000000;"><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" style="color: #000000;">Practising Cyberwellness</a></strong></span></p>
 </td>
 <td width="246" style="text-align: center;">
-<p><span style="color: #000000;"><strong><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/for-parents" style="color: #000000; text-decoration: underline;">Cyber Security Awareness Alliance</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a href="https://www.csa.gov.sg/information-for/parents-educators" style="color: #000000; text-decoration: underline;">Cyber Security Awareness Alliance</a></strong></span></p>
 </td>
 </tr>
 </tbody>
