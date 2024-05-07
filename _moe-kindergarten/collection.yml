@@ -2,9 +2,9 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - About/Our Staff.md
-      - About/About MK.md
       - About/.keep
+      - About/About MK.md
+      - About/Our Staff.md
       - Our MK@SQ.md
       - Curriculum.md
       - Information for Parents.md
