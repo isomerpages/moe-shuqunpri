@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - About/.keep
       - Our MK@SQ.md
       - About MK.md
       - Curriculum.md
