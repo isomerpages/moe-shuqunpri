@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Our MK@SQ.md
-      - About/.keep
-      - About/About MK.md
-      - About/Our Staff.md
+      - About MK/.keep
+      - About MK/About MK.md
+      - About MK/Our Staff.md
       - Curriculum.md
       - Information for Parents.md
       - Our Partners.md
