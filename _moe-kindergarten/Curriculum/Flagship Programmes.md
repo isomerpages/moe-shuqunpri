@@ -31,7 +31,7 @@ five learning areas through an integrated approach:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Tangrams.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2023%20Tangrams.png">
 </div>
 <h3><strong>Starlight Literacy Programme</strong></h3>
 <h4><strong>Early Childhood Literacy</strong></h4>
