@@ -208,4 +208,3 @@ third_nav_title: About MK
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
