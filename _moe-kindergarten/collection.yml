@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Curriculum/Curriculum.md
-      - Curriculum/.keep
       - Our MK@SQ.md
       - About MK/.keep
       - About MK/Our Vision, Mission and Belief.md
       - About MK/Our People.md
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Information for Parents.md
       - Our Partners.md
       - Photo Gallery.md
