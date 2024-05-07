@@ -57,7 +57,7 @@ or Tamil language).</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Reading.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2023%20Reading.png">
 </div>
 <h4><strong>MTL and bilingualism</strong></h4>
 <p>Bilingualism is a cornerstone of Singapore’s education system. Learning
