@@ -14,3 +14,7 @@ variant: markdown
 
 
 
+| Learning Journey to Kok Fah Farm | Column 2 |  |
+| -------- | -------- | -------- |
+| <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO9OmZhNFFCONYku6gIyaQINQcmhuPw4zg5ApBeuIR4H4u33cuVwctQQICbqdrtnmqShZfRGPQzENF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>     | Text     |      |
+
