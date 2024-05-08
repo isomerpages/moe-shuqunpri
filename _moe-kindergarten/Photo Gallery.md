@@ -2,11 +2,15 @@
 title: Photo Gallery
 permalink: /moe-kindergarten/facilities/
 description: ""
+variant: markdown
 ---
 
 
-![](/images/MK1.jpg)
 
-![](/images/MK2.jpg)
 
-![](/images/MK3.jpg)
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEZMjDcTkZ8lwrrOJHk12s0dQLU8Y8iW9uRIsXrnrNzXxKrmX_zbDZsLJItcBuY2KKKP1PuTZ1ic2v/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>     | <iframe allowfullscreen="true" height="389" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsLm-O5w9VEzhFthHA09GZ3_APVLelwSWJ_PzRqHabh0gdLQppdIVyLN3KDw5acPDVMb4kT4oODkcf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>     | Text     |
+
