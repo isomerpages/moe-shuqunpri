@@ -44,7 +44,7 @@ variant: markdown
 <p><strong><span style="color: #800000;">Learning Journey to KidsSTOP</span></strong></p>
 </td>
 	
-<td style="width: 29.7569%;"> </td>
+
 </tr>
 </tbody>
 </table>
