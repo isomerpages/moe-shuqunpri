@@ -4,7 +4,7 @@ permalink: /moe-kindergarten/facilities/
 description: ""
 variant: markdown
 ---
-<table border="1" style="border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
+<table border="0" style="border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
 <tbody>
 	
 <tr>
