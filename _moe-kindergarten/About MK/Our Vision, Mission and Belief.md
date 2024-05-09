@@ -1,11 +1,11 @@
 ---
-title: About MK
+title: Our Vision, Mission and Belief
 permalink: /moe-kindergarten/about-mk/
 description: ""
+variant: markdown
+third_nav_title: About MK
 ---
-
-![](/images/MK-Banner.jpg)
-
+![](/images/MK%20Resources/MK_Graphic_1.jpg)
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Our Vision</span></strong></h3>
 <ul style="text-align: justify;">
 <li><span style="color: #000000;">Our vision is to provide a strong start for every child. We seek to do so through providing quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.&nbsp;</span></li>

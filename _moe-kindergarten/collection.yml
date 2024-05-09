@@ -3,10 +3,13 @@ collections:
     output: true
     order:
       - Our MK@SQ.md
-      - About MK.md
-      - Curriculum.md
-      - Information for Parents.md
-      - Our Staff.md
-      - Our Partners.md
+      - About MK/.keep
+      - About MK/Our Vision, Mission and Belief.md
+      - About MK/Our People.md
+      - Curriculum/.keep
+      - Curriculum/Flagship Programmes.md
+      - Curriculum/Learning Environment.md
       - Photo Gallery.md
+      - Information for Parents.md
+      - Our Partners.md
       - Contact Us.md
