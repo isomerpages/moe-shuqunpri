@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /our-partners/parents/parent-support-group/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Objectives</span></strong></h3>
 
@@ -10,27 +11,27 @@ third_nav_title: Parents
 <p style="text-align: justify;"><strong>Mission:</strong> Support the school and enrich the school life of our students</p>
 <p style="text-align: justify;"><strong>Vision:</strong> Forge a strong partnership between school and parents</p>
 <p style="text-align: justify;"><strong>Motto:</strong> Serve with ICARE (Integrity, Care, Adaptability, Respect and Excellence)</p>
-<p style="text-align: justify;">As our partners-in-education, the SQPSG supports the school&rsquo;s vision in developing our students to be Engaged Learners, Rooted in Values, and With a Heart to Serve. SQPSG collaborates actively with the school in the various activities and events to create a vibrant environment that enhances the holistic school experience of students. Such activities and events include:</p>
+<p style="text-align: justify;">As our partners-in-education, the SQPSG supports the school’s vision in developing our students to be Engaged Learners, Rooted in Values, and With a Heart to Serve. SQPSG collaborates actively with the school in the various activities and events to create a vibrant environment that enhances the holistic school experience of students. Such activities and events include:</p>
 <h4 style="text-align: justify;"><strong>Mother Tongue Language Fortnight (MTL Fortnight)</strong></h4>
 
 ![](/images/Psg001.jpg)
-<p style="text-align: justify;">As part of our MTL Fortnight, the P1 and P2 students had the opportunity to have their iPad Trail, focusing on traditional music and songs. A group of our PSG members volunteered their time with assisting teachers in the students&rsquo; discipline and safety during the iPad Trail.</p>
+<p style="text-align: justify;">As part of our MTL Fortnight, the P1 and P2 students had the opportunity to have their iPad Trail, focusing on traditional music and songs. A group of our PSG members volunteered their time with assisting teachers in the students’ discipline and safety during the iPad Trail.</p>
 <h4 style="text-align: justify;"><strong>P1 &amp; P2 Learning Journeys</strong></h4>
 
 ![](/images/Psg002.jpg)
 <p style="text-align: justify;">During the P1 and P2 learning journeys to Jacob Ballas Garden and Harmony in Diversity Gallery respectively, our PSG members went along and assisted the teachers in chaperoning the students around the locations.</p>
-<h4 style="text-align: justify;"><strong>Teachers&rsquo; Day Celebration</strong></h4>
+<h4 style="text-align: justify;"><strong>Teachers’ Day Celebration</strong></h4>
 
 ![](/images/Psg003.jpg)
-<p style="text-align: justify;">Prior to Teachers&rsquo; Day, our PSG members came on a Saturday to volunteer their expertise and artistic talents in decorating the hall and stage in line with the Kampung theme.</p>
-<h4 style="text-align: justify;"><strong>Children&rsquo;s Day Celebration</strong></h4>
+<p style="text-align: justify;">Prior to Teachers’ Day, our PSG members came on a Saturday to volunteer their expertise and artistic talents in decorating the hall and stage in line with the Kampung theme.</p>
+<h4 style="text-align: justify;"><strong>Children’s Day Celebration</strong></h4>
 
 ![](/images/Psg004.jpg)
-<p style="text-align: justify;">To embrace the new normal after the Covid-19 pandemic and continue to learn the values from the different characters we meet in real life and in fantasy books, the PSG dressed up as characters from books and prepared craft activities and game booths in a carnival-style Children&rsquo;s Day celebration.</p>
+<p style="text-align: justify;">To embrace the new normal after the Covid-19 pandemic and continue to learn the values from the different characters we meet in real life and in fantasy books, the PSG dressed up as characters from books and prepared craft activities and game booths in a carnival-style Children’s Day celebration.</p>
 <h4 style="text-align: justify;"><strong>P1 2023 Orientation</strong></h4>
 
 ![](/images/Psg005.jpg)
-<p style="text-align: justify;">After sharing with the P1 2023 parents on how the PSG complements the school by aligning programmes and activities with the school&rsquo;s objectives to improve the students&rsquo; well-being and learning, the PSG EXCO members held a recruitment drive for parents to join SQPSG in 2023.</p>
+<p style="text-align: justify;">After sharing with the P1 2023 parents on how the PSG complements the school by aligning programmes and activities with the school’s objectives to improve the students’ well-being and learning, the PSG EXCO members held a recruitment drive for parents to join SQPSG in 2023.</p>
 <h4 style="text-align: justify;"><strong>P6 BizKids</strong></h4>
 
 ![](/images/Psg006.jpg)
@@ -50,49 +51,53 @@ third_nav_title: Parents
 <p style="text-align: justify;">These programmes and activities would not be possible without the Executive Committee (EXCO), that constantly helps to oversee all PSG efforts and is the main point of contact with the school staff.</p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">PSG EXCO Members</span></strong></h3>
-<table>
-<tbody>
-<tr>
-<td width="241">
-<p><strong>Mdm Ang Li Fong</strong></p>
-</td>
-<td width="241">
-<p><strong>Mdm Marini Binte Osman</strong></p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p><strong>Mdm Chua Li Tink</strong></p>
-</td>
-<td width="241">
-<p><strong>Mdm Tan Ai Lay</strong></p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p><strong>Mdm Deborah Quah</strong></p>
-</td>
-<td width="241">
-<p><strong>Mdm Koh Shir Li</strong></p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p><strong>Mdm Koh Li Ching, Cherie</strong></p>
-</td>
-<td width="241">
-<p><strong>Mdm Shirleen Yap</strong></p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p><strong>Mdm Wendy Yap</strong></p>
-</td>
-<td width="241">
-</td>
-</tr>
-</tbody>
-</table>
+
+<table style="width:287.25pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="383" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;border-right:
+  solid black 1.5pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Ang Li Fong</span></b></p></td><td style="width:135.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Marini Binte Osman</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:152.25pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Chua Li Tink</span></b></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Tan Ai Lay</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:152.25pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:none;border-right:solid windowtext 1.5pt;background:white;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Deborah Quah</span></b></p></td><td style="width:135.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Koh Shir Li</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Koh Li Ching, Cherie</span></b></p></td><td style="width:135.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Shirleen Yap</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm Wendy Yap</span></b></p></td><td style="width:135.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;
+  height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">&nbsp;</span></b></p></td></tr></tbody></table>
+
 <p>To find out more about SQPSG:</p>
 <ul>
 <li>SQPSG Microsite click <a href="https://sites.google.com/moe.edu.sg/sqpsg-activities" target="_blank">here</a>.&nbsp;</li>
@@ -101,7 +106,7 @@ third_nav_title: Parents
 <p>Apart from working closely with the school with a common goal of making it a great place for our children to learn and play, SQPSG is also platform for parents to network and support one another. Click below for resources that were specially prepared for PSGs, to support you in your role as a PSG member:</p>
 <ul>
 <li><span style="text-decoration: underline;"><a href="https://sites.google.com/moe.edu.sg/psg-online-repository/home?pli=1" target="_blank">PSG Repository</a></span></li>
-<li><a href="https://www.moe.gov.sg/-/media/files/compass/psg-online-guide.ashx" target="_blank">Parent Support Groups &ndash; A How-to Guide by Parents for Parents.</a></li>
+<li><a href="https://www.moe.gov.sg/-/media/files/compass/psg-online-guide.ashx" target="_blank">Parent Support Groups – A How-to Guide by Parents for Parents.</a></li>
 </ul>
 <p>The support of all parents as partners-in-education is essential in ensuring that our students are developed to their fullest potential. We encourage all parents to be actively involved in the school activities. Come join us!</p>
 <ul>
