@@ -104,7 +104,7 @@ variant: markdown
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none">&nbsp;</span></b></p></td></tr></tbody></table>
 
-<p><strong>*Students who report after 7:30 a.m. will be considered late.</strong><br><strong>Dismissal for:-</strong><br><strong>Primary 1 &amp; 2– Gate 1</strong><br><strong>Primary 3 &amp; 4 – Gate 2</strong><br><strong>Primary 5 &amp; 6 – Gate 3</strong><br><strong>Wet Weather – All to use Gate 1</strong></p>
+<p><span style="color: #000000;">*Students who report after 7:30 a.m. will be considered late.</span><br><span style="color: #000000;">Dismissal for:-</span><br><span style="color: #000000;">Primary 1 &amp; 2– Gate 1</span><br><span style="color: #000000;">Primary 3 &amp; 4 – Gate 2</span><br><span style="color: #000000;">Primary 5 &amp; 6 – Gate 3</span><br><span style="color: #000000;">Wet Weather – All to use Gate 1</span></p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Recess Timings</span></strong></h3>
 
