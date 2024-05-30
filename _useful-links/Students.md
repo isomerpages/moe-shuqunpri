@@ -73,7 +73,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/DSA_General_Training_for_Students_2024.pdf" rel="noopener" target="_blank">2024 DSA Preparation 1</a></strong>
+<p><strong><a href="/files/DSA-General-Training-for-Students-2024.pdf" rel="noopener" target="_blank">2024 DSA Preparation 1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
