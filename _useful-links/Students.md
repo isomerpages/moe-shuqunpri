@@ -55,7 +55,7 @@ variant: markdown
 <p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" style="color: #000000;">My Skills Future</a></strong></span></p>
 </td>
 <td rowspan="1" colspan="1" style="text-align: center;">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/DSA-General-Training-for-Students-2024.pdf" style="color: #000000;">2024 DSA Preparation 1</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="[](/files/DSA_General_Training_for_Students_2024.pdf)" style="color: #000000;">2024 DSA Preparation 1</a></strong></span></p>
 </td>
 <td rowspan="1" colspan="1" style="text-align: center;">
 <p>&nbsp;</p>
