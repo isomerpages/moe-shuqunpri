@@ -4,6 +4,9 @@ permalink: /privacy/
 description: ""
 variant: markdown
 ---
+<h4><strong><span style="color: #800000;">Shuqun Primary School Privacy Statement</span></strong></h4>
+
+
 <ol>
 <li>This is a Shuqun Primary School website. Thank you for examining our privacy statement.</li>
 </ol>
