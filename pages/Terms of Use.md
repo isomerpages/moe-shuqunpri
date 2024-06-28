@@ -21,20 +21,21 @@ variant: markdown
 <ol start="5">
 <li>Click here to review this Web Site <a href="https://www.shuqunpri.moe.edu.sg/privacy/">Privacy Statement</a>.</li>
 </ol>
-<p>Restrictions on Use of Materials</p>
+
+<h4><strong><span style="color: #800000;">Restrictions on Use of Materials</span></strong></h4>
 <ol start="6">
 <li>Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Shuqun Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.</li>
 </ol>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <ol start="7">
 <li>Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Shuqun Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Shuqun Primary School.</li>
 </ol>
-<p>Right of Access</p>
+
+<h4><strong><span style="color: #800000;">Right of Access</span></strong></h4>
 <ol start="8">
 <li>Shuqun Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.</li>
 </ol>
-<p>Disclaimer of Warranties and Liability</p>
+
+<h4><strong><span style="color: #800000;">Disclaimer of Warranties and Liability</span></strong></h4>
 <ol start="9">
 <li>The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Shuqun Primary School does not warrant and hereby disclaims any warranty:</li>
 </ol>
