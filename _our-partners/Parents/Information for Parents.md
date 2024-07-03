@@ -3,6 +3,7 @@ title: Information for Parents
 permalink: /our-partners/parents/information-for-parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Mission</span></strong></h3>
 <p><span style="color: #000000;">The original African proverb might have been “It takes a village to raise a child” and here in Shuqun, we recognise the importance of partnering parents to create a “village” that engages the wider community.</span></p>
@@ -33,5 +34,5 @@ third_nav_title: Parents
 <p>For those who need&nbsp;<strong>only broadband</strong>, they can apply under Home Access 3.0 programme.</p>
 <p>For details on the programme, please click <a href="https://www.digitalaccess.gov.sg" target="_blank">here</a>.</p>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 1 Registration Exercise 2023</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 1 Registration Exercise 2024</span></strong></h3>
 <p>For more information, please click <a target="_blank" href="https://www.moe.gov.sg/primary/p1-registration">here</a>.</p>

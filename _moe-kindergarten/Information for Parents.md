@@ -21,5 +21,6 @@ variant: markdown
 ![](/images/MK%20Fee1.png)
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MK Forms</span></strong></h3>
-
-* [**MK Waiting List Application Form**](https://form.gov.sg/65e15f103c61c0ff3c4101e5)
+<ul>
+<li><a target="_blank" href="https://form.gov.sg/65e15f103c61c0ff3c4101e5"><strong>MK Waiting List Application Form</strong></a></li>
+</ul>
