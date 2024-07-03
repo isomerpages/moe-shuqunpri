@@ -6,94 +6,79 @@ third_nav_title: Our Staff
 variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">School Leaders</span></strong></h3>
-
 <table style="width:524.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 5.4pt 0in 5.4pt" width="699" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:179.25pt;border:solid black 1.5pt;background:#B2BEB5;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="239"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Designation</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:135.0pt;border:solid black 1.5pt;border-left:none;
-  background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Name</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:209.75pt;border:solid black 1.5pt;border-left:
-  none;background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="280"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Email</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:179.25pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="239"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Principal</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="699" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;background:#B2BEB5;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Designation</span></b></p></td><td style="width:2.25in;border:solid black 1.5pt;border-left:none;
+  background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Name</span></b></p></td><td style="width:209.0pt;border:solid black 1.5pt;border-left:none;
+  background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Email</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Principal</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Mrs Sara de Souza</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:209.75pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mrs Sara de Souza</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="280"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;sqps@moe.edu.sg</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:179.25pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="239"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Vice Principal (Curriculum)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none"></span></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">&nbsp;sqps@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Vice Principal (Curriculum)</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Mdm So Kah Lay&nbsp;</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:209.75pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Mdm So Kah Lay&nbsp;</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="280"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">sqps@moe.edu.sg&nbsp;</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:179.25pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="239"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Vice Principal (Curriculum)</span></b></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">sqps@moe.edu.sg&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Vice Principal (Curriculum)</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Dr Choong Pek Lan&nbsp;</span></b></p></td><td style="width:209.75pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Dr Choong Pek Lan</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="280"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">sqps@moe.edu.sg&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:179.25pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="239"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Vice Principal (Administration)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none"></span></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">sqps@moe.edu.sg&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Vice Principal (Administration)</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">Ms Angela Lee</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td style="width:209.75pt;border-top:none;border-left:none;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Ms Angela Lee</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="280"><p style="mso-margin-top-alt:auto;margin-bottom:
-  0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-font-kerning:0pt;mso-ligatures:none">sqps@moe.edu.sg</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr></tbody></table>
-	
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">School Executive Committee</span></strong></h3>
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">sqps@moe.edu.sg</span></b></p></td></tr></tbody></table>
 
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">School Executive Committee</span></strong></h3>
 <table style="width:524.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="699" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:153.0pt;border:solid black 1.5pt;background:#B2BEB5;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="204"><p style="margin-bottom:0in;text-align:center;
