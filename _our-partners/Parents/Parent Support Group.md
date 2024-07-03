@@ -51,49 +51,48 @@ variant: markdown
 <p style="text-align: justify;">These programmes and activities would not be possible without the Executive Committee (EXCO), that constantly helps to oversee all PSG efforts and is the main point of contact with the school staff.</p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">PSG EXCO Members</span></strong></h3>
-
-<table style="width:287.25pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 5.4pt 0in 5.4pt" width="383" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;border-right:
-  solid black 1.5pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+<table style="width:273.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="364" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid windowtext 1.5pt;border-right:
+  solid black 1.5pt;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Ang Li Fong</span></b></p></td><td style="width:135.0pt;border:solid windowtext 1.5pt;border-left:
-  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Ang Li Fong</span></b></p></td><td style="width:140.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Marini Binte Osman</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:152.25pt;border-top:none;border-left:solid windowtext 1.5pt;
+  mso-ligatures:none">Mdm Marini Binte Osman</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:133.0pt;border-top:none;border-left:solid windowtext 1.5pt;
   border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Chua Li Tink</span></b></p></td><td style="width:135.0pt;border-top:none;border-left:none;
+  mso-ligatures:none">Mdm Chua Li Tink</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Tan Ai Lay</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:152.25pt;border-top:none;border-left:solid windowtext 1.5pt;
+  mso-ligatures:none">Mdm Tan Ai Lay</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:133.0pt;border-top:none;border-left:solid windowtext 1.5pt;
   border-bottom:none;border-right:solid windowtext 1.5pt;background:white;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Deborah Quah</span></b></p></td><td style="width:135.0pt;border:none;border-right:solid black 1.5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Deborah Quah</span></b></p></td><td style="width:140.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Koh Shir Li</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Koh Shir Li</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:133.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Koh Li Ching, Cherie</span></b></p></td><td style="width:135.0pt;border:solid windowtext 1.5pt;border-left:
-  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Koh Li Ching, Cherie</span></b></p></td><td style="width:140.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Shirleen Yap</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:152.25pt;border:solid windowtext 1.5pt;border-top:
-  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="203"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Shirleen Yap</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Wendy Yap</span></b></p></td><td style="width:135.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;
-  height:30.0pt" width="180"><p style="margin-bottom:0in;text-align:center;
+  mso-ligatures:none">Mdm Wendy Yap</span></b></p></td><td style="width:140.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;
+  height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none">&nbsp;</span></b></p></td></tr></tbody></table>
