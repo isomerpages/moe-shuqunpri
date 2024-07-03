@@ -163,7 +163,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:.5in" width="213"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">12.30 p.m. – 1 p.m.<br>(Wed – Fri)</span></b></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:.5in"><td style="width:53.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">12.30 p.m. – 1.00 p.m.<br>(Wed – Fri)</span></b></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:.5in"><td style="width:53.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:.5in" width="71"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -172,4 +172,4 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:.5in" width="213"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">12 p.m. – 12.30 p.m.<br>(Wed – Fri)</span></b></p></td></tr></tbody></table>
+  mso-ligatures:none">12.00 p.m. – 12.30 p.m.<br>(Wed – Fri)</span></b></p></td></tr></tbody></table>
