@@ -1,0 +1,646 @@
+---
+title: School Achievements Year 2023
+permalink: /our-school/school-achievements/2023/
+description: ""
+third_nav_title: School Achievements
+variant: markdown
+---
+<h3><strong><span style="color: #800000;">School Achievements Year 2023</span></strong></h3>
+ 
+<table style="width:563.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="751" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.5in"><td style="width:161.0pt;border:solid black 1.5pt;border-bottom:
+  none;background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:.5in" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NAME OF COMPETITION</span></b></p></td><td style="width:188.0pt;border:solid black 1.5pt;border-left:none;
+  background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:.5in" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">RECOGNITION / POSITION</span></b></p></td><td style="width:214.0pt;border-top:solid black 1.5pt;border-left:
+  none;border-bottom:none;border-right:solid black 1.5pt;background:#B2BEB5;
+  padding:0in 5.4pt 0in 5.4pt;height:.5in" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NAME OF STUDENT(S)</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:78.0pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">WITS &amp; WORDS 2023</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border:none;border-bottom:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">TOP 4 FOR DIVISION 2 WEST ZONE</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">WU YOURAN<br>BEH KAICHEN<br>HU YATING ZEKI<br>KOH RUI WEN<br>LIM JIA XUAN<br>CHARLOTTE</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:2;height:39.75pt"><td style="width:161.0pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">BEAUTEX ART COMPETITION THEME: LUNAR NEW YEAR DINNER</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">MERIT PRIZE IN CATEGORY A (PRIMARY 1-3)</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">JANGMA SENG PAN</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:3;height:39.75pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">TRANSPORT FOR YOUR SUSTAINABLE TOMORROW BY LTA</span></b><b><span style="font-size:
+  10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">CERTIFICATE OF MERIT</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">LING JIA AN ENOCH</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:4;height:39.75pt"><td style="width:161.0pt;border:solid black 1.5pt;
+  border-top:none;background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" rowspan="2" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#292929;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">W7 AESTHETIC SHOWCASE</span></b><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#292929;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">DISTINCTION (GOLD)</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GABRIEL ONG SHAO HENG<br>WONG ZI YAN<br>NICOLE LAU HUI XIN</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:39.75pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">COMMENDATION (SILVER)</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BAI YUAN<br>LIU ZIXUAN<br>CHOW MUN HYUN</span></b></p></td></tr><tr style="mso-yfti-irow:6;height:27.0pt"><td style="width:161.0pt;border:solid black 1.5pt;
+  border-top:none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" rowspan="3" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#292929;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">RECYCLING COMPETITION</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#292929;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">1ST PLACE FOR MADE A DIFFERENCE AWARD</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">NURFARAH ALEESHA BINTE MOHAMED AZMI</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:7;height:27.0pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">1ST PLACE FOR BEST SUSTAINABLE MESSAGE AWARD</span></b><b><span style="font-size:
+  10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">LUO ZI YANG ZACHARY</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:8;height:26.25pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:26.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">2ND PLACE FOR BEST SUSTAINABLE MESSAGE AWARD</span></b><b><span style="font-size:
+  10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:26.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">NG YONG XUAN</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:9;height:31.5pt"><td style="width:161.0pt;border:solid black 1.5pt;
+  border-top:none;background:white;padding:0in 5.4pt 0in 5.4pt;height:31.5pt" rowspan="6" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">LET'S WRITE! COMPETITION</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:31.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GOLD AWARD<br>(LOWER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:31.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222;mso-font-kerning:0pt;mso-ligatures:none">WANG MURAN</span></b></p></td></tr><tr style="mso-yfti-irow:10;height:27.0pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">SILVER AWARD<br>(LOWER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">LIAO YUHAN</span></b></p></td></tr><tr style="mso-yfti-irow:11;height:25.5pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BRONZE AWARD<br>(LOWER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">ZHAN WENZHONG</span></b></p></td></tr><tr style="mso-yfti-irow:12;height:39.0pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:39.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">MERIT AWARD<br>(LOWER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:39.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">LI XINTONG VALERIE</span></b></p></td></tr><tr style="mso-yfti-irow:13;height:26.25pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:26.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GOLD AWARD<br>(UPPER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:26.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">HUANG YIWEN</span></b></p></td></tr><tr style="mso-yfti-irow:14;height:25.5pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">SILVER AWARD<br>(UPPER PRIMARY CATEGORY)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:25.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NG YONG XUAN</span></b></p></td></tr><tr style="mso-yfti-irow:15;height:27.0pt"><td style="width:161.0pt;border-top:none;border-left:solid black 1.5pt;
+  border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">THE BOYS' BRIGADE BEST BOY AWARD</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">TAN BOON CHIANG MEDAL</span></b><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">HU XINNAN</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:16;height:27.0pt"><td style="width:161.0pt;border-top:none;border-left:solid black 1.5pt;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">BOYS’ BRIGADE</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">J M FRASER AWARD FOR EXCELLENCE</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">-</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:17;height:27.0pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">GIRLS’ BRIGADE</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">DR LOW GUAT TIN CHALLENGE (BRONZE AWARD)</span></b><b><span style="font-size:
+  10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">-</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:18;height:27.0pt"><td style="width:161.0pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">BROWNIES</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">PUAN NOOR AISHAH AWARD<br>(GOLD AWARD)</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">-</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:19;height:2.5in"><td style="width:161.0pt;border-top:none;border-left:solid black 1.5pt;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:2.5in" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">FOOTBALL</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:2.5in" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NATIONAL SCHOOL GAMES<br>WEST ZONE SENIOR DIVISION BOYS’ COMPETITION<br>QUARTER FINALIST (TOP 8)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:2.5in" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">MUHAMMAD ERMAN BIN AZMAN<br>THRISHAAN S/O ANPARASAN<br>NAWFAL AL-AMEEN BIN MUHAMMAD DARWIS<br>LIM JIE LE LEWIS<br>JAYDEN WONG JIAN YAO<br>ZAVIEX WONG XI LE<br>EWE JUNN HOWE<br>KOH ZHI HENG GARETH<br>SHAUN CHU JUN KAI<br>HEW REN JIE JOVEN<br>NG HON CHEONG ELROY<br>DANIEL CHERN YI QIANG<br>BASKARAN MONEISH</span></b></p></td></tr><tr style="mso-yfti-irow:20;height:27.0pt"><td style="width:161.0pt;border-top:none;border-left:solid black 1.5pt;
+  border-bottom:none;border-right:solid black 1.5pt;background:white;
+  padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">SOTA PRIMARY 6 CREATIVE WRITING COMPETITION 2023</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">TOP 50 FINALIST</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">DYUTHI BHATT</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:21;height:45.75pt"><td style="width:161.0pt;border-top:solid windowtext 1.5pt;
+  border-left:solid windowtext 1.5pt;border-bottom:solid black 1.5pt;
+  border-right:none;background:white;padding:0in 5.4pt 0in 5.4pt;height:45.75pt" rowspan="3" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">RI PRIMARY MATH WORLD COMPETITION</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:45.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">JUNIOR CATEGORY (P5)<br>DISTINCTION AWARD</span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:45.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">ASHLYN ONG SI HAN<br>JIAO JUNHE<br>DENG ZHONGYI</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:22;height:52.5pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">OPEN CATEGORY (P6)<br>MERIT AWARD</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">STEVEN KOH<br>DYUTHI BHATT<br>WU YOURAN<br>HU XINNAN</span></b></p></td></tr><tr style="mso-yfti-irow:23;height:27.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">OPEN CATEGORY (P6)<br>DISTINCTION AWARD</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">XU WEIXIANG</span></b></p></td></tr><tr style="mso-yfti-irow:24;height:27.0pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">WUSHU COMPETITION</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">NATIONAL SCHOOL GAMES (TOP 50)</span></b><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">WONG HAO CHENG<br>SHI YUFEI</span></b></p></td></tr><tr style="mso-yfti-irow:25;height:39.75pt"><td style="width:161.0pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BASKETBALL COMPETITION</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NATIONAL SCHOOL GAMES<br>WEST ZONE JUNIOR BOYS<br>TIER 1 (2ND POSITION)</span></b></p></td><td style="width:214.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">-</span></b></p></td></tr><tr style="mso-yfti-irow:26;height:65.25pt"><td style="width:161.0pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" rowspan="3" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NATIONAL PRIMARY SCHOOLS SPORTS CLIMBING (BOULDERING)</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GOLD AWARD</span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">LIONEL CHU CHEN YI<br>HERNIE ANDINI BINTE NORHIDAYAT<br>LIM YU EN CLARICE<br>LIM PIN HAO, JUSTIN<br>LIANG ZHI QUAN</span></b></p></td></tr><tr style="mso-yfti-irow:27;height:2.5in"><td style="width:188.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:2.5in" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">SILVER AWARD</span></b></p></td><td style="width:214.0pt;border:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:2.5in" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">TITUS LEE JIE YANG<br>MOHAMED ANIQ ARSYAD BIN MOHAMED AZMI<br>NUR DINISH DATRISYA BINTE YASIR<br>XAVIER LOK MUN KIAT<br>ONG WEI LE<br>AVELYN LAI YANXIU<br>YU LINGXUAN<br>WONG HAO CHENG<br>NOR AUFA UKASYAH<br>ANG YUN QING ELVIA<br>NUR ATIQAH QALEESYA BINTE EFFENDY<br>LIM YU XI JEANELLE<br>HO YIQIAN</span></b></p></td></tr><tr style="mso-yfti-irow:28;height:65.25pt"><td style="width:188.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:solid windowtext 1.5pt;border-right:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BRONZE AWARD</span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NURHANA CHONG BINTE FAHMI CHONG<br style="page-break-before:always" clear="all">MUHAMMAD AFI RAFAEL BIN MUHAMAD KHAIR<br style="page-break-before:
+  always" clear="all">JESSY ONG CHEE MIU<br style="page-break-before:always" clear="all">ASHLEY BAI ZHIBING</span></b></p></td></tr><tr style="mso-yfti-irow:29;height:27.0pt"><td style="width:161.0pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" rowspan="3" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">SG75: SINGAPORE OUR HOME COMPETITION</span></b></p></td><td style="width:188.0pt;border:none;border-bottom:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">1ST PRIZE<br>2D DRAWING (INDIVIDUAL)</span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">AYUMI ARMANI BINTE MOHAMED ISZUAN</span></b></p></td></tr><tr style="mso-yfti-irow:30;height:52.5pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">1ST PRIZE<br>DIGITAL DRAWING (GROUP)</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NURFARAH ALEESHA BINTE MOHAMED AZMI<br>MOHAMED ANIQ ARSYAD BIN MOHAMED AZMI</span></b></p></td></tr><tr style="mso-yfti-irow:31;height:65.25pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">FINALIST</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:65.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">WONG ZI YAN<br>LING JIA AN ENOCH<br>RAIYAN BIN HAMED<br>LIM LE YAO JOIE<br>NICOLE LAU HUI XIN</span></b></p></td></tr><tr style="mso-yfti-irow:32;height:39.75pt"><td style="width:161.0pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" rowspan="2" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">OMNI<br>RACIAL HARMONY DAY DRAWING COMPETITION</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">FIRST PRIZE</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">NURFARAH ALEESHA BINTE MOHAMED AZMI</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:33;height:52.5pt"><td style="width:188.0pt;border:none;border-bottom:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">FINALIST</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:solid windowtext 1.5pt;
+  border-bottom:none;border-right:solid windowtext 1.5pt;background:white;
+  padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">JANGMA HTOI SENG PAN<br>LING JIA AN ENOCH<br>YANG PEI<br>NICOLE LAU HUI XIN</span></b></p></td></tr><tr style="mso-yfti-irow:34;height:116.25pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:116.25pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BOYS' BRIDGADE JUNIOR PROGRAMME</span></b></p></td><td style="width:188.0pt;border:none;border-bottom:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:116.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">JP GOLD AWARD</span></b></p></td><td style="width:214.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:116.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">XAVIER YAP SHENG JIE<br>TNG WEI, JORDAN<br>HU XINNAN<br>PETER PAULRAJ BRISTO<br>HEW REN JIE JOVEN<br>JAYDEN FERIANTO<br>LAKSHMANAN THENAPPAN<br>LAI JUN XIAN<br>CHONG HAO JUN</span></b></p></td></tr><tr style="mso-yfti-irow:35;height:52.5pt"><td style="width:161.0pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" rowspan="4" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">MALAY LANGUAGE MONTH COMPETITION</span></b></p></td><td style="width:188.0pt;border:none;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">1ST PLACE</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:52.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">NUR ADELIAH QISYAH BINTI MUHAMMAD AIDILL<br>ZAAFIR MUNIB BIN ZULHAILI<br>ELISHAZYA BELLA BTE ISKANDAR HADI</span></b></p></td></tr><tr style="mso-yfti-irow:36;height:90.75pt"><td style="width:188.0pt;border-top:solid windowtext 1.5pt;
+  border-left:none;border-bottom:none;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:90.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">2ND PLACE</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:90.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">MOHAMMAD ADAM RAFA BIN MOHAMMAD REDZUAN<br>ADHWA AZURA BINTE ASRUL<br>NAYLAA ALIKA BINTI MUHAMMAD NAZHAR<br>NURUL A'ISYAH BINTE IRZAN KHAN<br>MIA SARAH BINTE MOHAMMAD SUFI<br>RAYHAN BIN ROHAIZAT</span></b></p></td></tr><tr style="mso-yfti-irow:37;height:39.75pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">3RD PLACE</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid black 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.75pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">ESYA ARIANNA BINTE MOHAMAD MIRZA<br>NURHANA CHONG BINTE FAHMI CHONG<br>ARFFA BINTE ARIFF</span></b></p></td></tr><tr style="mso-yfti-irow:38;height:116.25pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:116.25pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">4TH PLACE</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:116.25pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">DHANIA INSYIRAH BINTE ABDULLAH<br>NAILA BINTE NOOR IZUDDIN<br>QISYA MARISSA BINTE MOHAMAD KAMSOL<br>ARYAN FAIZ BIN ASHARI<br>MUHAMMAD AFI RAFAEL BIN MUHAMMAD KHAIR<br>MUHAMMAD FIRAS BIN MOHAMAD JEFRI</span></b></p></td></tr><tr style="mso-yfti-irow:39;height:27.0pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">PRIMARY MATHEMATICS PROJECT COMPETITION (PMPC)</span></b><b><span style="font-size:
+  10.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">COMMENDATION AWARD</span></b><b><span style="font-size:10.0pt;line-height:150%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">WONG HAO YONG DEAN</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:40;height:154.5pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:154.5pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GIRLS' BRIGADE DRILL COMPETITION CARNIVAL</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:154.5pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BRONZE AWARD</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:154.5pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">LI TIAN QING<br>LIAO YUHAN<br>CHEN JIA QI<br>MELKIO ANTHONIRAJ LEVANA<br>CHIN YAH XUAN FELICIA<br>THAM EN XI JANELLE<br>ONG YI LIN ELLA<br>MEGAN FERIANTO<br>ONG XUAN HUI CELINE<br>BEI KAICHEN<br>ARVYN NISHKA YALE<br>AURELIA CHEW QIYUAN</span></b></p></td></tr><tr style="mso-yfti-irow:41;height:27.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">BROWNIES CHIEF COMMISSIONER AWARD</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">BROWNIES CHIEF COMMISSIONER AWARD</span></b><b><span style="font-size:10.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:27.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG" lang="EN-SG">LIM LE YAO JOIE</span></b><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:42;height:78.0pt"><td style="width:161.0pt;border-top:none;border-left:
+  solid windowtext 1.5pt;border-bottom:solid black 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" rowspan="2" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">W7 ON-THE -SPOT ART COMPETITION</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">DISTINCTION (GOLD)<br>SUPER JUNIOR CATEGORY<br><br>LOWER PRIMARY<br>MIDDLE PRIMARY<br>UPPER PRIMARY</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">GABRIEL ONG SHAO HENG<br>WONG ZIYAN<br>NICOLE LAU HUI XIN</span></b></p></td></tr><tr style="mso-yfti-irow:43;height:78.0pt"><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">DISTINCTION (SILVER)<br>SUPER JUNIOR CATEGORY<br><br>LOWER PRIMARY<br>MIDDLE PRIMARY<br>UPPER PRIMARY</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">BAI YUAN<br>LIU ZIXUAN<br>CHOW MUN HYUN</span></b></p></td></tr><tr style="mso-yfti-irow:44;mso-yfti-lastrow:yes;height:78.0pt"><td style="width:161.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">SMART CITIES OF THE FUTURE BY FFTH AND GOLDBELL CORPORATION PTE LTD</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">TOP 12 WINNER</span></b></p></td><td style="width:214.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:78.0pt" width="285"><p style="margin-bottom:0in;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;line-height:150%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">HONG YA LE, ARDELLA<br>KOK JIA XUAN NATASHA<br>LEE KE XIN CANDICE<br>DANIA AQILAH BINTE RAMLEE<br>PANG ZHI SIM<br>CHAN YI NING NATALIE</span></b></p></td></tr></tbody></table>
