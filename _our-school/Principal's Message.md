@@ -4,7 +4,6 @@ permalink: /our-school/principals-message/
 description: ""
 variant: markdown
 ---
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Principal's Message</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">In the midst of managing COVID-19 and witnessing the many changes to our lives, we decided to review what we stand for as a school in 2021.</span></p>
 
 ![](/images/FEATURE-WALL-@-CONCOURSE_VISUAL-2-1024x604.jpg)
