@@ -4,11 +4,9 @@ permalink: /our-partners/alumni/
 description: ""
 variant: markdown
 ---
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Alumni</span></strong></h3>
-
 <p style="text-align: justify;"><span style="color: #000000;">Our vision for our Shuqunites is to imbue the heart to serve in every aspect of their lives and our commonly used slogan of “Once a Shuqunite, always a Shuqunite” propels us to invite our alumni to return to support some of the school initiatives and programmes.</span></p>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Shuqun Youth Alumni</span></strong></h3>
+<h4 style="text-align: justify;"><strong><span style="color: #000000;">Shuqun Youth Alumni</span></strong></h4>
 
 <p style="text-align: justify;"><span style="color: #000000;">Shuqun Youth Alumni was established in 2020 for ex-Shuqunites who are between 13 to 21 years old. Members in this alumni group do not need to pay any membership fees and are encouraged to give motivational talks to current Shuqunites and contribute to TDD commemorative events tied in with ECG, CCA activities and programmes such as our inaugural Homework Clinic, that aims to to provide current Shuqunites an opportunity to be tutored and mentored by our alumni students. We believe that our alumni students can guide them in their homework, explain concepts and provide positives that go beyond just the educational.</span></p>
 <h4 style="text-align: justify;"><span style="color: #000000;"><strong>SQPS Homework Clinic</strong></span></h4>
