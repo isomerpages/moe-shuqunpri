@@ -6,6 +6,7 @@ third_nav_title: Our Staff
 variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 1</span></strong></h3>
+
 <table style="width:458.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="611" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;background:#B2BEB5;
   padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
@@ -107,20 +108,6 @@ variant: markdown
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">1B1</span></b></p></td><td style="width:187.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="249"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Ms Gong Wanxin</span></b></p></td><td style="width:233.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">gong_wanxin@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:8;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none">1B2</span></b></p></td><td style="width:187.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="249"><p style="margin-bottom:0in;text-align:center;
@@ -131,7 +118,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">lau_yanling@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:9;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">lau_yanling@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:8;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -145,7 +132,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">norfaraidh_talib@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:10;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">norfaraidh_talib@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:9;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -159,7 +146,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">anisah_ahmad@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:11;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">anisah_ahmad@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:10;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -173,7 +160,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">low_de_min@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:12;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">low_de_min@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:11;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -187,7 +174,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">yeo_shu_fong_rachel@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:13;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">yeo_shu_fong_rachel@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:12;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -201,7 +188,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">tang_yee_huay@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:14;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">tang_yee_huay@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:13;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -215,7 +202,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">chen_liqun@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:15;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">chen_liqun@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:14;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -229,7 +216,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">wang_yirui@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">wang_yirui@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -245,7 +232,7 @@ variant: markdown
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
   mso-ligatures:none">geraldine_jane_buster_a@moe.edu.sg</span></b></p></td></tr></tbody></table>
 
-<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 2</span></strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 2</span></strong></h3>    
 <table style="width:458.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="611" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;background:#B2BEB5;
   padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
@@ -310,12 +297,12 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="249"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Lee Say Hoon</span></b></p></td><td style="width:233.0pt;border-top:none;border-left:none;
+  mso-ligatures:none">Mr Chua Wei Liang</span></b></p></td><td style="width:233.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">lee_say_hoon@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">chua_wei_liang@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -469,7 +456,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">arivinthan_ahwahday@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none">arivinthan_ahwahday@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:16;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -483,4 +470,18 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">chew_geok_fah_a@moe.edu.sg</span></b></p></td></tr></tbody></table>
+  mso-ligatures:none">chew_geok_fah_a@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:17;mso-yfti-lastrow:yes;height:35.1pt"><td style="width:38.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="51"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">P2</span></b></p></td><td style="width:187.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="249"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">Ms Huraisha Bte Rafee</span></b></p></td><td style="width:233.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:35.1pt" width="311"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none">huraisha_mohd_rafee_a@moe.edu.sg</span></b></p></td></tr></tbody></table>
