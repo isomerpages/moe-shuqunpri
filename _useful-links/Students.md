@@ -4,62 +4,74 @@ permalink: /useful-links/students/
 description: ""
 variant: markdown
 ---
-<table style="margin-left: auto; margin-right: auto;"><colgroup> <col> <col> <col> </colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p style="text-align: center;"><span style="color: #000000;"><strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" style="color: #000000;"><u>MOE Identity Management System (MIMS)</u></a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1" style="text-align: center;">
-<p><span style="color: #000000;"><strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://workspace.google.com/dashboard" style="color: #000000;">Student iCon</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1" style="text-align: center;">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="2024_MIMS_Students_EndUser_Guide" style="color: #000000;">MIMS End User Guide</a></strong></span></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://vle.learning.moe.edu.sg/login" style="color: #000000;">Student Learning Space (SLS)</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf" style="color: #000000;">Microsoft Office 365 ProPlus Student Guide</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/SQPS-Student-iCON-Onboarding-Guide.pdf" style="color: #000000;">Student iCON Onboarding Guide</a></strong></span></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/Recommended-Reading-Lists.pdf" style="color: #000000;">Recommended Reading Lists</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" style="color: #000000;">School e-Resource Repository</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://online.fliphtml5.com/obrr/qkde/#p=1" style="color: #000000;">We STories</a></strong></span></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/the-shuqun-story/home" style="color: #000000;">Shuqun's 95th Anniversary</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://www.sportsingapore.gov.sg/" style="color: #000000;">Sport Singapore</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://w7euphoria.edu.sg/" style="color: #000000;">The Euphoria for the Arts Website</a></strong></span></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" style="color: #000000;">My Skills Future</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/dsa-general-training-for-students.pdf" style="color: #000000;">2024 DSA Preparation 1</a></strong></span></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<table style="width:564.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="752" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA"><a target="_blank" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><span style="color:black;text-decoration:none;text-underline:none">MOE Identity Management System (MIMS)</span></a></span></b></p></td><td style="width:188.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA"><a target="_blank" href="https://workspace.google.com/dashboard"><span style="color:black;text-decoration:none;text-underline:none">Student iCon</span></a></span></b></p></td><td style="width:188.0pt;border:solid windowtext 1.5pt;border-left:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA"><a target="_blank"><span style="color:black;text-decoration:none;text-underline:
+  none">MIMS End User Guide</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Student Learning Space (SLS)</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Microsoft Office 365 ProPlus Student Guide</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Student iCON Onboarding Guide</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Recommended Reading Lists</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">School e-Resource Repository</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">We STories</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Shuqun's 95th Anniversary</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Sport Singapore</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">The Euphoria for the Arts Website</span></b></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.5pt;border-top:
+  none;background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">My Skills Future</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">2024 DSA Preparation 1</span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Zoom Guide</span></b></p></td></tr></tbody></table>
