@@ -48,7 +48,7 @@ variant: markdown
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA"><a target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_compressed.pdf"><span style="color:windowtext;text-decoration:none;
+  none;mso-bidi-language:TA"><a target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/swim-safer-e-certificate-user-guide-for-parents_compressed.pdf"><span style="color:windowtext;text-decoration:none;
   text-underline:none">Swim Safer E-Certificate</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
