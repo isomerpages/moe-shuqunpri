@@ -10,7 +10,7 @@ sections:
       background: /images/banner1.gif
       key_highlights:
         - title: News & Announcements
-          description: SQPS 2024 Booklist
+          description: Click here
           url: /news-announcements/
         - title: Calendar of Events
           description: "2024"
