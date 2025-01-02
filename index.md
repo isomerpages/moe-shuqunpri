@@ -13,7 +13,7 @@ sections:
           description: Click here
           url: /news-announcements/
         - title: Calendar of Events
-          description: "2024"
+          description: "2025"
           url: https://shuqunpri.moe.edu.sg/calendar-of-events/
         - title: Useful Links
           description: For students, teachers and parents
