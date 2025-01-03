@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+<p><span style="color: #000000;"><strong><a href="/files/2024_hmtl_briefing.pdf" style="color: #000000;">Primary 1 Parent Engagement Session (2025)</a></strong></span>
+</p>
+
+
 <p><span style="color: #000000;"><strong><a href="/files/2024_hmtl_briefing.pdf" style="color: #000000;">HMTL Parent Engagement (2024)</a></strong></span>
 </p>
 <p><span style="color: #000000;"><strong><a href="/files/DSA_Parents_Outreach_2024.pdf" style="color: #000000;">DSA Parents Outreach (2024)</a></strong></span></p>
