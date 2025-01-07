@@ -68,7 +68,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:69.95pt" width="213"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">7.30 a.m. – 1.30 p.m. (Mon/Tue/Wed/Thu)<br><br>7.30 a.m. – 1.00 p.m. (Fri)</span></b></p></td><td style="width:109.0pt;border:none;border-right:solid black 1.5pt;
+  mso-ligatures:none;mso-bidi-language:TA">7.30 a.m. – 1.30 p.m. (Mon/Tue/Wed/Thu)<br><br>7.30 a.m. – 2.00 p.m. (Fri)</span></b></p></td><td style="width:109.0pt;border:none;border-right:solid black 1.5pt;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:69.95pt" width="145"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
