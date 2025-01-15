@@ -4,6 +4,7 @@ collections:
     order:
       - Students.md
       - Teachers.md
+      - Parents/Student Handbook.md
       - Parents/.keep
       - Parents/Useful Links.md
       - Parents/Forms.md
