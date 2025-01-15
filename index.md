@@ -14,7 +14,7 @@ sections:
           url: /news-announcements/
         - title: Calendar of Events
           description: "2025"
-          url: https://calendar.google.com/calendar/u/0?cid=Y19xbGoyaDVodTE3ZXRsOHRoZW52MWx0N2EyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+          url: https://calendar.google.com/calendar/u/0?cid=c3Fwc0Btb2UuZWR1LnNn
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
