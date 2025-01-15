@@ -4,5 +4,4 @@ permalink: /student-handbook-2025/
 variant: markdown
 description: ""
 ---
-<p>Primary 6</p>
-<p></p>
+<p><span style="color: #000000;"><strong>Primary 6 (2025)</strong></span></p>
