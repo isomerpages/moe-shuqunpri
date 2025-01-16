@@ -107,8 +107,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA"><a href="mailto:lee_chew_yen@moe.edu.sg"><span style="color:black;text-decoration:
-  none;text-underline:none">lee_chew_yen@moe.edu.sg</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">lee_chew_yen@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;

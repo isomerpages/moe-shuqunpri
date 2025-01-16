@@ -12,4 +12,9 @@ description: ""
 <li><a target="_blank" href="/files/p6_foundation_math_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Mathematic</span></strong></a></li>
 <li><a target="_blank" href="/files/p6_science_handbook_2025.pdf"><strong><span style="color: #000000;">Science</span></strong></a></li>
 <li><a target="_blank" href="/files/p6_foundation_science_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Science</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Chinese Language</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_foundation_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Chinese Language</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_malay_handbook_2025.pdf"><strong><span style="color: #000000;">Malay Language</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_foundation_malay_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Malay Language</span></strong></a></li>	
+<li><a target="_blank" href="/files/p6_tamil_handbook_2025.pdf"><strong><span style="color: #000000;">Tamil Language</span></strong></a></li>	
 </ul>
