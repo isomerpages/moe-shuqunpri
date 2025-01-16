@@ -12,69 +12,60 @@ variant: markdown
 <p><span style="color: #000000;">Currently, our SAC comprises community leaders, grassroots leaders, professionals and alumni. Some of them have served the school for many years and were appointed by the SAC to the position of Patrons of the School. This is in view of their tirelessly service and support for our school.</span></p>
 	
 <h4><span style="color: #000000;"><strong>The current SAC members and patrons of our school are:</strong></span></h4>
-         
+        
 
 <table style="width:273.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="364" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;background:#B2BEB5;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Designation</span></b></p></td><td style="width:140.0pt;border:solid black 1.5pt;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Designation</span></b></p></td><td style="width:140.0pt;border:solid black 1.5pt;border-left:none;
   background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Name</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">Name</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Chairman</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Chairman</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mr Ang Soon Chua</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">Mr Ang Soon Chua</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mr Jeremy Ong Sing Huat</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">Mr Jeremy Ong Sing Huat</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mr Lim Kok Chye</span></b></p></td></tr><tr style="mso-yfti-irow:4;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">Mr Lim Kok Chye</span></b></p></td></tr><tr style="mso-yfti-irow:4;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Chew Kia Huey</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">Mdm Chew Kia Huey</span></b></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Dr Muhammad Taufiq Rashid</span></b></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Member</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none">Mdm Tan Mei Yen</span></b></p></td></tr></tbody></table></div>
+  mso-ligatures:none;mso-bidi-language:TA">Mdm Tan Mei Yen</span></b></p></td></tr></tbody></table></div>

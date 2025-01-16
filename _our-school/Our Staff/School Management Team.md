@@ -107,7 +107,8 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">lee_chew_yen@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA"><a href="mailto:lee_chew_yen@moe.edu.sg"><span style="color:black;text-decoration:
+  none;text-underline:none">lee_chew_yen@moe.edu.sg</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -345,7 +346,7 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">loy_hui_ming@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:19;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  mso-ligatures:none;mso-bidi-language:TA">loy_hui_ming@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:19;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
   background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
@@ -359,4 +360,32 @@ variant: markdown
   white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">nur_amira_aminnudin@moe.edu.sg</span></b></p></td></tr></tbody></table>
+  mso-ligatures:none;mso-bidi-language:TA">nur_amira_aminnudin@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:20;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">LT English</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Ms Fong Yoon Yee Sarah</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">fong_yoon_yee@moe.edu.sg</span></b></p></td></tr><tr style="mso-yfti-irow:21;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:161.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="215"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">LT Tamil Language</span></b></p></td><td style="width:2.25in;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="216"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">Mdm Mahalingam Sujatha</span></b></p></td><td style="width:209.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="279"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
+  mso-ligatures:none;mso-bidi-language:TA">mahalingam_sujatha@moe.edu.sg</span></b></p></td></tr></tbody></table>
