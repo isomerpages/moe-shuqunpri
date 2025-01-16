@@ -52,4 +52,4 @@ variant: markdown
 </td>
 </tr>
 </tbody>
-</table> 
+</table>
