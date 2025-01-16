@@ -12,4 +12,9 @@ description: ""
 <li><a target="_blank" href="/files/p6_foundation_math_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Mathematic</span></strong></a></li>
 <li><a target="_blank" href="/files/p6_science_handbook_2025.pdf"><strong><span style="color: #000000;">Science</span></strong></a></li>
 <li><a target="_blank" href="/files/p6_foundation_science_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Science</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Chinese</span></strong></a></li>
+<li><a target="_blank" href="/files/p6_foundation_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Chinese</span></strong></a></li>
+
+	
 </ul>
+
