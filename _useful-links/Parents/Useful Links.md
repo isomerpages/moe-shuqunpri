@@ -48,7 +48,7 @@ variant: markdown
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;"><a href="https://www.csa.gov.sg/information-for/parents-educators"><span style="color: windowtext; text-decoration: none; text-underline: none;">Cyber Security Awareness Alliance</span></a></span></strong></p>
 </td>
 <td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="/student-handbook/"><strong><span style="font-family: Arial, sans-serif;"><span style="color: windowtext; text-decoration: none; text-underline: none;">Student Handbook</span></span></strong></a></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="/student-handbook/"><strong><span style="font-family: Arial, sans-serif;"><span style="color: windowtext; text-decoration: none; text-underline: none;">Subject Handbook</span></span></strong></a></span></p>
 </td>
 </tr>
 </tbody>
