@@ -1,6 +1,6 @@
 ---
-title: Student Handbook
-permalink: /student-handbook/
+title: Subject Handbook
+permalink: /subject-handbook/
 variant: markdown
 description: ""
 ---
