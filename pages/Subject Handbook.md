@@ -6,12 +6,13 @@ description: ""
 ---
 <h3><strong><span style="color: #800000;">Primary 6 (2025)</span></strong></h3>
 
+
 <table style="width:564.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="752" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:188.0pt;border:solid windowtext 1.0pt;padding:
   0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">English</span></b></p></td><td style="width:188.0pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-bidi-language:TA"><a href="https://www.shuqunpri.moe.edu.sg/files/p6_english_handbook_2025.pdf">English</a></span></b></p></td><td style="width:188.0pt;border:solid windowtext 1.0pt;border-left:
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
