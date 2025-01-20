@@ -6,59 +6,51 @@ description: ""
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 6 (2025)</span></strong></h3>
 
-<table style="width:579.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 5.4pt 0in 5.4pt" width="772" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;padding:
-  0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">English</span></b></p></td><td style="width:193.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Mathematic</span></b></p></td><td style="width:193.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Science</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Foundation English</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Foundation Mathematic</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Foundation Science</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Chinese Language</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Malay Language</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Tamil Language</span></b></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Foundation Chinese Language</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">Foundation Malay Language</span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA">&nbsp;</span></b></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" width="772" border="0" style="width: 579.0pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" class="MsoNormalTable">
+<tbody>
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 30.0pt;">
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/p6_english_handbook_2025.pdf"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;">English</span></strong></a></p>
+</td>
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Standard_Math_Handbook_2025.pdf"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;">Mathematic</span></strong></a></p>
+</td>
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Science_Handbook_2025.pdf"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;">Science</span></strong></a></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 1; height: 30.0pt;">
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Foundation_English_Handbook_2025.pdf"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;">Foundation English</span></strong></a></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Foundation_Math_Handbook.pdf"><strong><span style="font-family: Arial, sans-serif;">Foundation Mathematic</span></strong></a></span></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Foundation_Science_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Foundation Science</span></strong></a></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 2; height: 30.0pt;">
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Chinese_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Chinese Language</span></strong></a></span></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Malay_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Malay Language</span></strong></a></span></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Tamil_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Tamil Language</span></strong></a></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 3; mso-yfti-lastrow: yes; height: 30.0pt;">
+<td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Foundation_Chinese_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Foundation Chinese Language</span></strong></a></span></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt;"><a rel="noopener" target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/P6_Foundation_Malay_Handbook_2025.pdf"><strong><span style="font-family: Arial, sans-serif;">Foundation Malay Language</span></strong></a></span></p>
+</td>
+<td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><strong><span style="font-size: 11.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-bidi-language: TA;">&nbsp;</span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
