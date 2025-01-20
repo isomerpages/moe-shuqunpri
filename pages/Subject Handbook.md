@@ -62,27 +62,3 @@ description: ""
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
   none;mso-bidi-language:TA">-</span></b></p></td></tr></tbody></table>
-
-<ul>
-<li><a target="_blank" href="/files/p6_english_handbook_2025.pdf"><strong><span style="color: #000000;">English</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_foundation_english_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation English</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_standard_math_handbook_2025.pdf"><strong><span style="color: #000000;">Mathematic</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_foundation_math_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Mathematic</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_science_handbook_2025.pdf"><strong><span style="color: #000000;">Science</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_foundation_science_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Science</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Chinese Language</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_foundation_chinese_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Chinese Language</span></strong></a></li>
-
-<li><a target="_blank" href="/files/p6_malay_handbook_2025.pdf"><strong><span style="color: #000000;">Malay Language</span></strong></a></li>
-	
-<li><a target="_blank" href="/files/p6_foundation_malay_handbook_2025.pdf"><strong><span style="color: #000000;">Foundation Malay Language</span></strong></a></li>	
-
-	<li><a target="_blank" href="/files/p6_tamil_handbook_2025.pdf"><strong><span style="color: #000000;">Tamil Language</span></strong></a></li>	
-</ul>
