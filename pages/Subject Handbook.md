@@ -4,7 +4,7 @@ permalink: /subject-handbook/
 variant: markdown
 description: ""
 ---
-
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Primary 6 (2025)</span></strong></h3>
 
 <table style="width:579.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="772" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;padding:
