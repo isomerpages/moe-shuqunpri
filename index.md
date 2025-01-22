@@ -14,7 +14,9 @@ sections:
           url: /news-announcements/
         - title: Calendar of Events
           description: "2025"
-          url: ""
+          url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
+            style="border:solid 1px #777"
+            src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FSingapore&showPrint=0&src=c3Fwc0Btb2UuZWR1LnNn&src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%234285F4"></iframe>'
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
