@@ -7,6 +7,7 @@ variant: markdown
 ---
 <h4><span style="color: #000000;"><strong>PSLE Briefing (2025)</strong></span></h4>
 <ul>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_English_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>P6 Briefing for Parents (Principal's Segment)</strong></a></span></li>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_English_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>English Language</strong></a></span></li>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Mathematics.pdf" style="color: #000000; text-decoration: underline;"><strong>Mathematics</strong></a></span></li>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Science.pdf" style="color: #000000; text-decoration: underline;"><strong>Science</strong></a></span></li>
