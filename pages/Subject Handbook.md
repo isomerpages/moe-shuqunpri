@@ -9,7 +9,7 @@ description: ""
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P6_English_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">English</span></strong></a></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P6_English_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">English Language</span></strong></a></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P6_Standard_Math_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Mathematics</span></strong></a></span></p>
@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr style="mso-yfti-irow: 1; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P6_Foundation_English_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Foundation English</span></strong></a></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P6_Foundation_English_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Foundation English Language</span></strong></a></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt; color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Foundation_Math_Handbook.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Foundation Mathematics</span></strong></a></span></p>
@@ -59,7 +59,7 @@ description: ""
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">English</span></strong></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">English Language</span></strong></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P5_Standard_Math_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Mathematics</span></strong></a></span></p>
@@ -70,7 +70,7 @@ description: ""
 </tr>
 <tr style="mso-yfti-irow: 1; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">Foundation English</span></strong></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">Foundation English Language</span></strong></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><a rel="noopener" target="_blank" href="/files/P5_Foundation_Math_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Foundation Mathematics</span></strong></a></span></p>
@@ -110,7 +110,7 @@ description: ""
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">English</span></strong></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">English Language</span></strong></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt; color: #000000;"><a rel="noopener" target="_blank" href="/files/P4_Math_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Mathematics</span></strong></a></span></p>
