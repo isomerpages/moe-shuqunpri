@@ -16,6 +16,13 @@ variant: markdown
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Tamil_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Tamil Language</strong></a></span></li>
 </ul>
 
+<h4><span style="color: #000000;"><strong>Open Classroom (2025)</strong></span></h4>
+<ul>
+<li><strong>Primary 2 Sharing For Parents</strong></li>
+<li><strong>Primary 3 Sharing For Parents</strong></li>
+<li><strong>Primary 5 Sharing For Parents</strong></li>
+</ul>
+
 <h4><p><span style="color: #000000;"><strong><a href="/files/Primary_1_Parent_Engagement_Session_2025.pdf" style="color: #000000;">P1 Parent Engagement Session (2025)</a></strong></span></p></h4>
 
 <h4><p><span style="color: #000000;"><strong><a href="/files/2024_hmtl_briefing.pdf" style="color: #000000;">HMTL Parent Engagement (2024)</a></strong></span></p>
