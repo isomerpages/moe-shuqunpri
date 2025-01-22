@@ -18,9 +18,9 @@ variant: markdown
 
 <h4><span style="color: #000000;"><strong>Open Classroom (2025)</strong></span></h4>
 <ul>
-<li><strong>Primary 2 Sharing For Parents</strong></li>
-<li><strong>Primary 3 Sharing For Parents</strong></li>
-<li><strong>Primary 5 Sharing For Parents</strong></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P2_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 2 Sharing For Parents</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P3_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 3 Sharing For Parents</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P5_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 5 Sharing For Parents</strong></a></span></li>
 </ul>
 
 <h4><p><span style="color: #000000;"><strong><a href="/files/Primary_1_Parent_Engagement_Session_2025.pdf" style="color: #000000;">P1 Parent Engagement Session (2025)</a></strong></span></p></h4>
