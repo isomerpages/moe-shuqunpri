@@ -15,8 +15,8 @@ sections:
         - title: Calendar of Events
           description: "2025"
           url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
-            style="border:solid 1px #777"
-            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSingapore&showPrint=0&src=c3Fwc0Btb2UuZWR1LnNn&color=%23F6BF26"></iframe>'
+            style="border: 0"
+            src="https://calendar.google.com/calendar/embed?src=en.singapore%23holiday%40group.v.calendar.google.com&ctz=Asia%2FSingapore"></iframe>'
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
