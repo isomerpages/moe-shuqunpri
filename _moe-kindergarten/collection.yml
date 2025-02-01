@@ -2,8 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Events & Celebrations/2023.md
-      - Events & Celebrations/.keep
       - Our MK@SQ.md
       - About MK/.keep
       - About MK/Our Vision, Mission and Belief.md
@@ -11,6 +9,8 @@ collections:
       - Curriculum/.keep
       - Curriculum/Flagship Programmes.md
       - Curriculum/Learning Environment.md
+      - Events & Celebrations/.keep
+      - Events & Celebrations/2023.md
       - Information for Parents.md
       - Our Partners.md
       - Contact Us.md
