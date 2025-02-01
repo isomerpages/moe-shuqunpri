@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Events & Celebrations/.keep
       - Our MK@SQ.md
       - About MK/.keep
       - About MK/Our Vision, Mission and Belief.md
