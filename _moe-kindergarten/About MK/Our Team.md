@@ -15,12 +15,12 @@ third_nav_title: About MK
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Resources/Ms_Cynthia_Tan_Mei_Ling.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK Resources/Ms_Cynthia_Tan_Mei_Ling.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Resources/Ms_Beuliah_DO_Jestas_Miranda.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK Resources/Ms_Beuliah_DO_Jestas_Miranda.jpg">
 </div>
 </th>
 </tr>
@@ -84,7 +84,6 @@ third_nav_title: About MK
 </tbody>
 </table>
 <h3><strong>Mother Tongue Language Teachers</strong></h3>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
