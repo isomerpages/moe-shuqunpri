@@ -4,4 +4,4 @@ permalink: /moe-kindergarten/permalink/
 description: ""
 variant: markdown
 ---
-![](/images/About_MK_01.jpg)
+![](/images/MK%20Resources/About_MK.jpg)
