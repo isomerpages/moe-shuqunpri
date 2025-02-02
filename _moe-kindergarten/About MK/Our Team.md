@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: About MK
 ---
-<h3><strong>Centre Leaders</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Centre Leaders</span></strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,7 +26,7 @@ third_nav_title: About MK
 </tr>
 </tbody>
 </table>
-<h3><strong>English Language Teachers</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">English Language Teachers</span></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,7 +83,7 @@ third_nav_title: About MK
 </tr>
 </tbody>
 </table>
-<h3><strong>Mother Tongue Language Teachers</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Mother Tongue Language Teachers</span></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
