@@ -13,6 +13,10 @@ variant: markdown
 </ul>
 <p><span style="color: #000000;">Fees are also payable during the June and December holidays.</span></p>
 
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Kindergarten Uniform</span></strong></h3>
+
+
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MK Financial Assistance</span></strong></h3>
 
 <p><span style="color: #000000;">If your child is a Singapore Citizen, they may qualify for financial assistance under the&nbsp;<a style="color: #000000;" href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" target="_blank"><u>Kindergarten Fee Assistance Scheme (KiFAS)</u></a> KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.</span></p>
@@ -24,3 +28,6 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="https://form.gov.sg/65e15f103c61c0ff3c4101e5"><strong>MK Waiting List Application Form</strong></a></li>
 </ul>
+
+
+   KINDERGARTEN UNIFORM
