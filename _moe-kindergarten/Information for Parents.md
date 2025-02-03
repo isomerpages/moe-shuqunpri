@@ -15,7 +15,7 @@ variant: markdown
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Kindergarten Uniform</span></strong></h3>
 
-
+![](/images/MK%20Resources/Kindergarten_Uniform.jpg)
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MK Financial Assistance</span></strong></h3>
 
