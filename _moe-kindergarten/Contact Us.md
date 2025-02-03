@@ -42,20 +42,4 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td width="122">
-<p><span style="color: #000000;">Bus Services:</span></p>
-</td>
-<td width="401">
-<p><span style="color: #000000;">49, 98, 187, 335</span></p>
-</td>
-</tr>
-<tr>
-<td width="122">
-<p><span style="color: #000000;">MRT Station:</span></p>
-</td>
-<td width="401">
-<p><span style="color: #000000;">Lakeside MRT Station</span></p>
-</td>
-</tr>
-</tbody>
-</table>
+<td width="122"></td></tr></tbody></table>
