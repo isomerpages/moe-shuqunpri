@@ -199,7 +199,7 @@ description: ""
 </tr>
 <tr style="mso-yfti-irow: 1; mso-yfti-lastrow: yes; height: 30.0pt;">
 <td width="257" style="width: 193.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
-<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="color: #000000; font-size: 11pt;"><strong><span style="font-family: Arial, sans-serif;">Malay Language</span></strong></span></p>
+<p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt; color: #000000;"><a rel="noopener" target="_blank" href="/files/P1_Malay_Language_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Malay Language</span></strong></a></span></p>
 </td>
 <td width="257" style="width: 193.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 30.0pt;">
 <p align="center" style="margin-bottom: 0in; text-align: center; line-height: normal;" class="MsoNormal"><span style="font-size: 11pt; color: #000000;"><a rel="noopener" target="_blank" href="/files/P1_Tamil_Language_Handbook_2025.pdf" style="color: #000000;"><strong><span style="font-family: Arial, sans-serif;">Tamil Language</span></strong></a></span></p>
