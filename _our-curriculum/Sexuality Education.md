@@ -4,6 +4,8 @@ permalink: /our-curriculum/sexuality-education/
 description: ""
 variant: markdown
 ---
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Sexuality Education in Schools</span></strong></h3>
+
 <p><span style="color: #000000;">1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</span></p>
 <p><span style="color: #000000;">2. The <strong>Goals</strong> of Sexuality Education are:</span></p>
 <ul>
