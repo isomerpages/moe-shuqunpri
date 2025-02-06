@@ -31,9 +31,13 @@ variant: markdown
 <p><span style="color: #000000;">7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</span></p>
 <h4><span style="color: #000000;"><strong>At Shuqun Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></span></h4>
 <h4><span style="color: #000000;"><strong>Primary 5</strong></span></h4>
-<p><span style="color: #000000;">![](/images/P5.jpg)</span></p>
+
+![](/images/P5.jpg)
+
 <h4><span style="color: #000000;"><strong>Primary 6</strong></span></h4>
-<p><span style="color: #000000;">![](/images/P6.jpg)</span></p>
+
+![](/images/P6.jpg)
+
 <h4><span style="color: #000000;"><strong>Information for Parents</strong></span></h4>
 <p><span style="color: #000000;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</span></p>
 <p><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is &nbsp;downloadable form the website <a target="_blank" href="https://form.gov.sg/603886dcca08d10011c2b231">here</a></span></p>
