@@ -36,5 +36,5 @@ variant: markdown
 <p><span style="color: #000000;">![](/images/P6.jpg)</span></p>
 <h4><span style="color: #000000;"><strong>Information for Parents</strong></span></h4>
 <p><span style="color: #000000;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</span></p>
-<p><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education Programme in 2025, please complete the Opt-out Form at <a target="_blank" href="https://go.gov.sg/sqpssed2025">here</a>.&nbsp;</span></p>
+<p><span style="color: #000000;">9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is &nbsp;downloadable form the website <a target="_blank" href="https://form.gov.sg/603886dcca08d10011c2b231">here</a></span></p>
 <p><span style="color: #000000;">10. Parents can contact the school at 65637129 for discussion or to seek clarification about the school’s Sexuality Education programme.</span></p>
