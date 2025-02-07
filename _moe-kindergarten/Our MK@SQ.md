@@ -4,12 +4,8 @@ permalink: /moe-kindergarten/permalink/
 description: ""
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK%20Resources/mk_sqps_open_house_2025.jpg">
-</div>
-<p>You can refer to the briefing slides for more information about MK curriculum
-and experience.</p>
-<p><a href="https://www.youtube.com/watch?v=QXvV21a-TqE" rel="noopener noreferrer nofollow" target="_blank">A Day At An MOE Kindergarten</a>
-</p>
-<p><a href="https://www.youtube.com/watch?v=LockyOmaNB0" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten – Where Every Space is A Learning Space</a>
-</p>
+![](/images/MK%20Resources/mk_sqps_open_house_2025.jpg)
+
+<p>You can refer to the <a target="_blank" href="/files/mksqps_open_%20house_2025.pdf">briefing slides</a> for more information about MK curriculum and experience.</p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=QXvV21a-TqE">A Day At An MOE Kindergarten </a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=LockyOmaNB0">MOE Kindergarten – Where Every Space is A Learning Space</a></p>
