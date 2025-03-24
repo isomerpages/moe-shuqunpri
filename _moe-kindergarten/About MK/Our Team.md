@@ -2,7 +2,7 @@
 title: Our Team
 permalink: /moe-kindergarten/our-people/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: About MK
 ---
 <h3><strong>Centre Leaders</strong></h3>
@@ -70,7 +70,6 @@ third_nav_title: About MK
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Resources/Ms_Nurul_Aqila_Binte_Noor_Khalid.jpg">
 </div>
