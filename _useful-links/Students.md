@@ -19,11 +19,13 @@ variant: markdown
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA"><a href="https://www.shuqunpri.moe.edu.sg/files/2025_guide_on_student_icon_login_via_mims.pdf"><span style="color:black;text-decoration:none;text-underline:none">Guide on Student iCON Login via MIMS</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
+  mso-ligatures:none;mso-bidi-language:TA"><a target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/2025_guide_on_student_icon_login_via_mims.pdf"><span style="color:black;text-decoration:none;text-underline:
+  none">Guide on Student iCON Login via MIMS</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA"><a href="https://www.shuqunpri.moe.edu.sg/files/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf"><span style="color:black;text-decoration:none;text-underline:none">Microsoft Office 365 ProPlus Student Guide</span></a></span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
+  mso-ligatures:none;mso-bidi-language:TA"><a target="_blank" href="https://www.shuqunpri.moe.edu.sg/files/Microsoft-Office-365-ProPlus-Apps-Student-Guide.pdf"><span style="color:black;text-decoration:none;text-underline:
+  none">Microsoft Office 365 ProPlus Student Guide</span></a></span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
