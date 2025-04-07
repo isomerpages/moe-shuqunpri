@@ -61,4 +61,4 @@ variant: markdown
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none;mso-bidi-language:TA"><a href="https://www.shuqunpri.moe.edu.sg/student-handbook/"><span style="color:windowtext;text-decoration:none;text-underline:none">Student Handbook</span></a></span></b></p></td></tr></tbody></table>
+  none;mso-bidi-language:TA"><a href="https://shuqunpri.moe.edu.sg/subject-handbook/"><span style="color:windowtext;text-decoration:none;text-underline:none">Student Handbook</span></a></span></b></p></td></tr></tbody></table>
