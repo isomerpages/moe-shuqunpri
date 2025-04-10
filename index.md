@@ -26,5 +26,5 @@ sections:
       button: 100th anniversary
       url: https://sites.google.com/moe.edu.sg/sq100/home
       image: /images/100th_Anniversary_Website__720_x_400_px_.png
-      alt: Image alt text
+      alt: 100th Anniversary (SQPS)
 ---
