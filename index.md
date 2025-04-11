@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner1.gif
+      background: /images/100th_Anniversary_Website__1640_x_664_px_.png
       key_highlights:
         - title: The Shuqun Centennial
           description: 100th Anniversary Microsite
@@ -22,12 +22,4 @@ sections:
           description: For students, teachers and parents
           url: /useful-links/students/
       variant: center
-  - infopic:
-      title: The Shuqun Centennial
-      id: infopic
-      description: Click the link below to visit our microsite to learn more!
-      button: 100th anniversary
-      url: https://sites.google.com/moe.edu.sg/sq100/home
-      image: /images/100th_Anniversary_Website__720_x_400_px_.png
-      alt: 100th Anniversary (SQPS)
 ---
