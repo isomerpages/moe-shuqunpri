@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/banner1.gif
       key_highlights:
+        - title: The Shuqun Centennial
+          description: 100th Anniversary Microsite
+          url: https://sites.google.com/moe.edu.sg/sq100/home
         - title: News & Announcements
           description: Click here
           url: /news-announcements/
