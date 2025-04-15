@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/100thBanner.png
+      background: /images/100thBanner1.jpg
       key_highlights:
         - title: The Shuqun Centennial
           description: 100th Anniversary Microsite
@@ -21,5 +21,5 @@ sections:
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
-      variant: center
+      variant: image
 ---
