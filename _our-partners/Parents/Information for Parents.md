@@ -9,7 +9,7 @@ variant: markdown
 <p><span style="color: #000000;">The original African proverb might have been “It takes a village to raise a child” and here in Shuqun, we recognise the importance of partnering parents to create a “village” that engages the wider community.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Shuqun Parenting Education Conference (SPEC)</span></strong></h3>
 <p><span style="color: #000000;">Over the years, teachers have been developing lesson videos created for parents to try out the various strategies with their child at home. SPEC was shifted online for parents’ ease of use and convenience. In 2023, SPEC has evolved from focusing only on academic subjects to covering non-academic subjects such as PE, Art, Music, and Cyber Wellness.</span></p>
-<p><span style="color: #000000;">To access the lesson videos, click <a href="https://sites.google.com/moe.edu.sg/spec-2023/" target="_blank">here</a>.</span></p>
+<p><span style="color: #000000;">To access the lesson videos, click <a href="https://sites.google.com/moe.edu.sg/spec/home" target="_blank">here</a>.</span></p>
 <p><span style="color: #000000;">MOE has also curated a series of resources to help parents better support the education and development of their children.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Parent Kit</span></strong></h3>
 <p><span style="color: #000000;">Click <a href="https://www.moe.gov.sg/parentkit" target="_blank">here</a>&nbsp;to access the MOE Parent Kit on:</span></p>
