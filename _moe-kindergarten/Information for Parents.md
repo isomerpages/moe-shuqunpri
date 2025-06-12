@@ -33,5 +33,5 @@ variant: markdown
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MK Forms</span></strong></h3>
 <ul>
-<li><a rel="noopener" target="_blank" href="https://form.gov.sg/65e15f103c61c0ff3c4101e5"><strong><span style="color: #000000;">MK Waiting List Application Form</span></strong></a></li>
+<li><a rel="noopener" target="_blank" href="https://form.gov.sg/6847a0f3b62dfcaa5cdf45ec"><strong><span style="color: #000000;">MK Waiting List Application Form</span></strong></a></li>
 </ul>
