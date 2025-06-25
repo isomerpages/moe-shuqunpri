@@ -4,6 +4,15 @@ permalink: /our-school/principals-message/
 description: ""
 variant: markdown
 ---
+<p style="text-align: center;">The best return for one year is to grow grains, (一年之计， 莫如树谷)</p>
+<p style="text-align: center;">The best return for ten years is to grow trees, (十年之计， 莫如树木)</p>
+<p style="text-align: center;">The best return for a lifetime is to educate people. (终生之计， 莫如树人)</p>
+<p style="text-align: right;"><strong>~ Guan Zhong</strong></p>
+
+
+
+
+
 <p style="text-align: justify;"><span style="color: #000000;">In the midst of managing COVID-19 and witnessing the many changes to our lives, we decided to review what we stand for as a school in 2021.</span></p>
 
 ![](/images/FEATURE-WALL-@-CONCOURSE_VISUAL-2-1024x604.jpg)
