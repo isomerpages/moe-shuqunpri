@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/banner1.gif
       key_highlights:
         - title: The Shuqun Centennial
           description: 100th Anniversary Microsite
