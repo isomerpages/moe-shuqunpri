@@ -15,9 +15,6 @@ sections:
         - title: News & Announcements
           description: Click here
           url: /news-announcements/
-        - title: Calendar of Events
-          description: "2025"
-          url: https://calendar.google.com/calendar/embed?src=sqps%40moe.edu.sg&ctz=Asia%2FSingapore
         - title: Useful Links
           description: For students, teachers and parents
           url: /useful-links/students/
