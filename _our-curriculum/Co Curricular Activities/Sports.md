@@ -3,8 +3,8 @@ title: Sports
 permalink: /our-curriculum/cca/sports-and-games/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Basketball</span></strong></h3>
 
 ![](/images/Basketball.jpg)
@@ -13,12 +13,16 @@ third_nav_title: Co Curricular Activities
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Football</span></strong></h3>
 
 ![](/images/Football.jpg)
-<p style="text-align: justify;">Our CCA team is made up of primary 3 to 6 students who have the interest and passion in football. The CCA training sessions provide members with opportunities to achieve their true potential and develop their character. Students with good skills and character will stand a chance to represent the school in various competitions. The competitions include the West Zone Inter-Primary Football tournament, Nationals Inter-Primary Football tournament, tournaments organized by secondary schools and friendly games with other schools.</p>
+<p style="text-align: justify;">The Shuqun Primary School Football CCA aims to develop students through the core values of discipline, hard work, and teamwork. Training sessions are structured to instil discipline, teaching students to follow rules, respect teachers, coaches and fellow peers through effective communication skills.
+
+Students are encouraged to work hard collectively as they learn and practice basic football skills, improve their physical fitness, and challenge themselves to improve, harnessing their leadership&nbsp;skills along the way.
+
+Through critical thinking, students support one another and work together towards shared goals. Eventually, students grow not only as athletes but also as confident, respectful, and resilient individuals.</p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Netball</span></strong></h3>
 
 ![](/images/Netball.jpg)
-<p style="text-align: justify;">Shuqun Netball CCA is open to all girls regardless of their background or experience in sports. We provide a safe space for girls who are new to the sport, to learn and gain game experience. Our CCA is not only focused on teaching the fundamentals of Netball, but also building the girls&rsquo; resilience and nurturing a love for sports.</p>
+<p style="text-align: justify;">Shuqun Netball CCA is open to all girls regardless of their background or experience in sports. We provide a safe space for girls who are new to the sport, to learn and gain game experience. Our CCA is not only focused on teaching the fundamentals of Netball, but also building the girls’ resilience and nurturing a love for sports.</p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Wushu</span></strong></h3>
 
@@ -28,4 +32,4 @@ third_nav_title: Co Curricular Activities
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Silat</span></strong></h3>
 
 ![](/images/Silat.jpg)
-<p style="text-align: justify;">Silat CCA creates a platform for students to develop their self-defense skills and artistic movements of Silat. Through the sessions, members not only develop their Silat skills as an individual and a group but also learn about good moral values such as respect, self-discipline and integrity. Members are often involved in performances during community events and school events such as Hari Raya Celebrations and Annual Prize-Giving Day.</p>
+<p style="text-align: justify;">Silat is a traditional martial art that builds both physical strength and mental discipline. In our Silat CCA, members learn self-defence techniques, cultural heritage and values such as respect, perseverance and teamwork. Through regular training, students improve their fitness, coordination and confidence while supporting one another as a team. The CCA also provides opportunities to perform, compete and represent the school in events. Silat is more than just a martial art it is a journey of self-improvement and character building.</p>
