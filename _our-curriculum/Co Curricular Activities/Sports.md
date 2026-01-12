@@ -31,5 +31,5 @@ Through critical thinking, students support one another and work together toward
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Silat</span></strong></h3>
 
-![](/images/Silat.jpg)
+![](/images/Silat1.jpg)
 <p style="text-align: justify;">Silat is a traditional martial art that builds both physical strength and mental discipline. In our Silat CCA, members learn self-defence techniques, cultural heritage and values such as respect, perseverance and teamwork. Through regular training, students improve their fitness, coordination and confidence while supporting one another as a team. The CCA also provides opportunities to perform, compete and represent the school in events. Silat is more than just a martial art it is a journey of self-improvement and character building.</p>
