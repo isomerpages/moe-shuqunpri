@@ -3,8 +3,8 @@ title: Performing Arts
 permalink: /our-curriculum/cca/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Art Club</span></strong></h3>
 
 ![](/images/Art.jpg)
@@ -13,7 +13,33 @@ third_nav_title: Co Curricular Activities
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Brass Band</span></strong></h3>
 
 ![](/images/Brass%20Band.jpg)
-<p style="text-align: justify;"><span style="color: #000000;">Brass Band CCA provides an opportunity for students to learn music by playing an instrument in an ensemble setting. Activities for Band CCA include performances such as SYF and Speech Prize-Giving Day. Members will also be participating in Band Camp where they will be involved in team bonding activities and doing a performance at an old folk&rsquo;s home.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">
+Love music? Learn an instrument, perform with confidence, and grow through teamwork in the Brass Band CCA.
+
+</span></p><h4 style="text-align: justify;"><strong><span style="color: #000000;">What We Do</span></strong></h4>
+
+In Brass Band, students learn to play either a brass or percussion instrument, such as the cornet, horn, trombone, euphonium, tuba, timpani and drum set. Training is conducted through both sectional practices and full-band rehearsals, where students develop fundamental musical skills, ensemble awareness and performance techniques.
+
+The Brass Band CCA provides a structured and progressive learning environment that supports students’ holistic development. Through regular training, performances and events, members cultivate discipline, resilience and responsibility, while strengthening teamwork, confidence and a sense of commitment.
+
+<h4 style="text-align: justify;"><strong><span style="color: #000000;">CCA Programme Highlights</span></strong></h4>	
+
+**• Weekly Training Sessions  
+**Develop instrumental skills, music reading and ensemble playing while building communication and teamwork.
+
+**• Sectional Practices  
+**Small-group coaching strengthens instrumental proficiency, self-management and collaboration.
+
+**• Performances and Camp  
+**Students perform at school events, attend Day Camps and represent the school at SYF, building confidence and resilience. Band Leaders are given opportunities to mentor juniors and develop leadership and decision-making skills.
+
+&nbsp;**Why Join Brass Band?**
+
+*   Learn a new instrument with no experience needed
+*   Build confidence through performances
+*   Develop teamwork and discipline
+*   Make lasting friendships and unforgettable memories
+*   Represent the school with pride at events and competitions<p></p>
 
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Choir</span></strong></h3>
 
