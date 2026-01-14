@@ -24,8 +24,8 @@ variant: markdown
 <li>Build confidence through performances</li>
 <li>Develop teamwork and discipline</li>
 <li>Make lasting friendships and unforgettable memories</li>
+<li>Represent the school with pride at events and competitions</li>
 </ul>
-<p>Represent the school with pride at events and competitions</p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Choir</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">Choir CCA aims to spread the joy of community singing in a fun and engaging way. Choir members will develop skills such as voice articulation, score reading, performance etiquette in an ensemble. They will have the opportunity to watch concerts as well as perform for Prize-Giving Day, community events and SYF Arts Festival.</span></p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Contemporary Dance</span></strong></h3>
