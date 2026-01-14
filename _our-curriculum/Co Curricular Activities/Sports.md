@@ -6,30 +6,12 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Basketball</span></strong></h3>
-
-![](/images/Basketball.jpg)
 <p style="text-align: justify;">Our Basketball CCA's objective is to teach commitment, respect, and responsibility to the students. Our CCA emphasize fundamentals and is the perfect opportunity for beginner, intermediate and advanced players to work on ball handling, shooting, passing and knowledge of the sport. Basketball CCA activities include the West Zone Inter-Primary Basketball tournament, tournaments organized by secondary schools and DSA opportunities to selected secondary schools.</p>
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Football</span></strong></h3>
-
-![](/images/Football.jpg)
-<p style="text-align: justify;">The Shuqun Primary School Football CCA aims to develop students through the core values of discipline, hard work, and teamwork. Training sessions are structured to instil discipline, teaching students to follow rules, respect teachers, coaches and fellow peers through effective communication skills.
-
-Students are encouraged to work hard collectively as they learn and practice basic football skills, improve their physical fitness, and challenge themselves to improve, harnessing their leadership&nbsp;skills along the way.
-
-Through critical thinking, students support one another and work together towards shared goals. Eventually, students grow not only as athletes but also as confident, respectful, and resilient individuals.</p>
-
+<p style="text-align: justify;">The Shuqun Primary School Football CCA aims to develop students through the core values of discipline, hard work, and teamwork. Training sessions are structured to instil discipline, teaching students to follow rules, respect teachers, coaches and fellow peers through effective communication skills. Students are encouraged to work hard collectively as they learn and practice basic football skills, improve their physical fitness, and challenge themselves to improve, harnessing their leadership&nbsp;skills along the way. Through critical thinking, students support one another and work together towards shared goals. Eventually, students grow not only as athletes but also as confident, respectful, and resilient individuals.</p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Netball</span></strong></h3>
-
-![](/images/Netball.jpg)
-<p style="text-align: justify;">Shuqun Netball CCA is open to all girls regardless of their background or experience in sports. We provide a safe space for girls who are new to the sport, to learn and gain game experience. Our CCA is not only focused on teaching the fundamentals of Netball, but also building the girls’ resilience and nurturing a love for sports.</p>
-
+<p style="text-align: justify;">At Shuqun Netball CCA, every girl is welcome — whether you’re new to sports or already have experience. We provide a safe and friendly space to learn netball, build confidence and try out matches. Our netballers also get to take part in friendly games and represent the school in the National School Games. Beyond skills, we help our girls grow in resilience, teamwork and love for staying active, while fostering strong friendships and positive values along the way.</p>
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Wushu</span></strong></h3>
-
-![](/images/Wushu.jpg)
 <p style="text-align: justify;">Students who have the passion for Chinese Martial Art will join Wushu CCA to develop their talents. The training sessions aim to improve whole-body fitness, strength, stamina and flexibility. Whilst speed, control and balance are developed through repetitive movements that include kicking and open hand techniques. Through CCA sessions, members also learn about good values such as respect, discipline and perseverance. Students in Wushu take part in National School Games Wushu Competition, community events and school events such as Chinese New Year Celebrations Concert and Annual Prize-Giving Day.</p>
-
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Silat</span></strong></h3>
-
-![](/images/Silat1.jpg)
-<p style="text-align: justify;">Silat is a traditional martial art that builds both physical strength and mental discipline. In our Silat CCA, members learn self-defence techniques, cultural heritage and values such as respect, perseverance and teamwork. Through regular training, students improve their fitness, coordination and confidence while supporting one another as a team. The CCA also provides opportunities to perform, compete and represent the school in events. Silat is more than just a martial art it is a journey of self-improvement and character building.</p>
+<p>Silat is a traditional martial art that builds both physical strength and mental discipline. In our Silat CCA, members learn self-defence techniques, cultural heritage and values such as respect, perseverance and teamwork. Through regular training, students improve their fitness, coordination and confidence while supporting one another as a team. The CCA also provides opportunities to perform, compete and represent the school in events. Silat is more than just a martial art — it is a journey of self-improvement and character building.</p>
