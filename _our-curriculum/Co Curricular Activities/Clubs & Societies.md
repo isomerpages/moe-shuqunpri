@@ -18,8 +18,36 @@ events, giving students real-world experience and a sense of professionalism.</p
 <p>Looking ahead to 2026, MPH will be partnering with new industry vendors
 to offer exciting new courses in Paper Cut Stop Motion Animation, Photography
 &amp; Editing as well as Digital Animation to prepare students for the
-future..</p>
+future.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH1_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MPH3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Green Club</strong></h3>
 <p>Members of the Green Club will learn about environmental issues particularly
 on awareness of the 3Rs and understanding of the impact of plastic pollution
