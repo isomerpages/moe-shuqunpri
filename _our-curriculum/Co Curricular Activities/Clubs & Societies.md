@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-<h3><strong>Media Production House : Building Digital and Creative Skills</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Media Production House : Building Digital and Creative Skills</span></strong></h3>
+
 <p>The Media Production House (MPH) equips students with essential digital
 and creative skills through hands-on programs in photography, video editing,
 and multimedia production. These programs foster creativity and critical
@@ -48,7 +49,8 @@ future.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Green Club</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Green Club</span></strong></h3>
+
 <p>Members of the Green Club will learn about environmental issues particularly
 on awareness of the 3Rs and understanding of the impact of plastic pollution
 on wildlife and the environment through hands-on and experiential learning.
@@ -77,7 +79,9 @@ watching activities.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Library Club</strong></h3>
+
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">Library Club</span></strong></h3>
+
 <p>Students with a love for reading and a passion for activities related
 to books are most welcomed at the Library CCA Club. We have different activities
 throughout the year, introducing students to new books, marketing of books,
