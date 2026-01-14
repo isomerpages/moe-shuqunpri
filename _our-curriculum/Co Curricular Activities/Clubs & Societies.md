@@ -55,9 +55,28 @@ on wildlife and the environment through hands-on and experiential learning.
 They have many opportunities to advocate for environmental issues both
 within and outside the school. They also participate in gardening and bird
 watching activities.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green%20Club.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_Club_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_Club_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong>Library Club</strong></h3>
 <p>Students with a love for reading and a passion for activities related
 to books are most welcomed at the Library CCA Club. We have different activities
