@@ -51,72 +51,50 @@ variant: markdown
 <p style="text-align: justify;">These programmes and activities would not be possible without the Executive Committee (EXCO), that constantly helps to oversee all PSG efforts and is the main point of contact with the school staff.</p>
 
 <h4 style="text-align: justify;"><strong><span style="color: #000000;">PSG EXCO Members:</span></strong></h4>
- 
+
 <table style="width:273.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 5.4pt 0in 5.4pt" width="364" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;background:#B2BEB5;
-  padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Designation</span></b></p></td><td style="width:140.0pt;border:solid black 1.5pt;border-left:none;
-  background:#B2BEB5;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Name</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Chairperson</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="364" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;background:#B2BEB5;
+  padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Designation</span></b></p></td><td style="width:140.0pt;border:solid black 1.5pt;border-left:none;
+  background:#B2BEB5;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Name</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Chairperson</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mdm Ang Li Fong</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Vice-Chairperson</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mdm Ang Li Fong</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Vice-Chairperson</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mdm Shirleen Yap</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Vice-Chairperson</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mdm Wendy Yap</span></b></p></td></tr><tr style="mso-yfti-irow:3;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mdm Wendy Yap</span></b></p></td></tr><tr style="mso-yfti-irow:4;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mr Desmond Koh</span></b></p></td></tr><tr style="mso-yfti-irow:4;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mr Desmond Koh</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mdm Valerie Chia</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mdm Marini Binte Osman</span></b></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="177"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black" lang="EN-GB">Mdm Divya Ramanathan</span></b><b><span style="font-size:10.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:6;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
-  white;padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="187"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:TA">Mdm Valerie Chia</span></b></p></td></tr></tbody></table>
-	
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mdm Sumitha Nair</span></b></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:30.0pt"><td style="width:133.0pt;border:solid black 1.5pt;border-top:none;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="177"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Executive Committee</span></b></p></td><td style="width:140.0pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.5pt;border-right:solid black 1.5pt;background:
+  white;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="187"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
+  mso-ansi-language:EN-US">Mdm Jessica Chan</span></b></p></td></tr></tbody></table>
+
 <p>To find out more about SQPSG:</p>
 <ul>
 <li>SQPSG Microsite click <a href="https://sites.google.com/moe.edu.sg/sqpsg-activities" target="_blank">here</a>.&nbsp;</li>

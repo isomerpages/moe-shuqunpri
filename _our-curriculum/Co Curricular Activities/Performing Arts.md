@@ -7,7 +7,11 @@ variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Art Club</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">Through weekly sessions, members of the Art Club explore various mediums and genres of Art. For example, observational drawing, digital art, oil pastel, watercolour, and even clay work. These art tasks act as a platform for Art Club members to enhance their creativity and self-expression, enabling them to have better understanding of the elements of art and principles of design. By exposing them to competitions and exhibitions, we hope to instill in Art Club members self-confidence, resilience as well as deeper appreciation for the different art forms.</span></p>
+
+![](/images/Art.jpg)
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Brass Band</span></strong></h3>
+
 <p>Love music? Learn an instrument, perform with confidence, and grow through teamwork in the Brass Band CCA.</p>
 <p><strong>🎶</strong><strong> What We Do</strong></p>
 <p>In Brass Band, students learn to play either a brass or percussion instrument, such as the cornet, horn, trombone, euphonium, tuba, timpani and drum set. Training is conducted through both sectional practices and full-band rehearsals, where students develop fundamental musical skills, ensemble awareness and performance techniques.</p>
@@ -26,9 +30,28 @@ variant: markdown
 <li>Make lasting friendships and unforgettable memories</li>
 <li>Represent the school with pride at events and competitions</li>
 </ul>
+<p><strong>📸</strong><strong> Moments to Remember</strong></p>
+
+![](/images/Brass_Band_1.jpg)
+
+![](/images/Brass_Band_2.jpg)
+
+<p><strong><em></em></strong></p>
+<p>From practice to performance, every note we play helps us grow and shine together</p>
+<em>🎵</em><em> Be Part of the Music</em><em> 🎵</em><p></p>
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Choir</span></strong></h3>
 <p style="text-align: justify;"><span style="color: #000000;">Choir CCA aims to spread the joy of community singing in a fun and engaging way. Choir members will develop skills such as voice articulation, score reading, performance etiquette in an ensemble. They will have the opportunity to watch concerts as well as perform for Prize-Giving Day, community events and SYF Arts Festival.</span></p>
+
+![](/images/Choir1.jpg)
+
+![](/images/Choir.jpg)
+
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">Contemporary Dance</span></strong></h3>
 <p>Get ready to move, groove, and shine! In 2025, our Contemporary Dance CCA mixes the best of <strong>Ballet, Jazz, Street, and Ethnic</strong> dance styles, giving our dancers the chance to explore exciting moves and express themselves creatively.</p>
 <p>While we dance our hearts out, we also build important <strong>21st Century Competencies</strong>. Through group choreography and teamwork, our dancers sharpen their <strong>Critical Thinking</strong> and learn to <strong>communicate and collaborate</strong> like true performers.</p>
 <p style="text-align: justify;">With every beat and step, our dancers grow more confident, creative, and connected. Contemporary Dance is where energy meets teamwork — and where every dancer gets to sparkle!</p>
+
+![](/images/Contemporary%20Dance.jpg)
+
+![](/images/Contemporary-Dance-1024x768.jpg)
