@@ -59,4 +59,4 @@ variant: markdown
 	
 	
 	
-[try out](https://www.shuqunpri.moe.edu.sg/files/PARENTS_GUIDE_ON_USING_GEN_AI_FOR_LEARNING.pdf)
+[Test](https://www.shuqunpri.moe.edu.sg/files/swim-safer-e-certificate-user-guide-for-parents_compressed.pdf)
