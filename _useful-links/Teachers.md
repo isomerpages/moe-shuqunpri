@@ -59,4 +59,4 @@ variant: markdown
 	
 	
 	
-	https://www.shuqunpri.moe.edu.sg/files/PARENTS_GUIDE_ON_USING_GEN_AI_FOR_LEARNING.pdf
+[try out](https://www.shuqunpri.moe.edu.sg/files/PARENTS_GUIDE_ON_USING_GEN_AI_FOR_LEARNING.pdf)
