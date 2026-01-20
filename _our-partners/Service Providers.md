@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /our-partners/service-providers/
 description: ""
+variant: markdown
 ---
 <h4><span style="color: #000000;"><strong>Bookshop Vendor</strong></span></h4>
 <p><span style="color: #000000;">Pacific Bookstores Pte Ltd</span><br><span style="color: #000000;">Contact Person: Ms. Amanda </span><br><span style="color: #000000;">Contact Number: 90481360</span><br><span style="color: #000000;">Email: <a style="color: #000000;" href="mailto:sqps@pacificbookstores.com" target="_blank">sqps@pacificbookstores.com</a></span></p>
@@ -179,7 +180,7 @@ description: ""
 <p><span style="color: #000000;">Contact Person: Mr. Brennan</span><br><span style="color: #000000;">Contact Number: 64796811</span><br><span style="color: #000000;">Email: <a style="color: #000000;" href="mailto:sales@khuniform.com" target="_blank">sales@khuniform.com</a></span><br><span style="color: #000000;">Website: <a style="color: #000000;" href="https://khuniform.com" target="_blank">https://khuniform.com</a></span><br><span style="color: #000000;">*Uniforms are available for sale through School Bookshop during school term time.</span></p>
 
 <h4><span style="color: #000000;"><strong>Dental Clinic @ SQPS</strong></span></h4>
-<p><span style="color: #000000;">Dental Therapist from HPB: Ms Suhaila Mohd Isa</span><br><span style="color: #000000;">Contact Number: 91156107</span><br><span style="color: #000000;">Operation hours:</span><br><span style="color: #000000;">Monday – Thursday: 8.00 a.m. – 5.30 p.m.</span><br><span style="color: #000000;">Friday: 8.00 a.m. – 5.00 p.m.</span><br><span style="color: #000000;">Lunch Time: 1 p.m. – 2 p.m. </span></p>
+<p><span style="color: #000000;">Dental Therapist from HPB: Ms Misanah Binte Samat</span><br><span style="color: #000000;">Contact Number: 91156107</span><br><span style="color: #000000;">Operation hours:</span><br><span style="color: #000000;">Monday – Thursday: 8.00 a.m. – 5.30 p.m.</span><br><span style="color: #000000;">Friday: 8.00 a.m. – 5.00 p.m.</span><br><span style="color: #000000;">Lunch Time: 1 p.m. – 2 p.m. </span></p>
 <p>Buddy Clinic (when clinic is closed)<br>In the event that the dental clinic is closed, students who require emergency dental treatment can contact any of the buddy clinics below for assistance. Please call before going to the clinic.</p>
 <table class="MsoNormalTable" style="width: 534.0pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="712" cellspacing="0" cellpadding="0">
 <tbody>
@@ -229,8 +230,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><span style="color: #000000;"><strong>NASCANS @ SQPS</strong></span></h4>
-<p><span style="color: #000000;">School – based Student Care Centre (SCC) provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by NASCANS.</span></p>
+<h4><span style="color: #000000;"><strong>CLS @ SQPS</strong></span></h4>
+<p><span style="color: #000000;">School – based Student Care Centre (SCC) provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by Commit Learning Schoolhouse (CLS).</span></p>
 <table class="MsoNormalTable" style="width: 403.75pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-table-lspace: 9.0pt; margin-left: 6.75pt; mso-table-rspace: 9.0pt; margin-right: 6.75pt; mso-table-anchor-vertical: page; mso-table-anchor-horizontal: page; mso-table-left: 35.25pt; mso-table-top: 34.55pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="0" width="538" cellspacing="0" cellpadding="0" align="left">
 <tbody>
 <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 60.0pt;">
@@ -246,7 +247,7 @@ description: ""
 <p class="MsoNormal" style="margin-bottom: 0cm; text-align: right; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;" align="right"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">Tel:</span></p>
 </td>
 <td style="width: 297.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 15.0pt;" width="396">
-<p class="MsoNormal" style="margin-bottom: 0cm; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">8399 4935</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">80652685</span></p>
 </td>
 </tr>
 <tr style="mso-yfti-irow: 2; mso-yfti-lastrow: yes; height: 15.0pt;">
@@ -254,10 +255,8 @@ description: ""
 <p class="MsoNormal" style="margin-bottom: 0cm; text-align: right; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;" align="right"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">Email:</span></p>
 </td>
 <td style="width: 297.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 15.0pt;" width="396">
-<p class="MsoNormal" style="margin-bottom: 0cm; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';"><a href="sqscc@nascans.com" target="_blank"><span style="color: windowtext;">sqscc@nascans.com</span></a></span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: 150%; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: page; mso-element-left: 35.3pt; mso-element-top: 34.55pt; mso-height-rule: exactly;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';"><a href="admission_cls_sqps@commitlearning.com.sg" target="_blank"><span style="color: windowtext;">admission_cls_sqps@commitlearning.com.sg</span></a></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-
-![](/images/SSC.jpg)
