@@ -56,7 +56,3 @@ variant: markdown
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"></td><td style="width:193.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt" width="257"></td></tr></tbody></table>
-	
-	
-	
-[Test](https://www.shuqunpri.moe.edu.sg/files/swim-safer-e-certificate-user-guide-for-parents_compressed.pdf)
