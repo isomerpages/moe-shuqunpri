@@ -22,10 +22,9 @@ variant: markdown
   none"><a href="https://www.nea.gov.sg/"><span style="color:windowtext;
   text-decoration:none;text-underline:none">National Environment Agency</span></a></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:30.0pt"><td style="width:193.0pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none"><a href="https://www.cdac.org.sg/"><span style="color:windowtext;
-  text-decoration:none;text-underline:none">CDAC</span></a></span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
+  line-height:115%" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;line-height:115%;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none"><a href="https://www.cdac.org.sg/"><span style="color:windowtext;text-decoration:none;text-underline:none">CDAC</span></a></span></b></p></td><td style="width:193.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -76,9 +75,9 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="257"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none"><a href="https://www.shuqunpri.moe.edu.sg/files/guide-on-ai-and-your-child.pdf"><span style="color:windowtext;text-decoration:none;text-underline:none">Guide on AI and Your Child</span></a></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
+  none"><a href="https://www.shuqunpri.moe.edu.sg/files/Parents_guide_on_AI_and_your_child.pdf"><span style="color:windowtext;text-decoration:none;text-underline:none">Guide on AI and Your Child</span></a></span></b></p></td><td style="width:188.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:30.0pt" width="251"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
-  none"><a href="https://www.shuqunpri.moe.edu.sg/files/PARENTS_GUIDE_ON_USING_GEN_AI_FOR_LEARNING.pdf"><span style="color:windowtext;text-decoration:none;text-underline:none">Guide on Using Gen AI for Learning</span></a></span></b></p></td></tr></tbody></table>
+  none"><a href="https://www.shuqunpri.moe.edu.sg/files/Parents_guide_on_Using_Gen_AI_for_Learning.pdf"><span style="color:windowtext;text-decoration:none;text-underline:none">Guide on Using Gen AI for Learning</span></a></span></b></p></td></tr></tbody></table>
