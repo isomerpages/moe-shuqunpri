@@ -4,7 +4,8 @@ permalink: /our-curriculum/sexuality-education/
 description: ""
 variant: markdown
 ---
-<h3><strong>MOE Sexuality Education in Schools</strong></h3>
+<h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Sexuality Education in Schools</span></strong></h3>
+
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -51,7 +52,9 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Shuqun Primary School’s Sexuality Education Programme for 2026.</strong></h4>
+
+<h4 style="text-align: justify;"><strong><span style="color: #800000;">Overview of Shuqun Primary School’s Sexuality Education Programme for 2026</span></strong></h4>
+
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -66,7 +69,9 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<h4><strong>Sexuality Education Lessons:</strong></h4>
+
+<h4 style="text-align: justify;"><strong><span style="color: #800000;">Sexuality Education Lessons:</span></strong></h4>
+
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
