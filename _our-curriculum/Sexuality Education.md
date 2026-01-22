@@ -89,14 +89,18 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<h4><strong>At Shuqun Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
+
+<h4><strong><span style="color: #800000;">At Shuqun Primary School, the following Sexuality Education lessons will be taught in 2026:</span></strong></h4>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sexuality_Education_Lessons_in_CCE1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Sexuality_Education_Lessons_in_CCE1.jpg">
 </div>
-<h4><strong>Information for Parents</strong></h4>
+
+<h4 style="text-align: justify;"><strong><span style="color: #800000;">Information for Parents</span></strong></h4>
+
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
