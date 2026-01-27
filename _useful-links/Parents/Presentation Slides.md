@@ -15,7 +15,7 @@ variant: markdown
 <li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_ml.pdf" style="color: #000000;">Malay Language Sharing</a></strong></span></li>
 <li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_tl.pdf" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
 </ul>
-<h4><span style="color: #000000;"><strong>PSLE Briefing (2025)</strong></span></h4>
+<h4><span style="color: #000000;"><strong>PSLE Briefing (2026)</strong></span></h4>
 <ul>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/p6_briefing_for_parents.pdf" style="color: #000000; text-decoration: underline;"><strong>P6 Briefing for Parents (Principal's Segment)</strong></a></span></li>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_English_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>English Language</strong></a></span></li>
