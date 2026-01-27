@@ -36,6 +36,6 @@ variant: markdown
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P3_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 3 Sharing For Parents</strong></a></span></li>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P5_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 5 Sharing For Parents</strong></a></span></li>
 </ul>
-<p><span style="color: #000000;"><strong><a href="/files/P1_Parent_Engagement_Session_2026.pdf" style="color: #000000;">P1 Parent Engagement Session (2026)</a></strong></span></p>
-<p><span style="color: #000000;"><strong><a href="/files/DSA_Parents_Outreach_2025.pdf" style="color: #000000;">DSA Parents Outreach (2025)</a></strong></span>
-</p><p><span style="color: #000000;"><strong><a href="/files/2025_hmtl_briefing.pdf" style="color: #000000;">HMTL Parent Engagement (2025)</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a href="/files/P1_Parent_Engagement_Session_2026.pdf" style="color: #800000;">P1 Parent Engagement Session (2026)</a></strong></span></p>
+<p><span style="color: #000000;"><strong><a href="/files/DSA_Parents_Outreach_2025.pdf" style="color: #800000;">DSA Parents Outreach (2025)</a></strong></span>
+</p><p><span style="color: #000000;"><strong><a href="/files/2025_hmtl_briefing.pdf" style="color: #800000;">HMTL Parent Engagement (2025)</a></strong></span></p>
