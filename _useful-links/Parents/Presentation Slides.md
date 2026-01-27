@@ -17,13 +17,13 @@ variant: markdown
 </ul>
 <h4><span style="color: #000000;"><strong>PSLE Briefing (2026)</strong></span></h4>
 <ul>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/p6_briefing_for_parents.pdf" style="color: #000000; text-decoration: underline;"><strong>P6 Briefing for Parents (Principal's Segment)</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_English_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>English Language</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Mathematics.pdf" style="color: #000000; text-decoration: underline;"><strong>Mathematics</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Science.pdf" style="color: #000000; text-decoration: underline;"><strong>Science</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Chinese_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Chinese Language</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Malay_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Malay Language</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/PSLE_Briefing_2025_Tamil_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Tamil Language</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_for_Parents.pdf" style="color: #000000; text-decoration: underline;"><strong>P6 Briefing for Parents (Principal's Segment)</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_English_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>English Language</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Mathematics.pdf" style="color: #000000; text-decoration: underline;"><strong>Mathematics</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Science.pdf" style="color: #000000; text-decoration: underline;"><strong>Science</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Chinese_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Chinese Language</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Malay_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Malay Language</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Tamil_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Tamil Language</strong></a></span></li>
 </ul>
 <h4><span style="color: #000000;"><strong>Open Classroom (2025)</strong></span></h4>
 <ul>
