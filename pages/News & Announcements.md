@@ -13,4 +13,3 @@ variant: markdown
 <h4><span style="color: #000000;"><a target="_blank" href="/files/SQPS_2026_P5__FDN__BOOKLIST.pdf" style="color: #000000;"><strong>Primary 5 Booklist (Foundation)</strong></a></span></h4>
 <h4><span style="color: #000000;"><a target="_blank" href="/files/SQPS_2026_P6_BOOKLIST.pdf" style="color: #000000;"><strong>Primary 6 Booklist</strong></a></span></h4>
 <h4><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/SQPS_2026_P6__FDN__BOOKLIST.pdf" style="color: #000000;"><strong>Primary 6 Booklist (Foundation)</strong></a></span></h4>
-<h3 style="text-align: justify;"><span style="text-decoration: underline;"><a target="_blank" href="/files/President_s_Award_for_Teachers_2025.pdf"><strong><span style="color: #800000; text-decoration: underline;">President’s Award for Teachers 2025</span></strong></a></span></h3>
