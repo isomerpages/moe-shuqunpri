@@ -5,18 +5,6 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-<h4 style="text-align: justify;"><strong><span style="color: #800000;">P4 SBB Briefing (2025)</span></strong></h4>
-
-<ul>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_briefing_principal.pdf" style="color: #000000;">Principal's Sharing on SBB</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_el.pdf" style="color: #000000;">English Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_ma.pdf" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_sc.pdf" style="color: #000000;">Science Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_cl.pdf" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_ml.pdf" style="color: #000000;">Malay Language Sharing</a></strong></span></li>
-<li><span style="color: #000000;"><strong><a rel="noopener" target="_blank" href="/files/2025_p4_sbb_tl.pdf" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
-</ul>
-
 <h4 style="text-align: justify;"><strong><span style="color: #800000;">PSLE Briefing (2026)</span></strong></h4>
 
 <ul>
@@ -29,7 +17,7 @@ variant: markdown
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P6_Briefing_Tamil_Language.pdf" style="color: #000000; text-decoration: underline;"><strong>Tamil Language</strong></a></span></li>
 </ul>
 
-<h4 style="text-align: justify;"><strong><span style="color: #800000;">Open Classroom (2025)</span></strong></h4>
+<h4 style="text-align: justify;"><strong><span style="color: #800000;">Open Classroom (2026)</span></strong></h4>
 
 <ul>
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P2_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 2 Sharing For Parents</strong></a></span></li>
@@ -37,5 +25,3 @@ variant: markdown
 <li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P5_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 5 Sharing For Parents</strong></a></span></li>
 </ul>
 <p><span style="color: #000000;"><strong><a href="/files/P1_Parent_Engagement_Session_2026.pdf" style="color: #000000;">P1 Parent Engagement Session (2026)</a></strong></span></p>
-<p><span style="color: #000000;"><strong><a href="/files/DSA_Parents_Outreach_2025.pdf" style="color: #000000;">DSA Parents Outreach (2025)</a></strong></span>
-</p><p><span style="color: #000000;"><strong><a href="/files/2025_hmtl_briefing.pdf" style="color: #000000;">HMTL Parent Engagement (2025)</a></strong></span></p>
