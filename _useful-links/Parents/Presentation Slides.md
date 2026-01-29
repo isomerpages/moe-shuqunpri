@@ -20,8 +20,8 @@ variant: markdown
 <h4 style="text-align: justify;"><strong><span style="color: #800000;">Open Classroom (2026)</span></strong></h4>
 
 <ul>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P2_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 2 Sharing For Parents</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P3_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 3 Sharing For Parents</strong></a></span></li>
-<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P5_OCR_For_Parents_2025.pdf" style="color: #000000;"><strong>Primary 5 Sharing For Parents</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P2_OCR.pdf" style="color: #000000;"><strong>Primary 2 Sharing For Parents</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P3_OCR.pdf" style="color: #000000;"><strong>Primary 3 Sharing For Parents</strong></a></span></li>
+<li><span style="color: #000000;"><a rel="noopener" target="_blank" href="/files/P5_OCR.pdf" style="color: #000000;"><strong>Primary 5 Sharing For Parents</strong></a></span></li>
 </ul>
 <p><span style="color: #000000;"><strong><a href="/files/P1_Parent_Engagement_Session_2026.pdf" style="color: #000000;">P1 Parent Engagement Session (2026)</a></strong></span></p>
