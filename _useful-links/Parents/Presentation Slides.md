@@ -5,6 +5,26 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
+<h4 style="text-align: justify;"><strong><span style="color: #800000;">P4 SBB Briefing (2026)</span></strong></h4>
+
+<ul>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Principal\_Sharing\_SBB.pdf" style="color: #000000;">Principal's Sharing on SBB</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_English\_Language\_SBB.pdf" style="color: #000000;">English Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Mathematics\_SBB.pdf" style="color: #000000;">Mathematics Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Science\_SBB.pdf" style="color: #000000;">Science Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Chinese\_Language\_SBB.pdf" style="color: #000000;">Chinese Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Malay\_Language\_SBB.pdf" style="color: #000000;">Malay Language Sharing</a></strong></span></li>
+
+<li><span style="color: #000000;"><strong><a rel="noopener" target="\_blank" href="/files/P4\_Tamil\_Language\_SBB.pdf" style="color: #000000;">Tamil Language Sharing</a></strong></span></li>
+
+</ul>
+
 <h4 style="text-align: justify;"><strong><span style="color: #800000;">PSLE Briefing (2026)</span></strong></h4>
 
 <ul>
