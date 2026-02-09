@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3 style="text-align: justify;"><strong><span style="color: #800000;">MOE Kindergarten Fees</span></strong></h3>
-<p><span style="color: #000000;">The monthly fee for MK in 2025 is:</span></p>
+<p><span style="color: #000000;">The monthly fee for MK in 2026 is:</span></p>
 <ul>
 <li><span style="color: #000000;">$160 for Singapore Citizens (SCs).</span></li>
 <li><span style="color: #000000;">$320 for Singapore Permanent Residents (PRs).</span></li>
