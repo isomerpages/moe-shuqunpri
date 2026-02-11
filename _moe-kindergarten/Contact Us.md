@@ -49,6 +49,10 @@ variant: markdown
 </td>
 </tr>
 <tr>
+<td width="122" style="width: 126px;">Follow Us:</td>
+<td width="401" style="width: 405px;"><a rel="noopener" target="_blank" href="https://www.instagram.com/mk_shuqun">MK@Shuqun Instagram</a></td>
+</tr>
+<tr>
 <td width="122" style="width: 126px;">&nbsp;</td>
 <td width="401" style="width: 405px;">&nbsp;</td>
 </tr>
