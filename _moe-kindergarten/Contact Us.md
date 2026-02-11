@@ -4,7 +4,6 @@ permalink: /moe-kindergarten/contact-us/
 description: ""
 variant: markdown
 ---
-<p>&nbsp;</p>
 <table width="539" style="width: 531px;">
 <tbody>
 <tr>
@@ -49,7 +48,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td width="122" style="width: 126px;">&nbsp;Follow us:</td>
+<td width="122" style="width: 126px;">&nbsp;</td>
 <td width="401" style="width: 405px;">&nbsp;</td>
 </tr>
 </tbody>
