@@ -4,6 +4,8 @@ permalink: /canteen-stall-application/
 variant: markdown
 description: ""
 ---
+<h4><strong>Type of Stall</strong></h4>
+<p>Halal Western Food Stall</p>
 <h4><strong>Application Procedure</strong></h4>
 <ol>
 <li>Click <strong>HERE </strong>to download and complete the application You may also request a hard copy from the School’s General Office.</li>
