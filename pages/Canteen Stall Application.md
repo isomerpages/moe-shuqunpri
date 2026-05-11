@@ -8,7 +8,7 @@ description: ""
 <p>Halal Western Food Stall</p>
 <h4><strong>Application Procedure</strong></h4>
 <ol>
-<li>Click <strong>HERE </strong>to download and complete the application You may also request a hard copy from the School’s General Office.</li>
+<li>Click <strong>HERE</strong>to download and complete the application You may also request a hard copy from the School’s General Office.</li>
 <li>Attach the following documents together with the application form:</li>
 </ol>
 <ul>
