@@ -9,7 +9,7 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf/" rel="noopener nofollow" target="_blank">HERE</a><strong> </strong>to
+<p>Click <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">HERE</a><strong> </strong>to
 download and complete the application You may also request a hard copy
 from the School’s General Office.</p>
 </li>
