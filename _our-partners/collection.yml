@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Canteen Stall Application.md
       - Our Partners.md
       - Parents/.keep
       - Parents/Information for Parents.md
@@ -13,3 +12,4 @@ collections:
       - Overseas Partner Schools.md
       - Community.md
       - Service Providers.md
+      - Canteen Stall Application.md
