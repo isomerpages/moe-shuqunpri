@@ -4,6 +4,14 @@ permalink: /our-partners/service-providers/
 description: ""
 variant: markdown
 ---
+<h4><strong>Canteen Stall Application</strong></h4>
+<ul>
+<li>
+<p>Application Procedure</p>
+</li>
+</ul>
+
+
 <h4><strong>Bookshop Vendor</strong></h4>
 <p>Pacific Bookstores Pte Ltd<br> Contact Person: Ms. Amanda<br> Contact Number: 90481360<br> Email:&nbsp;<a href="mailto:sqps@pacificbookstores.com">sqps@pacificbookstores.com</a></p>
 
