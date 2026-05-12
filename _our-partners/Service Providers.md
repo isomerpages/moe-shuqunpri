@@ -4,6 +4,8 @@ permalink: /our-partners/service-providers/
 description: ""
 variant: markdown
 ---
+#### **[Canteen Stall Application Information](https://shuqunpri.moe.edu.sg/canteen-stall-application/)**
+
 #### **Bookshop Vendor**
 
 Pacific Bookstores Pte Ltd  
