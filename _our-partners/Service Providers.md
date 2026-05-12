@@ -4,293 +4,52 @@ permalink: /our-partners/service-providers/
 description: ""
 variant: markdown
 ---
-<h4><a href="https://shuqunpri.moe.edu.sg/canteen-stall-application/" rel="noopener nofollow" target="_blank">Canteen Stall Application Information</a></h4>
-<h4><strong>Bookshop Vendor</strong></h4>
-<p>Pacific Bookstores Pte Ltd
-<br>Contact Person: Ms. Amanda
-<br>Contact Number: 90481360
-<br>Email: <a href="mailto:sqps@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sqps@pacificbookstores.com</a>
-</p>
-<h4><strong>School Bus Vendor</strong></h4>
-<p>Beng Tat Transport Service
-<br>Contact Person: Ms Sharon
-<br>Contact Number: 98795348
-<br>Email: <a href="mailto:sharon@bengtatbus.com" rel="noopener noreferrer nofollow" target="_blank">sharon@bengtatbus.com</a>
-</p>
-<p><u>Bus fares for daily school bus services by distance</u>
-</p>
-<table style="minWidth: 175px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Distance</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Up to 15 seater</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>&gt;15-30 seater</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>&gt;30 seater</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 way</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$84.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$94.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$84.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$94.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;2 – 4km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$94.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$122.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$94.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$122.00</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><u>Bus fares for Services after school activities by distance</u>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Distance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Up to 15 seaters</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&gt;15-30 seaters</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&gt;30 seaters</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;2-4km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;4-6km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>School Uniform Vendor</strong></h4>
-<p>Contact Person: Mr. Brennan
-<br>Contact Number: 64796811
-<br>Email: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
-<br>Website: <a href="https://khuniform.com" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com</a>
-<br>*Uniforms are available for sale through School Bookshop during school
-term time.</p>
-<h4><strong>Dental Clinic @ SQPS</strong></h4>
-<p>Dental Therapist from HPB: Ms Misanah Binte Samat
-<br>Contact Number: 91156107
-<br>Operation hours:
-<br>Monday – Thursday: 8.00 a.m. – 5.30 p.m.
-<br>Friday: 8.00 a.m. – 5.00 p.m.
-<br>Lunch Time: 1 p.m. – 2 p.m.</p>
-<p>Buddy Clinic (when clinic is closed)
-<br>In the event that the dental clinic is closed, students who require emergency
-dental treatment can contact any of the buddy clinics below for assistance.
-Please call before going to the clinic.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dental Clinic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Telephone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Address</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rulang Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9115 6053</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Jurong West Street 52, Singapore 649295</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lakeside Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91149842</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>161 Corporation Walk, Singapore 618310</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boon Lay Garden Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91141896</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Boon Lay Dr, Singapore 649930</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CLS @ SQPS</strong></h4>
-<p>School – based Student Care Centre (SCC) provide care and support for
-students, especially those who can benefit from a structured and supportive
-environment through an after school care programme and particularly where
-both parents are working. The SCC for Shuqun Primary School is run by Commit
-Learning Schoolhouse (CLS).</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation hours:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday - Friday
-<br>1.30 p.m. - 7.00 p.m. (School Term)
-<br>7.00 a.m. - 7.00 p.m. (School Holiday)
-<br>Closed on Saturday, Sunday &amp; Public Holidays</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tel:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>80652685</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="admission_cls_sqps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_sqps@commitlearning.com.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+#### **Bookshop Vendor**
+
+Pacific Bookstores Pte Ltd  
+Contact Person: Ms. Amanda  
+Contact Number: 90481360  
+Email:&nbsp;[sqps@pacificbookstores.com](mailto:sqps@pacificbookstores.com)
+
+#### **School Bus Vendor**
+
+Beng Tat Transport Service  
+Contact Person: Ms Sharon  
+Contact Number: 98795348  
+Email:&nbsp;[sharon@bengtatbus.com](mailto:sharon@bengtatbus.com)
+
+Bus fares for daily school bus services by distance
+
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 426.1pt;" cellpadding="0" cellspacing="0" width="568" border="0" class="MsoNormalTable"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30.95pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid; border-color: windowtext windowtext black; border-image: initial; border-width: 1pt; width: 71.1pt; height: 30.95pt;" width="95" nowrap="nowrap" rowspan="2"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Distance</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext black windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 113.8pt; height: 30.95pt;" width="152" nowrap="nowrap" colspan="2"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Up to 15 seater</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext black windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 120.6pt; height: 30.95pt;" width="161" nowrap="nowrap" colspan="2"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;15-30 seater</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext black windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 120.6pt; height: 30.95pt;" width="161" nowrap="nowrap" colspan="2"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;30 seater</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30.95pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">1 way</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">2 way</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">1 way</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">2 way</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">1 way</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">2 way</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30.95pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 71.1pt; height: 30.95pt;" width="95" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Up to 2km</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Nil</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Nil</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$84.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$94.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$84.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$94.00</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30.95pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 71.1pt; height: 30.95pt;" width="95" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;2 – 4km</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Nil</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.9pt; height: 30.95pt;" width="76" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Nil</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$94.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$122.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 56.3pt; height: 30.95pt;" width="75" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$94.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 64.25pt; height: 30.95pt;" width="86" nowrap="nowrap"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$122.00</span></p></td></tr></tbody></table>
+
+Bus fares for Services after school activities by distance
+
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 433.65pt;" width="578" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 28.2pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border: 1pt solid windowtext; width: 88.15pt; height: 28.2pt;" width="118"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Distance</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 124pt; height: 28.2pt;" width="165"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Up to 15 seaters</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 115.2pt; height: 28.2pt;" width="154"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;15-30 seaters</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 106.3pt; height: 28.2pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;30 seaters</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 28.2pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 88.15pt; height: 28.2pt;" nowrap="" width="118"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Up to 2km</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 124pt; height: 28.2pt;" width="165"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 115.2pt; height: 28.2pt;" width="154"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 106.3pt; height: 28.2pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 28.2pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 88.15pt; height: 28.2pt;" nowrap="" width="118"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;2-4km</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 124pt; height: 28.2pt;" width="165"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 115.2pt; height: 28.2pt;" width="154"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 106.3pt; height: 28.2pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 28.2pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 88.15pt; height: 28.2pt;" nowrap="" width="118"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">&gt;4-6km</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 124pt; height: 28.2pt;" width="165"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 115.2pt; height: 28.2pt;" width="154"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 106.3pt; height: 28.2pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal; text-align: center;" align="center" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">$4.00</span></p></td></tr></tbody></table>
+
+#### **School Uniform Vendor**
+
+Contact Person: Mr. Brennan  
+Contact Number: 64796811  
+Email:&nbsp;[sales@khuniform.com](mailto:sales@khuniform.com)  
+Website:&nbsp;[https://khuniform.com](https://khuniform.com/)  
+\*Uniforms are available for sale through School Bookshop during school term time.
+
+#### **Dental Clinic @ SQPS**
+
+Dental Therapist from HPB: Ms Misanah Binte Samat  
+Contact Number: 91156107  
+Operation hours:  
+Monday – Thursday: 8.00 a.m. – 5.30 p.m.  
+Friday: 8.00 a.m. – 5.00 p.m.  
+Lunch Time: 1 p.m. – 2 p.m.
+
+Buddy Clinic (when clinic is closed)  
+In the event that the dental clinic is closed, students who require emergency dental treatment can contact any of the buddy clinics below for assistance. Please call before going to the clinic.
+
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 534pt;" cellpadding="0" cellspacing="0" width="712" border="0" class="MsoNormalTable"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 15.75pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border: 1pt solid windowtext; width: 191pt; height: 15.75pt;" width="255"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Dental Clinic</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 103pt; height: 15.75pt;" width="137"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Telephone</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 240pt; height: 15.75pt;" width="320"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Address</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 191pt; height: 30pt;" width="255"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Rulang Primary School</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 103pt; height: 30pt;" width="137"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">9115 6053</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 240pt; height: 30pt;" width="320"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">6 Jurong West Street 52, Singapore 649295</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 191pt; height: 30pt;" width="255"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Lakeside Primary School</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 103pt; height: 30pt;" width="137"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">91149842</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 240pt; height: 30pt;" width="320"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">161 Corporation Walk, Singapore 618310</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 30pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 191pt; height: 30pt;" width="255"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">Boon Lay Garden Primary School</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 103pt; height: 30pt;" width="137"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">91141896</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 240pt; height: 30pt;" width="320"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: normal;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; color: black;">20 Boon Lay Dr, Singapore 649930</span></p></td></tr></tbody></table>
+
+#### **CLS @ SQPS**
+
+School – based Student Care Centre (SCC) provide care and support for students, especially those who can benefit from a structured and supportive environment through an after school care programme and particularly where both parents are working. The SCC for Shuqun Primary School is run by Commit Learning Schoolhouse (CLS).
+
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 403.75pt; margin-left: 6.75pt; margin-right: 6.75pt;" align="left" cellpadding="0" cellspacing="0" width="538" border="0" class="MsoNormalTable"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 60pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border: 1pt solid windowtext; width: 106.55pt; height: 60pt;" width="142" valign="top"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px; text-align: right;" align="right" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;">Operation hours:</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: solid solid solid none; border-color: windowtext windowtext windowtext currentcolor; border-image: initial; border-width: 1pt 1pt 1pt medium; width: 297.2pt; height: 60pt;" width="396" valign="top"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;">Monday - Friday<br style="box-sizing: inherit; font-family: Lato, sans-serif;">1.30 p.m. - 7.00 p.m. (School Term)<br style="box-sizing: inherit; font-family: Lato, sans-serif;">7.00 a.m. - 7.00 p.m. (School Holiday)<br style="box-sizing: inherit; font-family: Lato, sans-serif;">Closed on Saturday, Sunday &amp; Public Holidays</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 15pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 106.55pt; height: 15pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px; text-align: right;" align="right" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;">Tel:</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 297.2pt; height: 15pt;" width="396"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;">80652685</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; height: 15pt;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: initial; border-width: medium 1pt 1pt; width: 106.55pt; height: 15pt;" width="142"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px; text-align: right;" align="right" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;">Email:</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0cm 5.4pt; text-align: left; vertical-align: top; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: initial; border-width: medium 1pt 1pt medium; width: 297.2pt; height: 15pt;" width="396"><p style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0rem 0px 0cm; padding: 0px; font-size: 1.25rem; line-height: 30px;" class="MsoNormal"><span style="box-sizing: inherit; font-family: Arial, sans-serif; font-style: inherit; font-weight: inherit; font-size: 12pt; line-height: 24px;"><a style="box-sizing: inherit; font-family: Lato, sans-serif; color: rgb(67, 114, 214); cursor: pointer; text-decoration: underline; margin-bottom: 2rem; line-height: 1.25;" target="_blank" href="https://www.shuqunpri.moe.edu.sg/our-partners/service-providers/admission_cls_sqps@commitlearning.com.sg"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; color: windowtext;">admission_cls_sqps@commitlearning.com.sg</span></a></span></p></td></tr></tbody></table>
