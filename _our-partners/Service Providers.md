@@ -11,7 +11,6 @@ variant: markdown
 </li>
 </ul>
 
-
 <h4><strong>Bookshop Vendor</strong></h4>
 <p>Pacific Bookstores Pte Ltd<br> Contact Person: Ms. Amanda<br> Contact Number: 90481360<br> Email:&nbsp;<a href="mailto:sqps@pacificbookstores.com">sqps@pacificbookstores.com</a></p>
 
