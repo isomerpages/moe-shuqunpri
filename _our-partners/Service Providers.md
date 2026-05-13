@@ -7,7 +7,7 @@ variant: markdown
 <h4><strong>Canteen Stall Application</strong></h4>
 <ul>
 <li>
-<p><a target="_blank" href="https://cms.isomer.gov.sg/files/Canteen_Stall_Application_Information.pdf">Application Procedure</a></p>
+<p><a target="_blank" href="/files/Canteen_Stall_Application_Information.pdf">Application Procedure</a></p>
 </li>
 </ul>
 
